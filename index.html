@@ -237,8 +237,15 @@
         // --- 網頁載入時執行非同步讀取 ---
         async function loadSongsData() {
             try {
-                // 發送請求讀取同一層目錄下的 playlist.json
-                const response = await fetch('./playlist.json');
+                // 產生當下的時間戳記 (毫秒)
+                const timestamp = new Date().getTime();
+                
+                // 1. 在網址後方加上 ?t=時間戳記 (破解 CDN 快取)
+                // 2. 加上 { cache: 'no-store' } (破解瀏覽器本機快取)
+                const response = await fetch(`./playlist.json?t=${timestamp}`, {
+                    cache: 'no-store'
+                });
+                
                 if (!response.ok) {
                     throw new Error('無法讀取資料');
                 }
