@@ -1,0 +1,42 @@
+[
+  {
+    "id": "001",
+    "title": "Bling-Bang-Bang-Born",
+    "artist": "Creepy Nuts",
+    "language": "日文",
+    "tags": ["Anime", "動感", "2024"],
+    "cover_url": "https://i.scdn.co/image/ab67616d0000b27301c9b634dd3e1e9cfa4d9da8",
+    "youtube_url": "https://www.youtube.com/watch?v=210R0ozfZNw",
+    "note": "適合炒熱氣氛"
+  },
+  {
+    "id": "002",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "language": "英文",
+    "tags": ["Pop", "經典"],
+    "cover_url": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+    "youtube_url": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+    "note": ""
+  },
+  {
+    "id": "003",
+    "title": "擱淺",
+    "artist": "周杰倫",
+    "language": "中文",
+    "tags": ["抒情", "經典", "KTV"],
+    "cover_url": "https://i.scdn.co/image/ab67616d0000b273f5ff2639ca6c34279b973e44",
+    "youtube_url": "https://www.youtube.com/watch?v=YF-GziZXJoI",
+    "note": "高音注意"
+  },
+  {
+    "id": "004",
+    "title": "Idol",
+    "artist": "YOASOBI",
+    "language": "日文",
+    "tags": ["Anime", "流行"],
+    "cover_url": "https://i.scdn.co/image/ab67616d0000b2737eaecb39116e0be0f31cfaee",
+    "youtube_url": "https://www.youtube.com/watch?v=ZRtdQ81jPUQ",
+    "note": ""
+  }
+]
