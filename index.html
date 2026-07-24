@@ -35,6 +35,12 @@
                     <span>👁️</span> <span id="viewModeText">隱藏封面</span>
                 </button>
 
+                <!-- 🔄 新增：資料同步按鈕 -->
+                <button onclick="openSyncModal()" 
+                        class="shrink-0 px-4 py-2 rounded-full bg-slate-800 hover:bg-slate-700 border border-slate-600 transition-colors flex items-center gap-2 text-sm text-slate-300 shadow-sm font-medium">
+                    <span>⚙️</span> <span>資料同步</span>
+                </button>
+
                 <button onclick="resetPlayHistory()" 
                         class="shrink-0 px-4 py-2 rounded-full bg-slate-800 hover:bg-red-900/50 hover:text-red-400 hover:border-red-700/50 border border-slate-600 transition-colors flex items-center gap-2 text-sm text-slate-300 shadow-sm font-medium">
                     <span>🗑️</span> <span>重置點歌</span>
@@ -51,6 +57,35 @@
 
         <div id="loadMoreTrigger" class="h-10 mt-4 w-full flex justify-center items-center">
             <div id="loadingIndicator" class="hidden w-6 h-6 border-2 border-sky-500 border-t-transparent rounded-full animate-spin"></div>
+        </div>
+    </div>
+
+    <!-- 🔄 新增：資料同步面板 (Modal) -->
+    <div id="syncModal" class="fixed inset-0 bg-slate-950/80 backdrop-blur-sm z-50 hidden flex justify-center items-center opacity-0 transition-opacity duration-300">
+        <div class="bg-slate-800 border border-slate-700 p-6 rounded-2xl w-11/12 max-w-md shadow-2xl transform scale-95 transition-transform duration-300" id="syncModalContent">
+            <div class="flex justify-between items-center mb-4">
+                <h2 class="text-xl font-bold text-slate-100 flex items-center gap-2"><span>⚙️</span> 資料同步</h2>
+                <button onclick="closeSyncModal()" class="text-slate-400 hover:text-white transition-colors text-xl font-bold">&times;</button>
+            </div>
+            <p class="text-sm text-slate-400 mb-4 leading-relaxed">
+                您可以將目前的「點播紀錄」與「個性歌單」打包成代碼。複製代碼並在另一台裝置貼上，即可輕鬆轉移資料！
+            </p>
+            <textarea id="syncCodeInput" rows="4" placeholder="請在此貼上代碼，或點擊下方按鈕產生匯出代碼..." 
+                      class="w-full bg-slate-900 border border-slate-600 rounded-xl p-3 text-sky-200 text-sm focus:outline-none focus:border-sky-500 mb-5 custom-scrollbar break-all"></textarea>
+            
+            <div class="grid grid-cols-1 gap-3 mb-3">
+                <button onclick="exportSyncData()" class="w-full py-2.5 bg-sky-600 hover:bg-sky-500 text-white rounded-xl font-medium transition-colors shadow-md shadow-sky-900/50 flex items-center justify-center gap-2">
+                    <span>📤</span> 產生並複製匯出代碼
+                </button>
+            </div>
+            <div class="grid grid-cols-2 gap-3 pt-3 border-t border-slate-700/50">
+                <button onclick="importSyncData(true)" class="w-full py-2.5 bg-emerald-600 hover:bg-emerald-500 text-white rounded-xl font-medium transition-colors text-sm shadow-md flex justify-center items-center gap-1">
+                    <span>📥</span> 合併匯入
+                </button>
+                <button onclick="importSyncData(false)" class="w-full py-2.5 bg-rose-600 hover:bg-rose-500 text-white rounded-xl font-medium transition-colors text-sm shadow-md flex justify-center items-center gap-1">
+                    <span>⚠️</span> 覆蓋匯入
+                </button>
+            </div>
         </div>
     </div>
 
@@ -199,6 +234,101 @@
                 showToast('🗑️ 點歌紀錄已清除');
             }
         }
+
+        // --- 🔄 新增：同步面板邏輯 ---
+        function openSyncModal() {
+            const modal = document.getElementById('syncModal');
+            const content = document.getElementById('syncModalContent');
+            document.getElementById('syncCodeInput').value = '';
+            
+            modal.classList.remove('hidden');
+            // 延遲以觸發動畫
+            setTimeout(() => {
+                modal.classList.remove('opacity-0');
+                content.classList.remove('scale-95');
+            }, 10);
+        }
+
+        function closeSyncModal() {
+            const modal = document.getElementById('syncModal');
+            const content = document.getElementById('syncModalContent');
+            
+            modal.classList.add('opacity-0');
+            content.classList.add('scale-95');
+            setTimeout(() => {
+                modal.classList.add('hidden');
+            }, 300);
+        }
+
+        async function exportSyncData() {
+            // 打包資料
+            const dataToExport = {
+                p: playedSongs,
+                f: myPlaylist
+            };
+            
+            try {
+                // 將 JSON 轉為 Base64 字串
+                const encodedData = btoa(JSON.stringify(dataToExport));
+                const inputElement = document.getElementById('syncCodeInput');
+                inputElement.value = encodedData;
+                
+                // 自動複製到剪貼簿
+                if (navigator.clipboard && window.isSecureContext) {
+                    await navigator.clipboard.writeText(encodedData);
+                    showToast('✨ 匯出代碼已產生並複製！');
+                } else {
+                    inputElement.select();
+                    document.execCommand('copy');
+                    showToast('✨ 匯出代碼已產生並複製！');
+                }
+            } catch (error) {
+                showToast('❌ 匯出失敗，請重試');
+            }
+        }
+
+        function importSyncData(isMerge) {
+            const code = document.getElementById('syncCodeInput').value.trim();
+            if (!code) {
+                showToast('⚠️ 請先輸入匯入代碼');
+                return;
+            }
+
+            try {
+                // 將 Base64 轉回 JSON 物件
+                const decodedJsonStr = atob(code);
+                const importedData = JSON.parse(decodedJsonStr);
+                
+                // 基本格式檢查
+                if (!importedData.p || !importedData.f || !Array.isArray(importedData.p) || !Array.isArray(importedData.f)) {
+                    throw new Error('代碼格式錯誤');
+                }
+
+                if (isMerge) {
+                    // 合併模式：使用 Set 來過濾重複的歌曲 ID
+                    playedSongs = Array.from(new Set([...playedSongs, ...importedData.p]));
+                    myPlaylist = Array.from(new Set([...myPlaylist, ...importedData.f]));
+                    showToast('📥 合併匯入成功！');
+                } else {
+                    // 覆蓋模式：跳出確認視窗
+                    if(!confirm('確定要完全覆蓋現有的資料嗎？\n這將會清除您本機當前所有的「紀錄」與「歌單」。')) return;
+                    playedSongs = importedData.p;
+                    myPlaylist = importedData.f;
+                    showToast('⚠️ 覆蓋匯入成功！');
+                }
+
+                // 更新本地儲存
+                localStorage.setItem('playedSongs', JSON.stringify(playedSongs));
+                localStorage.setItem('myPlaylist', JSON.stringify(myPlaylist));
+                
+                closeSyncModal();
+                resetAndRender(); // 重新渲染畫面以反映最新資料
+
+            } catch (error) {
+                showToast('❌ 代碼無效或格式錯誤');
+            }
+        }
+        // ------------------------------
 
         function showToast(message) {
             const toast = document.getElementById('toast');
