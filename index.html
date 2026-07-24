@@ -84,12 +84,13 @@
             document.getElementById('viewModeText').innerText = isCompactMode ? '顯示封面' : '隱藏封面';
             
             const container = document.getElementById('songsContainer');
+            
             if (isCompactMode) {
-                container.classList.remove('md:grid-cols-2', 'lg:grid-cols-3', 'gap-6');
-                container.classList.add('grid-cols-1', 'gap-3');
+                // 緊湊模式：排版更緊密，電腦版最高可達 4 欄並排 (xl:grid-cols-4)
+                container.className = 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 transition-all duration-300';
             } else {
-                container.classList.add('md:grid-cols-2', 'lg:grid-cols-3', 'gap-6');
-                container.classList.remove('grid-cols-1', 'gap-3');
+                // 完整模式(有封面)：卡片較大，維持最高 3 欄並排，且間距較大 (gap-6)
+                container.className = 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 transition-all duration-300';
             }
             
             resetAndRender();
