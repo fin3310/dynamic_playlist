@@ -65,24 +65,29 @@
         let currentSubTag = '全部';
         
         let searchQuery = '';
-        let isCompactMode = false;
+        
+        // 📱 核心改動 1：利用螢幕寬度判斷，手機版預設為 true (隱藏封面)，電腦版預設為 false
+        let isCompactMode = window.innerWidth < 768;
         
         let currentDisplayCount = 0;   
         const BATCH_SIZE = 30;         
 
         let playedSongs = JSON.parse(localStorage.getItem('playedSongs') || '[]');
 
-        function toggleViewMode() {
-            isCompactMode = !isCompactMode;
+        // 初始化與切換畫面模式的共用函式
+        function initView() {
             document.getElementById('viewModeText').innerText = isCompactMode ? '顯示封面' : '隱藏封面';
-            
             const container = document.getElementById('songsContainer');
             if (isCompactMode) {
                 container.className = 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 transition-all duration-300';
             } else {
                 container.className = 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 transition-all duration-300';
             }
-            
+        }
+
+        function toggleViewMode() {
+            isCompactMode = !isCompactMode;
+            initView();
             resetAndRender();
         }
 
@@ -91,7 +96,6 @@
                 playedSongs.push(songId);
                 localStorage.setItem('playedSongs', JSON.stringify(playedSongs));
                 
-                // 動態更新主按鈕樣式
                 const btns = document.querySelectorAll(`.play-btn-${songId}`);
                 btns.forEach(btn => {
                     if (isCompactMode) {
@@ -103,7 +107,6 @@
                     btn.classList.add('bg-emerald-600', 'hover:bg-emerald-500');
                 });
 
-                // 動態顯示復原按鈕
                 const undoBtns = document.querySelectorAll(`.undo-btn-${songId}`);
                 undoBtns.forEach(btn => btn.classList.remove('hidden'));
             }
@@ -132,13 +135,10 @@
             }
         }
 
-        // 🔄 新增：單首歌曲取消點播紀錄
         function unplaySong(songId) {
-            // 從陣列與本地儲存中移除
             playedSongs = playedSongs.filter(id => id !== songId);
             localStorage.setItem('playedSongs', JSON.stringify(playedSongs));
             
-            // 恢復主按鈕為藍色初始狀態
             const playBtns = document.querySelectorAll(`.play-btn-${songId}`);
             playBtns.forEach(btn => {
                 if (isCompactMode) {
@@ -150,7 +150,6 @@
                 btn.classList.add('bg-sky-500', 'hover:bg-sky-400');
             });
             
-            // 重新隱藏復原按鈕
             const undoBtns = document.querySelectorAll(`.undo-btn-${songId}`);
             undoBtns.forEach(btn => btn.classList.add('hidden'));
             
@@ -186,7 +185,8 @@
             const defaultLangs = ['日文', '中文', '英文', '韓文'];
             
             langContainer.innerHTML = '';
-            const mainLangs = ['全部', ...defaultLangs];
+            // 🏷️ 核心改動 2：將 '全部' 移到陣列的最後面
+            const mainLangs = [...defaultLangs, '全部'];
             
             mainLangs.forEach(lang => {
                 const btn = document.createElement('button');
@@ -207,7 +207,14 @@
             });
 
             subContainer.innerHTML = '';
-            const songsForCurrentLang = songsData.filter(song => currentLanguage === '全部' || song.language === currentLanguage);
+            
+            // 🧹 核心改動 3：如果目前選擇是「全部」，直接隱藏第二層次標籤，維持畫面極度乾淨
+            if (currentLanguage === '全部') {
+                subContainer.classList.add('hidden');
+                return;
+            }
+
+            const songsForCurrentLang = songsData.filter(song => song.language === currentLanguage);
             
             const tagCounts = {};
             songsForCurrentLang.forEach(song => {
@@ -227,7 +234,8 @@
 
             if (sortedSubTags.length > 0) {
                 subContainer.classList.remove('hidden');
-                const finalSubTags = ['全部', ...sortedSubTags];
+                // 將次標籤的 '全部' 也移到最後面
+                const finalSubTags = [...sortedSubTags, '全部'];
                 
                 finalSubTags.forEach(tag => {
                     const btn = document.createElement('button');
@@ -290,7 +298,6 @@
             const container = document.getElementById('songsContainer');
             const nextBatch = currentFilteredSongs.slice(currentDisplayCount, currentDisplayCount + BATCH_SIZE);
             
-            // 定義復原按鈕的 SVG 圖示
             const undoSvg = `<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>`;
             
             let batchHtml = '';
@@ -307,7 +314,6 @@
                         : `play-btn-${song.id} px-4 py-1.5 bg-sky-500 hover:bg-sky-400 text-white text-sm font-medium rounded-full shadow-md shadow-sky-900/50 transition-all active:scale-95`;
                     const btnText = isPlayed ? "✅ 已點播" : "點播";
                     
-                    // 單首復原按鈕 (緊湊模式樣式)
                     const undoBtnClass = isPlayed
                         ? `undo-btn-${song.id} p-1.5 bg-slate-700 hover:bg-slate-600 text-slate-300 rounded-full transition-all active:scale-95`
                         : `undo-btn-${song.id} hidden p-1.5 bg-slate-700 hover:bg-slate-600 text-slate-300 rounded-full transition-all active:scale-95`;
@@ -330,7 +336,6 @@
                         : `play-btn-${song.id} flex-1 py-2 bg-sky-500 hover:bg-sky-400 text-white font-medium rounded-xl shadow-md transition-all active:scale-95 flex justify-center items-center gap-2`;
                     const btnText = isPlayed ? "<span>✅</span> 已點播" : "<span>📋</span> 複製點播";
 
-                    // 單首復原按鈕 (一般模式樣式)
                     const undoBtnClass = isPlayed
                         ? `undo-btn-${song.id} px-3 py-2 bg-slate-700 hover:bg-slate-600 text-slate-300 rounded-xl border border-slate-600 transition-colors flex justify-center items-center`
                         : `undo-btn-${song.id} hidden px-3 py-2 bg-slate-700 hover:bg-slate-600 text-slate-300 rounded-xl border border-slate-600 transition-colors flex justify-center items-center`;
@@ -380,6 +385,9 @@
 
         async function loadSongsData() {
             try {
+                // 初始化畫面模式 (在載入資料前先設定好 UI)
+                initView();
+
                 const timestamp = new Date().getTime();
                 const response = await fetch(`./playlist.json?t=${timestamp}`, { cache: 'no-store' });
                 
