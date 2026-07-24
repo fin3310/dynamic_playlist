@@ -37,15 +37,16 @@
             </div>
         </header>
 
-        <!-- 篩選控制區 (改為雙層架構) -->
-        <div class="mb-8">
+        <!-- 篩選控制區 (自動換行展開版) -->
+        <div class="mb-8 bg-slate-800/30 p-4 rounded-2xl border border-slate-700/50 shadow-sm">
             <!-- 第一層：主語言篩選區 -->
-            <div class="flex gap-2 mb-3 overflow-x-auto custom-scrollbar pb-2" id="langFilterContainer">
+            <div class="flex flex-wrap gap-2 mb-3" id="langFilterContainer">
                 <!-- 由 JS 生成 -->
             </div>
             
             <!-- 第二層：次標籤篩選區 (預設隱藏，根據主語言動態顯示) -->
-            <div class="flex gap-2 overflow-x-auto custom-scrollbar pb-2 hidden" id="subTagFilterContainer">
+            <!-- 加上 pt-3 與 border-t 讓第一層跟第二層之間有一條淡淡的分隔線 -->
+            <div class="flex flex-wrap gap-2 pt-3 border-t border-slate-700/50 hidden" id="subTagFilterContainer">
                 <!-- 由 JS 生成 -->
             </div>
         </div>
