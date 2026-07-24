@@ -1,42 +1,4622 @@
 [
   {
     "id": "001",
-    "title": "Ah, Ah, A",
-    "artist": "Ado",
+    "title": "モニタリング",
+    "artist": "DECO*27",
     "language": "日文",
-    "tags": ["Anime", "動感", "2026"],
-    "cover_url": "https://i.scdn.co/image/ab67616d0000b27301c9b634dd3e1e9cfa4d9da8",
-    "youtube_url": "https://www.youtube.com/watch?v=210R0ozfZNw",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
     "note": ""
   },
   {
     "id": "002",
-    "title": "Shape of You",
-    "artist": "Ed Sheeran",
-    "language": "英文",
-    "tags": ["Pop", "經典"],
-    "cover_url": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
-    "youtube_url": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+    "title": "我睡不著",
+    "artist": "守夜人",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
     "note": ""
   },
   {
     "id": "003",
-    "title": "擱淺",
-    "artist": "周杰倫",
-    "language": "中文",
-    "tags": ["抒情", "經典", "KTV"],
-    "cover_url": "https://i.scdn.co/image/ab67616d0000b273f5ff2639ca6c34279b973e44",
-    "youtube_url": "https://www.youtube.com/watch?v=YF-GziZXJoI",
-    "note": "高音注意"
+    "title": "chandelier",
+    "artist": "SIA",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
   },
   {
     "id": "004",
-    "title": "Idol",
+    "title": "FATE",
+    "artist": "I-DLE",
+    "language": "韓文",
+    "tags": [
+      "韓文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "005",
+    "title": "Vampire",
+    "artist": "DECO*27",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "006",
+    "title": "​​萬千花蕊慈母悲哀",
+    "artist": "珂拉琪",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "007",
+    "title": "Cupid",
+    "artist": "Fifty Fifty",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "008",
+    "title": "LOVE DIVE",
+    "artist": "IVE",
+    "language": "韓文",
+    "tags": [
+      "韓文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "009",
+    "title": "心做し",
+    "artist": "",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "010",
+    "title": "這該死的拘執佮愛",
+    "artist": "珂拉琪",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "011",
+    "title": "Expectation",
+    "artist": "Minnie(i-dle)",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "012",
+    "title": "I AM",
+    "artist": "IVE",
+    "language": "韓文",
+    "tags": [
+      "韓文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "013",
+    "title": "ERROR",
+    "artist": "niki",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "014",
+    "title": "只有我的天空有烏雲",
+    "artist": "洪安妮",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "015",
+    "title": "Until I found you",
+    "artist": "Stephen Sanchez",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "016",
+    "title": "ELEVEN",
+    "artist": "IVE",
+    "language": "韓文",
+    "tags": [
+      "韓文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "017",
+    "title": "愛して愛して愛して",
+    "artist": "初音ミク",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "018",
+    "title": "我喜歡你",
+    "artist": "洪安妮",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "019",
+    "title": "I love you 3000",
+    "artist": "Stephanie Poetri",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "020",
+    "title": "After LIKE",
+    "artist": "IVE",
+    "language": "韓文",
+    "tags": [
+      "韓文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "021",
+    "title": "プロポーズ",
+    "artist": "內緒",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "022",
+    "title": "寵兒",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "023",
+    "title": "Shallow",
+    "artist": "Lady Gaga",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "024",
+    "title": "Ditto",
+    "artist": "New Jeans",
+    "language": "韓文",
+    "tags": [
+      "韓文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "025",
+    "title": "とても素敵な六月でした",
+    "artist": "初音ミク",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "026",
+    "title": "傻子",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "027",
+    "title": "I'll Never Love Again",
+    "artist": "Lady Gaga",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "028",
+    "title": "SUPERNATURAL",
+    "artist": "New Jeans",
+    "language": "韓文",
+    "tags": [
+      "韓文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "029",
+    "title": "少女レイ",
+    "artist": "みきとP",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "030",
+    "title": "至姍姍來遲的你",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "031",
+    "title": "Die with a smile",
+    "artist": "Lady Gaga",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "032",
+    "title": "perfect night",
+    "artist": "le serafim",
+    "language": "韓文",
+    "tags": [
+      "韓文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "033",
+    "title": "恋は戰爭",
+    "artist": "初音ミク",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "034",
+    "title": "兜圈",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "035",
+    "title": "Vampire Hollie",
+    "artist": "ROSE(Blackpink)",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "036",
+    "title": "My Sea",
+    "artist": "IU",
+    "language": "韓文",
+    "tags": [
+      "韓文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "037",
+    "title": "戀愛裁判",
+    "artist": "初音ミク",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "038",
+    "title": "天真有邪",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "039",
+    "title": "Number One Girl",
+    "artist": "ROSE(Blackpink)",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "040",
+    "title": "Love wins all",
+    "artist": "IU",
+    "language": "韓文",
+    "tags": [
+      "韓文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "041",
+    "title": "晴る",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "042",
+    "title": "寵兒",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "043",
+    "title": "Hard to Love",
+    "artist": "ROSE(Blackpink)",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "044",
+    "title": "GOD",
+    "artist": "New Jeans",
+    "language": "韓文",
+    "tags": [
+      "韓文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "045",
+    "title": "言って。",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "046",
+    "title": "浪費",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "047",
+    "title": "Gone",
+    "artist": "ROSE(Blackpink)",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "048",
+    "title": "忘れてください",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "049",
+    "title": "想自由",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "050",
+    "title": "Toxic till the end",
+    "artist": "ROSE(Blackpink)",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "051",
+    "title": "春泥棒.",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "052",
+    "title": "失重前幸福",
+    "artist": "艾薇Ivy",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "053",
+    "title": "Driver License",
+    "artist": "Olivia Rodrigo",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "054",
+    "title": "斜陽",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "055",
+    "title": "他們說我是沒有用的年輕人",
+    "artist": "好樂團",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "056",
+    "title": "Vampire",
+    "artist": "Olivia Rodrigo",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "057",
+    "title": "ただ君に晴れ",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "058",
+    "title": "我把我的青春給你",
+    "artist": "好樂團",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "059",
+    "title": "Deja Vu",
+    "artist": "Olivia Rodrigo",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "060",
+    "title": "だから僕は音楽を辞めた",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "061",
+    "title": "我們一樣可惜",
+    "artist": "好樂團",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "062",
+    "title": "Legends never die",
+    "artist": "League of Legends",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "063",
+    "title": "花に亡霊",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "064",
+    "title": "我愛你，卻不能拯救你",
+    "artist": "好樂團",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "065",
+    "title": "payphone",
+    "artist": "Maroon5",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "066",
+    "title": "雨とカプチーノ",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "067",
+    "title": "能不能請你別把我丟下",
+    "artist": "好樂團",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "068",
+    "title": "Back to december",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "069",
+    "title": "又三郎",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "070",
+    "title": "Cruel Summer",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "071",
+    "title": "憂、燦々",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "072",
+    "title": "不是因為天氣晴朗才愛你",
+    "artist": "理想混蛋",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "073",
+    "title": "Enchanted",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "074",
+    "title": "若者のすべて",
+    "artist": "suis fromヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "075",
+    "title": "我完美的愛情",
+    "artist": "Vast &Hazy",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "076",
+    "title": "wildest dream",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "077",
+    "title": "革命道中",
+    "artist": "AiNA",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "078",
+    "title": "與浪之間",
+    "artist": "Vast &Hazy",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "079",
+    "title": "Lavender Haze",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "080",
+    "title": "フォニイ Phony",
+    "artist": "可不",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "081",
+    "title": "求救訊號",
+    "artist": "Vast &Hazy",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "082",
+    "title": "Love Story",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "083",
+    "title": "Kill kiss",
+    "artist": "AVE MUJICA",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "084",
+    "title": "複寫",
+    "artist": "Vast &Hazy",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "085",
+    "title": "Style",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "086",
+    "title": "春日影",
+    "artist": "CRYCHIC",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "087",
+    "title": "大海",
+    "artist": "南西肯恩",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "088",
+    "title": "Blank Space",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "089",
+    "title": "ビビデバ",
+    "artist": "星街彗星",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "090",
+    "title": "曾經我也想過殺了我自己",
+    "artist": "南西肯恩",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "091",
+    "title": "safe&sound",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "092",
+    "title": "stella stella",
+    "artist": "星街彗星",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "093",
+    "title": "花",
+    "artist": "Hello Nico",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "094",
+    "title": "Good luck babe",
+    "artist": "Chappell Roan",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "095",
+    "title": "星街の駅で",
+    "artist": "tuki.",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "096",
+    "title": "接下來如何",
+    "artist": "Hello Nico",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "097",
+    "title": "Lost Star",
+    "artist": "Adam Levine",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "098",
+    "title": "晚餐歌",
+    "artist": "tuki.",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "099",
+    "title": "山海",
+    "artist": "草東沒有派對",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "100",
+    "title": "City of stars",
+    "artist": "",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "101",
+    "title": "騙シ愛",
+    "artist": "tuki.",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "102",
+    "title": "大風吹",
+    "artist": "草東沒有派對",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "103",
+    "title": "POV",
+    "artist": "Ariana Grande",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "104",
+    "title": "愛の賞味期限",
+    "artist": "tuki.",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "105",
+    "title": "爛泥",
+    "artist": "草東沒有派對",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "106",
+    "title": "We can't be friends",
+    "artist": "Ariana Grande",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "107",
+    "title": "ツキミソウ",
+    "artist": "NOVELBRIGHT",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "108",
+    "title": "潛伏期",
+    "artist": "孫盛希",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "109",
+    "title": "one last time",
+    "artist": "Ariana Grande",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "110",
+    "title": "水平線",
+    "artist": "Back Number",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "111",
+    "title": "眼淚記得你",
+    "artist": "孫盛希",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "112",
+    "title": "god is a women",
+    "artist": "Ariana Grande",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "113",
+    "title": "Christmas Song",
+    "artist": "Back Number",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "114",
+    "title": "是他不配",
+    "artist": "孫盛希",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "115",
+    "title": "When I was your man",
+    "artist": "Bruno Mars(火星人)",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "116",
+    "title": "ハッピーエンド",
+    "artist": "Back Number",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "117",
+    "title": "人樣",
+    "artist": "孫盛希",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "118",
+    "title": "Talking to the Moon",
+    "artist": "Bruno Mars(火星人)",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "119",
+    "title": "Ref:rain",
+    "artist": "Aimer",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "120",
+    "title": "夏夜晚風",
+    "artist": "伍佰",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "121",
+    "title": "Just The Way You Are",
+    "artist": "Bruno Mars(火星人)",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "122",
+    "title": "六等星的夜",
+    "artist": "Aimer",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "123",
+    "title": "カタオモイ",
+    "artist": "Aimer",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "124",
+    "title": "擱淺的人",
+    "artist": "康士坦的變化球",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "125",
+    "title": "Birds of a feather",
+    "artist": "Bille Eilish",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "126",
+    "title": "六等星",
+    "artist": "ざらめ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "127",
+    "title": "浪流連",
+    "artist": "茄子蛋",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "128",
+    "title": "whe the party's over",
+    "artist": "Bille Eilish",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "129",
+    "title": "夏霞",
+    "artist": "あがらよ Atarayo",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "130",
+    "title": "喜歡",
+    "artist": "張懸",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "131",
+    "title": "idontwannabeyouannymore",
+    "artist": "Bille Eilish",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "132",
+    "title": "「僕は...」",
+    "artist": "あがらよ Atarayo",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "133",
+    "title": "關於我愛你",
+    "artist": "張懸",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "134",
+    "title": "All of me",
+    "artist": "john legend",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "135",
+    "title": "8.8",
+    "artist": "あがらよ Atarayo",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "136",
+    "title": "玫瑰色的你",
+    "artist": "張懸",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "137",
+    "title": "best part",
+    "artist": "Daniel Caesar",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "138",
+    "title": "炎",
+    "artist": "LISA",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "139",
+    "title": "如何",
+    "artist": "張懸",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "140",
+    "title": "paper heart",
+    "artist": "tori kelly",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "141",
+    "title": "Shout Baby",
+    "artist": "綠黃色社會",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "142",
+    "title": "你啊你啊",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "143",
+    "title": "Fly me to the moon",
+    "artist": "",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "144",
+    "title": "花になって",
+    "artist": "綠黃色社會",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "145",
+    "title": "晚安晚安",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "146",
+    "title": "Complicated",
+    "artist": "avril lavigne",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "147",
+    "title": "Mela!",
+    "artist": "綠黃色社會",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "148",
+    "title": "好嗎好嗎",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "149",
+    "title": "Innocence",
+    "artist": "avril lavigne",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "150",
+    "title": "絕絕絕絕對聖域",
+    "artist": "Ano",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "151",
+    "title": "在不確定的世界裡",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "152",
+    "title": "When You're Gone",
+    "artist": "avril lavigne",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "153",
+    "title": "多樣性",
+    "artist": "Ano",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "154",
+    "title": "捉迷藏",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "155",
+    "title": "Wish you were here",
+    "artist": "avril lavigne",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "156",
+    "title": "神っぼいな",
+    "artist": "初音ミク",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "157",
+    "title": "我爸的筆",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "158",
+    "title": "Speechless",
+    "artist": "Naomi Scott",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "159",
+    "title": "罪と罰",
+    "artist": "椎名林檎",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "160",
+    "title": "竊笑",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "161",
+    "title": "When We Were Young",
+    "artist": "Adele",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "162",
+    "title": "丸の内サディスティック",
+    "artist": "椎名林檎",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "163",
+    "title": "暗室之後",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "164",
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "165",
+    "title": "本能",
+    "artist": "椎名林檎",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "166",
+    "title": "HAVE A NICE DAY",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "167",
+    "title": "Easy On Me",
+    "artist": "Adele",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "168",
+    "title": "ドライフラワー",
+    "artist": "優里",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "169",
+    "title": "母系社會",
+    "artist": "張惠妹",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "170",
+    "title": "I Drink Wine",
+    "artist": "Adele",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "171",
+    "title": "ベデルギウス",
+    "artist": "優里",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "172",
+    "title": "血腥愛情故事",
+    "artist": "張惠妹",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "173",
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "174",
+    "title": "メリーゴーランド",
+    "artist": "優里",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "175",
+    "title": "傲嬌",
+    "artist": "張惠妹",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "176",
+    "title": "From The Start",
+    "artist": "Laufey",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "177",
+    "title": "シャルル",
+    "artist": "バルーン",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "178",
+    "title": "人質",
+    "artist": "張惠妹",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "179",
+    "title": "Viva La Vida",
+    "artist": "Coldplay",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "180",
+    "title": "ギターと孤独と蒼いの",
+    "artist": "結束バンド",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "181",
+    "title": "給我一個理由忘記",
+    "artist": "A LIN",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "182",
+    "title": "yellow",
+    "artist": "Coldplay",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "183",
+    "title": "星座になれたら",
+    "artist": "結束バンド",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "184",
+    "title": "ps 我愛你",
+    "artist": "A LIN",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "185",
+    "title": "Fix you",
+    "artist": "Coldplay",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "186",
+    "title": "あのバンド",
+    "artist": "結束バンド",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "187",
+    "title": "有一種悲傷",
+    "artist": "A LIN",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "188",
+    "title": "Don't Look Back In Anger",
+    "artist": "Oasis",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "189",
+    "title": "天ノ弱",
+    "artist": "164 feat.GUMI",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "190",
+    "title": "失戀無罪",
+    "artist": "A LIN",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "191",
+    "title": "Bleeding Love",
+    "artist": "",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "192",
+    "title": "secret base ～君がくれたもの～",
+    "artist": "Zone",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "193",
+    "title": "炙愛",
+    "artist": "陳忻玥",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "194",
+    "title": "creep",
+    "artist": "Radiohead",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "195",
+    "title": "おやすみ泣き声、さよなら歌姫",
+    "artist": "クリープハイプ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "196",
+    "title": "煙幕",
+    "artist": "陳忻玥",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "197",
+    "title": "Love Me Like You Do",
+    "artist": "Ellie Goulding",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "198",
+    "title": "完全感覺DREAMER",
+    "artist": "ONEOKROCK",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "199",
+    "title": "煎熬",
+    "artist": "搞死主播歌是另外",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "200",
+    "title": "Titanium",
+    "artist": "David Guetta & Sia",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "201",
+    "title": "whenever you are",
+    "artist": "ONEOKROCK",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "202",
+    "title": "好想愛這個世界吧",
+    "artist": "華晨宇",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "203",
+    "title": "Stay",
+    "artist": "Rihanna",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "204",
+    "title": "LIAR",
+    "artist": "ONEOKROCK",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "205",
+    "title": "美好的事情能不能發生在我身上",
+    "artist": "華晨宇",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "206",
+    "title": "Symphony",
+    "artist": "",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "207",
+    "title": "Cry Out",
+    "artist": "ONE OK ROCK",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "208",
+    "title": "煙火裡的塵埃",
+    "artist": "華晨宇",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "209",
+    "title": "A thousand years",
+    "artist": "",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "210",
+    "title": "The Beginning",
+    "artist": "ONE OK ROCK",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "211",
+    "title": "我還年輕我還年輕",
+    "artist": "老王樂隊",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "212",
+    "title": "Close to you",
+    "artist": "",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "213",
+    "title": "more than words",
+    "artist": "羊文學",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "214",
+    "title": "Try",
+    "artist": "Colbie Caillat",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "215",
+    "title": "あの夢をなぞって",
     "artist": "YOASOBI",
     "language": "日文",
-    "tags": ["Anime", "流行"],
-    "cover_url": "https://i.scdn.co/image/ab67616d0000b2737eaecb39116e0be0f31cfaee",
-    "youtube_url": "https://www.youtube.com/watch?v=ZRtdQ81jPUQ",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "216",
+    "title": "下雨天",
+    "artist": "南拳媽媽",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "217",
+    "title": "Photograph",
+    "artist": "Ed Sheeran",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "218",
+    "title": "怪物",
+    "artist": "YOASOBI",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "219",
+    "title": "帶我走",
+    "artist": "楊丞琳",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "220",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "221",
+    "title": "IDOL",
+    "artist": "YOASOBI",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "222",
+    "title": "匿名的好友",
+    "artist": "楊丞琳",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "223",
+    "title": "Shape of you",
+    "artist": "Ed Sheeran",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "224",
+    "title": "死ぬのがいいわ",
+    "artist": "藤井風",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "225",
+    "title": "雨愛",
+    "artist": "楊丞琳",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "226",
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "227",
+    "title": "花",
+    "artist": "藤井風",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "228",
+    "title": "年輪說",
+    "artist": "楊丞琳",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "229",
+    "title": "Always Remember us this way",
+    "artist": "Lady Gaga",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "230",
+    "title": "満ちてゆく",
+    "artist": "藤井風",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "231",
+    "title": "聽見下雨的聲音",
+    "artist": "魏如勻",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "232",
+    "title": "FIRST LOVE",
+    "artist": "宇多田光",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "233",
+    "title": "永不失聯的愛",
+    "artist": "周興哲",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "234",
+    "title": "悪魔の子",
+    "artist": "ヒグチアイ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "235",
+    "title": "我們的愛",
+    "artist": "FIR",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "236",
+    "title": "怪獣",
+    "artist": "サカナクション",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "237",
+    "title": "月牙灣",
+    "artist": "FIR",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "238",
+    "title": "聲嘶力竭",
+    "artist": "美波",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "239",
+    "title": "Lydia",
+    "artist": "FIR",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "240",
+    "title": "LILAC",
+    "artist": "美波",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "241",
+    "title": "千年之戀",
+    "artist": "FIR",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "242",
+    "title": "可愛くてごめん",
+    "artist": "早川沙織",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "243",
+    "title": "千年之戀",
+    "artist": "信樂團",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "244",
+    "title": "again",
+    "artist": "YUI",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "245",
+    "title": "踮起腳尖愛",
+    "artist": "洪珮瑜",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "246",
+    "title": "All Alone with you",
+    "artist": "EGOIST",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "247",
+    "title": "路過人間",
+    "artist": "郁可唯",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "248",
+    "title": "Fallen",
+    "artist": "EGOIST",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "249",
+    "title": "倒帶",
+    "artist": "蔡依林",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "250",
+    "title": "The Everlasting Guilty Crown",
+    "artist": "EGOIST",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "251",
+    "title": "我懷念的",
+    "artist": "孫燕姿",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "252",
+    "title": "Departures 〜あなたにおくるアイの歌〜",
+    "artist": "EGOIST",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "253",
+    "title": "克普勒",
+    "artist": "孫燕姿",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "254",
+    "title": "名前のない怪物",
+    "artist": "EGOIST",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "255",
+    "title": "天黑黑",
+    "artist": "孫燕姿",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "256",
+    "title": "メリーゴーランド",
+    "artist": "愛謬AIMYION",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "257",
+    "title": "擱淺",
+    "artist": "周杰倫",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "258",
+    "title": "愛を伝えたいだとか",
+    "artist": "愛謬AIMYION",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "259",
+    "title": "你要的愛",
+    "artist": "戴佩妮",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "260",
+    "title": "君はロックを聴かない你不聽搖滾",
+    "artist": "愛謬AIMYION",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "261",
+    "title": "A.I.N.Y. 愛你",
+    "artist": "鄧紫棋",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "262",
+    "title": "ビバリウム",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "263",
+    "title": "旅行的意義",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "264",
+    "title": "アイ・アイ・ア",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "265",
+    "title": "魚",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "266",
+    "title": "新時代",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "267",
+    "title": "太聰明",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "268",
+    "title": "世界のつづき",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "269",
+    "title": "告訴我",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "270",
+    "title": "ギラギラ",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "271",
+    "title": "躺在你的衣櫃",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "272",
+    "title": "会いたくて",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "273",
+    "title": "想和你看五月的晚霞",
+    "artist": "陳華",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "274",
+    "title": "うっせぇわ",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "275",
+    "title": "你敢不敢",
+    "artist": "徐佳瑩",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "276",
+    "title": "心という名の不可解",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "277",
+    "title": "Forever Young",
+    "artist": "艾怡良",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "278",
+    "title": "踊",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "279",
+    "title": "想見你想見你想見你",
+    "artist": "八三夭",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "280",
+    "title": "逆光",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "281",
+    "title": "浴室",
+    "artist": "deca joins",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "282",
+    "title": "私 最強",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "283",
+    "title": "TOT MUSICA",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "284",
+    "title": "易燃易爆炸",
+    "artist": "陳粒",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "285",
+    "title": "ELF",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "286",
+    "title": "小半",
+    "artist": "陳粒",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "287",
+    "title": "Rockstar",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "288",
+    "title": "走馬",
+    "artist": "陳粒",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "289",
+    "title": "初夏",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "290",
+    "title": "奇妙能力歌",
+    "artist": "陳粒",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "291",
+    "title": "EpisodeX",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "292",
+    "title": "虛擬",
+    "artist": "陳粒",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "293",
+    "title": "Dignity",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "294",
+    "title": "絕對佔有相對自由",
+    "artist": "陳粒",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "295",
+    "title": "永遠のあくる日",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "296",
+    "title": "南山南",
+    "artist": "",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "297",
+    "title": "風のゆくえ",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "298",
+    "title": "水星記",
+    "artist": "郭鼎",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "299",
+    "title": "わたしに花束",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "300",
+    "title": "下雨的晚上",
+    "artist": "黃玠",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "301",
+    "title": "桜日和とタイムマシン",
+    "artist": "Ado with初音ミク",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "302",
+    "title": "低賤的人",
+    "artist": "顯然樂隊",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "303",
+    "title": "Value",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "304",
+    "title": "你的行李",
+    "artist": "",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "305",
+    "title": "向日葵",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "306",
+    "title": "像天堂的懸崖",
+    "artist": "李佳薇",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "307",
+    "title": "リベリオン",
+    "artist": "Ado",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "308",
+    "title": "小幸運",
+    "artist": "田馥甄",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "309",
+    "title": "ゾクゾク",
+    "artist": "Phamtom Sita",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "310",
+    "title": "你就不要想起我",
+    "artist": "田馥甄",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "311",
+    "title": "TAIDADA",
+    "artist": "ZUTOMAYO",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "312",
+    "title": "寂寞寂寞就好",
+    "artist": "田馥甄",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "313",
+    "title": "秒針を噛む",
+    "artist": "ZUTOMAYO",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "314",
+    "title": "愛著愛著就永遠",
+    "artist": "田馥甄",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "315",
+    "title": "正しくなれない",
+    "artist": "ZUTOMAYO",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "316",
+    "title": "還是要幸福",
+    "artist": "田馥甄",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "317",
+    "title": "勘冴えて悔しいわ",
+    "artist": "ZUTOMAYO",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "318",
+    "title": "如果有如果",
+    "artist": "鄧福如",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "319",
+    "title": "ミカヅキ",
+    "artist": "酸欠少女sayuri",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "320",
+    "title": "第三人稱",
+    "artist": "hush!",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "321",
+    "title": "kick back",
+    "artist": "米津玄師",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "322",
+    "title": "唯一",
+    "artist": "告五人",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "323",
+    "title": "怪獣の花唄",
+    "artist": "Vaundy",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "324",
+    "title": "泡沫",
+    "artist": "鄧紫棋",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "325",
+    "title": "踊り子",
+    "artist": "Vaundy",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "326",
+    "title": "光年之外",
+    "artist": "鄧紫棋",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "327",
+    "title": "東京フラッシュ",
+    "artist": "Vaundy",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "328",
+    "title": "來自天堂的魔鬼",
+    "artist": "鄧紫棋",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "329",
+    "title": "AVID",
+    "artist": "SawanoHiroyuki[nZk]:mizuki",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "330",
+    "title": "多遠都要在一起",
+    "artist": "鄧紫棋",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "331",
+    "title": "unravel",
+    "artist": "TK from 凛として時雨",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "332",
+    "title": "再見",
+    "artist": "鄧紫棋",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "333",
+    "title": "God knows…",
+    "artist": "平野凌",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "334",
+    "title": "紅豆",
+    "artist": "王菲",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "335",
+    "title": "JANE DOE",
+    "artist": "米津玄師/宇多田光",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "336",
+    "title": "莉莉安",
+    "artist": "宋東野",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "337",
+    "title": "白日",
+    "artist": "King Gnu",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "338",
+    "title": "不痛",
+    "artist": "張韶涵",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "339",
+    "title": "蜜月アン・ドゥ・トロワ",
+    "artist": "",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "340",
+    "title": "數到十",
+    "artist": "曾佩慈",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "341",
+    "title": "私じゃなかったんだね。",
+    "artist": "りりあ。riria.",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "342",
+    "title": "指望",
+    "artist": "郁可唯",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "343",
+    "title": "ダーリンダンス darling dance",
+    "artist": "初音ミク",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "344",
+    "title": "畫心",
+    "artist": "張靚穎",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "345",
+    "title": "ダーリン",
+    "artist": "須田景凪",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "346",
+    "title": "一樣的月光",
+    "artist": "徐佳瑩",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "347",
+    "title": "シルエット",
+    "artist": "Kana-Boon",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "348",
+    "title": "失落沙洲",
+    "artist": "徐佳瑩",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "349",
+    "title": "TEST ME",
+    "artist": "ちゃんみな",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "350",
+    "title": "言不由衷",
+    "artist": "徐佳瑩",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "351",
+    "title": "ハレンチ",
+    "artist": "ちゃんみな",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "352",
+    "title": "到此為止",
+    "artist": "徐佳瑩",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "353",
+    "title": "星屑ビーナス",
+    "artist": "Aimer",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "354",
+    "title": "我愛他",
+    "artist": "丁噹",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "355",
+    "title": "星の消えた夜に",
+    "artist": "Aimer",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "356",
+    "title": "至少還有你",
+    "artist": "林憶蓮",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "357",
+    "title": "Pretender",
+    "artist": "Official髭男dism",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "358",
+    "title": "沒那麼簡單",
+    "artist": "黃小琥",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "359",
+    "title": "ただ声一つ",
+    "artist": "ロクデナシ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "360",
+    "title": "愛你",
+    "artist": "陳芳語",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "361",
+    "title": "百花繚乱",
+    "artist": "幾田 りら",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "362",
+    "title": "如果可以",
+    "artist": "韋禮安",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "363",
+    "title": "walking with you",
+    "artist": "Novelbright",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "364",
+    "title": "是我不夠好",
+    "artist": "李毓芬",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "365",
+    "title": "雪の音",
+    "artist": "Novelbright",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "366",
+    "title": "指望",
+    "artist": "郁可唯",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "367",
+    "title": "少女A",
+    "artist": "",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "368",
+    "title": "微加幸福",
+    "artist": "郁可唯",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "369",
+    "title": "小夜子",
+    "artist": "",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "370",
+    "title": "慢慢喜歡你",
+    "artist": "莫文蔚",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "371",
+    "title": "This Game",
+    "artist": "鈴木このみ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "372",
+    "title": "陰天",
+    "artist": "莫文蔚",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "373",
+    "title": "命に嫌われている。",
+    "artist": "",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "374",
+    "title": "可惜不是你",
+    "artist": "梁靜茹",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "375",
+    "title": "僕が死のうと思ったのは",
+    "artist": "中島美嘉",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "376",
+    "title": "會呼吸的痛",
+    "artist": "梁靜茹",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "377",
+    "title": "真夜中のドア",
+    "artist": "松原みき",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "378",
+    "title": "慢冷",
+    "artist": "梁靜茹",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "379",
+    "title": "盛夏光年",
+    "artist": "五月天",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "380",
+    "title": "擱淺",
+    "artist": "周杰倫",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "381",
+    "title": "修練愛情",
+    "artist": "林俊傑",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "382",
+    "title": "誠實地想你",
+    "artist": "郭采潔",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "383",
+    "title": "你在不在",
+    "artist": "郭采潔",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "384",
+    "title": "孤獨的總和",
+    "artist": "",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
+    "note": ""
+  },
+  {
+    "id": "385",
+    "title": "錦鯉抄",
+    "artist": "",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "",
+    "youtube_url": "",
     "note": ""
   }
 ]
