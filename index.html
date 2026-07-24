@@ -37,7 +37,7 @@
 
                 <button onclick="resetPlayHistory()" 
                         class="shrink-0 px-4 py-2 rounded-full bg-slate-800 hover:bg-red-900/50 hover:text-red-400 hover:border-red-700/50 border border-slate-600 transition-colors flex items-center gap-2 text-sm text-slate-300 shadow-sm font-medium">
-                    <span>🗑️</span> <span>重置全部</span>
+                    <span>🗑️</span> <span>重置紀錄</span>
                 </button>
             </div>
         </header>
@@ -65,16 +65,15 @@
         let currentSubTag = '全部';
         
         let searchQuery = '';
-        
-        // 📱 核心改動 1：利用螢幕寬度判斷，手機版預設為 true (隱藏封面)，電腦版預設為 false
         let isCompactMode = window.innerWidth < 768;
         
         let currentDisplayCount = 0;   
         const BATCH_SIZE = 30;         
 
         let playedSongs = JSON.parse(localStorage.getItem('playedSongs') || '[]');
+        // 💖 新增：讀取使用者的個性歌單 (收藏清單)
+        let myPlaylist = JSON.parse(localStorage.getItem('myPlaylist') || '[]');
 
-        // 初始化與切換畫面模式的共用函式
         function initView() {
             document.getElementById('viewModeText').innerText = isCompactMode ? '顯示封面' : '隱藏封面';
             const container = document.getElementById('songsContainer');
@@ -89,6 +88,42 @@
             isCompactMode = !isCompactMode;
             initView();
             resetAndRender();
+        }
+
+        // 💖 新增：處理收藏/取消收藏邏輯
+        function toggleFav(songId) {
+            const index = myPlaylist.indexOf(songId);
+            const isRemoving = index > -1;
+
+            if (isRemoving) {
+                myPlaylist.splice(index, 1);
+                showToast('💔 已從個性歌單移除');
+            } else {
+                myPlaylist.push(songId);
+                showToast('💖 已加入個性歌單');
+            }
+            localStorage.setItem('myPlaylist', JSON.stringify(myPlaylist));
+
+            // 如果使用者目前正在看「我的歌單」分類，且取消了收藏，直接重新渲染以隱藏該卡片
+            if (currentLanguage === '⭐ 我的歌單' && isRemoving) {
+                resetAndRender();
+                return;
+            }
+
+            // 動態更新畫面上該首歌的愛心按鈕樣式
+            const isFav = myPlaylist.includes(songId);
+            const svgSolid = `<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>`;
+            const svgOutline = `<svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"/></svg>`;
+
+            const favBtns = document.querySelectorAll(`.fav-btn-${songId}`);
+            favBtns.forEach(btn => {
+                btn.innerHTML = isFav ? svgSolid : svgOutline;
+                if (isCompactMode) {
+                    btn.className = `fav-btn-${songId} p-2 rounded-full transition-colors active:scale-95 ${isFav ? 'text-rose-500 hover:text-rose-400 bg-rose-500/10' : 'text-slate-400 hover:text-rose-400 bg-slate-900'}`;
+                } else {
+                    btn.className = `fav-btn-${songId} absolute top-3 right-3 z-10 p-2 rounded-full backdrop-blur-md shadow-lg transition-all active:scale-95 ${isFav ? 'bg-rose-500/90 text-white hover:bg-rose-600' : 'bg-slate-900/60 text-slate-300 hover:bg-slate-800/80 hover:text-rose-400'}`;
+                }
+            });
         }
 
         async function handlePlay(songId, title, artist) {
@@ -161,8 +196,7 @@
                 showToast('ℹ️ 目前沒有點播紀錄');
                 return;
             }
-            
-            if (confirm('確定要清除所有在本機的「已點播」紀錄嗎？')) {
+            if (confirm('確定要清除所有在本機的「已點播」紀錄嗎？\n(您的個性歌單收藏不受影響)')) {
                 playedSongs = [];
                 localStorage.removeItem('playedSongs');
                 resetAndRender(); 
@@ -185,8 +219,8 @@
             const defaultLangs = ['日文', '中文', '英文', '韓文'];
             
             langContainer.innerHTML = '';
-            // 🏷️ 核心改動 2：將 '全部' 移到陣列的最後面
-            const mainLangs = [...defaultLangs, '全部'];
+            // 🏷️ 核心改動：加入「⭐ 我的歌單」並放在第一位
+            const mainLangs = ['⭐ 我的歌單', ...defaultLangs, '全部'];
             
             mainLangs.forEach(lang => {
                 const btn = document.createElement('button');
@@ -198,8 +232,10 @@
                     resetAndRender();
                 };
                 
+                // 讓「我的歌單」按鈕在選取時有特殊的玫瑰紅樣式
                 if (lang === currentLanguage) {
-                    btn.className = "filter-btn active px-5 py-1.5 rounded-full bg-sky-500 text-white text-sm whitespace-nowrap shadow-md shadow-sky-900/50 font-medium border border-transparent transition-all";
+                    const activeColor = lang === '⭐ 我的歌單' ? 'bg-rose-500 shadow-rose-900/50' : 'bg-sky-500 shadow-sky-900/50';
+                    btn.className = `filter-btn active px-5 py-1.5 rounded-full text-white text-sm whitespace-nowrap shadow-md font-medium border border-transparent transition-all ${activeColor}`;
                 } else {
                     btn.className = "filter-btn px-5 py-1.5 rounded-full bg-slate-800 text-slate-400 hover:bg-slate-700 hover:text-sky-300 text-sm whitespace-nowrap border border-slate-600 shadow-sm transition-all";
                 }
@@ -208,8 +244,8 @@
 
             subContainer.innerHTML = '';
             
-            // 🧹 核心改動 3：如果目前選擇是「全部」，直接隱藏第二層次標籤，維持畫面極度乾淨
-            if (currentLanguage === '全部') {
+            // 在「全部」或「我的歌單」模式下，隱藏次級標籤
+            if (currentLanguage === '全部' || currentLanguage === '⭐ 我的歌單') {
                 subContainer.classList.add('hidden');
                 return;
             }
@@ -234,7 +270,6 @@
 
             if (sortedSubTags.length > 0) {
                 subContainer.classList.remove('hidden');
-                // 將次標籤的 '全部' 也移到最後面
                 const finalSubTags = [...sortedSubTags, '全部'];
                 
                 finalSubTags.forEach(tag => {
@@ -272,6 +307,13 @@
             document.getElementById('loadingIndicator').classList.remove('hidden');
 
             currentFilteredSongs = songsData.filter(song => {
+                // 💖 如果是在「我的歌單」分類，僅過濾 ID 是否存在於清單中 (同時支援搜尋字串)
+                if (currentLanguage === '⭐ 我的歌單') {
+                    if (!myPlaylist.includes(song.id)) return false;
+                    const searchTarget = (song.title + song.artist + song.note + (song.tags ? song.tags.join('') : '')).toLowerCase();
+                    return searchTarget.includes(searchQuery);
+                }
+
                 const matchLang = currentLanguage === '全部' || song.language === currentLanguage;
                 const matchSubTag = currentSubTag === '全部' || (song.tags && song.tags.includes(currentSubTag));
                 const searchTarget = (song.title + song.artist + song.note + (song.tags ? song.tags.join('') : '')).toLowerCase();
@@ -281,7 +323,12 @@
             });
 
             if (currentFilteredSongs.length === 0) {
-                document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-12 text-slate-500 font-medium">找不到符合條件的歌曲 😢</div>';
+                // 給「我的歌單」空狀態專屬提示
+                if (currentLanguage === '⭐ 我的歌單' && searchQuery === '') {
+                    document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-12 text-slate-500 font-medium">目前還沒有加入任何歌曲喔 💔<br><span class="text-sm mt-2 block opacity-80">點擊歌曲卡片上的愛心即可加入個性歌單</span></div>';
+                } else {
+                    document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-12 text-slate-500 font-medium">找不到符合條件的歌曲 😢</div>';
+                }
                 document.getElementById('loadingIndicator').classList.add('hidden');
                 return;
             }
@@ -300,6 +347,10 @@
             
             const undoSvg = `<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>`;
             
+            // 愛心 SVG 圖示
+            const favSvgSolid = `<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>`;
+            const favSvgOutline = `<svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"/></svg>`;
+
             let batchHtml = '';
             nextBatch.forEach(song => {
                 const displayCover = song.cover_url || 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?q=80&w=600&auto=format&fit=crop';
@@ -307,6 +358,7 @@
                 const noteHtml = song.note ? `<p class="text-xs text-sky-400 mt-1 font-medium">♪ ${song.note}</p>` : '';
 
                 const isPlayed = playedSongs.includes(song.id);
+                const isFav = myPlaylist.includes(song.id);
 
                 if (isCompactMode) {
                     const btnClass = isPlayed 
@@ -318,16 +370,22 @@
                         ? `undo-btn-${song.id} p-1.5 bg-slate-700 hover:bg-slate-600 text-slate-300 rounded-full transition-all active:scale-95`
                         : `undo-btn-${song.id} hidden p-1.5 bg-slate-700 hover:bg-slate-600 text-slate-300 rounded-full transition-all active:scale-95`;
 
+                    const favBtnClass = isFav ? "text-rose-500 hover:text-rose-400 bg-rose-500/10" : "text-slate-400 hover:text-rose-400 bg-slate-900";
+
                     batchHtml += `
-                        <div class="bg-slate-800 rounded-xl p-3 hover:bg-slate-700/80 transition-colors flex items-center justify-between border border-slate-700 shadow-sm group">
-                            <div class="flex-1 min-w-0 pr-4 pl-2 border-l-4 border-sky-500">
+                        <div class="bg-slate-800 rounded-xl p-3 hover:bg-slate-700/80 transition-colors flex items-center justify-between border border-slate-700 shadow-sm group relative">
+                            <div class="flex-1 min-w-0 pr-2 pl-2 border-l-4 border-sky-500">
                                 <h3 class="text-base font-bold text-slate-100 truncate">${song.title}</h3>
                                 <p class="text-sm text-slate-400 truncate">${song.artist}</p>
                             </div>
-                            <div class="flex items-center gap-2 shrink-0 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity">
-                                ${song.youtube_url ? `<a href="${song.youtube_url}" target="_blank" class="p-2 rounded-full bg-slate-900 text-slate-400 hover:bg-red-500 hover:text-white transition-colors" title="試聽"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg></a>` : ''}
-                                <button onclick="unplaySong('${song.id}')" class="${undoBtnClass}" title="取消紀錄">${undoSvg}</button>
-                                <button onclick="handlePlay('${song.id}', '${song.title.replace(/'/g, "\\'")}', '${song.artist.replace(/'/g, "\\'")}')" class="${btnClass}">${btnText}</button>
+                            <div class="flex items-center gap-2 shrink-0">
+                                <button onclick="toggleFav('${song.id}')" class="fav-btn-${song.id} p-2 rounded-full transition-colors active:scale-95 ${favBtnClass}" title="加入/移除歌單">${isFav ? favSvgSolid : favSvgOutline}</button>
+                                
+                                <div class="flex items-center gap-2 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity">
+                                    ${song.youtube_url ? `<a href="${song.youtube_url}" target="_blank" class="p-2 rounded-full bg-slate-900 text-slate-400 hover:bg-red-500 hover:text-white transition-colors" title="試聽"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg></a>` : ''}
+                                    <button onclick="unplaySong('${song.id}')" class="${undoBtnClass}" title="取消紀錄">${undoSvg}</button>
+                                    <button onclick="handlePlay('${song.id}', '${song.title.replace(/'/g, "\\'")}', '${song.artist.replace(/'/g, "\\'")}')" class="${btnClass}">${btnText}</button>
+                                </div>
                             </div>
                         </div>`;
                 } else {
@@ -340,12 +398,19 @@
                         ? `undo-btn-${song.id} px-3 py-2 bg-slate-700 hover:bg-slate-600 text-slate-300 rounded-xl border border-slate-600 transition-colors flex justify-center items-center`
                         : `undo-btn-${song.id} hidden px-3 py-2 bg-slate-700 hover:bg-slate-600 text-slate-300 rounded-xl border border-slate-600 transition-colors flex justify-center items-center`;
 
+                    const favBtnClass = isFav 
+                        ? "bg-rose-500/90 text-white hover:bg-rose-600" 
+                        : "bg-slate-900/60 text-slate-300 hover:bg-slate-800/80 hover:text-rose-400";
+
                     batchHtml += `
-                        <div class="bg-slate-800 rounded-2xl overflow-hidden shadow-md border border-slate-700 hover:border-slate-500 hover:shadow-lg transition-all duration-300 group flex flex-col">
+                        <div class="bg-slate-800 rounded-2xl overflow-hidden shadow-md border border-slate-700 hover:border-slate-500 hover:shadow-lg transition-all duration-300 group flex flex-col relative">
+                            <!-- 💖 漂浮在封面右上角的愛心按鈕 -->
+                            <button onclick="toggleFav('${song.id}')" class="fav-btn-${song.id} absolute top-3 right-3 z-10 p-2 rounded-full backdrop-blur-md shadow-lg transition-all active:scale-95 ${favBtnClass}" title="加入/移除歌單">${isFav ? favSvgSolid : favSvgOutline}</button>
+                            
                             <div class="relative aspect-video overflow-hidden bg-slate-900">
                                 <img src="${displayCover}" alt="Cover" loading="lazy" class="w-full h-full object-cover group-hover:scale-105 transition duration-700 opacity-90 group-hover:opacity-100 bg-slate-800">
                                 <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/20 to-transparent opacity-90"></div>
-                                <div class="absolute bottom-3 left-3 right-3 flex gap-2 flex-wrap">${tagsHtml}</div>
+                                <div class="absolute bottom-3 left-3 right-3 flex gap-2 flex-wrap z-0">${tagsHtml}</div>
                             </div>
                             <div class="p-5 flex-1 flex flex-col">
                                 <h3 class="text-lg font-bold text-slate-100 mb-1 line-clamp-1" title="${song.title}">${song.title}</h3>
@@ -385,7 +450,6 @@
 
         async function loadSongsData() {
             try {
-                // 初始化畫面模式 (在載入資料前先設定好 UI)
                 initView();
 
                 const timestamp = new Date().getTime();
