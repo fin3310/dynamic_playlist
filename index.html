@@ -106,9 +106,20 @@
         </header>
 
         <!-- 篩選控制區 -->
-        <div class="mb-8 bg-white/40 dark:bg-slate-800/30 p-5 rounded-3xl border border-sky-100 dark:border-slate-700/50 shadow-sm backdrop-blur-sm transition-colors duration-300">
+        <div class="mb-4 bg-white/40 dark:bg-slate-800/30 p-5 rounded-3xl border border-sky-100 dark:border-slate-700/50 shadow-sm backdrop-blur-sm transition-colors duration-300">
             <div class="flex flex-wrap gap-2.5 mb-3" id="langFilterContainer"></div>
             <div class="flex flex-wrap gap-2 pt-4 border-t border-sky-100/80 dark:border-slate-700/50 hidden transition-colors" id="subTagFilterContainer"></div>
+        </div>
+
+        <!-- 📊 列表狀態與數量顯示區 -->
+        <div class="flex flex-col md:flex-row justify-between items-center mb-4 px-3 gap-2 transition-colors duration-300">
+            <div class="text-sm text-slate-500 dark:text-slate-400 font-medium w-full md:w-auto text-center md:text-left truncate">
+                目前顯示：<span class="text-sky-600 dark:text-sky-400 font-bold ml-1" id="currentFilterText">全部歌曲</span>
+            </div>
+            <div class="text-sm font-bold text-sky-700 dark:text-sky-200 bg-sky-100/80 dark:bg-sky-900/40 backdrop-blur-md px-4 py-1.5 rounded-full border border-sky-200/50 dark:border-sky-700/50 shadow-sm w-max shrink-0 flex items-center gap-1.5">
+                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M9 19.5V3.75m0 15.75a2.25 2.25 0 0 1-2.25 2.25h-.5a2.25 2.25 0 0 1-2.25-2.25v-1.5a2.25 2.25 0 0 1 2.25-2.25h1.5a2.25 2.25 0 0 1 2.25 2.25v1.5Zm0 0V15m0 0a2.25 2.25 0 0 0 2.25-2.25v-1.5a2.25 2.25 0 0 0-2.25-2.25h-1.5a2.25 2.25 0 0 0-2.25 2.25v1.5A2.25 2.25 0 0 0 9 15ZM18 19.5V3.75m0 15.75a2.25 2.25 0 0 1-2.25 2.25h-.5a2.25 2.25 0 0 1-2.25-2.25v-1.5a2.25 2.25 0 0 1 2.25-2.25h1.5a2.25 2.25 0 0 1 2.25 2.25v1.5Zm0 0V15m0 0a2.25 2.25 0 0 0 2.25-2.25v-1.5a2.25 2.25 0 0 0-2.25-2.25h-1.5a2.25 2.25 0 0 0-2.25 2.25v1.5A2.25 2.25 0 0 0 18 15Z" /></svg>
+                <span id="songCountDisplay">共 0 首</span>
+            </div>
         </div>
 
         <div id="songsContainer" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 transition-all duration-300"></div>
@@ -660,6 +671,21 @@
                 
                 return matchLang && matchSubTag && matchSearch;
             });
+
+            // 🚀 更新目前的列表狀態與總數顯示
+            let filterStatus = currentLanguage;
+            if (currentSubTag !== '全部') {
+                filterStatus += ` > ${currentSubTag}`;
+            }
+            if (searchQuery) {
+                filterStatus += ` (搜尋: "${searchQuery}")`;
+            }
+            document.getElementById('currentFilterText').innerText = filterStatus;
+            
+            const countDisplay = document.getElementById('songCountDisplay');
+            if (countDisplay) {
+                countDisplay.innerText = `共 ${currentFilteredSongs.length} 首`;
+            }
 
             if (currentFilteredSongs.length === 0) {
                 if (currentLanguage === '💖 我的歌單' && searchQuery === '') {
