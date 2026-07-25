@@ -19,22 +19,28 @@
     <style>
         .custom-scrollbar::-webkit-scrollbar { height: 6px; }
         .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
-        .custom-scrollbar::-webkit-scrollbar-thumb { background: #bae6fd; border-radius: 10px; }
+        .custom-scrollbar::-webkit-scrollbar-thumb { background: #93c5fd; border-radius: 10px; }
         .dark .custom-scrollbar::-webkit-scrollbar-thumb { background: #334155; }
-        .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #7dd3fc; }
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #60a5fa; }
         .dark .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #475569; }
         
-        /* 亮色主題：採用立繪的冰藍色系 */
+        /* 🎨 亮色主題：完美對應立繪的粉藍色菱格紋氛圍，絕非純白 */
         body {
-            background-color: #f0f9ff; 
-            background-image: radial-gradient(#bae6fd 2px, transparent 2px); 
-            background-size: 30px 30px;
+            background-color: #e0f2fe; 
+            background-image: 
+                linear-gradient(45deg, #bae6fd 25%, transparent 25%), 
+                linear-gradient(-45deg, #bae6fd 25%, transparent 25%), 
+                linear-gradient(45deg, transparent 75%, #bae6fd 75%), 
+                linear-gradient(-45deg, transparent 75%, #bae6fd 75%);
+            background-size: 40px 40px;
+            background-position: 0 0, 0 20px, 20px -20px, -20px 0px;
             transition: background-color 0.3s ease;
         }
         /* 暗色主題：深海軍藍 */
         .dark body {
             background-color: #0f172a; 
             background-image: radial-gradient(#1e293b 2px, transparent 2px); 
+            background-size: 30px 30px;
         }
 
         @keyframes pulse-glow {
@@ -51,13 +57,12 @@
 
     <div class="max-w-6xl mx-auto px-4 py-8 relative">
         <!-- 頂部區塊 -->
-        <header class="flex flex-col md:flex-row justify-between items-center mb-6 gap-4 bg-white/60 dark:bg-slate-800/80 backdrop-blur-md p-4 rounded-3xl shadow-sm border border-sky-100 dark:border-slate-700 transition-colors duration-300">
+        <header class="flex flex-col md:flex-row justify-between items-center mb-6 gap-4 bg-sky-50/90 dark:bg-slate-800/80 backdrop-blur-md p-4 rounded-3xl shadow-sm border border-sky-200/80 dark:border-slate-700 transition-colors duration-300">
             <h1 class="text-3xl font-bold flex items-center gap-2 tracking-wide pl-2 drop-shadow-sm">
                 <!-- 🎵 音符 SVG -->
                 <svg class="w-7 h-7 text-sky-500 dark:text-sky-400" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M9 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h8v8.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V3H9z"/>
                 </svg>
-            
                 <span class="text-transparent bg-clip-text bg-gradient-to-r from-sky-600 to-blue-500 dark:from-sky-400 dark:to-blue-300">涅露茉茉歌單</span>
             </h1>
             
@@ -68,11 +73,11 @@
                         <svg class="w-5 h-5 text-sky-400 dark:text-slate-500" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" /></svg>
                     </div>
                     <input type="text" id="searchInput" placeholder="搜尋歌名、歌手..." 
-                           class="w-full pl-10 pr-4 py-2.5 rounded-full bg-white dark:bg-slate-900 border border-sky-200 dark:border-slate-600 focus:outline-none focus:border-sky-400 focus:ring-2 focus:ring-sky-100 dark:focus:ring-sky-900 transition-all text-slate-700 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-500 shadow-inner">
+                           class="w-full pl-10 pr-4 py-2.5 rounded-full bg-white/90 dark:bg-slate-900 border border-sky-200 dark:border-slate-600 focus:outline-none focus:border-sky-400 focus:ring-2 focus:ring-sky-100 dark:focus:ring-sky-900 transition-all text-slate-700 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-500 shadow-inner">
                 </div>
                 
                 <!-- 膠囊工具列 -->
-                <div class="flex items-center p-1 bg-sky-50/80 dark:bg-slate-900/50 rounded-full border border-sky-100 dark:border-slate-700/50 backdrop-blur-sm shadow-sm w-full md:w-auto justify-between">
+                <div class="flex items-center p-1 bg-sky-100/80 dark:bg-slate-900/50 rounded-full border border-sky-200/80 dark:border-slate-700/50 backdrop-blur-sm shadow-sm w-full md:w-auto justify-between">
                     
                     <button id="themeBtn" onclick="toggleTheme()" 
                             class="group flex items-center justify-center min-w-[2.75rem] h-10 md:hover:px-4 rounded-full bg-transparent hover:bg-white dark:hover:bg-slate-700 transition-all duration-300 text-sky-600 dark:text-slate-300 font-medium overflow-hidden">
@@ -110,19 +115,19 @@
         </header>
 
         <!-- 篩選控制區 -->
-        <div class="mb-4 bg-white/40 dark:bg-slate-800/30 p-5 rounded-3xl border border-sky-100 dark:border-slate-700/50 shadow-sm backdrop-blur-sm transition-colors duration-300">
+        <div class="mb-4 bg-sky-50/70 dark:bg-slate-800/30 p-5 rounded-3xl border border-sky-200/80 dark:border-slate-700/50 shadow-sm backdrop-blur-sm transition-colors duration-300">
             <!-- 第一層：語系選擇 -->
             <div class="flex flex-col md:flex-row gap-3" id="langFilterContainer"></div>
             <!-- 第二層：次標籤 -->
-            <div class="pt-4 mt-3 border-t border-sky-100/80 dark:border-slate-700/50 hidden transition-colors" id="subTagFilterContainer"></div>
+            <div class="pt-4 mt-3 border-t border-sky-200/60 dark:border-slate-700/50 hidden transition-colors" id="subTagFilterContainer"></div>
         </div>
 
-        <!-- 📊 列表狀態與數量顯示區 -->
+        <!-- 📊 列表狀態與數量顯示區 (已合併為同一行) -->
         <div class="flex flex-row justify-between items-center mb-4 px-3 gap-2 transition-colors duration-300">
             <div class="text-sm text-slate-500 dark:text-slate-400 font-medium min-w-0 flex-1 truncate">
                 目前顯示：<span class="text-sky-600 dark:text-sky-400 font-bold ml-1" id="currentFilterText">全部歌曲</span>
             </div>
-            <div class="text-sm font-bold text-sky-700 dark:text-sky-200 bg-sky-100/80 dark:bg-sky-900/40 backdrop-blur-md px-4 py-1.5 rounded-full border border-sky-200/50 dark:border-sky-700/50 shadow-sm w-max shrink-0 flex items-center justify-center">
+            <div class="text-sm font-bold text-sky-700 dark:text-sky-200 bg-sky-100/90 dark:bg-sky-900/40 backdrop-blur-md px-4 py-1.5 rounded-full border border-sky-200 dark:border-sky-700/50 shadow-sm w-max shrink-0 flex items-center justify-center">
                 <span id="songCountDisplay">共 0 首</span>
             </div>
         </div>
@@ -175,7 +180,7 @@
         <div class="bg-white dark:bg-slate-800 border border-sky-100 dark:border-slate-700 p-6 rounded-3xl w-11/12 max-w-md shadow-2xl transform scale-95 transition-all duration-300" id="syncModalContent">
             <div class="flex justify-between items-center mb-5 border-b border-sky-50 dark:border-slate-700 pb-3">
                 <h2 class="text-xl font-bold text-sky-800 dark:text-slate-100 flex items-center gap-2">
-                    <svg class="w-6 h-6 text-sky-500" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25-4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" /></svg>
+                    <svg class="w-6 h-6 text-sky-500" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" /></svg>
                     備份與恢復
                 </h2>
                 <button onclick="closeSyncModal()" class="text-slate-400 hover:text-sky-600 dark:hover:text-white transition-colors text-xl font-bold">&times;</button>
@@ -210,7 +215,7 @@
         let currentFilteredSongs = []; 
         let currentLanguage = '全部';
         let currentSubTag = '全部';
-        let isSubTagsExpanded = false; // 手機版子標籤展開狀態
+        let isSubTagsExpanded = false; 
         let searchQuery = '';
         let isCompactMode = window.innerWidth < 768;
         let currentDisplayCount = 0;   
@@ -277,7 +282,7 @@
             if (song.is_practicing) {
                 tagsHtml += `<span class="px-2.5 py-1 bg-amber-100/90 dark:bg-amber-900/60 text-xs rounded-md text-amber-700 dark:text-amber-300 font-bold border border-amber-200 dark:border-amber-700/50 shadow-sm backdrop-blur-sm">練歌中</span>`;
             }
-            tagsHtml += (song.tags || []).map(tag => `<span class="px-2.5 py-1 bg-white/60 dark:bg-slate-900/80 text-xs rounded-md text-sky-700 dark:text-sky-300 font-medium border border-sky-100 dark:border-slate-700 shadow-sm backdrop-blur-sm">${tag}</span>`).join('');
+            tagsHtml += (song.tags || []).map(tag => `<span class="px-2.5 py-1 bg-white/70 dark:bg-slate-900/80 text-xs rounded-md text-sky-700 dark:text-sky-300 font-medium border border-sky-200 dark:border-slate-700 shadow-sm backdrop-blur-sm">${tag}</span>`).join('');
             
             const noteHtml = song.note ? `<p class="text-xs text-sky-600 dark:text-sky-400 mt-1 font-medium bg-sky-50 dark:bg-transparent px-2 py-1 rounded-md inline-block">♪ ${song.note}</p>` : '';
 
@@ -300,18 +305,18 @@
                 const btnText = isPlayed ? "✅ 已點播" : "點播";
                 
                 const undoBtnClass = isPlayed
-                    ? `p-1.5 bg-slate-100 hover:bg-slate-200 dark:bg-slate-700 dark:hover:bg-slate-600 text-slate-600 dark:text-slate-300 rounded-full transition-all active:scale-95`
-                    : `hidden p-1.5 bg-slate-100 hover:bg-slate-200 dark:bg-slate-700 dark:hover:bg-slate-600 text-slate-600 dark:text-slate-300 rounded-full transition-all active:scale-95`;
+                    ? `p-1.5 bg-white hover:bg-slate-100 dark:bg-slate-700 dark:hover:bg-slate-600 text-slate-600 dark:text-slate-300 rounded-full transition-all active:scale-95`
+                    : `hidden p-1.5 bg-white hover:bg-slate-100 dark:bg-slate-700 dark:hover:bg-slate-600 text-slate-600 dark:text-slate-300 rounded-full transition-all active:scale-95`;
 
                 const favBtnClass = isFav 
                     ? "text-rose-500 hover:text-rose-600 dark:hover:text-rose-400 bg-rose-50 dark:bg-rose-500/10" 
-                    : "text-slate-400 hover:text-rose-500 dark:hover:text-rose-400 bg-slate-100 dark:bg-slate-900/50";
+                    : "text-slate-400 hover:text-rose-500 dark:hover:text-rose-400 bg-white/80 dark:bg-slate-900/50";
 
                 const hasGlobalTag = song.is_practicing;
                 
                 const cardBgClass = hasGlobalTag
                     ? "bg-amber-50/90 dark:bg-amber-900/20 hover:bg-amber-100/80 dark:hover:bg-amber-900/40 border-amber-200 dark:border-amber-700/50"
-                    : "bg-white/80 dark:bg-slate-800 hover:bg-sky-50 dark:hover:bg-slate-700/80 border-sky-100 dark:border-slate-700";
+                    : "bg-white/90 dark:bg-slate-800 hover:bg-sky-50 dark:hover:bg-slate-700/80 border-sky-200/80 dark:border-slate-700";
 
                 const leftBorderClass = hasGlobalTag
                     ? "border-amber-400 dark:border-amber-500"
@@ -325,7 +330,7 @@
                         </div>
                         <div class="flex items-center gap-2 shrink-0 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity">
                             <button onclick="event.stopPropagation(); toggleFav('${song.id}')" class="p-2 rounded-full transition-colors active:scale-95 ${favBtnClass}" title="加入/移除歌單">${isFav ? favSvgSolid : favSvgOutline}</button>
-                            ${song.youtube_url ? `<a href="${song.youtube_url}" target="_blank" onclick="event.stopPropagation()" class="p-2 rounded-full bg-slate-100 dark:bg-slate-900/50 text-slate-500 dark:text-slate-400 hover:bg-red-500 hover:text-white dark:hover:bg-red-500 dark:hover:text-white transition-colors" title="試聽"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg></a>` : ''}
+                            ${song.youtube_url ? `<a href="${song.youtube_url}" target="_blank" onclick="event.stopPropagation()" class="p-2 rounded-full bg-white/80 dark:bg-slate-900/50 text-slate-500 dark:text-slate-400 hover:bg-red-500 hover:text-white dark:hover:bg-red-500 dark:hover:text-white transition-colors" title="試聽"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg></a>` : ''}
                             <button onclick="event.stopPropagation(); unplaySong('${song.id}')" class="${undoBtnClass}" title="取消紀錄">${undoSvg}</button>
                             <button onclick="event.stopPropagation(); handlePlay('${song.id}', '${titleEsc}', '${artistEsc}')" class="${btnClass}">${btnText}</button>
                         </div>
@@ -337,8 +342,8 @@
                 const btnText = isPlayed ? "<span>✅</span> 已點播" : "<span>📋</span> 複製點播";
 
                 const undoBtnClass = isPlayed
-                    ? `px-3 py-2 bg-slate-100 hover:bg-slate-200 dark:bg-slate-700 dark:hover:bg-slate-600 text-slate-600 dark:text-slate-300 rounded-xl border border-slate-200 dark:border-slate-600 transition-colors flex justify-center items-center`
-                    : `hidden px-3 py-2 bg-slate-100 hover:bg-slate-200 dark:bg-slate-700 dark:hover:bg-slate-600 text-slate-600 dark:text-slate-300 rounded-xl border border-slate-200 dark:border-slate-600 transition-colors flex justify-center items-center`;
+                    ? `px-3 py-2 bg-white hover:bg-slate-100 dark:bg-slate-700 dark:hover:bg-slate-600 text-slate-600 dark:text-slate-300 rounded-xl border border-sky-200 dark:border-slate-600 transition-colors flex justify-center items-center`
+                    : `hidden px-3 py-2 bg-white hover:bg-slate-100 dark:bg-slate-700 dark:hover:bg-slate-600 text-slate-600 dark:text-slate-300 rounded-xl border border-sky-200 dark:border-slate-600 transition-colors flex justify-center items-center`;
 
                 const favBtnClass = isFav 
                     ? "bg-rose-500 text-white hover:bg-rose-600" 
@@ -349,10 +354,10 @@
                 const titleAttr = isCompactMode ? `title="點擊收合卡片"` : "";
 
                 return `
-                    <div id="song-card-${song.id}" ${onClickAttr} ${titleAttr} class="bg-white/80 dark:bg-slate-800 rounded-3xl overflow-hidden shadow-sm border border-sky-100 dark:border-slate-700 hover:border-sky-300 dark:hover:border-slate-500 hover:shadow-lg transition-all duration-300 group flex flex-col relative backdrop-blur-sm ${pointerClass}">
+                    <div id="song-card-${song.id}" ${onClickAttr} ${titleAttr} class="bg-white/90 dark:bg-slate-800 rounded-3xl overflow-hidden shadow-sm border border-sky-200/80 dark:border-slate-700 hover:border-sky-400 dark:hover:border-slate-500 hover:shadow-lg transition-all duration-300 group flex flex-col relative backdrop-blur-sm ${pointerClass}">
                         <button onclick="event.stopPropagation(); toggleFav('${song.id}')" class="absolute top-3 right-3 z-10 p-2.5 rounded-full backdrop-blur-md shadow-lg transition-all active:scale-95 ${favBtnClass}" title="加入/移除歌單">${isFav ? favSvgSolid : favSvgOutline}</button>
                         
-                        <div class="relative aspect-video overflow-hidden bg-slate-100 dark:bg-slate-900 border-b border-sky-50 dark:border-slate-800">
+                        <div class="relative aspect-video overflow-hidden bg-sky-100 dark:bg-slate-900 border-b border-sky-100 dark:border-slate-800">
                             <img src="${displayCover}" alt="Cover" loading="lazy" class="w-full h-full object-cover group-hover:scale-105 transition duration-700 opacity-95 group-hover:opacity-100">
                             <div class="absolute inset-0 bg-gradient-to-t from-slate-900/50 via-transparent to-transparent"></div>
                             <div class="absolute bottom-3 left-3 right-3 flex gap-2 flex-wrap z-0">${tagsHtml}</div>
@@ -366,7 +371,7 @@
                             <div class="mt-auto pt-5 flex gap-2">
                                 <button onclick="event.stopPropagation(); unplaySong('${song.id}')" class="${undoBtnClass}" title="取消紀錄">${undoSvg}</button>
                                 <button onclick="event.stopPropagation(); handlePlay('${song.id}', '${titleEsc}', '${artistEsc}')" class="${btnClass}">${btnText}</button>
-                                ${song.youtube_url ? `<a href="${song.youtube_url}" target="_blank" onclick="event.stopPropagation()" class="px-4 py-2 bg-slate-50 dark:bg-slate-700 hover:bg-red-500 dark:hover:bg-red-500 hover:text-white dark:hover:text-white text-slate-600 dark:text-slate-300 font-medium rounded-xl border border-slate-200 dark:border-slate-600 hover:border-red-500 dark:hover:border-red-500 transition-colors flex justify-center items-center" title="YouTube 試聽"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg></a>` : ''}
+                                ${song.youtube_url ? `<a href="${song.youtube_url}" target="_blank" onclick="event.stopPropagation()" class="px-4 py-2 bg-white dark:bg-slate-700 hover:bg-red-500 dark:hover:bg-red-500 hover:text-white dark:hover:text-white text-slate-600 dark:text-slate-300 font-medium rounded-xl border border-sky-200 dark:border-slate-600 hover:border-red-500 dark:hover:border-red-500 transition-colors flex justify-center items-center" title="YouTube 試聽"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg></a>` : ''}
                             </div>
                         </div>
                     </div>`;
@@ -597,7 +602,6 @@
             
             langContainer.innerHTML = '';
             
-            // 🚀 手機版分列容器設計
             const favContainer = document.createElement('div');
             favContainer.className = 'w-full md:w-auto flex-shrink-0';
             
@@ -606,19 +610,17 @@
 
             const mainLangs = ['💖 我的歌單', ...defaultLangs, '全部'];
             
+            const shortMap = {
+                '日文': '日',
+                '中文': '中',
+                '英文': '英',
+                '韓文': '韓',
+                '全部': '全'
+            };
+
             mainLangs.forEach(lang => {
                 const btn = document.createElement('button');
                 
-                // 🚀 新增：手機版短網址轉換對照表
-                const shortMap = {
-                    '日文': '日',
-                    '中文': '中',
-                    '英文': '英',
-                    '韓文': '韓',
-                    '全部': '全'
-                };
-
-                // 利用 Tailwind 樣式達成：手機顯示短字 (md:hidden)，電腦顯示長字 (hidden md:inline)
                 if (shortMap[lang]) {
                     btn.innerHTML = `<span class="md:hidden">${shortMap[lang]}</span><span class="hidden md:inline">${lang}</span>`;
                 } else {
@@ -628,7 +630,7 @@
                 btn.onclick = () => {
                     currentLanguage = lang;
                     currentSubTag = '全部'; 
-                    isSubTagsExpanded = false; // 切換大分類時，手機版自動收合子標籤
+                    isSubTagsExpanded = false; 
                     renderFilters(); 
                     resetAndRender();
                 };
@@ -637,15 +639,13 @@
                     const activeColor = lang === '💖 我的歌單' ? 'bg-rose-500 shadow-rose-200 dark:shadow-rose-900/50 text-white' : 'bg-sky-500 shadow-sky-200 dark:shadow-sky-900/50 text-white';
                     btn.className = `filter-btn active py-2 rounded-full text-sm whitespace-nowrap shadow-md font-medium border border-transparent transition-all ${activeColor}`;
                 } else {
-                    btn.className = "filter-btn py-2 rounded-full bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-sky-50 dark:hover:bg-slate-700 hover:text-sky-600 dark:hover:text-sky-300 text-sm whitespace-nowrap border border-sky-100 dark:border-slate-600 shadow-sm transition-all";
+                    btn.className = "filter-btn py-2 rounded-full bg-white/90 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-sky-100 dark:hover:bg-slate-700 hover:text-sky-600 dark:hover:text-sky-300 text-sm whitespace-nowrap border border-sky-200 dark:border-slate-600 shadow-sm transition-all";
                 }
 
-                // 只有「我的歌單」在手機上佔滿全寬
                 if (lang === '💖 我的歌單') {
                     btn.classList.add('w-full', 'md:px-6');
                     favContainer.appendChild(btn);
                 } else {
-                    // 🚀 優化：將手機版的水平 padding 從 px-6 縮小為 px-4，讓單字元按鈕比例更好看
                     btn.classList.add('px-4', 'md:px-6');
                     langsContainer.appendChild(btn);
                 }
@@ -682,9 +682,8 @@
             if (sortedSubTags.length > 0) {
                 subContainer.classList.remove('hidden');
                 
-                // 🚀 新增：手機版子標籤展開/收合按鈕
                 const toggleBtn = document.createElement('button');
-                toggleBtn.className = "md:hidden w-full flex items-center justify-between px-4 py-2.5 bg-sky-50/80 dark:bg-slate-700/50 hover:bg-sky-100 dark:hover:bg-slate-700 rounded-xl text-sky-700 dark:text-sky-300 font-medium text-sm mb-3 transition-colors border border-sky-100 dark:border-slate-600 shadow-sm";
+                toggleBtn.className = "md:hidden w-full flex items-center justify-between px-4 py-2.5 bg-sky-100/90 dark:bg-slate-700/50 hover:bg-sky-200 dark:hover:bg-slate-700 rounded-xl text-sky-700 dark:text-sky-300 font-medium text-sm mb-3 transition-colors border border-sky-200 dark:border-slate-600 shadow-sm";
                 toggleBtn.innerHTML = `
                     <span class="flex items-center gap-2">
                         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"></path></svg>
@@ -698,7 +697,6 @@
                 };
                 subContainer.appendChild(toggleBtn);
                 
-                // 🚀 子標籤容器 (依據狀態決定隱藏或顯示)
                 const tagsWrapper = document.createElement('div');
                 tagsWrapper.className = `flex-wrap gap-2 ${isSubTagsExpanded ? 'flex' : 'hidden md:flex'}`;
                 
@@ -719,7 +717,7 @@
                     if (tag === currentSubTag) {
                         btn.className = "filter-btn active px-4 py-1.5 rounded-full bg-sky-400 hover:bg-sky-500 text-white text-xs whitespace-nowrap shadow-sm shadow-sky-200 dark:shadow-sky-900/50 font-medium border border-transparent transition-all";
                     } else {
-                        btn.className = "filter-btn px-4 py-1.5 rounded-full bg-white dark:bg-slate-800/70 text-slate-500 dark:text-slate-400 hover:bg-sky-50 dark:hover:bg-slate-700 hover:text-sky-600 dark:hover:text-sky-300 text-xs whitespace-nowrap border border-sky-100 dark:border-slate-700 shadow-sm transition-all";
+                        btn.className = "filter-btn px-4 py-1.5 rounded-full bg-white/90 dark:bg-slate-800/70 text-slate-500 dark:text-slate-400 hover:bg-sky-100 dark:hover:bg-slate-700 hover:text-sky-600 dark:hover:text-sky-300 text-xs whitespace-nowrap border border-sky-200 dark:border-slate-700 shadow-sm transition-all";
                     }
                     tagsWrapper.appendChild(btn);
                 });
