@@ -107,8 +107,10 @@
 
         <!-- 篩選控制區 -->
         <div class="mb-4 bg-white/40 dark:bg-slate-800/30 p-5 rounded-3xl border border-sky-100 dark:border-slate-700/50 shadow-sm backdrop-blur-sm transition-colors duration-300">
-            <div class="flex flex-wrap gap-2.5 mb-3" id="langFilterContainer"></div>
-            <div class="flex flex-wrap gap-2 pt-4 border-t border-sky-100/80 dark:border-slate-700/50 hidden transition-colors" id="subTagFilterContainer"></div>
+            <!-- 第一層：語系選擇 -->
+            <div class="flex flex-col md:flex-row gap-3" id="langFilterContainer"></div>
+            <!-- 第二層：次標籤 -->
+            <div class="pt-4 mt-3 border-t border-sky-100/80 dark:border-slate-700/50 hidden transition-colors" id="subTagFilterContainer"></div>
         </div>
 
         <!-- 📊 列表狀態與數量顯示區 -->
@@ -169,7 +171,7 @@
         <div class="bg-white dark:bg-slate-800 border border-sky-100 dark:border-slate-700 p-6 rounded-3xl w-11/12 max-w-md shadow-2xl transform scale-95 transition-all duration-300" id="syncModalContent">
             <div class="flex justify-between items-center mb-5 border-b border-sky-50 dark:border-slate-700 pb-3">
                 <h2 class="text-xl font-bold text-sky-800 dark:text-slate-100 flex items-center gap-2">
-                    <svg class="w-6 h-6 text-sky-500" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" /></svg>
+                    <svg class="w-6 h-6 text-sky-500" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25-4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" /></svg>
                     備份與恢復
                 </h2>
                 <button onclick="closeSyncModal()" class="text-slate-400 hover:text-sky-600 dark:hover:text-white transition-colors text-xl font-bold">&times;</button>
@@ -204,6 +206,7 @@
         let currentFilteredSongs = []; 
         let currentLanguage = '全部';
         let currentSubTag = '全部';
+        let isSubTagsExpanded = false; // 手機版子標籤展開狀態
         let searchQuery = '';
         let isCompactMode = window.innerWidth < 768;
         let currentDisplayCount = 0;   
@@ -266,7 +269,6 @@
         function generateSongHtml(song) {
             const displayCover = song.cover_url || 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?q=80&w=600&auto=format&fit=crop';
             
-            // 🚀 建立標籤 HTML（將練歌中標籤用專屬顏色排在最前面）
             let tagsHtml = '';
             if (song.is_practicing) {
                 tagsHtml += `<span class="px-2.5 py-1 bg-amber-100/90 dark:bg-amber-900/60 text-xs rounded-md text-amber-700 dark:text-amber-300 font-bold border border-amber-200 dark:border-amber-700/50 shadow-sm backdrop-blur-sm">練歌中</span>`;
@@ -301,8 +303,7 @@
                     ? "text-rose-500 hover:text-rose-600 dark:hover:text-rose-400 bg-rose-50 dark:bg-rose-500/10" 
                     : "text-slate-400 hover:text-rose-500 dark:hover:text-rose-400 bg-slate-100 dark:bg-slate-900/50";
 
-                // 🚀 緊湊模式專屬：移除文字 tag，並判定「是否有任何全域 tag」來決定是否變色
-                const hasGlobalTag = song.is_practicing; // 未來若有其他全域屬性，可直接在此加入 (例如: song.is_practicing || song.is_new)
+                const hasGlobalTag = song.is_practicing;
                 
                 const cardBgClass = hasGlobalTag
                     ? "bg-amber-50/90 dark:bg-amber-900/20 hover:bg-amber-100/80 dark:hover:bg-amber-900/40 border-amber-200 dark:border-amber-700/50"
@@ -591,6 +592,14 @@
             const defaultLangs = ['日文', '中文', '英文', '韓文'];
             
             langContainer.innerHTML = '';
+            
+            // 🚀 手機版分列容器設計
+            const favContainer = document.createElement('div');
+            favContainer.className = 'w-full md:w-auto flex-shrink-0';
+            
+            const langsContainer = document.createElement('div');
+            langsContainer.className = 'flex flex-wrap gap-2.5 flex-1';
+
             const mainLangs = ['💖 我的歌單', ...defaultLangs, '全部'];
             
             mainLangs.forEach(lang => {
@@ -599,18 +608,30 @@
                 btn.onclick = () => {
                     currentLanguage = lang;
                     currentSubTag = '全部'; 
+                    isSubTagsExpanded = false; // 切換大分類時，手機版自動收合子標籤
                     renderFilters(); 
                     resetAndRender();
                 };
                 
                 if (lang === currentLanguage) {
                     const activeColor = lang === '💖 我的歌單' ? 'bg-rose-500 shadow-rose-200 dark:shadow-rose-900/50 text-white' : 'bg-sky-500 shadow-sky-200 dark:shadow-sky-900/50 text-white';
-                    btn.className = `filter-btn active px-6 py-2 rounded-full text-sm whitespace-nowrap shadow-md font-medium border border-transparent transition-all ${activeColor}`;
+                    btn.className = `filter-btn active py-2 rounded-full text-sm whitespace-nowrap shadow-md font-medium border border-transparent transition-all ${activeColor}`;
                 } else {
-                    btn.className = "filter-btn px-6 py-2 rounded-full bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-sky-50 dark:hover:bg-slate-700 hover:text-sky-600 dark:hover:text-sky-300 text-sm whitespace-nowrap border border-sky-100 dark:border-slate-600 shadow-sm transition-all";
+                    btn.className = "filter-btn py-2 rounded-full bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-sky-50 dark:hover:bg-slate-700 hover:text-sky-600 dark:hover:text-sky-300 text-sm whitespace-nowrap border border-sky-100 dark:border-slate-600 shadow-sm transition-all";
                 }
-                langContainer.appendChild(btn);
+
+                // 只有「我的歌單」在手機上佔滿全寬
+                if (lang === '💖 我的歌單') {
+                    btn.classList.add('w-full', 'md:px-6');
+                    favContainer.appendChild(btn);
+                } else {
+                    btn.classList.add('px-6');
+                    langsContainer.appendChild(btn);
+                }
             });
+            
+            langContainer.appendChild(favContainer);
+            langContainer.appendChild(langsContainer);
 
             subContainer.innerHTML = '';
             
@@ -639,6 +660,27 @@
 
             if (sortedSubTags.length > 0) {
                 subContainer.classList.remove('hidden');
+                
+                // 🚀 新增：手機版子標籤展開/收合按鈕
+                const toggleBtn = document.createElement('button');
+                toggleBtn.className = "md:hidden w-full flex items-center justify-between px-4 py-2.5 bg-sky-50/80 dark:bg-slate-700/50 hover:bg-sky-100 dark:hover:bg-slate-700 rounded-xl text-sky-700 dark:text-sky-300 font-medium text-sm mb-3 transition-colors border border-sky-100 dark:border-slate-600 shadow-sm";
+                toggleBtn.innerHTML = `
+                    <span class="flex items-center gap-2">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"></path></svg>
+                        進階分類標籤 <span class="bg-sky-200 dark:bg-slate-600 text-sky-800 dark:text-sky-200 py-0.5 px-2 rounded-full text-xs ml-1">${sortedSubTags.length}</span>
+                    </span>
+                    <svg class="w-5 h-5 transform transition-transform ${isSubTagsExpanded ? 'rotate-180' : ''}" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                `;
+                toggleBtn.onclick = () => {
+                    isSubTagsExpanded = !isSubTagsExpanded;
+                    renderFilters(); 
+                };
+                subContainer.appendChild(toggleBtn);
+                
+                // 🚀 子標籤容器 (依據狀態決定隱藏或顯示)
+                const tagsWrapper = document.createElement('div');
+                tagsWrapper.className = `flex-wrap gap-2 ${isSubTagsExpanded ? 'flex' : 'hidden md:flex'}`;
+                
                 const finalSubTags = [...sortedSubTags, '全部'];
                 
                 finalSubTags.forEach(tag => {
@@ -658,8 +700,11 @@
                     } else {
                         btn.className = "filter-btn px-4 py-1.5 rounded-full bg-white dark:bg-slate-800/70 text-slate-500 dark:text-slate-400 hover:bg-sky-50 dark:hover:bg-slate-700 hover:text-sky-600 dark:hover:text-sky-300 text-xs whitespace-nowrap border border-sky-100 dark:border-slate-700 shadow-sm transition-all";
                     }
-                    subContainer.appendChild(btn);
+                    tagsWrapper.appendChild(btn);
                 });
+                
+                subContainer.appendChild(tagsWrapper);
+                
             } else {
                 subContainer.classList.add('hidden');
             }
