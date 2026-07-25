@@ -19,7 +19,8 @@
       "vocaloid",
       "jpop",
       "hatsune miku"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "31b1470e",
@@ -38,7 +39,8 @@
     "raw_lastfm_tags": [
       "taiwanese",
       "indie"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "8ca6cca5",
@@ -63,7 +65,8 @@
       "female vocalists",
       "indie",
       "chillout"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "61ceddb6",
@@ -87,7 +90,8 @@
       "i-dle",
       "cube entertainment",
       "88rising"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "16cf8a0d",
@@ -108,7 +112,8 @@
       "miku",
       "japanese",
       "j-pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "d2d0b20a",
@@ -123,7 +128,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=kkUWlcjmOew",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "f62282e5",
@@ -146,7 +152,8 @@
       "korean",
       "pop",
       "attrakt"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "577cecef",
@@ -170,7 +177,8 @@
       "korean",
       "kpop",
       "starship entertainment"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "bb941ed4",
@@ -190,7 +198,8 @@
       "vocaloid",
       "japanese",
       "vocaloidp"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "48dbc944",
@@ -211,7 +220,8 @@
       "hokkien",
       "taiwan",
       "japanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "c023ceb1",
@@ -226,7 +236,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=jrt4iWhofPA",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "f54026f7",
@@ -251,7 +262,8 @@
       "korean",
       "kpop",
       "starship entertainment"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "7127d836",
@@ -267,7 +279,7 @@
       "流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/a1/da/b5a1da2c-b4f4-993b-29bd-c9b5d4d8db08/4511820-95893.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=XzqgSTK9RrE",
+    "youtube_url": "https://www.youtube.com/watch?v=jvoW9lJdirk",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -276,7 +288,8 @@
       "techno",
       "rnb",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "35d58e2e",
@@ -297,7 +310,8 @@
       "mandarin",
       "taiwan",
       "mandopop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "5ea14de0",
@@ -324,7 +338,8 @@
       "folk",
       "singer-songwriter",
       "indie pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "e6fe4eb0",
@@ -346,7 +361,8 @@
       "loona",
       "korean",
       "starship entertainment"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "e09368af",
@@ -359,7 +375,7 @@
       "日語流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/39/60/1f/39601f09-510b-b6d3-254e-c85dc1a79222/1.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=NTrm_idbhUk",
+    "youtube_url": "https://www.youtube.com/watch?v=OAZ3xQVA5m4",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -367,7 +383,8 @@
       "j-pop",
       "japanese",
       "synthetic voice"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "11719087",
@@ -388,7 +405,8 @@
       "mandarin",
       "taiwan",
       "mandopop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "5d96b61f",
@@ -410,7 +428,8 @@
       "indie pop",
       "soul",
       "rnb"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "70aad10d",
@@ -434,7 +453,8 @@
       "pop court with manda m",
       "korean",
       "starship entertainment"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "0141c13c",
@@ -449,7 +469,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=XPLkkdMFmco",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "2fbad744",
@@ -472,7 +493,8 @@
       "chinese",
       "pop",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "49643aea",
@@ -497,7 +519,8 @@
       "country",
       "dance",
       "electronic"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "24207404",
@@ -515,7 +538,8 @@
     "raw_lastfm_tags": [
       "garage",
       "k-pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "45b68465",
@@ -536,7 +560,8 @@
       "j-pop",
       "japanese",
       "synthetic voice"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "4ae2cfad",
@@ -559,7 +584,8 @@
       "chinese",
       "pop",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "559993f5",
@@ -582,7 +608,8 @@
       "pop",
       "dance",
       "electronic"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "85a3ede4",
@@ -601,7 +628,8 @@
     "raw_lastfm_tags": [
       "garage",
       "k-pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "f361f7a4",
@@ -624,7 +652,8 @@
       "rock",
       "vocarock",
       "vocaloidp"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "0f61720c",
@@ -647,7 +676,8 @@
       "chinese",
       "pop",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "fd19b297",
@@ -673,7 +703,8 @@
       "lady gaga",
       "dance",
       "electronic"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "9b1ce238",
@@ -688,7 +719,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=oKBwWQI-IoI",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "58b07115",
@@ -711,7 +743,8 @@
       "japanese",
       "synthetic voice",
       "electronic"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "a2117dc5",
@@ -734,7 +767,8 @@
       "chinese",
       "pop",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "abff8f43",
@@ -748,7 +782,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=sE1o6zj0P7g",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "6957da22",
@@ -775,7 +810,8 @@
       "k-pop",
       "korean",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "5589ce40",
@@ -796,7 +832,8 @@
       "j-pop",
       "japanese",
       "synthetic voice"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1a8f05fe",
@@ -819,7 +856,8 @@
       "chinese",
       "pop",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "99c72dd0",
@@ -834,7 +872,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=pZ1NdE69VTs",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "0356563b",
@@ -857,7 +896,8 @@
       "elle cried to this",
       "korean",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "d380ce03",
@@ -879,7 +919,8 @@
       "anime",
       "japanese",
       "j-rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "eb776514",
@@ -894,7 +935,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=7Hr3p1BHC_E",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "b87cd439",
@@ -912,7 +954,8 @@
     "raw_lastfm_tags": [
       "garage",
       "k-pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "7faac1c5",
@@ -933,7 +976,8 @@
       "japanese",
       "j-rock",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "61cdc93e",
@@ -956,7 +1000,8 @@
       "male vocalists",
       "taiwan",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "9ba0281b",
@@ -971,7 +1016,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=K9_VFxzCuQ0",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "55315442",
@@ -992,7 +1038,8 @@
       "japanese",
       "j-rock",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "3f71b525",
@@ -1014,7 +1061,8 @@
       "ballad",
       "taiwan",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "45bc69b6",
@@ -1029,7 +1077,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=eA0lHNZ1KCA",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "4a644482",
@@ -1050,7 +1099,8 @@
       "japanese",
       "j-rock",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "4713d00e",
@@ -1064,7 +1114,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=dZlT8K_Woo0",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": true
   },
   {
     "id": "54b0a739",
@@ -1073,13 +1124,23 @@
     "language": "英文",
     "tags": [
       "英文",
-      "流行"
+      "流行",
+      "流行搖滾",
+      "搖滾"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/ed/8c/02ed8cab-c089-2fdd-7ce6-ab334a9a4e19/21UMGIM26093.rgb.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=ZmDBbnmKpqQ",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [
+      "batch-test",
+      "pop",
+      "bedroom pop",
+      "sad",
+      "pop rock",
+      "rock"
+    ],
+    "is_practicing": false
   },
   {
     "id": "3397150f",
@@ -1100,7 +1161,8 @@
       "japanese",
       "j-rock",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1aa561d5",
@@ -1122,7 +1184,8 @@
       "chinese",
       "taiwan",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1dc9278d",
@@ -1145,7 +1208,8 @@
       "piano rock",
       "guts",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1c846b12",
@@ -1166,7 +1230,8 @@
       "japanese",
       "j-rock",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "17f30ac8",
@@ -1187,7 +1252,8 @@
       "chinese",
       "taiwan",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "4995f87a",
@@ -1210,7 +1276,8 @@
       "psychedelic pop",
       "indie pop",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "d1644351",
@@ -1232,7 +1299,8 @@
       "rock",
       "j-pop",
       "j-rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "64a21ca4",
@@ -1253,7 +1321,8 @@
       "chinese",
       "taiwan",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "69619d44",
@@ -1280,7 +1349,8 @@
       "soundtrack",
       "game music",
       "video game music"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "a529dd56",
@@ -1301,7 +1371,8 @@
       "japanese",
       "j-rock",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "793b3072",
@@ -1322,7 +1393,8 @@
       "chinese",
       "taiwan",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "03423def",
@@ -1345,7 +1417,8 @@
       "male vocalists",
       "pop rock",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "6471fc4c",
@@ -1366,7 +1439,8 @@
       "j-pop",
       "japanese",
       "j-rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "6afe29e5",
@@ -1388,7 +1462,8 @@
       "chinese",
       "taiwan",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "22b2bd78",
@@ -1411,7 +1486,8 @@
       "country pop",
       "female vocalists",
       "taylor swift"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "f1434f36",
@@ -1433,7 +1509,8 @@
       "j-pop",
       "japanese",
       "j-rock"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "6498d9aa",
@@ -1448,7 +1525,7 @@
       "鄉村音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=ic8j13piAhQ",
+    "youtube_url": "https://www.youtube.com/watch?v=B8Q-nHfEsQY",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -1458,7 +1535,8 @@
       "industrial pop",
       "country",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "3cf9f29c",
@@ -1479,7 +1557,8 @@
       "japanese",
       "j-rock",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "6a34cd17",
@@ -1500,7 +1579,8 @@
       "c-pop",
       "china",
       "male vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "c5c7b117",
@@ -1524,7 +1604,8 @@
       "love",
       "country pop",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "ac956688",
@@ -1539,7 +1620,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=Ax57J2xaZ_w",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "3878f915",
@@ -1553,7 +1635,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=yd3qLHYqFuc",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "dd3c7f1d",
@@ -1577,7 +1660,8 @@
       "max martin",
       "country",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "659a3553",
@@ -1592,7 +1676,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "717673b4",
@@ -1606,7 +1691,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=10DHUqSVu6I",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "b155a9ae",
@@ -1631,7 +1717,8 @@
       "dream pop",
       "country",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "8a1c71e8",
@@ -1646,7 +1733,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=9QLT1Aw_45s",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "674cceb7",
@@ -1661,7 +1749,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=0vv149qqciw",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "925270e1",
@@ -1684,7 +1773,8 @@
       "love",
       "romantic",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "224feb55",
@@ -1695,10 +1785,11 @@
       "日文"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/dd/e4/62dde4e9-701b-3331-9c78-f5449b6a96ae/198704270253_Cover.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=RexyoaXaQ1o",
+    "youtube_url": "https://www.youtube.com/watch?v=0PGfVrLeXUU",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": true
   },
   {
     "id": "09a9d9cc",
@@ -1712,7 +1803,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=a1dxsIeuDK0",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "abf6ef9d",
@@ -1736,7 +1828,8 @@
       "love at first listen",
       "country",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "2bcdbfcb",
@@ -1758,7 +1851,8 @@
       "j-rock",
       "bandori",
       "bangdream"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "08a3793d",
@@ -1772,7 +1866,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=exVEN7hlqBg",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "d263778a",
@@ -1794,7 +1889,8 @@
       "2014",
       "female vocalists",
       "country"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "9305b404",
@@ -1809,7 +1905,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=8ZP5eqm4JqM",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "7b9e488a",
@@ -1823,7 +1920,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=aT6056Eb11I",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "eae55f51",
@@ -1832,13 +1930,25 @@
     "language": "英文",
     "tags": [
       "英文",
-      "流行"
+      "流行",
+      "原聲帶",
+      "不插電",
+      "鄉村音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/71/68/56/71685693-ccea-7640-209b-94a0f974c697/21UM1IM25046.rgb.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=RzhAS_GnJIc",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [
+      "soundtrack",
+      "sweet",
+      "taylor swift",
+      "acoustic",
+      "female vocalists",
+      "pop",
+      "country"
+    ],
+    "is_practicing": false
   },
   {
     "id": "d0278b2c",
@@ -1853,7 +1963,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=a51VH9BYzZA",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "66f3fe25",
@@ -1878,7 +1989,8 @@
       "taiwan",
       "post-rock",
       "alternative rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "a1e8fe1f",
@@ -1902,7 +2014,8 @@
       "queer",
       "electropop",
       "synth-pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "b2a404b9",
@@ -1922,7 +2035,8 @@
       "japanese",
       "j-pop",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "5f2ce3ae",
@@ -1947,7 +2061,8 @@
       "taiwan",
       "post-rock",
       "alternative rock"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "5672d2ad",
@@ -1974,7 +2089,8 @@
       "maroon 5",
       "pop rock",
       "alternative rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "2dd9bbea",
@@ -1997,7 +2113,8 @@
       "pop",
       "singer-songwriter",
       "japan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "e7d7abd9",
@@ -2020,7 +2137,8 @@
       "indie rock",
       "post-rock",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "2e18ed56",
@@ -2043,7 +2161,8 @@
       "duet",
       "pop",
       "film score"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "755bc6f8",
@@ -2063,7 +2182,8 @@
       "japanese",
       "j-pop",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "ba149fe8",
@@ -2086,7 +2206,8 @@
       "indie rock",
       "post-rock",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "c666c1d3",
@@ -2111,7 +2232,8 @@
       "hip-hop",
       "pop",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "391d7ce0",
@@ -2124,14 +2246,15 @@
       "流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/85/41/7a854143-e744-5d89-8780-efc407016b01/4582649125727.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=Y4DHUWirEPU",
+    "youtube_url": "https://www.youtube.com/watch?v=nmeccuUXs4Q",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
       "japanese",
       "j-pop",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "a4859dad",
@@ -2154,7 +2277,8 @@
       "indie rock",
       "post-rock",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "b3ee8c6d",
@@ -2174,7 +2298,8 @@
       "pop",
       "rnb",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "0f682a0f",
@@ -2199,7 +2324,8 @@
       "alternative rock",
       "rock",
       "j-rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "efa70a0d",
@@ -2220,7 +2346,8 @@
       "chinese",
       "korean",
       "cpop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "dcb967f0",
@@ -2242,7 +2369,8 @@
       "sad",
       "female vocalists",
       "rnb"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "ad1eef0a",
@@ -2266,7 +2394,8 @@
       "j-rock",
       "j-pop",
       "indie"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "9c6eae40",
@@ -2286,7 +2415,8 @@
       "chinese",
       "korean",
       "cpop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "069d4081",
@@ -2295,13 +2425,22 @@
     "language": "英文",
     "tags": [
       "英文",
-      "流行"
+      "流行",
+      "R&B"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/70/53/76/705376dc-d0dc-6945-7fb2-415038e3aafa/18UMGIM36925.rgb.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=kHLHSlExFis",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [
+      "pop",
+      "sweetener",
+      "trap",
+      "gospel",
+      "rnb",
+      "female vocalists"
+    ],
+    "is_practicing": false
   },
   {
     "id": "e3f97d4a",
@@ -2325,7 +2464,8 @@
       "j-rock",
       "j-pop",
       "indie"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "32725fb5",
@@ -2348,7 +2488,8 @@
       "asian",
       "cpop",
       "all"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "664f9fb1",
@@ -2363,7 +2504,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=ekzHIouo8Q4",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "e43b5c76",
@@ -2387,7 +2529,8 @@
       "j-pop",
       "j-rock",
       "indie"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "daddaf8d",
@@ -2409,7 +2552,8 @@
       "all",
       "chinese",
       "cpop"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "ad1c8a20",
@@ -2424,7 +2568,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=IBU0eAQaZOY",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "719f19d4",
@@ -2444,7 +2589,8 @@
       "imported by drip.feed",
       "j-pop",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "3ca2f970",
@@ -2464,7 +2610,8 @@
       "rock",
       "chinese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "bc63e9f2",
@@ -2476,10 +2623,11 @@
       "流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=DfFvTjutIUs",
+    "youtube_url": "https://www.youtube.com/watch?v=LjhCEhWiKXk",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "e77df696",
@@ -2502,7 +2650,8 @@
       "perfect",
       "japanese",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "0367dcc5",
@@ -2523,7 +2672,8 @@
       "imported by drip.feed",
       "japanese",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "20d8bfe8",
@@ -2545,7 +2695,8 @@
       "indie",
       "post rock",
       "instrumental"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "ffcd21b4",
@@ -2560,7 +2711,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=V9PVRfjEBTI",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "1a7d88d1",
@@ -2574,7 +2726,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=4U65GQ_JCZU",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "3570d746",
@@ -2588,7 +2741,7 @@
       "台語流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2c/2b/1c/2c2b1c8c-bbf1-9821-2784-a058b96f13d2/5054197967450.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=3Y0Ut5ozaKs",
+    "youtube_url": "https://www.youtube.com/watch?v=yZmwvfam9oE",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -2597,7 +2750,8 @@
       "taiwan",
       "taiwanese",
       "hokkien"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "4403a7a1",
@@ -2612,7 +2766,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=pbMwTqkKSps",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": true
   },
   {
     "id": "ecee4056",
@@ -2627,7 +2782,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=hcXcJAmzmAc",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "c04f0f5b",
@@ -2654,7 +2810,8 @@
       "taiwan",
       "taiwanese",
       "chinese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "97d0de3f",
@@ -2668,7 +2825,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=-tn2S3kJlyU",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "46c612a1",
@@ -2683,7 +2841,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=8L5cQlXMpeY",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "99080092",
@@ -2705,7 +2864,8 @@
       "taiwan",
       "taiwanese",
       "chinese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "5a9ece25",
@@ -2731,7 +2891,8 @@
       "love",
       "soul",
       "neo-soul"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1866b9bc",
@@ -2745,7 +2906,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=OmuW_v5LoIU",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "604c4deb",
@@ -2767,7 +2929,8 @@
       "folk",
       "chinese",
       "indie pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "7b34fb8a",
@@ -2782,14 +2945,15 @@
       "新靈魂樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/40/34/274034b3-42d9-ba59-b22c-dc4f57672ee0/886446799513.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=hKgl5-lkT8U",
+    "youtube_url": "https://www.youtube.com/watch?v=vBy7FaapGRo",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
       "rnb",
       "soul",
       "neo-soul"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "78562729",
@@ -2812,7 +2976,8 @@
       "anime",
       "soundtrack",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "88f3fd6a",
@@ -2834,7 +2999,8 @@
       "folk",
       "chinese",
       "indie pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "df764e77",
@@ -2856,7 +3022,8 @@
       "2010s",
       "soul",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "2e69cbba",
@@ -2871,7 +3038,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=bujzV3nc1Tg",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "4b08dee6",
@@ -2893,7 +3061,8 @@
       "indie pop",
       "chinese",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "725215bf",
@@ -2916,7 +3085,8 @@
       "oldies",
       "easy listening",
       "frank sinatra"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "aa280239",
@@ -2931,7 +3101,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=v-WcMQbXbKY",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "3be47c7e",
@@ -2953,7 +3124,8 @@
       "indie pop",
       "chinese",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "5962babe",
@@ -2979,7 +3151,8 @@
       "avril lavigne",
       "skate punk",
       "pop punk"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "481c1a9c",
@@ -2994,7 +3167,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=aRDURmIYBZ4",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": true
   },
   {
     "id": "0a498147",
@@ -3016,7 +3190,8 @@
       "indie pop",
       "chinese",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "9c08bbfc",
@@ -3042,7 +3217,8 @@
       "rock",
       "skate punk",
       "pop punk"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1b633329",
@@ -3054,10 +3230,11 @@
       "日語流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/40/fe/8d40fe5e-b724-dd3b-3ddd-202189c492ff/TFDS-01013WW.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=ADf36atCSvw",
+    "youtube_url": "https://www.youtube.com/watch?v=TBm473lA5Bk",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "a8e7b0a6",
@@ -3079,7 +3256,8 @@
       "indie pop",
       "chinese",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "daa89fc9",
@@ -3105,7 +3283,8 @@
       "female vocalists",
       "skate punk",
       "pop punk"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "7a8aedf7",
@@ -3120,7 +3299,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=-lec--FlSJ4",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "ca45eb17",
@@ -3133,7 +3313,7 @@
       "獨立音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/52/9e/18/529e18f7-9847-90c7-1908-0b91c0556171/waa_bastards_sleeve_F_cover_4000x4000.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=Zi3_XWjVNpk",
+    "youtube_url": "https://www.youtube.com/watch?v=LWPCf4f2iko",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -3142,7 +3322,8 @@
       "indie pop",
       "chinese",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "53955608",
@@ -3168,7 +3349,8 @@
       "female vocalists",
       "skate punk",
       "pop punk"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "5388b091",
@@ -3183,7 +3365,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=EHBFKhLUVig",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "fa26e3fc",
@@ -3205,7 +3388,8 @@
       "indie pop",
       "chinese",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1ed708a2",
@@ -3229,7 +3413,8 @@
       "pop",
       "rnb",
       "pop rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "ef1942a0",
@@ -3251,7 +3436,8 @@
       "perfect",
       "shiina ringo",
       "j-pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "2f475a63",
@@ -3273,7 +3459,8 @@
       "indie pop",
       "chinese",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "bef49216",
@@ -3296,7 +3483,8 @@
       "pop",
       "british",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "db1630b2",
@@ -3311,7 +3499,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=Sy_08-HcR3Y",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "34d262ce",
@@ -3333,7 +3522,8 @@
       "indie pop",
       "chinese",
       "taiwan"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "0b3291be",
@@ -3355,7 +3545,8 @@
       "female vocalists",
       "adele",
       "british"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "b26478af",
@@ -3377,7 +3568,8 @@
       "japanese",
       "j-pop",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "28108ce8",
@@ -3403,7 +3595,8 @@
       "taiwanese",
       "indie",
       "indie pop"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "454e2b9c",
@@ -3427,7 +3620,8 @@
       "soul",
       "female vocalists",
       "british"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "a4f381be",
@@ -3447,7 +3641,8 @@
       "japanese",
       "j-pop",
       "touhou"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "4a446c32",
@@ -3460,7 +3655,7 @@
       "華語流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/bb/87/bcbb8783-5f44-683b-5697-8ef3785692b9/cover.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=IE-G5W--RhE",
+    "youtube_url": "https://www.youtube.com/watch?v=0GQpiskxnFI",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -3469,7 +3664,8 @@
       "female vocalists",
       "pop",
       "c-pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "8ff33904",
@@ -3492,7 +3688,8 @@
       "british",
       "rnb",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "ce7e14f2",
@@ -3500,13 +3697,21 @@
     "artist": "優里",
     "language": "日文",
     "tags": [
-      "日文"
+      "日文",
+      "東方Project",
+      "日語流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f1/d5/61/f1d561dc-7fab-68fa-39ac-4440d7a27940/4547366533842.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=cbqvxDTLMps",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [
+      "touhou",
+      "japanese",
+      "j-pop",
+      "japan"
+    ],
+    "is_practicing": false
   },
   {
     "id": "5f2b80ed",
@@ -3532,7 +3737,8 @@
       "ballad",
       "taiwan",
       "chinese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "cbeacea0",
@@ -3555,7 +3761,8 @@
       "british",
       "pop",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "9c571622",
@@ -3576,7 +3783,8 @@
       "japanese",
       "j-pop",
       "japan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "bb5e3274",
@@ -3598,7 +3806,8 @@
       "female vocalists",
       "pop",
       "c-pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "37f34361",
@@ -3620,7 +3829,8 @@
       "jazz pop",
       "jazz",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1082a0ab",
@@ -3642,7 +3852,8 @@
       "japanese",
       "jpop",
       "jrock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "d19e61ab",
@@ -3663,7 +3874,8 @@
       "pop",
       "female vocalist",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "d6971a42",
@@ -3686,7 +3898,8 @@
       "alternative",
       "rock",
       "coldplay"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "cea0140e",
@@ -3712,7 +3925,8 @@
       "pop punk",
       "math pop",
       "anime"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "e0a11ac1",
@@ -3726,7 +3940,7 @@
       "華語流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/06/fe/60/06fe60ff-f278-69d6-2742-cea964298648/cover.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=Z-8uTUU5SR8",
+    "youtube_url": "https://www.youtube.com/watch?v=F5FlN-NBGo8",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -3735,7 +3949,8 @@
       "c-pop",
       "female vocalists",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "bdf10dde",
@@ -3758,7 +3973,8 @@
       "alternative",
       "coldplay",
       "britpop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "144cab43",
@@ -3779,7 +3995,8 @@
       "j-rock",
       "indie rock",
       "anime"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "f9f39254",
@@ -3793,7 +4010,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=MEVY19A70F0",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "0d3df5bf",
@@ -3816,7 +4034,8 @@
       "coldplay",
       "britpop",
       "alternative rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "3f546f87",
@@ -3841,7 +4060,8 @@
       "math pop",
       "indie rock",
       "anime"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "251a2fe5",
@@ -3855,7 +4075,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=BRcudpJzy1I",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "ef934914",
@@ -3877,7 +4098,8 @@
       "90s",
       "british",
       "oasis"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "eccf0808",
@@ -3893,7 +4115,8 @@
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
       "7 of 10 stars"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "361ec434",
@@ -3916,7 +4139,8 @@
       "c-pop",
       "female vocalists",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1bb665b0",
@@ -3938,7 +4162,8 @@
       "leona lewis",
       "love",
       "soul"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "2aec2515",
@@ -3959,7 +4184,8 @@
       "female vocalists",
       "jpop",
       "girl groups"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "87472983",
@@ -3976,7 +4202,8 @@
     "raw_lastfm_tags": [
       "chinese",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "44192045",
@@ -4000,7 +4227,8 @@
       "rock",
       "indie",
       "radiohead"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "2ada3ff3",
@@ -4022,7 +4250,8 @@
       "j-rock",
       "rock",
       "alternative"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1b58f030",
@@ -4039,7 +4268,8 @@
     "raw_lastfm_tags": [
       "chinese",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "4f47974c",
@@ -4065,7 +4295,8 @@
       "female vocalists",
       "british",
       "singer-songwriter"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "b9140b33",
@@ -4079,7 +4310,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=xGbxsiBZGPI",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "794137d4",
@@ -4102,7 +4334,8 @@
       "pop",
       "david guetta",
       "house"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "7251a8f6",
@@ -4116,7 +4349,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=qs4Q4cQxyU4",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "91af0d13",
@@ -4137,7 +4371,8 @@
       "china",
       "c-pop",
       "mandopop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "3ccd0f83",
@@ -4159,7 +4394,8 @@
       "rnb",
       "rihanna",
       "dance"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "5e0d0614",
@@ -4173,7 +4409,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=SAHvDE9FFAE",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "5741c1ce",
@@ -4187,7 +4424,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=c2wew_7P2-E",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "11d8ff95",
@@ -4200,7 +4438,7 @@
       "歌劇"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/3b/3e/8d/3b3e8d69-6a16-95bb-ad87-20a1f7899575/05099952168154.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=JYWxrt2o9cY",
+    "youtube_url": "https://www.youtube.com/watch?v=nlucgvvQxmo",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -4208,7 +4446,8 @@
       "female vocalists",
       "sarah brightman",
       "opera"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "ce860818",
@@ -4230,7 +4469,8 @@
       "rock",
       "japanese rock",
       "japanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "029ef6d9",
@@ -4250,7 +4490,8 @@
       "china",
       "c-pop",
       "mandopop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "31c8914b",
@@ -4274,7 +4515,8 @@
       "love at first listen",
       "breaking dawn",
       "singer-songwriter"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "9b5a393c",
@@ -4296,7 +4538,8 @@
       "rock",
       "japanese",
       "japan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "e6fc934d",
@@ -4317,7 +4560,8 @@
       "taiwan",
       "taiwanese",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "83a76fcb",
@@ -4341,7 +4585,8 @@
       "groovy",
       "pop",
       "indie pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "0e045707",
@@ -4355,7 +4600,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=kGY6N9DL4Jw",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "8bee3274",
@@ -4375,7 +4621,8 @@
       "pop",
       "acoustic",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "4d804969",
@@ -4397,7 +4644,8 @@
       "japanese",
       "pop",
       "preteen music"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "43e391f7",
@@ -4419,7 +4667,8 @@
       "c-pop",
       "my love",
       "chinese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "a293da88",
@@ -4445,7 +4694,8 @@
       "acoustic",
       "british",
       "singer-songwriter"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "16758567",
@@ -4468,7 +4718,8 @@
       "japanese",
       "weeb",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "7d0b6775",
@@ -4490,7 +4741,8 @@
       "taiwanese",
       "rainie yang",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "088fb3ee",
@@ -4515,7 +4767,8 @@
       "british",
       "acoustic",
       "singer-songwriter"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "b2d56577",
@@ -4539,7 +4792,8 @@
       "j-pop",
       "japanese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "10f91f24",
@@ -4562,7 +4816,8 @@
       "c-pop",
       "female vocalists",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "39e5f804",
@@ -4587,7 +4842,8 @@
       "acoustic",
       "british",
       "singer-songwriter"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "3aaa49fa",
@@ -4607,7 +4863,8 @@
       "japanese",
       "jpop",
       "japan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "40efcf25",
@@ -4629,7 +4886,8 @@
       "taiwanese",
       "female vocalists",
       "cpop"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "d47bfa8d",
@@ -4656,7 +4914,8 @@
       "acoustic",
       "british",
       "singer-songwriter"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "7ab2b6ef",
@@ -4678,7 +4937,8 @@
       "japan",
       "j-pop",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "5a5652c8",
@@ -4702,7 +4962,8 @@
       "c-pop",
       "taiwanese",
       "taiwan"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "b786c3d9",
@@ -4727,7 +4988,8 @@
       "piano",
       "dance",
       "electronic"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "cc4e9e5a",
@@ -4749,7 +5011,8 @@
       "japan",
       "j-pop",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "b1731df8",
@@ -4764,7 +5027,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=-M9MQgpN4Gk",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "40154120",
@@ -4787,7 +5051,8 @@
       "jpop",
       "utada hikaru",
       "enka"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "e689be61",
@@ -4805,7 +5070,8 @@
     "raw_lastfm_tags": [
       "c-pop",
       "christmas"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "7e6b874b",
@@ -4830,7 +5096,8 @@
       "japanese",
       "indie",
       "singer-songwriter"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "0761af9b",
@@ -4853,7 +5120,8 @@
       "fir",
       "f i r",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "5b303716",
@@ -4877,7 +5145,8 @@
       "j-rock",
       "rock",
       "electropop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "0beea494",
@@ -4900,7 +5169,8 @@
       "china",
       "c-pop",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "af353244",
@@ -4925,7 +5195,8 @@
       "rock",
       "japanese",
       "singer-songwriter"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "f1d1ab90",
@@ -4947,7 +5218,8 @@
       "pop",
       "cpop",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "996d82e8",
@@ -4972,7 +5244,8 @@
       "rock",
       "japanese",
       "singer-songwriter"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "2cc5cb3c",
@@ -4996,7 +5269,8 @@
       "taiwanese",
       "group",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "4895b82c",
@@ -5010,7 +5284,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=K4xLi8IF1FM",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "d2e3b7ff",
@@ -5029,7 +5304,8 @@
       "rock",
       "chinese",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "0ec21f1e",
@@ -5055,7 +5331,8 @@
       "female vocalists",
       "singer-songwriter",
       "actress"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "eb26441e",
@@ -5069,7 +5346,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=kZ_No8rsqv4",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "13778217",
@@ -5091,7 +5369,8 @@
       "progressive metal",
       "japanese",
       "j-pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1722c013",
@@ -5112,7 +5391,8 @@
       "2019",
       "mandarin",
       "female vocalist"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "6e8c9e50",
@@ -5134,7 +5414,8 @@
       "j-pop",
       "anime",
       "progressive metal"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "7761ce1d",
@@ -5156,7 +5437,8 @@
       "chinese",
       "taiwanese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "98e2b987",
@@ -5178,7 +5460,8 @@
       "guilty crown",
       "j-pop",
       "progressive metal"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "4e640f64",
@@ -5203,7 +5486,8 @@
       "mandarin",
       "chinese",
       "singapore"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "d4f00703",
@@ -5227,7 +5511,8 @@
       "progressive metal",
       "japanese",
       "j-pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "39ceb09a",
@@ -5249,7 +5534,8 @@
       "singapore",
       "c-pop",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "ab36068b",
@@ -5262,7 +5548,7 @@
       "日語流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/06/bb/c5/06bbc527-330c-c3e5-0a09-7a8291a699ae/jacket_SRCL08149B00Z_550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=NuZj7C-UkVk",
+    "youtube_url": "https://www.youtube.com/watch?v=qiX5DI--8bg",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -5271,7 +5557,8 @@
       "psycho-pass",
       "progressive metal",
       "j-pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "cec4dc7c",
@@ -5295,7 +5582,8 @@
       "ballad",
       "c-pop",
       "singapore"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "a7b8af23",
@@ -5309,7 +5597,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=eWeSqrRk-gs",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "df36bae1",
@@ -5321,10 +5610,11 @@
       "日語流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/7b/7c/d87b7cfd-c88c-1003-bc5d-883882043e33/190295747138.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=lg4R5AZHhIo",
+    "youtube_url": "https://www.youtube.com/watch?v=rlHTmo50zSI",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "a4d484eb",
@@ -5346,7 +5636,8 @@
       "romantic",
       "malaysia",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "2626087a",
@@ -5360,7 +5651,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=pGSZCTN_HdY",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "2dceae83",
@@ -5380,7 +5672,8 @@
       "chinese",
       "hong kong",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "2964b3a6",
@@ -5403,7 +5696,8 @@
       "pop",
       "female vocalists",
       "utaite"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "a9ace487",
@@ -5428,7 +5722,8 @@
       "folk",
       "taiwan",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "a2badab0",
@@ -5451,7 +5746,8 @@
       "pop",
       "female vocalists",
       "utaite"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "52e94fd5",
@@ -5476,7 +5772,8 @@
       "folk",
       "taiwan",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "b09f4bce",
@@ -5497,7 +5794,8 @@
       "j-pop",
       "japanese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "4a0aad8c",
@@ -5521,7 +5819,8 @@
       "indie pop",
       "chinese",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "3eabf0fa",
@@ -5544,7 +5843,8 @@
       "pop",
       "female vocalists",
       "utaite"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "83d1831c",
@@ -5568,7 +5868,8 @@
       "indie pop",
       "chinese",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "af039aa4",
@@ -5591,7 +5892,8 @@
       "pop",
       "female vocalists",
       "utaite"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "a113161e",
@@ -5614,7 +5916,8 @@
       "pop",
       "female vocalists",
       "utaite"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "d5239b1a",
@@ -5634,7 +5937,8 @@
       "taiwan",
       "taiwanese",
       "mandopop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1d957222",
@@ -5657,7 +5961,8 @@
       "jpop",
       "japanese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "24538d62",
@@ -5680,7 +5985,8 @@
       "singer-songwriter",
       "female vocalists",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "24a50207",
@@ -5703,7 +6009,8 @@
       "j-pop",
       "japanese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "218c23e5",
@@ -5725,7 +6032,8 @@
       "pop",
       "female vocalists",
       "taiwan"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "7ee2a9da",
@@ -5750,7 +6058,8 @@
       "j-pop",
       "japanese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "04477237",
@@ -5774,7 +6083,8 @@
       "taiwan",
       "all",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "53cb2fa7",
@@ -5795,7 +6105,8 @@
       "j-pop",
       "japanese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "366aca30",
@@ -5809,7 +6120,7 @@
       "台語流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/bb/e9/79bbe9ba-5bb3-f295-40ac-71855cd50d6d/887375512181.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=KWlP4gHOvXo",
+    "youtube_url": "https://www.youtube.com/watch?v=kZecE9AeELI",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -5821,7 +6132,8 @@
       "taiwanese",
       "taiwan",
       "indie rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "a8758fdf",
@@ -5842,7 +6154,8 @@
       "j-pop",
       "japanese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "da50b7a0",
@@ -5865,7 +6178,8 @@
       "electro",
       "vocal",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "c0029148",
@@ -5885,7 +6199,8 @@
       "chinese",
       "c-pop",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "33cb8328",
@@ -5905,7 +6220,8 @@
       "j-pop",
       "japanese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "61b0bb01",
@@ -5925,7 +6241,8 @@
       "chinese",
       "c-pop",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "0af686a8",
@@ -5946,7 +6263,8 @@
       "abo",
       "japanese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "41cc479e",
@@ -5966,7 +6284,8 @@
       "chinese",
       "c-pop",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "9e1a7aea",
@@ -5989,7 +6308,8 @@
       "pop",
       "female vocalists",
       "utaite"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "adb4d96e",
@@ -6002,14 +6322,15 @@
       "流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/f2/69/e0f26937-29a2-9be0-f8d3-99dd7de0b78a/cover.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=p0GPJbdKhCw",
+    "youtube_url": "https://www.youtube.com/watch?v=icOPUwJuzck",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
       "chinese",
       "c-pop",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "5533e9c5",
@@ -6024,7 +6345,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=9dKZeL2UbUM",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "bf29bd1b",
@@ -6044,7 +6366,8 @@
       "chinese",
       "c-pop",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1fa29c6c",
@@ -6064,7 +6387,8 @@
       "j-pop",
       "japanese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "696ea959",
@@ -6084,7 +6408,8 @@
       "chinese",
       "c-pop",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "a6c1080b",
@@ -6107,7 +6432,8 @@
       "pop",
       "female vocalists",
       "utaite"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "6b9ec51b",
@@ -6129,7 +6455,8 @@
       "chinese",
       "indie folk",
       "mandarin"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "0c121fd9",
@@ -6142,7 +6469,7 @@
       "流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/42/a3/cc/42a3cc35-fdb7-2ae7-02f3-e5a90f32eb8e/22UMGIM74128.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=iDvuZ7mRiJ0",
+    "youtube_url": "https://www.youtube.com/watch?v=YO-rXgQKlF8",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -6150,7 +6477,8 @@
       "j-pop",
       "japanese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "dc098beb",
@@ -6164,7 +6492,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=ENKFTmJxBaY",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "5cf5059f",
@@ -6187,7 +6516,8 @@
       "pop",
       "female vocalists",
       "utaite"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "f5cf89b9",
@@ -6210,7 +6540,8 @@
       "indie",
       "chinese",
       "singer-songwriter"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "d874d5ee",
@@ -6225,7 +6556,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=nIWZfhpnq6M",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "04664b7d",
@@ -6247,7 +6579,8 @@
       "indie",
       "alternative",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "12c83b9c",
@@ -6269,7 +6602,8 @@
       "utaite",
       "japanese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "e04cb02f",
@@ -6283,7 +6617,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=mIvKFlnLGao",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "1c76af06",
@@ -6306,7 +6641,8 @@
       "pop",
       "female vocalists",
       "utaite"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "34c99bf8",
@@ -6326,7 +6662,8 @@
       "cpop",
       "chinese",
       "malaysian"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "07bbc9c1",
@@ -6349,7 +6686,8 @@
       "pop",
       "female vocalists",
       "utaite"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "e6b6a6ad",
@@ -6363,7 +6701,7 @@
       "台語流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/87/7f/69877fbc-cd2c-bb9b-2397-5f3ed14a04a8/Hebe_Little_Happiness_1400.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=GCgvpwLNvtY",
+    "youtube_url": "https://www.youtube.com/watch?v=_sQSXwdtxlY",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -6373,7 +6711,8 @@
       "best of 2015",
       "c-pop",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "97c48894",
@@ -6388,7 +6727,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=H-1oG5U0NAo",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "447d5bfe",
@@ -6409,7 +6749,8 @@
       "c-pop",
       "chinese",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "d66cfcb8",
@@ -6432,7 +6773,8 @@
       "dandadan",
       "japanese",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "aacdf485",
@@ -6453,7 +6795,8 @@
       "hebe",
       "c-pop",
       "chinese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "dee52291",
@@ -6478,7 +6821,8 @@
       "imported by drip.feed",
       "j-pop",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "7c506b0c",
@@ -6500,7 +6844,8 @@
       "c-pop",
       "china",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "e19b4c3d",
@@ -6521,7 +6866,8 @@
       "new sound of japanese pop",
       "japanese",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "564b6738",
@@ -6543,7 +6889,8 @@
       "c-pop",
       "chinese",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "47203336",
@@ -6570,7 +6917,8 @@
       "japanese",
       "j-pop",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "e84749ad",
@@ -6591,7 +6939,8 @@
       "female vocalists",
       "c-pop",
       "asian"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "f47ebe4b",
@@ -6605,7 +6954,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=0q6c0AKDKU4",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "80189757",
@@ -6627,7 +6977,8 @@
       "70s",
       "indie",
       "shoegaze"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "4df7a833",
@@ -6653,7 +7004,8 @@
       "chainsaw man",
       "japanese",
       "j-rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "31da2e4e",
@@ -6667,7 +7019,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=vxucCfcMFCk",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "0fd55401",
@@ -6686,7 +7039,8 @@
       "japanese",
       "j-pop",
       "jpop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "f16dcf76",
@@ -6706,7 +7060,8 @@
       "chinese",
       "hong kong",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "520a209a",
@@ -6725,7 +7080,8 @@
       "japanese",
       "j-pop",
       "jpop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "77560219",
@@ -6746,7 +7102,8 @@
       "chinese",
       "hong kong",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "899a69ce",
@@ -6765,7 +7122,8 @@
       "japanese",
       "j-pop",
       "jpop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "6f1ba9b7",
@@ -6785,7 +7143,8 @@
       "chinese",
       "hong kong",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "10dd0da4",
@@ -6806,7 +7165,8 @@
       "j-pop",
       "anime",
       "jpop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "c591c931",
@@ -6818,7 +7178,7 @@
       "華語流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/bb/c7/55bbc782-299e-7f24-bc4a-ae129e6d8030/mzm.rpqttxch.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=D9ksLn6hZ7Q",
+    "youtube_url": "https://www.youtube.com/watch?v=mWqnQl-ymVA",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -6826,7 +7186,8 @@
       "chinese",
       "hong kong",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "05d654b2",
@@ -6853,7 +7214,8 @@
       "alternative",
       "indie rock",
       "post-hardcore"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "bf03c43f",
@@ -6873,7 +7235,8 @@
       "chinese",
       "hong kong",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "7b42f202",
@@ -6887,7 +7250,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=lY5OU01KV3Y",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "71deb8e5",
@@ -6914,7 +7278,8 @@
       "female vocalists",
       "cantonese",
       "mandarin"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "f53f0096",
@@ -6929,7 +7294,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "3ddc6a80",
@@ -6943,7 +7309,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=FiJHoPrS4Y4",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "6253b600",
@@ -6970,7 +7337,8 @@
       "j-rock",
       "japanese",
       "indie"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1c3fd689",
@@ -6991,7 +7359,8 @@
       "female vocalist",
       "c-pop",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "41b27245",
@@ -7005,7 +7374,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=8-62aIc0nQ8",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "acb38742",
@@ -7019,7 +7389,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=1q-rNAzye8U",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "ab58647b",
@@ -7034,7 +7405,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=sMSBAQ0tnBY",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": true
   },
   {
     "id": "36c68145",
@@ -7055,7 +7427,8 @@
       "chinese",
       "c-pop",
       "mandarin"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "9dae63ed",
@@ -7070,7 +7443,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=Rkrm5foi188",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": true
   },
   {
     "id": "796e8abc",
@@ -7083,7 +7457,7 @@
       "華語流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/a3/b1/73a3b15b-ab03-2460-4117-de11f4052dc9/8720623923600.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=A6i0jSfUimg",
+    "youtube_url": "https://www.youtube.com/watch?v=KXcdWoSMklM",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -7091,7 +7465,8 @@
       "pop",
       "chinese",
       "c-pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "6240167a",
@@ -7112,7 +7487,8 @@
       "japan",
       "jpm",
       "j-pop vocaloid"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "7487c7a6",
@@ -7126,7 +7502,7 @@
       "創作歌手"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/43/52/5e/43525e86-9c47-cb57-5ca5-a374aa7afa40/LaLa.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=SkccRDxghqI",
+    "youtube_url": "https://www.youtube.com/watch?v=TxXIfcRt1WQ",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -7136,7 +7512,8 @@
       "taiwanese female vocal",
       "taiwan",
       "singer-songwriter"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "ef0a610f",
@@ -7158,7 +7535,8 @@
       "japanese",
       "j-rock",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "99994590",
@@ -7185,7 +7563,8 @@
       "taiwan",
       "pop",
       "singer-songwriter"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "6714526e",
@@ -7208,7 +7587,8 @@
       "japanese",
       "rap",
       "hip-hop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "6b75ab07",
@@ -7231,7 +7611,8 @@
       "singer-songwriter",
       "female vocalists",
       "ballad"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "1c186d84",
@@ -7254,7 +7635,8 @@
       "japanese",
       "rap",
       "hip-hop"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "a4e52cc3",
@@ -7277,7 +7659,8 @@
       "singer-songwriter",
       "female vocalists",
       "ballad"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "29bf199a",
@@ -7296,7 +7679,8 @@
       "j-pop",
       "japanese",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "27fc0414",
@@ -7310,7 +7694,7 @@
       "華語流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/31/14/da/3114dad8-bffc-14c9-18fd-a836ef07d546/BD0032-_-Fu_Good.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=RaxDsOR64CU",
+    "youtube_url": "https://www.youtube.com/watch?v=QKb30DgwZ7Y",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -7320,7 +7704,8 @@
       "soundtrack",
       "c-pop",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "79dbdaca",
@@ -7342,7 +7727,8 @@
       "j-pop",
       "jpop",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "b9f911f8",
@@ -7364,7 +7750,8 @@
       "chankl78",
       "hong kong",
       "chinese pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "28966986",
@@ -7384,7 +7771,8 @@
       "j-pop",
       "japanese",
       "rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "f9093f5c",
@@ -7403,7 +7791,8 @@
       "pop",
       "taiwan",
       "chinese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "06f7e72e",
@@ -7422,7 +7811,8 @@
       "japanese",
       "j-pop",
       "jpop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "fba0e421",
@@ -7444,7 +7834,8 @@
       "c-pop",
       "asian",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "56c47db4",
@@ -7459,7 +7850,8 @@
     "youtube_url": "https://www.youtube.com/watch?v=3Fz17pPuI4k",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   },
   {
     "id": "96be6756",
@@ -7478,7 +7870,8 @@
       "taiwan",
       "all",
       "taiwanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "59eb41c0",
@@ -7502,7 +7895,8 @@
       "alternative rock",
       "rock",
       "j-rock"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "082eccc0",
@@ -7525,7 +7919,8 @@
       "female vocalists",
       "asian",
       "cpop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "94ec5ea5",
@@ -7549,7 +7944,8 @@
       "alternative rock",
       "rock",
       "j-rock"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "fb173448",
@@ -7574,7 +7970,8 @@
       "shimokita-kei",
       "electronic",
       "japanese"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "f817c159",
@@ -7595,7 +7992,8 @@
       "chinese",
       "c-pop",
       "mandarin"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "d6faf24e",
@@ -7616,7 +8014,8 @@
       "j-pop",
       "female vocalists",
       "vocaloid"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "038d4f1e",
@@ -7638,7 +8037,8 @@
       "hong kong",
       "c-pop",
       "2018"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "08edb4c5",
@@ -7659,7 +8059,8 @@
       "japanese",
       "j-pop",
       "no game no life"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "a3cfc611",
@@ -7681,7 +8082,8 @@
       "age29",
       "pop",
       "hong kong"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "bd978d1e",
@@ -7702,7 +8104,8 @@
       "japanese",
       "j-rock",
       "niconico"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "5b8498d1",
@@ -7724,7 +8127,8 @@
       "asian music",
       "asian pop",
       "c-pop"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "4de3ae56",
@@ -7750,7 +8154,8 @@
       "japanese",
       "female vocalists",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "ce19ff47",
@@ -7773,7 +8178,8 @@
       "malaysia",
       "asian pop",
       "c-pop"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "34225823",
@@ -7793,7 +8199,8 @@
       "city pop",
       "j-pop",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "a6db804a",
@@ -7806,7 +8213,7 @@
       "流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/0d/15/5a0d150d-124a-ed96-abaa-98f57e733938/19UMGIM39997.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=TpF0wNlopp8",
+    "youtube_url": "https://www.youtube.com/watch?v=2LuW7acW9B8",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
@@ -7815,7 +8222,8 @@
       "malaysia",
       "chinese",
       "pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "b9f3b5ad",
@@ -7840,7 +8248,8 @@
       "chinese",
       "rock",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "e220a69c",
@@ -7863,7 +8272,8 @@
       "ballad",
       "chinese",
       "c-pop"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "ca7cc94d",
@@ -7883,7 +8293,8 @@
       "c-pop",
       "cpop",
       "taiwan"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "3d3f33a6",
@@ -7905,7 +8316,8 @@
       "taiwan",
       "chinese",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "c2e8fdee",
@@ -7927,7 +8339,8 @@
       "taiwan",
       "chinese",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": true
   },
   {
     "id": "fa0340c8",
@@ -7947,7 +8360,8 @@
       "pop",
       "female vocals",
       "female vocalists"
-    ]
+    ],
+    "is_practicing": false
   },
   {
     "id": "71c75e5e",
@@ -7961,6 +8375,7 @@
     "youtube_url": "https://www.youtube.com/watch?v=iXkqbqzs1U4",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": []
+    "raw_lastfm_tags": [],
+    "is_practicing": false
   }
 ]
