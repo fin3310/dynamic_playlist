@@ -24,16 +24,14 @@
         .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #60a5fa; }
         .dark .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #475569; }
         
-        /* 🎨 亮色主題：完美對應立繪的粉藍色菱格紋氛圍，絕非純白 */
+        /* 🎨 亮式主題：立繪風格的垂直菱形格紋背景 */
         body {
             background-color: #e0f2fe; 
             background-image: 
-                linear-gradient(45deg, #bae6fd 25%, transparent 25%), 
-                linear-gradient(-45deg, #bae6fd 25%, transparent 25%), 
-                linear-gradient(45deg, transparent 75%, #bae6fd 75%), 
-                linear-gradient(-45deg, transparent 75%, #bae6fd 75%);
-            background-size: 40px 40px;
-            background-position: 0 0, 0 20px, 20px -20px, -20px 0px;
+                linear-gradient(30deg, #bae6fd 12%, transparent 12.5%, transparent 87%, #bae6fd 87.5%, #bae6fd),
+                linear-gradient(150deg, #bae6fd 12%, transparent 12.5%, transparent 87%, #bae6fd 87.5%, #bae6fd);
+            background-size: 50px 86px;
+            background-position: 0 0, 0 0;
             transition: background-color 0.3s ease;
         }
         /* 暗色主題：深海軍藍 */
