@@ -608,7 +608,23 @@
             
             mainLangs.forEach(lang => {
                 const btn = document.createElement('button');
-                btn.innerText = lang;
+                
+                // 🚀 新增：手機版短網址轉換對照表
+                const shortMap = {
+                    '日文': '日',
+                    '中文': '中',
+                    '英文': '英',
+                    '韓文': '韓',
+                    '全部': '全'
+                };
+
+                // 利用 Tailwind 樣式達成：手機顯示短字 (md:hidden)，電腦顯示長字 (hidden md:inline)
+                if (shortMap[lang]) {
+                    btn.innerHTML = `<span class="md:hidden">${shortMap[lang]}</span><span class="hidden md:inline">${lang}</span>`;
+                } else {
+                    btn.innerText = lang;
+                }
+
                 btn.onclick = () => {
                     currentLanguage = lang;
                     currentSubTag = '全部'; 
@@ -629,7 +645,8 @@
                     btn.classList.add('w-full', 'md:px-6');
                     favContainer.appendChild(btn);
                 } else {
-                    btn.classList.add('px-6');
+                    // 🚀 優化：將手機版的水平 padding 從 px-6 縮小為 px-4，讓單字元按鈕比例更好看
+                    btn.classList.add('px-4', 'md:px-6');
                     langsContainer.appendChild(btn);
                 }
             });
