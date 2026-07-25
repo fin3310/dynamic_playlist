@@ -6,10 +6,12 @@
     <title>涅露茉茉歌單</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
+        // 設定 Tailwind 支援 class 切換暗黑模式
         tailwind.config = {
             darkMode: 'class',
         }
         
+        // 避免閃爍 (FOUC)，在載入初期直接設定主題
         if (localStorage.getItem('theme') === 'light') {
             document.documentElement.classList.remove('dark');
         } else {
@@ -19,96 +21,83 @@
     <style>
         .custom-scrollbar::-webkit-scrollbar { height: 6px; }
         .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
-        .custom-scrollbar::-webkit-scrollbar-thumb { background: #bae6fd; border-radius: 10px; }
+        .custom-scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
         .dark .custom-scrollbar::-webkit-scrollbar-thumb { background: #334155; }
-        .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #7dd3fc; }
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
         .dark .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #475569; }
         
-        /* 亮色主題：採用立繪的冰藍色系 */
         body {
-            background-color: #f0f9ff; 
-            background-image: radial-gradient(#bae6fd 2px, transparent 2px); 
+            background-color: #f8fafc; 
+            background-image: radial-gradient(#e2e8f0 2px, transparent 2px); 
             background-size: 30px 30px;
             transition: background-color 0.3s ease;
         }
-        /* 暗色主題：深海軍藍 */
         .dark body {
             background-color: #0f172a; 
             background-image: radial-gradient(#1e293b 2px, transparent 2px); 
         }
 
         @keyframes pulse-glow {
-            0%, 100% { box-shadow: 0 0 0 0 rgba(14, 165, 233, 0.5); }
-            50% { box-shadow: 0 0 0 10px rgba(14, 165, 233, 0); }
+            0%, 100% { box-shadow: 0 0 0 0 rgba(56, 189, 248, 0.7); }
+            50% { box-shadow: 0 0 0 10px rgba(56, 189, 248, 0); }
         }
         .first-visit-glow {
             animation: pulse-glow 2s infinite;
-            border-color: #0ea5e9 !important;
+            border-color: #38bdf8 !important;
         }
     </style>
 </head>
-<body class="text-slate-700 dark:text-slate-300 min-h-screen font-sans selection:bg-sky-400 selection:text-white transition-colors duration-300">
+<body class="text-slate-800 dark:text-slate-300 min-h-screen font-sans selection:bg-sky-500 selection:text-white transition-colors duration-300">
 
     <div class="max-w-6xl mx-auto px-4 py-8 relative">
-        <!-- 頂部區塊 -->
-        <header class="flex flex-col md:flex-row justify-between items-center mb-6 gap-4 bg-white/60 dark:bg-slate-800/80 backdrop-blur-md p-4 rounded-3xl shadow-sm border border-sky-100 dark:border-slate-700 transition-colors duration-300">
-            <h1 class="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-sky-600 to-blue-500 dark:from-sky-400 dark:to-blue-300 drop-shadow-sm flex items-center gap-2 tracking-wide pl-2">
-                <svg class="w-8 h-8 text-sky-500" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M9 19.5V3.75m0 15.75a2.25 2.25 0 0 1-2.25 2.25h-.5a2.25 2.25 0 0 1-2.25-2.25v-1.5a2.25 2.25 0 0 1 2.25-2.25h1.5a2.25 2.25 0 0 1 2.25 2.25v1.5Zm0 0V15m0 0a2.25 2.25 0 0 0 2.25-2.25v-1.5a2.25 2.25 0 0 0-2.25-2.25h-1.5a2.25 2.25 0 0 0-2.25 2.25v1.5A2.25 2.25 0 0 0 9 15ZM18 19.5V3.75m0 15.75a2.25 2.25 0 0 1-2.25 2.25h-.5a2.25 2.25 0 0 1-2.25-2.25v-1.5a2.25 2.25 0 0 1 2.25-2.25h1.5a2.25 2.25 0 0 1 2.25 2.25v1.5Zm0 0V15m0 0a2.25 2.25 0 0 0 2.25-2.25v-1.5a2.25 2.25 0 0 0-2.25-2.25h-1.5a2.25 2.25 0 0 0-2.25 2.25v1.5A2.25 2.25 0 0 0 18 15Z" /></svg>
-                涅露茉茉歌單
+        <header class="flex flex-col md:flex-row justify-between items-center mb-6 gap-4 bg-white/80 dark:bg-slate-800/80 backdrop-blur-md p-4 rounded-2xl shadow-lg border border-slate-200 dark:border-slate-700 transition-colors duration-300">
+            <h1 class="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-sky-500 to-blue-400 dark:from-sky-400 dark:to-blue-300 drop-shadow-sm flex items-center gap-2">
+                🎵 涅露茉茉歌單
             </h1>
             
-            <div class="flex flex-wrap items-center gap-4 w-full md:w-auto md:justify-end">
-                <!-- 搜尋框 -->
-                <div class="relative w-full md:w-64">
-                    <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                        <svg class="w-5 h-5 text-sky-400 dark:text-slate-500" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" /></svg>
-                    </div>
-                    <input type="text" id="searchInput" placeholder="搜尋歌名、歌手..." 
-                           class="w-full pl-10 pr-4 py-2.5 rounded-full bg-white dark:bg-slate-900 border border-sky-200 dark:border-slate-600 focus:outline-none focus:border-sky-400 focus:ring-2 focus:ring-sky-100 dark:focus:ring-sky-900 transition-all text-slate-700 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-500 shadow-inner">
-                </div>
+            <div class="flex flex-wrap items-center gap-3 w-full md:w-auto md:justify-end">
+                <input type="text" id="searchInput" placeholder="搜尋歌名、歌手或關鍵字..." 
+                       class="w-full md:w-56 px-4 py-2 rounded-full bg-slate-100 dark:bg-slate-900 border border-slate-300 dark:border-slate-600 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 transition-all text-slate-800 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-500 shadow-inner">
                 
-                <!-- 膠囊工具列 -->
-                <div class="flex items-center p-1 bg-sky-50/80 dark:bg-slate-900/50 rounded-full border border-sky-100 dark:border-slate-700/50 backdrop-blur-sm shadow-sm w-full md:w-auto justify-between">
+                <div class="flex items-center gap-2 w-full md:w-auto justify-end">
                     
+                    <!-- 主題切換按鈕 -->
                     <button id="themeBtn" onclick="toggleTheme()" 
-                            class="group flex items-center justify-center min-w-[2.75rem] h-10 md:hover:px-4 rounded-full bg-transparent hover:bg-white dark:hover:bg-slate-700 transition-all duration-300 text-sky-600 dark:text-slate-300 font-medium overflow-hidden">
-                        <span class="shrink-0" id="themeIcon"></span> 
-                        <span id="themeText" class="max-w-0 opacity-0 md:group-hover:max-w-[100px] md:group-hover:opacity-100 md:group-hover:ml-1.5 transition-all duration-300 overflow-hidden whitespace-nowrap text-sm">切換亮色</span>
+                            class="group flex items-center justify-center min-w-[2.5rem] h-10 md:hover:px-4 rounded-full bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 border border-slate-200 dark:border-slate-600 transition-all duration-300 text-slate-600 dark:text-slate-300 shadow-sm font-medium overflow-hidden">
+                        <span class="shrink-0 text-lg" id="themeIcon">☀️</span> 
+                        <span class="max-w-0 opacity-0 md:group-hover:max-w-[100px] md:group-hover:opacity-100 md:group-hover:ml-2 transition-all duration-300 overflow-hidden whitespace-nowrap text-sm" id="themeText">切換亮色</span>
                     </button>
 
                     <button id="helpBtn" onclick="openHelpModal()" 
-                            class="group flex items-center justify-center min-w-[2.75rem] h-10 md:hover:px-4 rounded-full bg-transparent hover:bg-white dark:hover:bg-slate-700 transition-all duration-300 text-sky-600 dark:text-slate-300 font-medium overflow-hidden border border-transparent">
-                        <span class="shrink-0"><svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M9.879 7.519c1.171-1.025 3.071-1.025 4.242 0 1.172 1.025 1.172 2.687 0 3.712-.203.179-.43.326-.67.442-.745.361-1.45.999-1.45 1.827v.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 5.25h.008v.008H12v-.008Z" /></svg></span> 
-                        <span class="max-w-0 opacity-0 md:group-hover:max-w-[100px] md:group-hover:opacity-100 md:group-hover:ml-1.5 transition-all duration-300 overflow-hidden whitespace-nowrap text-sm">說明</span>
+                            class="group flex items-center justify-center min-w-[2.5rem] h-10 md:hover:px-4 rounded-full bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 border border-slate-200 dark:border-slate-600 transition-all duration-300 text-slate-600 dark:text-slate-300 shadow-sm font-medium overflow-hidden">
+                        <span class="shrink-0 text-lg">❓</span> 
+                        <span class="max-w-0 opacity-0 md:group-hover:max-w-[100px] md:group-hover:opacity-100 md:group-hover:ml-2 transition-all duration-300 overflow-hidden whitespace-nowrap text-sm">使用說明</span>
                     </button>
 
                     <button id="toggleViewBtn" onclick="toggleViewMode()" 
-                            class="group flex items-center justify-center min-w-[2.75rem] h-10 md:hover:px-4 rounded-full bg-transparent hover:bg-white dark:hover:bg-slate-700 transition-all duration-300 text-sky-600 dark:text-slate-300 font-medium overflow-hidden">
-                        <span class="shrink-0" id="viewModeIcon"></span> 
-                        <span id="viewModeText" class="max-w-0 opacity-0 md:group-hover:max-w-[100px] md:group-hover:opacity-100 md:group-hover:ml-1.5 transition-all duration-300 overflow-hidden whitespace-nowrap text-sm">顯示模式</span>
+                            class="group flex items-center justify-center min-w-[2.5rem] h-10 md:hover:px-4 rounded-full bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 border border-slate-200 dark:border-slate-600 transition-all duration-300 text-slate-600 dark:text-slate-300 shadow-sm font-medium overflow-hidden">
+                        <span class="shrink-0 text-lg">👁️</span> 
+                        <span id="viewModeText" class="max-w-0 opacity-0 md:group-hover:max-w-[100px] md:group-hover:opacity-100 md:group-hover:ml-2 transition-all duration-300 overflow-hidden whitespace-nowrap text-sm">隱藏封面</span>
                     </button>
 
                     <button onclick="openSyncModal()" 
-                            class="group flex items-center justify-center min-w-[2.75rem] h-10 md:hover:px-4 rounded-full bg-transparent hover:bg-white dark:hover:bg-slate-700 transition-all duration-300 text-sky-600 dark:text-slate-300 font-medium overflow-hidden">
-                        <span class="shrink-0"><svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" /></svg></span> 
-                        <span class="max-w-0 opacity-0 md:group-hover:max-w-[100px] md:group-hover:opacity-100 md:group-hover:ml-1.5 transition-all duration-300 overflow-hidden whitespace-nowrap text-sm">備份轉移</span>
+                            class="group flex items-center justify-center min-w-[2.5rem] h-10 md:hover:px-4 rounded-full bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 border border-slate-200 dark:border-slate-600 transition-all duration-300 text-slate-600 dark:text-slate-300 shadow-sm font-medium overflow-hidden">
+                        <span class="shrink-0 text-lg">⚙️</span> 
+                        <span class="max-w-0 opacity-0 md:group-hover:max-w-[100px] md:group-hover:opacity-100 md:group-hover:ml-2 transition-all duration-300 overflow-hidden whitespace-nowrap text-sm">資料同步</span>
                     </button>
 
-                    <div class="w-px h-5 bg-sky-200 dark:bg-slate-600 mx-0.5"></div>
-
                     <button onclick="resetPlayHistory()" 
-                            class="group flex items-center justify-center min-w-[2.75rem] h-10 md:hover:px-4 rounded-full bg-transparent hover:bg-rose-100 dark:hover:bg-rose-900/40 hover:text-rose-500 dark:hover:text-rose-400 transition-all duration-300 text-sky-600 dark:text-slate-300 font-medium overflow-hidden">
-                        <span class="shrink-0"><svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="m14.74 9-.346 9m-4.788 0L9.26 9m9.968-3.21c.342.052.682.107 1.022.166m-1.022-.165L18.16 19.673a2.25 2.25 0 0 1-2.244 2.077H8.084a2.25 2.25 0 0 1-2.244-2.077L4.772 5.79m14.456 0a48.108 48.108 0 0 0-3.478-.397m-12 .562c.34-.059.68-.114 1.022-.165m0 0a48.11 48.11 0 0 1 3.478-.397m7.5 0v-.916c0-1.18-.91-2.164-2.09-2.201a51.964 51.964 0 0 0-3.32 0c-1.18.037-2.09 1.022-2.09 2.201v.916m7.5 0a48.667 48.667 0 0 0-7.5 0" /></svg></span> 
-                        <span class="max-w-0 opacity-0 md:group-hover:max-w-[100px] md:group-hover:opacity-100 md:group-hover:ml-1.5 transition-all duration-300 overflow-hidden whitespace-nowrap text-sm">重置</span>
+                            class="group flex items-center justify-center min-w-[2.5rem] h-10 md:hover:px-4 rounded-full bg-slate-100 hover:bg-red-100 dark:bg-slate-800 dark:hover:bg-red-900/50 hover:text-red-600 dark:hover:text-red-400 border border-slate-200 dark:border-slate-600 hover:border-red-300 dark:hover:border-red-700/50 transition-all duration-300 text-slate-600 dark:text-slate-300 shadow-sm font-medium overflow-hidden">
+                        <span class="shrink-0 text-lg">🗑️</span> 
+                        <span class="max-w-0 opacity-0 md:group-hover:max-w-[100px] md:group-hover:opacity-100 md:group-hover:ml-2 transition-all duration-300 overflow-hidden whitespace-nowrap text-sm">重置點歌</span>
                     </button>
                 </div>
             </div>
         </header>
 
-        <!-- 篩選控制區 -->
-        <div class="mb-8 bg-white/40 dark:bg-slate-800/30 p-5 rounded-3xl border border-sky-100 dark:border-slate-700/50 shadow-sm backdrop-blur-sm transition-colors duration-300">
-            <div class="flex flex-wrap gap-2.5 mb-3" id="langFilterContainer"></div>
-            <div class="flex flex-wrap gap-2 pt-4 border-t border-sky-100/80 dark:border-slate-700/50 hidden transition-colors" id="subTagFilterContainer"></div>
+        <div class="mb-8 bg-white/50 dark:bg-slate-800/30 p-4 rounded-2xl border border-slate-200 dark:border-slate-700/50 shadow-sm transition-colors duration-300">
+            <div class="flex flex-wrap gap-2 mb-3" id="langFilterContainer"></div>
+            <div class="flex flex-wrap gap-2 pt-3 border-t border-slate-200 dark:border-slate-700/50 hidden transition-colors" id="subTagFilterContainer"></div>
         </div>
 
         <div id="songsContainer" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 transition-all duration-300"></div>
@@ -119,68 +108,62 @@
     </div>
 
     <!-- ❓ 使用說明 Modal -->
-    <div id="helpModal" class="fixed inset-0 bg-slate-900/40 dark:bg-slate-950/80 backdrop-blur-md z-50 hidden flex justify-center items-center opacity-0 transition-opacity duration-300">
-        <div class="bg-white dark:bg-slate-800 border border-sky-100 dark:border-slate-700 p-6 rounded-3xl w-11/12 max-w-lg shadow-2xl transform scale-95 transition-all duration-300 custom-scrollbar max-h-[85vh] overflow-y-auto" id="helpModalContent">
-            <div class="flex justify-between items-center mb-5 border-b border-sky-50 dark:border-slate-700 pb-3">
-                <h2 class="text-xl font-bold text-sky-800 dark:text-slate-100 flex items-center gap-2">
-                    <svg class="w-6 h-6 text-sky-500" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 0 0 6 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 0 1 6 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 0 1 6-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0 0 18 18a8.967 8.967 0 0 0-6 2.292m0-14.25v14.25" /></svg>
-                    歌單使用指引
-                </h2>
-                <button onclick="closeHelpModal()" class="text-slate-400 hover:text-sky-600 dark:hover:text-white transition-colors text-xl font-bold">&times;</button>
+    <div id="helpModal" class="fixed inset-0 bg-slate-900/50 dark:bg-slate-950/80 backdrop-blur-sm z-50 hidden flex justify-center items-center opacity-0 transition-opacity duration-300">
+        <div class="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 p-6 rounded-2xl w-11/12 max-w-lg shadow-2xl transform scale-95 transition-all duration-300 custom-scrollbar max-h-[85vh] overflow-y-auto" id="helpModalContent">
+            <div class="flex justify-between items-center mb-4">
+                <h2 class="text-xl font-bold text-slate-800 dark:text-slate-100 flex items-center gap-2"><span>📖</span> 歌單使用指引</h2>
+                <button onclick="closeHelpModal()" class="text-slate-400 hover:text-slate-600 dark:hover:text-white transition-colors text-xl font-bold">&times;</button>
             </div>
             <div class="space-y-4 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
-                <div class="bg-sky-50/50 dark:bg-slate-900/60 p-4 rounded-2xl border border-sky-100 dark:border-slate-700/50">
-                    <h3 class="font-bold text-sky-600 dark:text-sky-400 mb-1 flex items-center gap-1"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg> 1. 快速點歌與複製</h3>
-                    <p>點擊「點播」按鈕即可直接將歌曲資訊複製到剪貼簿。點播後按鈕會變為綠色，支援單曲取消或整頁重置。</p>
+                <div class="bg-slate-50 dark:bg-slate-900/60 p-3 rounded-xl border border-slate-200 dark:border-slate-700/50">
+                    <h3 class="font-bold text-sky-600 dark:text-sky-400 mb-1">🎵 1. 快速點歌與複製</h3>
+                    <p>點擊「點播」或「複製點播」按鈕，即可直接將歌曲資訊複製到剪貼簿。點播後按鈕會變為綠色已點播狀態，支援單曲取消或整頁重置。</p>
                 </div>
-                <div class="bg-rose-50/50 dark:bg-slate-900/60 p-4 rounded-2xl border border-rose-100 dark:border-slate-700/50">
-                    <h3 class="font-bold text-rose-500 dark:text-rose-400 mb-1 flex items-center gap-1"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg> 2. 個性歌單 (收藏)</h3>
-                    <p>點擊卡片上的愛心圖示，可將歌曲加入「💖 我的歌單」，方便預先排好想聽的曲目快速點歌。</p>
+                <div class="bg-slate-50 dark:bg-slate-900/60 p-3 rounded-xl border border-slate-200 dark:border-slate-700/50">
+                    <h3 class="font-bold text-rose-500 dark:text-rose-400 mb-1">💖 2. 個性歌單 (收藏)</h3>
+                    <p>點擊卡片上的愛心圖示，可將歌曲加入「⭐ 我的歌單」，方便預先排好想聽的曲目快速點歌。</p>
                 </div>
-                <div class="bg-amber-50/50 dark:bg-slate-900/60 p-4 rounded-2xl border border-amber-100 dark:border-slate-700/50">
-                    <h3 class="font-bold text-amber-600 dark:text-amber-400 mb-1 flex items-center gap-1"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M15.042 21.672 13.684 16.6m0 0-2.51 2.225.569-9.47 5.227 7.917-3.286-.672ZM12 2.25V4.5m5.834.166-1.591 1.591M20.25 10.5H18M7.757 14.743l-1.59 1.59M6 10.5H3.75m4.007-4.243-1.59-1.59" /></svg> 3. 點擊展開詳情</h3>
-                    <p>在預設的手機版「緊湊模式」中，您可以直接 <span class="font-semibold text-amber-700 dark:text-amber-300">點擊歌曲卡片的空白處</span>，將其展開查看精美封面與標籤！</p>
+                <div class="bg-slate-50 dark:bg-slate-900/60 p-3 rounded-xl border border-slate-200 dark:border-slate-700/50">
+                    <h3 class="font-bold text-amber-500 dark:text-amber-400 mb-1">💡 3. 點擊展開詳情</h3>
+                    <p>在預設的手機版「隱藏封面」模式中，您可以直接**點擊歌曲卡片的任何空白處**，將其展開查看精美封面與標籤！</p>
                 </div>
-                <div class="bg-emerald-50/50 dark:bg-slate-900/60 p-4 rounded-2xl border border-emerald-100 dark:border-slate-700/50">
-                    <h3 class="font-bold text-emerald-600 dark:text-emerald-400 mb-1 flex items-center gap-1"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" /></svg> 4. 紀錄備份與恢復</h3>
-                    <p>點擊頂部的備份按鈕可將您的點歌紀錄與收藏代碼化，透過純文字複製即可在不同裝置間還原與轉移。</p>
+                <div class="bg-slate-50 dark:bg-slate-900/60 p-3 rounded-xl border border-slate-200 dark:border-slate-700/50">
+                    <h3 class="font-bold text-emerald-600 dark:text-emerald-400 mb-1">⚙️ 4. 跨裝置資料同步</h3>
+                    <p>點擊「資料同步」可將您的點歌紀錄與收藏代碼化，透過純文字複製即可在手機與電腦間輕鬆轉移。</p>
                 </div>
             </div>
-            <div class="mt-6 pt-4 text-center">
-                <button onclick="closeHelpModal()" class="w-full py-3 bg-sky-500 hover:bg-sky-600 text-white rounded-2xl font-medium transition-colors shadow-md shadow-sky-200 dark:shadow-sky-900/50">
+            <div class="mt-6 pt-4 border-t border-slate-200 dark:border-slate-700/50 text-center">
+                <button onclick="closeHelpModal()" class="px-6 py-2.5 bg-sky-500 hover:bg-sky-600 text-white rounded-xl font-medium transition-colors shadow-md shadow-sky-200 dark:shadow-sky-900/50">
                     了解，開始點歌！
                 </button>
             </div>
         </div>
     </div>
 
-    <!-- 🔄 資料夾同步 (備份與恢復) Modal -->
-    <div id="syncModal" class="fixed inset-0 bg-slate-900/40 dark:bg-slate-950/80 backdrop-blur-md z-50 hidden flex justify-center items-center opacity-0 transition-opacity duration-300">
-        <div class="bg-white dark:bg-slate-800 border border-sky-100 dark:border-slate-700 p-6 rounded-3xl w-11/12 max-w-md shadow-2xl transform scale-95 transition-all duration-300" id="syncModalContent">
-            <div class="flex justify-between items-center mb-5 border-b border-sky-50 dark:border-slate-700 pb-3">
-                <h2 class="text-xl font-bold text-sky-800 dark:text-slate-100 flex items-center gap-2">
-                    <svg class="w-6 h-6 text-sky-500" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" /></svg>
-                    備份與恢復
-                </h2>
-                <button onclick="closeSyncModal()" class="text-slate-400 hover:text-sky-600 dark:hover:text-white transition-colors text-xl font-bold">&times;</button>
+    <!-- 🔄 資料同步 Modal -->
+    <div id="syncModal" class="fixed inset-0 bg-slate-900/50 dark:bg-slate-950/80 backdrop-blur-sm z-50 hidden flex justify-center items-center opacity-0 transition-opacity duration-300">
+        <div class="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 p-6 rounded-2xl w-11/12 max-w-md shadow-2xl transform scale-95 transition-all duration-300" id="syncModalContent">
+            <div class="flex justify-between items-center mb-4">
+                <h2 class="text-xl font-bold text-slate-800 dark:text-slate-100 flex items-center gap-2"><span>⚙️</span> 資料同步</h2>
+                <button onclick="closeSyncModal()" class="text-slate-400 hover:text-slate-600 dark:hover:text-white transition-colors text-xl font-bold">&times;</button>
             </div>
-            <p class="text-sm text-slate-500 dark:text-slate-400 mb-4 leading-relaxed">
-                將目前的「點播紀錄」與「個性歌單」打包備份。複製代碼並在另一台裝置貼上，即可輕鬆恢復資料！
+            <p class="text-sm text-slate-600 dark:text-slate-400 mb-4 leading-relaxed">
+                您可以將目前的「點播紀錄」與「個性歌單」打包成代碼。複製代碼並在另一台裝置貼上，即可輕鬆轉移資料！
             </p>
-            <textarea id="syncCodeInput" rows="4" placeholder="請在此貼上備份代碼，或點擊下方按鈕產生匯出代碼..." 
-                      class="w-full bg-slate-50 dark:bg-slate-900 border border-sky-200 dark:border-slate-600 rounded-2xl p-4 text-slate-700 dark:text-sky-200 text-sm focus:outline-none focus:border-sky-400 mb-5 custom-scrollbar break-all transition-colors"></textarea>
+            <textarea id="syncCodeInput" rows="4" placeholder="請在此貼上代碼，或點擊下方按鈕產生匯出代碼..." 
+                      class="w-full bg-slate-50 dark:bg-slate-900 border border-slate-300 dark:border-slate-600 rounded-xl p-3 text-slate-700 dark:text-sky-200 text-sm focus:outline-none focus:border-sky-500 mb-5 custom-scrollbar break-all transition-colors"></textarea>
             
-            <div class="grid grid-cols-1 gap-3 mb-4">
-                <button onclick="exportSyncData()" class="w-full py-3 bg-sky-500 hover:bg-sky-600 text-white rounded-2xl font-medium transition-colors shadow-md shadow-sky-200 dark:shadow-sky-900/50 flex items-center justify-center gap-2">
-                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5m-13.5-9L12 3m0 0 4.5 4.5M12 3v13.5" /></svg> 產生並複製匯出代碼
+            <div class="grid grid-cols-1 gap-3 mb-3">
+                <button onclick="exportSyncData()" class="w-full py-2.5 bg-sky-500 hover:bg-sky-600 text-white rounded-xl font-medium transition-colors shadow-md shadow-sky-200 dark:shadow-sky-900/50 flex items-center justify-center gap-2">
+                    <span>📤</span> 產生並複製匯出代碼
                 </button>
             </div>
-            <div class="grid grid-cols-2 gap-3">
+            <div class="grid grid-cols-2 gap-3 pt-3 border-t border-slate-200 dark:border-slate-700/50">
                 <button onclick="importSyncData(true)" class="w-full py-2.5 bg-emerald-500 hover:bg-emerald-600 text-white rounded-xl font-medium transition-colors text-sm shadow-md flex justify-center items-center gap-1">
-                    合併匯入
+                    <span>📥</span> 合併匯入
                 </button>
                 <button onclick="importSyncData(false)" class="w-full py-2.5 bg-rose-500 hover:bg-rose-600 text-white rounded-xl font-medium transition-colors text-sm shadow-md flex justify-center items-center gap-1">
-                    覆蓋匯入
+                    <span>⚠️</span> 覆蓋匯入
                 </button>
             </div>
         </div>
@@ -192,10 +175,13 @@
     <script>
         let songsData = []; 
         let currentFilteredSongs = []; 
+        
         let currentLanguage = '全部';
         let currentSubTag = '全部';
+        
         let searchQuery = '';
         let isCompactMode = window.innerWidth < 768;
+        
         let currentDisplayCount = 0;   
         const BATCH_SIZE = 30;         
 
@@ -203,16 +189,10 @@
         let myPlaylist = JSON.parse(localStorage.getItem('myPlaylist') || '[]');
         let expandedSongs = new Set();
 
-        // --- SVG Icons Definition ---
-        const svgSun = `<svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386-1.591 1.591M21 12h-2.25m-.386 6.364-1.591-1.591M12 18.75V21m-4.773-4.227-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0Z" /></svg>`;
-        const svgMoon = `<svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.72 9.72 0 0 1 18 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 0 0 3 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 0 0 9.002-5.998Z" /></svg>`;
-        const svgGrid = `<svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6A2.25 2.25 0 0 1 6 3.75h2.25A2.25 2.25 0 0 1 10.5 6v2.25a2.25 2.25 0 0 1-2.25 2.25H6a2.25 2.25 0 0 1-2.25-2.25V6ZM3.75 15.75A2.25 2.25 0 0 1 6 13.5h2.25a2.25 2.25 0 0 1 2.25 2.25V18a2.25 2.25 0 0 1-2.25 2.25H6A2.25 2.25 0 0 1 3.75 18v-2.25ZM13.5 6a2.25 2.25 0 0 1 2.25-2.25H18A2.25 2.25 0 0 1 20.25 6v2.25A2.25 2.25 0 0 1 18 10.5h-2.25a2.25 2.25 0 0 1-2.25-2.25V6ZM13.5 15.75a2.25 2.25 0 0 1 2.25-2.25H18a2.25 2.25 0 0 1 2.25 2.25V18A2.25 2.25 0 0 1 18 20.25h-2.25A2.25 2.25 0 0 1 13.5 18v-2.25Z" /></svg>`;
-        const svgList = `<svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M8.25 6.75h12M8.25 12h12m-12 5.25h12M3.75 6.75h.007v.008H3.75V6.75Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0ZM3.75 12h.007v.008H3.75V12Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm-.375 5.25h.007v.008H3.75v-.008Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" /></svg>`;
-
         // --- 🌙 主題切換邏輯 ---
         function updateThemeUI() {
             const isDark = document.documentElement.classList.contains('dark');
-            document.getElementById('themeIcon').innerHTML = isDark ? svgSun : svgMoon;
+            document.getElementById('themeIcon').innerText = isDark ? '☀️' : '🌙';
             document.getElementById('themeText').innerText = isDark ? '切換亮色' : '切換暗色';
         }
 
@@ -228,16 +208,13 @@
             updateThemeUI();
         }
 
-        document.addEventListener('DOMContentLoaded', updateThemeUI);
-
-        // --- 顯示模式邏輯 ---
-        function updateViewModeUI() {
-            document.getElementById('viewModeIcon').innerHTML = isCompactMode ? svgGrid : svgList;
-            document.getElementById('viewModeText').innerText = isCompactMode ? '顯示大圖' : '緊湊列表';
-        }
+        document.addEventListener('DOMContentLoaded', () => {
+            updateThemeUI();
+        });
+        // ----------------------
 
         function initView() {
-            updateViewModeUI();
+            document.getElementById('viewModeText').innerText = isCompactMode ? '顯示封面' : '隱藏封面';
             const container = document.getElementById('songsContainer');
             if (isCompactMode) {
                 container.className = 'grid grid-cols-1 md:grid-cols-2 gap-3 transition-all duration-300';
@@ -255,8 +232,8 @@
 
         function generateSongHtml(song) {
             const displayCover = song.cover_url || 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?q=80&w=600&auto=format&fit=crop';
-            const tagsHtml = (song.tags || []).map(tag => `<span class="px-2.5 py-1 bg-white/60 dark:bg-slate-900/80 text-xs rounded-md text-sky-700 dark:text-sky-300 font-medium border border-sky-100 dark:border-slate-700 shadow-sm backdrop-blur-sm">${tag}</span>`).join('');
-            const noteHtml = song.note ? `<p class="text-xs text-sky-600 dark:text-sky-400 mt-1 font-medium bg-sky-50 dark:bg-transparent px-2 py-1 rounded-md inline-block">♪ ${song.note}</p>` : '';
+            const tagsHtml = (song.tags || []).map(tag => `<span class="px-2 py-1 bg-slate-100/80 dark:bg-slate-900/80 text-xs rounded text-sky-600 dark:text-sky-300 font-medium border border-slate-200 dark:border-slate-700 shadow-sm">${tag}</span>`).join('');
+            const noteHtml = song.note ? `<p class="text-xs text-sky-500 dark:text-sky-400 mt-1 font-medium">♪ ${song.note}</p>` : '';
 
             const titleEsc = song.title.replace(/'/g, "\\'");
             const artistEsc = song.artist.replace(/'/g, "\\'");
@@ -285,8 +262,8 @@
                     : "text-slate-400 hover:text-rose-500 dark:hover:text-rose-400 bg-slate-100 dark:bg-slate-900";
 
                 return `
-                    <div id="song-card-${song.id}" onclick="toggleExpand('${song.id}')" class="bg-white/80 dark:bg-slate-800 rounded-2xl p-3 hover:bg-sky-50 dark:hover:bg-slate-700/80 transition-colors flex items-center justify-between border border-sky-100 dark:border-slate-700 shadow-sm group relative cursor-pointer backdrop-blur-sm" title="點擊展開詳細資訊">
-                        <div class="flex-1 min-w-0 pr-2 pl-3 border-l-4 border-sky-400 dark:border-sky-500 rounded-l-sm">
+                    <div id="song-card-${song.id}" onclick="toggleExpand('${song.id}')" class="bg-white dark:bg-slate-800 rounded-xl p-3 hover:bg-slate-50 dark:hover:bg-slate-700/80 transition-colors flex items-center justify-between border border-slate-200 dark:border-slate-700 shadow-sm group relative cursor-pointer" title="點擊展開詳細資訊">
+                        <div class="flex-1 min-w-0 pr-2 pl-2 border-l-4 border-sky-500">
                             <h3 class="text-base font-bold text-slate-800 dark:text-slate-100 truncate">${song.title}</h3>
                             <p class="text-sm text-slate-500 dark:text-slate-400 truncate">${song.artist}</p>
                         </div>
@@ -299,8 +276,8 @@
                     </div>`;
             } else {
                 const btnClass = isPlayed 
-                    ? `flex-1 py-2.5 bg-emerald-500 hover:bg-emerald-600 text-white font-medium rounded-xl shadow-md transition-all active:scale-95 flex justify-center items-center gap-2` 
-                    : `flex-1 py-2.5 bg-sky-500 hover:bg-sky-600 text-white font-medium rounded-xl shadow-md shadow-sky-200 dark:shadow-sky-900/50 transition-all active:scale-95 flex justify-center items-center gap-2`;
+                    ? `flex-1 py-2 bg-emerald-500 hover:bg-emerald-600 text-white font-medium rounded-xl shadow-md transition-all active:scale-95 flex justify-center items-center gap-2` 
+                    : `flex-1 py-2 bg-sky-500 hover:bg-sky-600 text-white font-medium rounded-xl shadow-md shadow-sky-200 dark:shadow-sky-900/50 transition-all active:scale-95 flex justify-center items-center gap-2`;
                 const btnText = isPlayed ? "<span>✅</span> 已點播" : "<span>📋</span> 複製點播";
 
                 const undoBtnClass = isPlayed
@@ -309,29 +286,29 @@
 
                 const favBtnClass = isFav 
                     ? "bg-rose-500 text-white hover:bg-rose-600" 
-                    : "bg-white/90 dark:bg-slate-900/70 text-slate-400 dark:text-slate-300 hover:text-rose-500 dark:hover:text-rose-400 hover:bg-white dark:hover:bg-slate-800/90";
+                    : "bg-white/80 dark:bg-slate-900/60 text-slate-500 dark:text-slate-300 hover:text-rose-500 dark:hover:text-rose-400 hover:bg-white dark:hover:bg-slate-800/80";
 
                 const pointerClass = isCompactMode ? "cursor-pointer" : "";
                 const onClickAttr = isCompactMode ? `onclick="toggleExpand('${song.id}')"` : "";
                 const titleAttr = isCompactMode ? `title="點擊收合卡片"` : "";
 
                 return `
-                    <div id="song-card-${song.id}" ${onClickAttr} ${titleAttr} class="bg-white/80 dark:bg-slate-800 rounded-3xl overflow-hidden shadow-sm border border-sky-100 dark:border-slate-700 hover:border-sky-300 dark:hover:border-slate-500 hover:shadow-lg transition-all duration-300 group flex flex-col relative backdrop-blur-sm ${pointerClass}">
-                        <button onclick="event.stopPropagation(); toggleFav('${song.id}')" class="absolute top-3 right-3 z-10 p-2.5 rounded-full backdrop-blur-md shadow-lg transition-all active:scale-95 ${favBtnClass}" title="加入/移除歌單">${isFav ? favSvgSolid : favSvgOutline}</button>
+                    <div id="song-card-${song.id}" ${onClickAttr} ${titleAttr} class="bg-white dark:bg-slate-800 rounded-2xl overflow-hidden shadow-md border border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-500 hover:shadow-lg transition-all duration-300 group flex flex-col relative ${pointerClass}">
+                        <button onclick="event.stopPropagation(); toggleFav('${song.id}')" class="absolute top-3 right-3 z-10 p-2 rounded-full backdrop-blur-md shadow-lg transition-all active:scale-95 ${favBtnClass}" title="加入/移除歌單">${isFav ? favSvgSolid : favSvgOutline}</button>
                         
-                        <div class="relative aspect-video overflow-hidden bg-slate-100 dark:bg-slate-900 border-b border-sky-50 dark:border-slate-800">
-                            <img src="${displayCover}" alt="Cover" loading="lazy" class="w-full h-full object-cover group-hover:scale-105 transition duration-700 opacity-95 group-hover:opacity-100">
-                            <div class="absolute inset-0 bg-gradient-to-t from-slate-900/50 via-transparent to-transparent"></div>
+                        <div class="relative aspect-video overflow-hidden bg-slate-100 dark:bg-slate-900 border-b border-slate-100 dark:border-slate-800">
+                            <img src="${displayCover}" alt="Cover" loading="lazy" class="w-full h-full object-cover group-hover:scale-105 transition duration-700 opacity-90 group-hover:opacity-100">
+                            <div class="absolute inset-0 bg-gradient-to-t from-slate-900/60 via-transparent to-transparent"></div>
                             <div class="absolute bottom-3 left-3 right-3 flex gap-2 flex-wrap z-0">${tagsHtml}</div>
                         </div>
                         <div class="p-5 flex-1 flex flex-col">
                             <h3 class="text-lg font-bold text-slate-800 dark:text-slate-100 mb-1 line-clamp-1" title="${song.title}">${song.title}</h3>
                             <p class="text-sm text-slate-500 dark:text-slate-400 mb-2 line-clamp-1">${song.artist}</p>
                             ${noteHtml}
-                            <div class="mt-auto pt-5 flex gap-2">
+                            <div class="mt-auto pt-4 flex gap-2">
                                 <button onclick="event.stopPropagation(); unplaySong('${song.id}')" class="${undoBtnClass}" title="取消紀錄">${undoSvg}</button>
                                 <button onclick="event.stopPropagation(); handlePlay('${song.id}', '${titleEsc}', '${artistEsc}')" class="${btnClass}">${btnText}</button>
-                                ${song.youtube_url ? `<a href="${song.youtube_url}" target="_blank" onclick="event.stopPropagation()" class="px-4 py-2 bg-slate-50 dark:bg-slate-700 hover:bg-red-500 dark:hover:bg-red-500 hover:text-white dark:hover:text-white text-slate-600 dark:text-slate-300 font-medium rounded-xl border border-slate-200 dark:border-slate-600 hover:border-red-500 dark:hover:border-red-500 transition-colors flex justify-center items-center" title="YouTube 試聽"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg></a>` : ''}
+                                ${song.youtube_url ? `<a href="${song.youtube_url}" target="_blank" onclick="event.stopPropagation()" class="px-4 py-2 bg-slate-100 dark:bg-slate-700 hover:bg-red-500 dark:hover:bg-red-500 hover:text-white dark:hover:text-white text-slate-600 dark:text-slate-300 font-medium rounded-xl border border-slate-200 dark:border-slate-600 hover:border-red-500 dark:hover:border-red-500 transition-colors flex justify-center items-center" title="YouTube 試聽"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg></a>` : ''}
                             </div>
                         </div>
                     </div>`;
@@ -369,7 +346,7 @@
 
             if (!localStorage.getItem('hasVisitedHelp')) {
                 localStorage.setItem('hasVisitedHelp', 'true');
-                document.getElementById('helpBtn').classList.remove('first-visit-glow');
+                document.getElementById('helpBtn').classList.remove('first-visit-glow', 'border-sky-300');
             }
         }
 
@@ -387,7 +364,7 @@
         function checkFirstVisit() {
             if (!localStorage.getItem('hasVisitedHelp')) {
                 const helpBtn = document.getElementById('helpBtn');
-                helpBtn.classList.add('first-visit-glow');
+                helpBtn.classList.add('first-visit-glow', 'border-sky-300');
             }
         }
 
@@ -404,7 +381,7 @@
             }
             localStorage.setItem('myPlaylist', JSON.stringify(myPlaylist));
 
-            if (currentLanguage === '💖 我的歌單' && isRemoving) {
+            if (currentLanguage === '⭐ 我的歌單' && isRemoving) {
                 resetAndRender();
                 return;
             }
@@ -561,7 +538,7 @@
             const defaultLangs = ['日文', '中文', '英文', '韓文'];
             
             langContainer.innerHTML = '';
-            const mainLangs = ['💖 我的歌單', ...defaultLangs, '全部'];
+            const mainLangs = ['⭐ 我的歌單', ...defaultLangs, '全部'];
             
             mainLangs.forEach(lang => {
                 const btn = document.createElement('button');
@@ -574,17 +551,17 @@
                 };
                 
                 if (lang === currentLanguage) {
-                    const activeColor = lang === '💖 我的歌單' ? 'bg-rose-500 shadow-rose-200 dark:shadow-rose-900/50 text-white' : 'bg-sky-500 shadow-sky-200 dark:shadow-sky-900/50 text-white';
-                    btn.className = `filter-btn active px-6 py-2 rounded-full text-sm whitespace-nowrap shadow-md font-medium border border-transparent transition-all ${activeColor}`;
+                    const activeColor = lang === '⭐ 我的歌單' ? 'bg-rose-500 shadow-rose-200 dark:shadow-rose-900/50 text-white' : 'bg-sky-500 shadow-sky-200 dark:shadow-sky-900/50 text-white';
+                    btn.className = `filter-btn active px-5 py-1.5 rounded-full text-sm whitespace-nowrap shadow-md font-medium border border-transparent transition-all ${activeColor}`;
                 } else {
-                    btn.className = "filter-btn px-6 py-2 rounded-full bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-sky-50 dark:hover:bg-slate-700 hover:text-sky-600 dark:hover:text-sky-300 text-sm whitespace-nowrap border border-sky-100 dark:border-slate-600 shadow-sm transition-all";
+                    btn.className = "filter-btn px-5 py-1.5 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700 hover:text-sky-600 dark:hover:text-sky-300 text-sm whitespace-nowrap border border-slate-200 dark:border-slate-600 shadow-sm transition-all";
                 }
                 langContainer.appendChild(btn);
             });
 
             subContainer.innerHTML = '';
             
-            if (currentLanguage === '全部' || currentLanguage === '💖 我的歌單') {
+            if (currentLanguage === '全部' || currentLanguage === '⭐ 我的歌單') {
                 subContainer.classList.add('hidden');
                 return;
             }
@@ -624,9 +601,9 @@
                     };
                     
                     if (tag === currentSubTag) {
-                        btn.className = "filter-btn active px-4 py-1.5 rounded-full bg-sky-400 hover:bg-sky-500 text-white text-xs whitespace-nowrap shadow-sm shadow-sky-200 dark:shadow-sky-900/50 font-medium border border-transparent transition-all";
+                        btn.className = "filter-btn active px-4 py-1 rounded-full bg-sky-500 hover:bg-sky-600 text-white text-xs whitespace-nowrap shadow-sm shadow-sky-200 dark:shadow-sky-900/50 font-medium border border-transparent transition-all";
                     } else {
-                        btn.className = "filter-btn px-4 py-1.5 rounded-full bg-white dark:bg-slate-800/70 text-slate-500 dark:text-slate-400 hover:bg-sky-50 dark:hover:bg-slate-700 hover:text-sky-600 dark:hover:text-sky-300 text-xs whitespace-nowrap border border-sky-100 dark:border-slate-700 shadow-sm transition-all";
+                        btn.className = "filter-btn px-4 py-1 rounded-full bg-slate-100 dark:bg-slate-800/70 text-slate-500 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700 hover:text-sky-600 dark:hover:text-sky-300 text-xs whitespace-nowrap border border-slate-200 dark:border-slate-700 shadow-sm transition-all";
                     }
                     subContainer.appendChild(btn);
                 });
@@ -647,7 +624,7 @@
             document.getElementById('loadingIndicator').classList.remove('hidden');
 
             currentFilteredSongs = songsData.filter(song => {
-                if (currentLanguage === '💖 我的歌單') {
+                if (currentLanguage === '⭐ 我的歌單') {
                     if (!myPlaylist.includes(song.id)) return false;
                     const searchTarget = (song.title + song.artist + song.note + (song.tags ? song.tags.join('') : '')).toLowerCase();
                     return searchTarget.includes(searchQuery);
@@ -662,10 +639,10 @@
             });
 
             if (currentFilteredSongs.length === 0) {
-                if (currentLanguage === '💖 我的歌單' && searchQuery === '') {
-                    document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-16 text-slate-500 font-medium">目前還沒有加入任何歌曲喔 💔<br><span class="text-sm mt-3 block opacity-80">點擊歌曲卡片上的愛心即可加入個性歌單</span></div>';
+                if (currentLanguage === '⭐ 我的歌單' && searchQuery === '') {
+                    document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-12 text-slate-500 font-medium">目前還沒有加入任何歌曲喔 💔<br><span class="text-sm mt-2 block opacity-80">點擊歌曲卡片上的愛心即可加入個性歌單</span></div>';
                 } else {
-                    document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-16 text-slate-500 font-medium">找不到符合條件的歌曲 😢</div>';
+                    document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-12 text-slate-500 font-medium">找不到符合條件的歌曲 😢</div>';
                 }
                 document.getElementById('loadingIndicator').classList.add('hidden');
                 return;
@@ -727,7 +704,7 @@
                 
             } catch (error) {
                 console.error("載入失敗：", error);
-                document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-16 text-slate-500 font-medium">讀取歌單資料失敗，請確認 playlist.json 是否已成功上傳 😢</div>';
+                document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-12 text-slate-400 font-medium">讀取歌單資料失敗，請確認 playlist.json 是否已成功上傳 😢</div>';
                 document.getElementById('loadingIndicator').classList.add('hidden');
             }
         }
