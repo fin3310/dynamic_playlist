@@ -117,7 +117,7 @@
             <div class="pt-4 mt-3 border-t border-sky-200/60 dark:border-slate-700/50 hidden transition-colors" id="subTagFilterContainer"></div>
         </div>
 
-        <!-- 📊 列表狀態與數量顯示區 (已合併為同一行) -->
+        <!-- 📊 列表狀態與數量顯示區 -->
         <div class="flex flex-row justify-between items-center mb-4 px-3 gap-2 transition-colors duration-300">
             <div class="text-sm text-slate-500 dark:text-slate-400 font-medium min-w-0 flex-1 truncate">
                 目前顯示：<span class="text-sky-600 dark:text-sky-400 font-bold ml-1" id="currentFilterText">全部歌曲</span>
@@ -151,7 +151,7 @@
                 </div>
                 <div class="bg-rose-50/50 dark:bg-slate-900/60 p-4 rounded-2xl border border-rose-100 dark:border-slate-700/50">
                     <h3 class="font-bold text-rose-500 dark:text-rose-400 mb-1 flex items-center gap-1"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg> 2. 個性歌單 (收藏)</h3>
-                    <p>點擊卡片上的愛心圖示，可將歌曲加入「💖 我的歌單」，方便預先排好想聽的曲目快速點歌。</p>
+                    <p>點擊卡片上的愛心圖示，可將歌曲加入「我的歌單」，方便預先排好想聽的曲目快速點歌。</p>
                 </div>
                 <div class="bg-amber-50/50 dark:bg-slate-900/60 p-4 rounded-2xl border border-amber-100 dark:border-slate-700/50">
                     <h3 class="font-bold text-amber-600 dark:text-amber-400 mb-1 flex items-center gap-1"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M15.042 21.672 13.684 16.6m0 0-2.51 2.225.569-9.47 5.227 7.917-3.286-.672ZM12 2.25V4.5m5.834.166-1.591 1.591M20.25 10.5H18M7.757 14.743l-1.59 1.59M6 10.5H3.75m4.007-4.243-1.59-1.59" /></svg> 3. 點擊展開詳情</h3>
@@ -202,6 +202,7 @@
         </div>
     </div>
 
+    <!-- Toast 提示方塊 -->
     <div id="toast" class="fixed bottom-8 left-1/2 transform -translate-x-1/2 px-6 py-3 bg-sky-600 text-white rounded-full shadow-xl shadow-sky-900/30 transition-all duration-300 translate-y-20 opacity-0 pointer-events-none z-50 flex items-center gap-2 font-medium">
     </div>
 
@@ -220,11 +221,26 @@
         let myPlaylist = JSON.parse(localStorage.getItem('myPlaylist') || '[]');
         let expandedSongs = new Set();
 
-        // --- SVG Icons Definition ---
+        // --- SVG 圖示庫 ---
         const svgSun = `<svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386-1.591 1.591M21 12h-2.25m-.386 6.364-1.591-1.591M12 18.75V21m-4.773-4.227-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0Z" /></svg>`;
         const svgMoon = `<svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.72 9.72 0 0 1 18 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 0 0 3 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 0 0 9.002-5.998Z" /></svg>`;
         const svgGrid = `<svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6A2.25 2.25 0 0 1 6 3.75h2.25A2.25 2.25 0 0 1 10.5 6v2.25a2.25 2.25 0 0 1-2.25 2.25H6a2.25 2.25 0 0 1-2.25-2.25V6ZM3.75 15.75A2.25 2.25 0 0 1 6 13.5h2.25a2.25 2.25 0 0 1 2.25 2.25V18a2.25 2.25 0 0 1-2.25 2.25H6A2.25 2.25 0 0 1 3.75 18v-2.25ZM13.5 6a2.25 2.25 0 0 1 2.25-2.25H18A2.25 2.25 0 0 1 20.25 6v2.25A2.25 2.25 0 0 1 18 10.5h-2.25a2.25 2.25 0 0 1-2.25-2.25V6ZM13.5 15.75a2.25 2.25 0 0 1 2.25-2.25H18a2.25 2.25 0 0 1 2.25 2.25V18A2.25 2.25 0 0 1 18 20.25h-2.25A2.25 2.25 0 0 1 13.5 18v-2.25Z" /></svg>`;
         const svgList = `<svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M8.25 6.75h12M8.25 12h12m-12 5.25h12M3.75 6.75h.007v.008H3.75V6.75Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0ZM3.75 12h.007v.008H3.75V12Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm-.375 5.25h.007v.008H3.75v-.008Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" /></svg>`;
+        
+        // ✨ 用於替換 Emoji 的 SVG
+        const svgCheck = `<svg class="w-4 h-4 inline-block mr-1" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" /></svg>`;
+        const svgCopy = `<svg class="w-4 h-4 inline-block mr-1" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25c0-.621.504-1.125 1.125-1.125h5.25c.621 0 1.125.504 1.125 1.125v9.25c0 .621-.504 1.125-1.125 1.125Z" /></svg>`;
+        const svgHeartSolid = `<svg class="w-4 h-4 inline-block mr-1" fill="currentColor" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>`;
+        
+        // Toast 用提示圖示
+        const toastIcons = {
+            success: `<svg class="w-5 h-5 text-emerald-300" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg>`,
+            heart: `<svg class="w-5 h-5 text-rose-300" fill="currentColor" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>`,
+            heartBroken: `<svg class="w-5 h-5 text-rose-300" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z" /></svg>`,
+            info: `<svg class="w-5 h-5 text-sky-300" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" /></svg>`,
+            error: `<svg class="w-5 h-5 text-rose-300" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m9-.75a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 3.75h.008v.008H12v-.008Z" /></svg>`,
+            reset: `<svg class="w-5 h-5 text-amber-300" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0 3.181 3.183a8.25 8.25 0 0 0 13.803-3.7M4.031 9.865a8.25 8.25 0 0 1 13.803-3.7l3.181 3.182m0-4.991v4.99" /></svg>`
+        };
 
         // --- 🌙 主題切換邏輯 ---
         function updateThemeUI() {
@@ -295,9 +311,9 @@
 
             if (!useNormalMode) {
                 const btnClass = isPlayed 
-                    ? `px-4 py-1.5 bg-emerald-500 hover:bg-emerald-600 text-white text-sm font-medium rounded-full shadow-md transition-all active:scale-95` 
-                    : `px-4 py-1.5 bg-sky-500 hover:bg-sky-600 text-white text-sm font-medium rounded-full shadow-md shadow-sky-200 dark:shadow-sky-900/50 transition-all active:scale-95`;
-                const btnText = isPlayed ? "✅ 已點播" : "點播";
+                    ? `px-4 py-1.5 bg-emerald-500 hover:bg-emerald-600 text-white text-sm font-medium rounded-full shadow-md transition-all active:scale-95 flex items-center` 
+                    : `px-4 py-1.5 bg-sky-500 hover:bg-sky-600 text-white text-sm font-medium rounded-full shadow-md shadow-sky-200 dark:shadow-sky-900/50 transition-all active:scale-95 flex items-center`;
+                const btnText = isPlayed ? `${svgCheck} 已點播` : "點播";
                 
                 const undoBtnClass = isPlayed
                     ? `p-1.5 bg-white hover:bg-slate-100 dark:bg-slate-700 dark:hover:bg-slate-600 text-slate-600 dark:text-slate-300 rounded-full transition-all active:scale-95`
@@ -332,9 +348,9 @@
                     </div>`;
             } else {
                 const btnClass = isPlayed 
-                    ? `flex-1 py-2.5 bg-emerald-500 hover:bg-emerald-600 text-white font-medium rounded-xl shadow-md transition-all active:scale-95 flex justify-center items-center gap-2` 
-                    : `flex-1 py-2.5 bg-sky-500 hover:bg-sky-600 text-white font-medium rounded-xl shadow-md shadow-sky-200 dark:shadow-sky-900/50 transition-all active:scale-95 flex justify-center items-center gap-2`;
-                const btnText = isPlayed ? "<span>✅</span> 已點播" : "<span>📋</span> 複製點播";
+                    ? `flex-1 py-2.5 bg-emerald-500 hover:bg-emerald-600 text-white font-medium rounded-xl shadow-md transition-all active:scale-95 flex justify-center items-center` 
+                    : `flex-1 py-2.5 bg-sky-500 hover:bg-sky-600 text-white font-medium rounded-xl shadow-md shadow-sky-200 dark:shadow-sky-900/50 transition-all active:scale-95 flex justify-center items-center`;
+                const btnText = isPlayed ? `${svgCheck} 已點播` : `${svgCopy} 複製點播`;
 
                 const undoBtnClass = isPlayed
                     ? `px-3 py-2 bg-white hover:bg-slate-100 dark:bg-slate-700 dark:hover:bg-slate-600 text-slate-600 dark:text-slate-300 rounded-xl border border-sky-200 dark:border-slate-600 transition-colors flex justify-center items-center`
@@ -432,14 +448,14 @@
 
             if (isRemoving) {
                 myPlaylist.splice(index, 1);
-                showToast('💔 已從個性歌單移除');
+                showToast('已從我的歌單移除', 'heartBroken');
             } else {
                 myPlaylist.push(songId);
-                showToast('💖 已加入個性歌單');
+                showToast('已加入我的歌單', 'heart');
             }
             localStorage.setItem('myPlaylist', JSON.stringify(myPlaylist));
 
-            if (currentLanguage === '💖 我的歌單' && isRemoving) {
+            if (currentLanguage === '我的歌單' && isRemoving) {
                 resetAndRender();
                 return;
             }
@@ -457,7 +473,7 @@
             if (navigator.clipboard && window.isSecureContext) {
                 try {
                     await navigator.clipboard.writeText(textToCopy);
-                    showToast(`✨ 已複製：${textToCopy}`);
+                    showToast(`已複製：${textToCopy}`, 'success');
                     return; 
                 } catch (err) {}
             }
@@ -471,9 +487,9 @@
                 textArea.select();
                 document.execCommand('copy');
                 document.body.removeChild(textArea);
-                showToast(`✨ 已複製：${textToCopy}`);
+                showToast(`已複製：${textToCopy}`, 'success');
             } catch (err) {
-                showToast('❌ 複製失敗');
+                showToast('複製失敗', 'error');
             }
         }
 
@@ -481,19 +497,19 @@
             playedSongs = playedSongs.filter(id => id !== songId);
             localStorage.setItem('playedSongs', JSON.stringify(playedSongs));
             updateCardDOM(songId);
-            showToast('🔄 已取消點播紀錄');
+            showToast('已取消點播紀錄', 'reset');
         }
 
         function resetPlayHistory() {
             if (playedSongs.length === 0) {
-                showToast('ℹ️ 目前沒有點播紀錄');
+                showToast('目前沒有點播紀錄', 'info');
                 return;
             }
             if (confirm('確定要清除所有在本機的「已點播」紀錄嗎？\n(您的個性歌單收藏不受影響)')) {
                 playedSongs = [];
                 localStorage.removeItem('playedSongs');
                 resetAndRender(); 
-                showToast('🗑️ 點歌紀錄已清除');
+                showToast('點歌紀錄已清除', 'reset');
             }
         }
 
@@ -533,21 +549,21 @@
                 
                 if (navigator.clipboard && window.isSecureContext) {
                     await navigator.clipboard.writeText(encodedData);
-                    showToast('✨ 匯出代碼已產生並複製！');
+                    showToast('匯出代碼已產生並複製！', 'success');
                 } else {
                     inputElement.select();
                     document.execCommand('copy');
-                    showToast('✨ 匯出代碼已產生並複製！');
+                    showToast('匯出代碼已產生並複製！', 'success');
                 }
             } catch (error) {
-                showToast('❌ 匯出失敗，請重試');
+                showToast('匯出失敗，請重試', 'error');
             }
         }
 
         function importSyncData(isMerge) {
             const code = document.getElementById('syncCodeInput').value.trim();
             if (!code) {
-                showToast('⚠️ 請先輸入匯入代碼');
+                showToast('請先輸入匯入代碼', 'info');
                 return;
             }
 
@@ -562,12 +578,12 @@
                 if (isMerge) {
                     playedSongs = Array.from(new Set([...playedSongs, ...importedData.p]));
                     myPlaylist = Array.from(new Set([...myPlaylist, ...importedData.f]));
-                    showToast('📥 合併匯入成功！');
+                    showToast('合併匯入成功！', 'success');
                 } else {
                     if(!confirm('確定要完全覆蓋現有的資料嗎？\n這將會清除您本機當前所有的「紀錄」與「歌單」。')) return;
                     playedSongs = importedData.p;
                     myPlaylist = importedData.f;
-                    showToast('⚠️ 覆蓋匯入成功！');
+                    showToast('覆蓋匯入成功！', 'reset');
                 }
 
                 localStorage.setItem('playedSongs', JSON.stringify(playedSongs));
@@ -577,13 +593,14 @@
                 resetAndRender();
 
             } catch (error) {
-                showToast('❌ 代碼無效或格式錯誤');
+                showToast('代碼無效或格式錯誤', 'error');
             }
         }
 
-        function showToast(message) {
+        function showToast(message, type = 'info') {
             const toast = document.getElementById('toast');
-            toast.innerText = message;
+            const iconHtml = toastIcons[type] || toastIcons.info;
+            toast.innerHTML = `${iconHtml}<span>${message}</span>`;
             toast.classList.remove('translate-y-20', 'opacity-0');
             setTimeout(() => {
                 toast.classList.add('translate-y-20', 'opacity-0');
@@ -603,7 +620,7 @@
             const langsContainer = document.createElement('div');
             langsContainer.className = 'flex flex-wrap gap-2.5 flex-1';
 
-            const mainLangs = ['💖 我的歌單', ...defaultLangs, '全部'];
+            const mainLangs = ['我的歌單', ...defaultLangs, '全部'];
             
             const shortMap = {
                 '日文': '日',
@@ -616,7 +633,9 @@
             mainLangs.forEach(lang => {
                 const btn = document.createElement('button');
                 
-                if (shortMap[lang]) {
+                if (lang === '我的歌單') {
+                    btn.innerHTML = `${svgHeartSolid} <span>我的歌單</span>`;
+                } else if (shortMap[lang]) {
                     btn.innerHTML = `<span class="md:hidden">${shortMap[lang]}</span><span class="hidden md:inline">${lang}</span>`;
                 } else {
                     btn.innerText = lang;
@@ -631,13 +650,13 @@
                 };
                 
                 if (lang === currentLanguage) {
-                    const activeColor = lang === '💖 我的歌單' ? 'bg-rose-500 shadow-rose-200 dark:shadow-rose-900/50 text-white' : 'bg-sky-500 shadow-sky-200 dark:shadow-sky-900/50 text-white';
-                    btn.className = `filter-btn active py-2 rounded-full text-sm whitespace-nowrap shadow-md font-medium border border-transparent transition-all ${activeColor}`;
+                    const activeColor = lang === '我的歌單' ? 'bg-rose-500 shadow-rose-200 dark:shadow-rose-900/50 text-white' : 'bg-sky-500 shadow-sky-200 dark:shadow-sky-900/50 text-white';
+                    btn.className = `filter-btn active py-2 rounded-full text-sm whitespace-nowrap shadow-md font-medium border border-transparent transition-all flex items-center justify-center ${activeColor}`;
                 } else {
-                    btn.className = "filter-btn py-2 rounded-full bg-white/90 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-sky-100 dark:hover:bg-slate-700 hover:text-sky-600 dark:hover:text-sky-300 text-sm whitespace-nowrap border border-sky-200 dark:border-slate-600 shadow-sm transition-all";
+                    btn.className = "filter-btn py-2 rounded-full bg-white/90 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-sky-100 dark:hover:bg-slate-700 hover:text-sky-600 dark:hover:text-sky-300 text-sm whitespace-nowrap border border-sky-200 dark:border-slate-600 shadow-sm transition-all flex items-center justify-center";
                 }
 
-                if (lang === '💖 我的歌單') {
+                if (lang === '我的歌單') {
                     btn.classList.add('w-full', 'md:px-6');
                     favContainer.appendChild(btn);
                 } else {
@@ -651,7 +670,7 @@
 
             subContainer.innerHTML = '';
             
-            if (currentLanguage === '全部' || currentLanguage === '💖 我的歌單') {
+            if (currentLanguage === '全部' || currentLanguage === '我的歌單') {
                 subContainer.classList.add('hidden');
                 return;
             }
@@ -736,7 +755,7 @@
             document.getElementById('loadingIndicator').classList.remove('hidden');
 
             currentFilteredSongs = songsData.filter(song => {
-                if (currentLanguage === '💖 我的歌單') {
+                if (currentLanguage === '我的歌單') {
                     if (!myPlaylist.includes(song.id)) return false;
                     const searchTarget = (song.title + song.artist + song.note + (song.tags ? song.tags.join('') : '')).toLowerCase();
                     return searchTarget.includes(searchQuery);
@@ -765,10 +784,10 @@
             }
 
             if (currentFilteredSongs.length === 0) {
-                if (currentLanguage === '💖 我的歌單' && searchQuery === '') {
-                    document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-16 text-slate-500 font-medium">目前還沒有加入任何歌曲喔 💔<br><span class="text-sm mt-3 block opacity-80">點擊歌曲卡片上的愛心即可加入個性歌單</span></div>';
+                if (currentLanguage === '我的歌單' && searchQuery === '') {
+                    document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-16 text-slate-500 font-medium">目前還沒有加入任何歌曲喔<br><span class="text-sm mt-3 block opacity-80">點擊歌曲卡片上的愛心即可加入我的歌單</span></div>';
                 } else {
-                    document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-16 text-slate-500 font-medium">找不到符合條件的歌曲 😢</div>';
+                    document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-16 text-slate-500 font-medium">找不到符合條件的歌曲</div>';
                 }
                 document.getElementById('loadingIndicator').classList.add('hidden');
                 return;
@@ -830,7 +849,7 @@
                 
             } catch (error) {
                 console.error("載入失敗：", error);
-                document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-16 text-slate-500 font-medium">讀取歌單資料失敗，請確認 playlist.json 是否已成功上傳 😢</div>';
+                document.getElementById('songsContainer').innerHTML = '<div class="col-span-full text-center py-16 text-slate-500 font-medium">讀取歌單資料失敗，請確認 playlist.json 是否已成功上傳</div>';
                 document.getElementById('loadingIndicator').classList.add('hidden');
             }
         }
