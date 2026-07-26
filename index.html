@@ -469,7 +469,8 @@
                 updateCardDOM(songId);
             }
 
-            const textToCopy = `${title} - ${artist}`;
+            const textToCopy = `${title} / ${artist}`;
+            
             if (navigator.clipboard && window.isSecureContext) {
                 try {
                     await navigator.clipboard.writeText(textToCopy);
