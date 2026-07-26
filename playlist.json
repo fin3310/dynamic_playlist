@@ -1076,8 +1076,8 @@
     "is_practicing": false
   },
   {
-    "id": "4a644482",
-    "title": "春泥棒.",
+    "id": "5754f2d7",
+    "title": "春泥棒",
     "artist": "ヨルシカ",
     "language": "日文",
     "tags": [
@@ -1085,7 +1085,7 @@
       "日語流行",
       "日語搖滾"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/41/ae/b541aecb-f51b-8760-a739-3b4cbcac18b8/20UM1IM10905.rgb.jpg/300x300bb.jpg",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f4/d9/17/f4d917db-8c8c-1823-e9c3-3704d7e61881/20UMGIM22068.rgb.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=Sw1Flgub9s8",
     "note": "",
     "has_checked_lastfm": true,
@@ -5562,24 +5562,25 @@
     "is_practicing": false
   },
   {
-    "id": "a7b8af23",
-    "title": "メリーゴーランド",
-    "artist": "愛謬AIMYION",
+    "id": "7f2b795b",
+    "title": "マリーゴールド",
+    "artist": "愛謬AIMYON",
     "language": "日文",
     "tags": [
-      "日文"
+      "日文",
+      "日語流行"
     ],
-    "cover_url": "https://img.youtube.com/vi/eWeSqrRk-gs/hqdefault.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=eWeSqrRk-gs",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/3b/f6/3c3bf6e8-1947-347e-f6f0-c857ca4c026f/190295490089.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=0xSiBpUdW4E",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false
   },
   {
-    "id": "df36bae1",
+    "id": "b6af7d56",
     "title": "愛を伝えたいだとか",
-    "artist": "愛謬AIMYION",
+    "artist": "愛謬AIMYON",
     "language": "日文",
     "tags": [
       "日文",
@@ -5616,9 +5617,9 @@
     "is_practicing": false
   },
   {
-    "id": "2626087a",
+    "id": "8d628727",
     "title": "君はロックを聴かない你不聽搖滾",
-    "artist": "愛謬AIMYION",
+    "artist": "愛謬AIMYON",
     "language": "日文",
     "tags": [
       "日文"
