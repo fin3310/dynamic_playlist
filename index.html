@@ -209,6 +209,35 @@
         </div>
     </div>
 
+    <!-- 💰 抖內點歌提示 Modal (🚀 新增) -->
+    <div id="donateModal" class="fixed inset-0 bg-slate-900/40 dark:bg-slate-950/80 backdrop-blur-md z-50 hidden flex justify-center items-center opacity-0 transition-opacity duration-300">
+        <div class="bg-white dark:bg-slate-800 border border-amber-100 dark:border-amber-900/50 p-6 rounded-3xl w-11/12 max-w-sm shadow-2xl transform scale-95 transition-all duration-300" id="donateModalContent">
+            <div class="text-center">
+                <div class="w-16 h-16 bg-amber-100 dark:bg-amber-900/50 rounded-full flex items-center justify-center mx-auto mb-4 text-amber-500">
+                    <svg class="w-8 h-8" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6v12m-3-2.818l.879.659c1.171.879 3.07.879 4.242 0 1.172-.879 1.172-2.303 0-3.182C13.536 12.219 12.768 12 12 12c-.725 0-1.45-.22-2.003-.659-1.106-.879-1.106-2.303 0-3.182s2.9-.879 4.006 0l.415.33M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                </div>
+                <h2 class="text-xl font-bold text-slate-800 dark:text-slate-100 mb-3">已複製點歌資訊！</h2>
+                
+                <div class="bg-amber-50 dark:bg-slate-900/50 border border-amber-100 dark:border-slate-700 rounded-xl p-3 mb-4">
+                    <p id="donateCopiedText" class="text-sm font-medium text-amber-800 dark:text-amber-400 truncate"></p>
+                </div>
+
+                <p class="text-sm text-slate-500 dark:text-slate-400 mb-6 leading-relaxed">
+                    喜歡這首歌嗎？<br>歡迎前往抖內點歌，給涅露茉茉滿滿的支持喔！🐝
+                </p>
+                
+                <div class="grid grid-cols-1 gap-3">
+                    <a href="https://www.hivebee.com.tw/userf9c21770275694/Donate" target="_blank" onclick="closeDonateModal()" class="w-full py-3 bg-amber-500 hover:bg-amber-600 text-white rounded-2xl font-medium transition-colors shadow-md shadow-amber-200 dark:shadow-amber-900/50 flex items-center justify-center gap-2">
+                        前往抖內頁面
+                    </a>
+                    <button onclick="closeDonateModal()" class="w-full py-3 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-600 dark:text-slate-300 rounded-2xl font-medium transition-colors">
+                        繼續瀏覽
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Toast 提示方塊 -->
     <div id="toast" class="fixed bottom-8 left-1/2 transform -translate-x-1/2 px-6 py-3 bg-sky-600 text-white rounded-full shadow-xl shadow-sky-900/30 transition-all duration-300 translate-y-20 opacity-0 pointer-events-none z-50 flex items-center gap-2 font-medium">
     </div>
@@ -324,12 +353,9 @@
             const isNew = isNewSong(song.added_date);
 
             // 🚀 NEW 徽章設定
-            // 1. 緊湊模式用的標籤
             const badgeCompact = isNew ? `<span class="bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-[10px] font-bold px-2 py-0.5 rounded-full shadow-sm shadow-sky-500/30 shrink-0 flex items-center gap-1 border border-sky-300 dark:border-sky-500 tracking-wider"><svg class="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</span>` : '';
-            // 2. 大圖模式用的左上角立體徽章
             const badgeGrid = isNew ? `<div class="absolute top-0 left-0 bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-xs font-bold px-3.5 py-1.5 rounded-br-2xl rounded-tl-3xl z-20 shadow-md shadow-sky-500/30 flex items-center gap-1 border-b border-r border-sky-300/50 dark:border-sky-500/50 tracking-wider"><svg class="w-3.5 h-3.5 text-sky-200" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</div>` : '';
             
-            // 3. 新歌專屬的精緻外框
             const newCardBorder = isNew ? "ring-2 ring-sky-400/60 dark:ring-sky-500/60 shadow-md shadow-sky-500/10 dark:shadow-sky-900/40" : "";
 
             const undoSvg = `<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>`;
@@ -352,7 +378,7 @@
 
                 const hasGlobalTag = song.is_practicing;
                 
-                // 🚀 暗色模式：平時完全不透明 (實心)，滑鼠懸停時變為 80% 透明度
+                // 🚀 暗色模式練歌中：替換成您指定的自訂色碼 #3b261e 與 #7d3f16
                 const cardBgClass = hasGlobalTag
                     ? "bg-amber-50/90 hover:bg-amber-100/90 dark:bg-[#3b261e] dark:hover:bg-[#7d3f16]/80 border-amber-200/80 dark:border-amber-700/80"
                     : "bg-white/90 hover:bg-sky-50/90 dark:bg-slate-800 dark:hover:bg-slate-700/80 border-sky-200/80 dark:border-slate-700/80";
@@ -495,6 +521,31 @@
             updateCardDOM(songId);
         }
 
+        // 🚀 新增開啟抖內視窗的函式
+        function openDonateModal(copiedText) {
+            const modal = document.getElementById('donateModal');
+            const content = document.getElementById('donateModalContent');
+            document.getElementById('donateCopiedText').innerText = copiedText;
+            
+            modal.classList.remove('hidden');
+            setTimeout(() => {
+                modal.classList.remove('opacity-0');
+                content.classList.remove('scale-95');
+            }, 10);
+        }
+
+        // 🚀 新增關閉抖內視窗的函式
+        function closeDonateModal() {
+            const modal = document.getElementById('donateModal');
+            const content = document.getElementById('donateModalContent');
+            
+            modal.classList.add('opacity-0');
+            content.classList.add('scale-95');
+            setTimeout(() => {
+                modal.classList.add('hidden');
+            }, 300);
+        }
+
         async function handlePlay(songId, title, artist) {
             if (!playedSongs.includes(songId)) {
                 playedSongs.push(songId);
@@ -507,7 +558,8 @@
             if (navigator.clipboard && window.isSecureContext) {
                 try {
                     await navigator.clipboard.writeText(textToCopy);
-                    showToast(`已複製：${textToCopy}`, 'success');
+                    // 🚀 複製成功後，改為彈出抖內提示 Modal
+                    openDonateModal(textToCopy);
                     return; 
                 } catch (err) {}
             }
@@ -521,7 +573,8 @@
                 textArea.select();
                 document.execCommand('copy');
                 document.body.removeChild(textArea);
-                showToast(`已複製：${textToCopy}`, 'success');
+                // 🚀 複製成功後，改為彈出抖內提示 Modal
+                openDonateModal(textToCopy);
             } catch (err) {
                 showToast('複製失敗', 'error');
             }
