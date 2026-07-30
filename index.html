@@ -352,10 +352,10 @@
 
                 const hasGlobalTag = song.is_practicing;
                 
-                // 🚀 讓「練歌中」與「一般歌曲」的亮/暗色透明度與互動行為【完全 100% 鏡像一致】
+                // 🚀 亮色與暗色模式全面統一：平時與懸停都保持 90% 不透明度 (微透出菱格紋)
                 const cardBgClass = hasGlobalTag
-                    ? "bg-amber-50/90 hover:bg-amber-100/90 dark:bg-amber-900 dark:hover:bg-amber-800/90 border-amber-200/80 dark:border-amber-700"
-                    : "bg-white/90 hover:bg-sky-50/90 dark:bg-slate-800 dark:hover:bg-slate-700/90 border-sky-200/80 dark:border-slate-700";
+                    ? "bg-amber-50/90 hover:bg-amber-100/90 dark:bg-amber-900/90 dark:hover:bg-amber-800/90 border-amber-200/80 dark:border-amber-700/80"
+                    : "bg-white/90 hover:bg-sky-50/90 dark:bg-slate-800/90 dark:hover:bg-slate-700/90 border-sky-200/80 dark:border-slate-700/80";
 
                 const leftBorderClass = hasGlobalTag
                     ? "border-amber-400 dark:border-amber-500"
