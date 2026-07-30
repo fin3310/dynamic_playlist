@@ -352,9 +352,9 @@
 
                 const hasGlobalTag = song.is_practicing;
                 
-                // 🚀 將緊湊模式下的「練歌中」背景改為實心不透明質感設計
+                // 🚀 恢復「練歌中」的半透明與毛玻璃設定，使其行為與一般歌曲一致
                 const cardBgClass = hasGlobalTag
-                    ? "bg-amber-50 dark:bg-amber-900 hover:bg-amber-100 dark:hover:bg-amber-800 border-amber-200 dark:border-amber-700"
+                    ? "bg-amber-50/90 dark:bg-amber-900/40 hover:bg-amber-100/80 dark:hover:bg-amber-800/60 border-amber-200/80 dark:border-amber-700/80"
                     : "bg-white/90 dark:bg-slate-800 hover:bg-sky-50 dark:hover:bg-slate-700/80 border-sky-200/80 dark:border-slate-700";
 
                 const leftBorderClass = hasGlobalTag
