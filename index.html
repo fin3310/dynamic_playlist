@@ -320,8 +320,15 @@
             const useNormalMode = !isCompactMode || isExpanded;
 
             const isNew = isNewSong(song.added_date);
-            const badgeCompact = isNew ? `<span class="bg-gradient-to-r from-rose-400 to-pink-500 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow-sm shadow-pink-500/30 shrink-0 animate-pulse border border-pink-400">NEW ✨</span>` : '';
-            const badgeGrid = isNew ? `<div class="absolute top-0 left-0 bg-gradient-to-r from-rose-400 to-pink-500 text-white text-[11px] font-bold px-3 py-1 rounded-br-2xl rounded-tl-3xl z-20 shadow-md shadow-pink-500/40 animate-pulse border-b border-r border-pink-400/50">NEW ✨</div>` : '';
+
+            // 🚀 升級版：更顯眼的新歌視覺裝飾
+            // 1. 緊湊模式用的標籤
+            const badgeCompact = isNew ? `<span class="bg-gradient-to-r from-rose-500 to-pink-500 text-white text-[11px] font-bold px-2 py-0.5 rounded-full shadow-md shadow-pink-500/40 shrink-0 animate-pulse flex items-center gap-1 border border-pink-300"><svg class="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</span>` : '';
+            // 2. 大圖模式用的左上角立體徽章
+            const badgeGrid = isNew ? `<div class="absolute top-0 left-0 bg-gradient-to-r from-rose-500 to-pink-500 text-white text-xs font-bold px-4 py-1.5 rounded-br-3xl rounded-tl-3xl z-20 shadow-lg shadow-pink-500/50 animate-pulse flex items-center gap-1 border-b border-r border-pink-300/60"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>最新新歌</div>` : '';
+            
+            // 3. 新歌專屬的外框高光與陰影 (讓它在卡片陣列中跳出來)
+            const newCardBorder = isNew ? "ring-2 ring-pink-400/80 dark:ring-pink-500/80 shadow-lg shadow-pink-500/10 dark:shadow-pink-900/30" : "";
 
             const undoSvg = `<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>`;
             const favSvgSolid = `<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>`;
@@ -349,10 +356,10 @@
 
                 const leftBorderClass = hasGlobalTag
                     ? "border-amber-400 dark:border-amber-500"
-                    : "border-sky-400 dark:border-sky-500";
+                    : (isNew ? "border-pink-500 dark:border-pink-400" : "border-sky-400 dark:border-sky-500");
 
                 return `
-                    <div id="song-card-${song.id}" onclick="toggleExpand('${song.id}')" class="${cardBgClass} rounded-2xl p-3 transition-colors flex items-center justify-between border shadow-sm group relative cursor-pointer backdrop-blur-sm" title="點擊展開詳細資訊">
+                    <div id="song-card-${song.id}" onclick="toggleExpand('${song.id}')" class="${cardBgClass} ${newCardBorder} rounded-2xl p-3 transition-colors flex items-center justify-between border shadow-sm group relative cursor-pointer backdrop-blur-sm" title="點擊展開詳細資訊">
                         <div class="flex-1 min-w-0 pr-2 pl-3 border-l-4 ${leftBorderClass} rounded-l-sm flex flex-col justify-center">
                             <div class="flex items-center gap-1.5 mb-0.5">
                                 ${badgeCompact}
@@ -386,7 +393,7 @@
                 const titleAttr = isCompactMode ? `title="點擊收合卡片"` : "";
 
                 return `
-                    <div id="song-card-${song.id}" ${onClickAttr} ${titleAttr} class="bg-white/90 dark:bg-slate-800 rounded-3xl overflow-hidden shadow-sm border border-sky-200/80 dark:border-slate-700 hover:border-sky-400 dark:hover:border-slate-500 hover:shadow-lg transition-all duration-300 group flex flex-col relative backdrop-blur-sm ${pointerClass}">
+                    <div id="song-card-${song.id}" ${onClickAttr} ${titleAttr} class="bg-white/90 dark:bg-slate-800 ${newCardBorder} rounded-3xl overflow-hidden shadow-sm border border-sky-200/80 dark:border-slate-700 hover:border-sky-400 dark:hover:border-slate-500 hover:shadow-lg transition-all duration-300 group flex flex-col relative backdrop-blur-sm ${pointerClass}">
                         ${badgeGrid}
                         <button onclick="event.stopPropagation(); toggleFav('${song.id}')" class="absolute top-3 right-3 z-10 p-2.5 rounded-full backdrop-blur-md shadow-lg transition-all active:scale-95 ${favBtnClass}" title="加入/移除歌單">${isFav ? favSvgSolid : favSvgOutline}</button>
                         
