@@ -141,9 +141,9 @@
         </div>
     </div>
 
-    <!-- ❓ 使用說明 Modal -->
-    <div id="helpModal" class="fixed inset-0 bg-slate-900/40 dark:bg-slate-950/80 backdrop-blur-md z-50 hidden flex justify-center items-center opacity-0 transition-opacity duration-300">
-        <div class="bg-white dark:bg-slate-800 border border-sky-100 dark:border-slate-700 p-6 rounded-3xl w-11/12 max-w-lg shadow-2xl transform scale-95 transition-all duration-300 custom-scrollbar max-h-[85vh] overflow-y-auto" id="helpModalContent">
+    <!-- ❓ 使用說明 Modal (🚀 加入點擊背景關閉) -->
+    <div id="helpModal" onclick="closeHelpModal()" class="fixed inset-0 bg-slate-900/40 dark:bg-slate-950/80 backdrop-blur-md z-50 hidden flex justify-center items-center opacity-0 transition-opacity duration-300 cursor-pointer">
+        <div onclick="event.stopPropagation()" class="bg-white dark:bg-slate-800 border border-sky-100 dark:border-slate-700 p-6 rounded-3xl w-11/12 max-w-lg shadow-2xl transform scale-95 transition-all duration-300 custom-scrollbar max-h-[85vh] overflow-y-auto cursor-auto" id="helpModalContent">
             <div class="flex justify-between items-center mb-5 border-b border-sky-50 dark:border-slate-700 pb-3">
                 <h2 class="text-xl font-bold text-sky-800 dark:text-slate-100 flex items-center gap-2">
                     <svg class="w-6 h-6 text-sky-500" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 0 0 6 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 0 1 6 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 0 1 6-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0 0 18 18a8.967 8.967 0 0 0-6 2.292m0-14.25v14.25" /></svg>
@@ -177,9 +177,9 @@
         </div>
     </div>
 
-    <!-- 🔄 資料夾同步 (備份與恢復) Modal -->
-    <div id="syncModal" class="fixed inset-0 bg-slate-900/40 dark:bg-slate-950/80 backdrop-blur-md z-50 hidden flex justify-center items-center opacity-0 transition-opacity duration-300">
-        <div class="bg-white dark:bg-slate-800 border border-sky-100 dark:border-slate-700 p-6 rounded-3xl w-11/12 max-w-md shadow-2xl transform scale-95 transition-all duration-300" id="syncModalContent">
+    <!-- 🔄 資料夾同步 (備份與恢復) Modal (🚀 加入點擊背景關閉) -->
+    <div id="syncModal" onclick="closeSyncModal()" class="fixed inset-0 bg-slate-900/40 dark:bg-slate-950/80 backdrop-blur-md z-50 hidden flex justify-center items-center opacity-0 transition-opacity duration-300 cursor-pointer">
+        <div onclick="event.stopPropagation()" class="bg-white dark:bg-slate-800 border border-sky-100 dark:border-slate-700 p-6 rounded-3xl w-11/12 max-w-md shadow-2xl transform scale-95 transition-all duration-300 cursor-auto" id="syncModalContent">
             <div class="flex justify-between items-center mb-5 border-b border-sky-50 dark:border-slate-700 pb-3">
                 <h2 class="text-xl font-bold text-sky-800 dark:text-slate-100 flex items-center gap-2">
                     <svg class="w-6 h-6 text-sky-500" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" /></svg>
@@ -209,9 +209,9 @@
         </div>
     </div>
 
-    <!-- 💰 抖內點歌提示 Modal (🚀 新增) -->
-    <div id="donateModal" class="fixed inset-0 bg-slate-900/40 dark:bg-slate-950/80 backdrop-blur-md z-50 hidden flex justify-center items-center opacity-0 transition-opacity duration-300">
-        <div class="bg-white dark:bg-slate-800 border border-amber-100 dark:border-amber-900/50 p-6 rounded-3xl w-11/12 max-w-sm shadow-2xl transform scale-95 transition-all duration-300" id="donateModalContent">
+    <!-- 💰 抖內點歌提示 Modal (🚀 加入點擊背景關閉) -->
+    <div id="donateModal" onclick="closeDonateModal()" class="fixed inset-0 bg-slate-900/40 dark:bg-slate-950/80 backdrop-blur-md z-50 hidden flex justify-center items-center opacity-0 transition-opacity duration-300 cursor-pointer">
+        <div onclick="event.stopPropagation()" class="bg-white dark:bg-slate-800 border border-amber-100 dark:border-amber-900/50 p-6 rounded-3xl w-11/12 max-w-sm shadow-2xl transform scale-95 transition-all duration-300 cursor-auto" id="donateModalContent">
             <div class="text-center">
                 <div class="w-16 h-16 bg-amber-100 dark:bg-amber-900/50 rounded-full flex items-center justify-center mx-auto mb-4 text-amber-500">
                     <svg class="w-8 h-8" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6v12m-3-2.818l.879.659c1.171.879 3.07.879 4.242 0 1.172-.879 1.172-2.303 0-3.182C13.536 12.219 12.768 12 12 12c-.725 0-1.45-.22-2.003-.659-1.106-.879-1.106-2.303 0-3.182s2.9-.879 4.006 0l.415.33M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
