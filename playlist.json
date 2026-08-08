@@ -2770,6 +2770,23 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "34519046",
+    "title": "Grenade",
+    "artist": "Bruno Mars(火星人)",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=SR6iYWJxHqs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-08"
+  },
+  {
     "id": "0367dcc5",
     "title": "カタオモイ",
     "artist": "Aimer",
@@ -4617,9 +4634,9 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "11d8ff95",
+    "id": "6dca2143",
     "title": "Symphony",
-    "artist": "Sarah Brightman",
+    "artist": "Clean Bandit",
     "language": "英文",
     "tags": [
       "英文",
@@ -4686,30 +4703,31 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "31c8914b",
-    "title": "A thousand years",
-    "artist": "Christina Perri",
+    "id": "6b1b65ae",
+    "title": "Rather Be",
+    "artist": "Clean Bandit",
     "language": "英文",
     "tags": [
       "英文",
-      "原聲帶",
+      "舞曲",
       "流行",
-      "創作歌手"
+      "電子",
+      "獨立音樂"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/2e/83/f52e8357-9cf4-e644-c365-3c21839f85ac/mzi.staekbjw.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=rtOvBOTyX00",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/19/e0/1b/19e01b5f-0fd5-85f1-f347-461d4130309a/825646029594.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=m-M1AtrxztU",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
-      "soundtrack",
       "pop",
-      "female vocalists",
-      "love at first listen",
-      "breaking dawn",
-      "singer-songwriter"
+      "dance",
+      "best of 2014",
+      "electronic",
+      "indie",
+      "british"
     ],
     "is_practicing": false,
-    "added_date": "2026-07-01"
+    "added_date": "2026-08-08"
   },
   {
     "id": "9b5a393c",
@@ -4759,30 +4777,21 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "83a76fcb",
-    "title": "Close to you",
-    "artist": "Gracie Abrams",
+    "id": "31c8914b",
+    "title": "A Thousand Years",
+    "artist": "Christina Perri",
     "language": "英文",
     "tags": [
       "英文",
-      "流行",
-      "合成器流行",
-      "獨立音樂"
+      "原聲帶"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/9a/a7/529aa76f-5d60-cd81-9eb0-0eb521de861d/24UMGIM43968.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=PmJuMNGp5YE",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/2e/83/f52e8357-9cf4-e644-c365-3c21839f85ac/mzi.staekbjw.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=rtOvBOTyX00",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "my top songs",
-      "synthpop",
-      "indie",
-      "groovy",
-      "pop",
-      "indie pop"
-    ],
+    "raw_lastfm_tags": [],
     "is_practicing": false,
-    "added_date": "2026-07-01"
+    "added_date": "2026-08-08"
   },
   {
     "id": "0e045707",
@@ -4801,26 +4810,21 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "8bee3274",
-    "title": "Try",
-    "artist": "Colbie Caillat",
+    "id": "8aef9a42",
+    "title": "Close To You",
+    "artist": "The Carpenters",
     "language": "英文",
     "tags": [
       "英文",
-      "流行",
-      "不插電"
+      "流行"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5e/a4/d9/5ea4d9e9-e52b-2cae-5a29-613e4b14d18a/14UMGIM35879.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=GXoZLPSw8U8",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/38/12/26/381226ac-f282-4f80-11fa-df8f80cbdece/00602567847564.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=iFx-5PGLgb4",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "pop",
-      "acoustic",
-      "female vocalists"
-    ],
+    "raw_lastfm_tags": [],
     "is_practicing": false,
-    "added_date": "2026-07-01"
+    "added_date": "2026-08-08"
   },
   {
     "id": "4d804969",
@@ -4871,29 +4875,23 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "a293da88",
-    "title": "Photograph",
-    "artist": "Ed Sheeran",
+    "id": "8bee3274",
+    "title": "Try",
+    "artist": "Colbie Caillat",
     "language": "英文",
     "tags": [
       "英文",
       "流行",
-      "創作歌手",
       "不插電"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/36/f9/2d36f9a7-2c3e-ce0f-7fb6-036feecb221f/825646974450.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=nSDgHBxUbVQ",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5e/a4/d9/5ea4d9e9-e52b-2cae-5a29-613e4b14d18a/14UMGIM35879.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=GXoZLPSw8U8",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
       "pop",
-      "love at first listen",
-      "emotional",
-      "my song",
-      "best song of the world",
       "acoustic",
-      "british",
-      "singer-songwriter"
+      "female vocalists"
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
@@ -4947,27 +4945,28 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "088fb3ee",
-    "title": "Perfect",
+    "id": "a293da88",
+    "title": "Photograph",
     "artist": "Ed Sheeran",
     "language": "英文",
     "tags": [
       "英文",
       "流行",
       "創作歌手",
-      "抒情",
       "不插電"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/36/f9/2d36f9a7-2c3e-ce0f-7fb6-036feecb221f/825646974450.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=nSDgHBxUbVQ",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
       "pop",
-      "ballad",
-      "love",
-      "british",
+      "love at first listen",
+      "emotional",
+      "my song",
+      "best song of the world",
       "acoustic",
+      "british",
       "singer-songwriter"
     ],
     "is_practicing": false,
@@ -5024,27 +5023,27 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "39e5f804",
-    "title": "Shape of you",
+    "id": "088fb3ee",
+    "title": "Perfect",
     "artist": "Ed Sheeran",
     "language": "英文",
     "tags": [
       "英文",
       "流行",
       "創作歌手",
+      "抒情",
       "不插電"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+    "youtube_url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
       "pop",
-      "dancehall",
-      "2017",
-      "ed sheeran",
-      "acoustic",
+      "ballad",
+      "love",
       "british",
+      "acoustic",
       "singer-songwriter"
     ],
     "is_practicing": false,
@@ -5096,27 +5095,25 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "d47bfa8d",
-    "title": "Thinking Out Loud",
+    "id": "39e5f804",
+    "title": "Shape of you",
     "artist": "Ed Sheeran",
     "language": "英文",
     "tags": [
       "英文",
       "流行",
-      "靈魂樂",
       "創作歌手",
       "不插電"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/36/f9/2d36f9a7-2c3e-ce0f-7fb6-036feecb221f/825646974450.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=lp-EO5I60KA",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
-      "soul",
-      "love",
-      "lovesong",
-      "ed sheeran",
       "pop",
+      "dancehall",
+      "2017",
+      "ed sheeran",
       "acoustic",
       "british",
       "singer-songwriter"
@@ -5174,28 +5171,30 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "b786c3d9",
-    "title": "Always Remember us this way",
-    "artist": "Lady Gaga",
+    "id": "d47bfa8d",
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
     "language": "英文",
     "tags": [
       "英文",
-      "原聲帶",
       "流行",
-      "舞曲",
-      "電子"
+      "靈魂樂",
+      "創作歌手",
+      "不插電"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/9f/ef/b19fef51-79de-a940-e8ab-9e4e07b04d96/18UMGIM53752.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=5vheNbQlsyU",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/36/f9/2d36f9a7-2c3e-ce0f-7fb6-036feecb221f/825646974450.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=lp-EO5I60KA",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
+      "soul",
       "love",
-      "best of 2018",
+      "lovesong",
+      "ed sheeran",
       "pop",
-      "piano",
-      "dance",
-      "electronic"
+      "acoustic",
+      "british",
+      "singer-songwriter"
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
@@ -5238,6 +5237,33 @@
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "b786c3d9",
+    "title": "Always Remember us this way",
+    "artist": "Lady Gaga",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "原聲帶",
+      "流行",
+      "舞曲",
+      "電子"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/9f/ef/b19fef51-79de-a940-e8ab-9e4e07b04d96/18UMGIM53752.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=5vheNbQlsyU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "love",
+      "best of 2018",
+      "pop",
+      "piano",
+      "dance",
+      "electronic"
+    ],
     "is_practicing": false,
     "added_date": "2026-07-01"
   },
@@ -5285,23 +5311,6 @@
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
-  },
-  {
-    "id": "8816f41a",
-    "title": "Apologize",
-    "artist": "OneRepublic",
-    "language": "英文",
-    "tags": [
-      "英文",
-      "流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/d6/f0/68d6f04e-f95e-d27c-c099-315eca5257bb/07UMGIM16721.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=ZSM3w1v-A_Y",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-08-08"
   },
   {
     "id": "7e6b874b",
@@ -5356,16 +5365,16 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "7b134716",
-    "title": "Counting Stars",
+    "id": "8816f41a",
+    "title": "Apologize",
     "artist": "OneRepublic",
     "language": "英文",
     "tags": [
       "英文",
       "流行"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/46/a7/2546a71a-b2bb-b4c9-4c52-a4daa3ae23ca/13UMGIM15076.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=hT_nvWreIhg",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/d6/f0/68d6f04e-f95e-d27c-c099-315eca5257bb/07UMGIM16721.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ZSM3w1v-A_Y",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
@@ -5424,6 +5433,23 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "7b134716",
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/46/a7/2546a71a-b2bb-b4c9-4c52-a4daa3ae23ca/13UMGIM15076.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=hT_nvWreIhg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-08"
+  },
+  {
     "id": "af353244",
     "title": "聲嘶力竭",
     "artist": "美波",
@@ -5475,6 +5501,23 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "4be07036",
+    "title": "Young And Beautiful",
+    "artist": "Lana Del Rey",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "原聲帶"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/e3/13/e3e31393-abf5-e9b1-edc4-20ede35d0c75/13UMGIM43701.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=o_1aF54DO60",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-08"
+  },
+  {
     "id": "996d82e8",
     "title": "LILAC",
     "artist": "美波",
@@ -5521,6 +5564,23 @@
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
+  },
+  {
+    "id": "aec50e5d",
+    "title": "Lay Me Down",
+    "artist": "Sam Smith",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/80/74/b6/8074b6bc-387f-6cc9-5ede-92b76396ad5f/13UAEIM58958.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=HaMq2nn5ac0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-08"
   },
   {
     "id": "4895b82c",
