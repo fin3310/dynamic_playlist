@@ -5287,6 +5287,23 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "8816f41a",
+    "title": "Apologize",
+    "artist": "OneRepublic",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/d6/f0/68d6f04e-f95e-d27c-c099-315eca5257bb/07UMGIM16721.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ZSM3w1v-A_Y",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-08"
+  },
+  {
     "id": "7e6b874b",
     "title": "悪魔の子",
     "artist": "ヒグチアイ",
@@ -5337,6 +5354,23 @@
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
+  },
+  {
+    "id": "7b134716",
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/46/a7/2546a71a-b2bb-b4c9-4c52-a4daa3ae23ca/13UMGIM15076.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=hT_nvWreIhg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-08"
   },
   {
     "id": "5b303716",
