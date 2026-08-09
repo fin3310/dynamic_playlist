@@ -3329,5 +3329,5528 @@
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
+  },
+  {
+    "id": "31b1470e",
+    "title": "我睡不著",
+    "artist": "守夜人",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/d1/5c/efd15cce-acd9-dd7b-900e-3d571188da14/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=m6yOdFkXun4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "indie"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "d2d0b20a",
+    "title": "​​萬千花蕊慈母悲哀",
+    "artist": "珂拉琪",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "另類音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/e1/28/79e12840-f1de-b706-5888-f096f6b03cb2/198846976976.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=kkUWlcjmOew",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "48dbc944",
+    "title": "這該死的拘執佮愛",
+    "artist": "珂拉琪",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "另類音樂",
+      "台語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/e1/28/79e12840-f1de-b706-5888-f096f6b03cb2/198846976976.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=5h_mxY1At7E",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "hokkien",
+      "taiwan",
+      "japanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "35d58e2e",
+    "title": "只有我的天空有烏雲",
+    "artist": "洪安妮",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/06/20/3f062099-e4d4-c034-5dfa-43d6b59fe15f/4711232785271.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=euNwoQVqnEY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "female vocalists",
+      "mandarin",
+      "taiwan",
+      "mandopop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "11719087",
+    "title": "我喜歡你",
+    "artist": "洪安妮",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/09/b2/c409b2ba-1b49-25c7-3084-2494b8635a3c/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=aDSf3QoK3uQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "female vocalists",
+      "mandarin",
+      "taiwan",
+      "mandopop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "2fbad744",
+    "title": "寵兒",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/12/1a/9a/121a9a3f-301c-ec4f-d384-bcb0ce8d6380/1400X1400.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=HLY8wjMxW14",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "c-pop",
+      "chinese",
+      "pop",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "4ae2cfad",
+    "title": "傻子",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/51/65/295165c2-a54d-127d-94b4-3ed68c60bb91/cover_logotype.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=xi6wOaZ61-U",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "c-pop",
+      "chinese",
+      "pop",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "0f61720c",
+    "title": "致姍姍來遲的你",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/ec/6c/dcec6c1a-de3d-edb6-99ed-ab72cca163bb/25UMGIM42310.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=L-hwm0blFwE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "c-pop",
+      "chinese",
+      "pop",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "a2117dc5",
+    "title": "兜圈",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/1b/11/601b1184-b8cb-8ba7-eb50-7a3af54e1fbf/1400x1400_cover-01.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Mqr-kjvXsk8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "c-pop",
+      "chinese",
+      "pop",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "1a8f05fe",
+    "title": "天真有邪",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/12/1a/9a/121a9a3f-301c-ec4f-d384-bcb0ce8d6380/1400X1400.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=hrdQ_6K6oXk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "c-pop",
+      "chinese",
+      "pop",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "61cdc93e",
+    "title": "浪費",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/51/65/295165c2-a54d-127d-94b4-3ed68c60bb91/cover_logotype.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=LTzy8NF3BDo",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "china",
+      "c-pop",
+      "male vocalists",
+      "taiwan",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "3f71b525",
+    "title": "想自由",
+    "artist": "林宥嘉",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "抒情",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/f9/49/3ef94944-d61a-b3dd-6a4a-d4d23e41ccbd/asset.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=NuiAOSii_sk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "ballad",
+      "taiwan",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "4713d00e",
+    "title": "失重前幸福",
+    "artist": "艾薇Ivy",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/16/01/70/16017032-e085-c88d-fb17-091debcd4839/23UM1IM00087.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=dZlT8K_Woo0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "1aa561d5",
+    "title": "他們說我是沒有用的年輕人",
+    "artist": "好樂團",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "另類音樂",
+      "獨立音樂",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/a5/be/54a5be83-ee1f-5617-c086-8ebebb8ebaae/4711232865515.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=FNJG6MsKO0k",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "indie",
+      "chinese",
+      "taiwan",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "17f30ac8",
+    "title": "我把我的青春給你",
+    "artist": "好樂團",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "獨立音樂",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/eb/a5/90eba5b1-2955-ef22-2195-89bf8c28f4f2/191018294335.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=9MMIB61e6sM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "indie",
+      "chinese",
+      "taiwan",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "64a21ca4",
+    "title": "我們一樣可惜",
+    "artist": "好樂團",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "獨立音樂",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/20/17/dc20170f-1358-6357-9f93-e344d2130ba9/4713249230706.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=zGrYK1VTIjs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "indie",
+      "chinese",
+      "taiwan",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "793b3072",
+    "title": "我愛你，卻不能拯救你",
+    "artist": "好樂團",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "獨立音樂",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/c5/d6/aec5d665-f424-5fa2-660f-26c9c8b712b5/3615939705659.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=5U9pk66hky4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "indie",
+      "chinese",
+      "taiwan",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "6afe29e5",
+    "title": "能不能請你別把我丟下",
+    "artist": "好樂團",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "搖滾",
+      "獨立音樂",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/83/3f/f2833fc5-8509-9b5d-40d6-e26e1cf13e7f/4713249234124.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=B3FchQ9ta0U",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "indie",
+      "chinese",
+      "taiwan",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "6a34cd17",
+    "title": "不是因為天氣晴朗才愛你",
+    "artist": "理想混蛋",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/99/d8/ce/99d8cead-38ae-d53b-1f43-aaa9726ed595/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=9_068Ekk_fs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "mandopop",
+      "chinese",
+      "c-pop",
+      "china",
+      "male vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "3878f915",
+    "title": "我完美的愛情",
+    "artist": "Vast &Hazy",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b7/e3/92/b7e3928e-4a94-124b-af38-4970718c0584/4711228285853.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=yd3qLHYqFuc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "717673b4",
+    "title": "與浪之間",
+    "artist": "Vast &Hazy",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/94/9e/f8/949ef82f-a14a-7bdf-7dd2-be65d396be4b/4711228299058.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=10DHUqSVu6I",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "674cceb7",
+    "title": "求救訊號",
+    "artist": "Vast &Hazy",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "另類音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fb/7a/92/fb7a92d9-14b2-3362-8842-83deaa24cb9c/4713108188858.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=0vv149qqciw",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "09a9d9cc",
+    "title": "複寫",
+    "artist": "Vast &Hazy",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/0e/cb/520ecb04-8877-8675-f874-08c9838bd9be/4711099643752.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=a1dxsIeuDK0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "08a3793d",
+    "title": "大海",
+    "artist": "南西肯恩",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/ce/29/5fce29e8-35e0-fa2c-efaa-fed4406d818a/4718487520435.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=exVEN7hlqBg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "7b9e488a",
+    "title": "我也曾經想過這樣殺了我自己",
+    "artist": "南西肯恩",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/52/b2/7252b2b8-b2a0-84c9-19ce-4c901650db88/4718487520916.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=aT6056Eb11I",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "66f3fe25",
+    "title": "花",
+    "artist": "Hello Nico",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "另類音樂",
+      "華語流行",
+      "瞪鞋搖滾",
+      "後搖滾",
+      "另類搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/04/27/79042767-9f66-4415-246f-c2beba15b6cf/887375501260.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=BlblBvpVgjE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "shoegaze",
+      "taiwan",
+      "post-rock",
+      "alternative rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "5f2ce3ae",
+    "title": "接下來如何",
+    "artist": "Hello Nico",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "另類音樂",
+      "華語流行",
+      "瞪鞋搖滾",
+      "後搖滾",
+      "另類搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/04/27/79042767-9f66-4415-246f-c2beba15b6cf/887375501260.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=iDfZua4IS4A",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "shoegaze",
+      "taiwan",
+      "post-rock",
+      "alternative rock"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "e7d7abd9",
+    "title": "山海",
+    "artist": "草東沒有派對",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "獨立搖滾",
+      "獨立音樂",
+      "後搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/24/eb/9a24ebaf-836f-af51-baa9-23536fca8319/197188392437.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=j2311FZWoFQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "grunge rock",
+      "indie",
+      "indie rock",
+      "post-rock",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "ba149fe8",
+    "title": "大風吹",
+    "artist": "草東沒有派對",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "獨立搖滾",
+      "獨立音樂",
+      "後搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/24/eb/9a24ebaf-836f-af51-baa9-23536fca8319/197188392437.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=HqmpIQ9l-uA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "grunge rock",
+      "indie",
+      "indie rock",
+      "post-rock",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "a4859dad",
+    "title": "爛泥",
+    "artist": "草東沒有派對",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "獨立搖滾",
+      "獨立音樂",
+      "後搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/24/eb/9a24ebaf-836f-af51-baa9-23536fca8319/197188392437.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=2fQ5es-qLaY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "grunge rock",
+      "indie",
+      "indie rock",
+      "post-rock",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "efa70a0d",
+    "title": "潛伏期",
+    "artist": "孫盛希",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "靈魂樂",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0d/d1/8c/0dd18cc4-c17b-3bf0-44f5-67ead4d846c4/4710149682291.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ckYMTYwKV3g",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "all",
+      "chinese",
+      "korean",
+      "cpop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "9c6eae40",
+    "title": "眼淚記得你",
+    "artist": "孫盛希",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/23/7c/69/237c698c-322f-ab80-6c72-54a4ef74f703/4710149697943_cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=07hpRRx4xMg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "all",
+      "chinese",
+      "korean",
+      "cpop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "32725fb5",
+    "title": "是他不配",
+    "artist": "孫盛希",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/92/a6/dd/92a6dd86-2439-9cc0-2a7f-9cb3ef71861d/4710149707710_cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=1TCgqhpGSEg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "pop",
+      "c-pop",
+      "asian",
+      "cpop",
+      "all"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "daddaf8d",
+    "title": "人樣",
+    "artist": "孫盛希",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "搖滾",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/23/91/3c23916e-11af-d541-8eb2-ec73aeff4db9/4710149669797.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=_axek5p6keo",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "rock",
+      "jazz rock",
+      "all",
+      "chinese",
+      "cpop"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "3ca2f970",
+    "title": "夏夜晚風",
+    "artist": "伍佰",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "搖滾",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/f6/7f/e2/f67fe262-8303-d556-2284-541ee5e1e703/dj.fwydjubj.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=NYdl3-PxEhQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "rock",
+      "chinese",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "20d8bfe8",
+    "title": "擱淺的人",
+    "artist": "康士坦的變化球",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "搖滾",
+      "獨立音樂",
+      "純音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/52/ec/2652ec1d-2b42-0225-29dc-179c14c594cd/4710679457154.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=NhJCYJs0XIA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "indie",
+      "post rock",
+      "instrumental"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "3570d746",
+    "title": "浪流連",
+    "artist": "茄子蛋",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "搖滾",
+      "硬式搖滾",
+      "華語流行",
+      "台語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2c/2b/1c/2c2b1c8c-bbf1-9821-2784-a058b96f13d2/5054197967450.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=3Y0Ut5ozaKs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "rock",
+      "hard rock",
+      "taiwan",
+      "taiwanese",
+      "hokkien"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "c04f0f5b",
+    "title": "喜歡",
+    "artist": "張懸",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "民謠",
+      "不插電",
+      "流行",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6e/1b/84/6e1b84c8-1581-c1ff-e8a3-5c1b6a4f7eac/mzi.ckeidwej.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=BnhUZUeS9hY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "folk",
+      "mellow",
+      "acoustic",
+      "pop",
+      "female vocalists",
+      "taiwan",
+      "taiwanese",
+      "chinese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "99080092",
+    "title": "關於我愛你",
+    "artist": "張懸",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/80/90/6b/80906b73-db91-c6ab-5f40-5bc6a05ee217/mzi.dckjbaow.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=lMinM-FphYQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "listen later",
+      "taiwan",
+      "taiwanese",
+      "chinese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "604c4deb",
+    "title": "玫瑰色的你",
+    "artist": "張懸",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "民謠"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/86/1e/44/861e443d-36e4-cb28-2182-6c5784e87276/886443553392.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=cstTwePsmGg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "taiwanese",
+      "folk",
+      "chinese",
+      "indie pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "88f3fd6a",
+    "title": "如何",
+    "artist": "張懸",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "民謠"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/86/1e/44/861e443d-36e4-cb28-2182-6c5784e87276/886443553392.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=LfQvaHm53oQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "taiwanese",
+      "folk",
+      "chinese",
+      "indie pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "4b08dee6",
+    "title": "你啊你啊",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cf/53/2c/cf532cac-7a29-cf18-4bcd-47b4ff84a75c/886446204864.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=M1tmYdeh6ZM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "indie",
+      "indie pop",
+      "chinese",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "3be47c7e",
+    "title": "晚安晚安",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/12/4e/4e/124e4eec-ed6e-808b-9239-5e159dce59ae/4714398626075.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=_4ztL3pt5t8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "indie",
+      "indie pop",
+      "chinese",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "0a498147",
+    "title": "好嗎好嗎",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/52/9e/18/529e18f7-9847-90c7-1908-0b91c0556171/waa_bastards_sleeve_F_cover_4000x4000.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=YppBmbVVPe8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "indie",
+      "indie pop",
+      "chinese",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "a8e7b0a6",
+    "title": "在不確定的世界裡",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/52/9e/18/529e18f7-9847-90c7-1908-0b91c0556171/waa_bastards_sleeve_F_cover_4000x4000.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=1CJ-pJqVwD0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "indie",
+      "indie pop",
+      "chinese",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "ca45eb17",
+    "title": "捉迷藏",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/52/9e/18/529e18f7-9847-90c7-1908-0b91c0556171/waa_bastards_sleeve_F_cover_4000x4000.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Zi3_XWjVNpk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "indie",
+      "indie pop",
+      "chinese",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "fa26e3fc",
+    "title": "我爸的筆",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b1/1e/86/b11e8624-8625-9d13-108f-50d90e5e79ce/4714398626112.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=FCu4uvZMoME",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "indie",
+      "indie pop",
+      "chinese",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "2f475a63",
+    "title": "竊笑",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/66/f7/9966f772-0254-0712-7e38-c83dfaea2603/886448109013.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=bEMK1X_4P4E",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "indie",
+      "indie pop",
+      "chinese",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "34d262ce",
+    "title": "暗室之後",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/52/9e/18/529e18f7-9847-90c7-1908-0b91c0556171/waa_bastards_sleeve_F_cover_4000x4000.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=LSsk5tnehEU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "indie",
+      "indie pop",
+      "chinese",
+      "taiwan"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "28108ce8",
+    "title": "HAVE A NICE DAY",
+    "artist": "魏如萱",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f7/b8/75/f7b87511-2c68-ef4d-2991-c59ec0b3e341/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=eNn5pDVZsHc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "female vocalists",
+      "c-pop",
+      "china",
+      "taiwan",
+      "taiwanese",
+      "indie",
+      "indie pop"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "4a446c32",
+    "title": "母系社會",
+    "artist": "張惠妹",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/bb/87/bcbb8783-5f44-683b-5697-8ef3785692b9/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=IE-G5W--RhE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "chinese",
+      "female vocalists",
+      "pop",
+      "c-pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "5f2b80ed",
+    "title": "血腥愛情故事",
+    "artist": "張惠妹",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "另類搖滾",
+      "流行搖滾",
+      "抒情"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/bb/87/bcbb8783-5f44-683b-5697-8ef3785692b9/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=5O7hdU7ptmY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "alternative rock",
+      "female vocalists",
+      "pop rock",
+      "ballad",
+      "taiwan",
+      "chinese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "bb5e3274",
+    "title": "傲嬌",
+    "artist": "張惠妹",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/ea/32/4aea3283-2bcf-c075-ad2d-c48bf6e19dcd/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=-x5odUXWjFk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "chinese",
+      "female vocalists",
+      "pop",
+      "c-pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "d19e61ab",
+    "title": "人質",
+    "artist": "張惠妹",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/91/87/f5/9187f5de-adb7-6213-9f4b-f72566622ea5/mzi.qnbgyfsj.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=o4JrzNdpKw4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "mandarin",
+      "chinese",
+      "pop",
+      "female vocalist",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "e0a11ac1",
+    "title": "給我一個理由忘記",
+    "artist": "A LIN",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/06/fe/60/06fe60ff-f278-69d6-2742-cea964298648/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Z-8uTUU5SR8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "taiwanese",
+      "c-pop",
+      "female vocalists",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "f9f39254",
+    "title": "ps 我愛你",
+    "artist": "A LIN",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/3c/19/a83c19d8-0418-2f53-c139-20ef43f1f0af/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=MEVY19A70F0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "251a2fe5",
+    "title": "有一種悲傷",
+    "artist": "A LIN",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/5f/73/4d5f7322-e657-0eda-7107-cefec377a985/886447347416.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=BRcudpJzy1I",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "361ec434",
+    "title": "失戀無罪",
+    "artist": "A LIN",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/25/b9/22/25b922b7-5a96-c0c7-46fd-94e4a7c31808/A-Lin_ALL_THE_BEST_2015.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=lmFlqWPzl-E",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "87472983",
+    "title": "炙愛",
+    "artist": "陳忻玥",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/7f/f3/b37ff33d-7487-0fdf-8a41-d1ec8e509224/4710679453224.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=uaymV2BBD4o",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "female vocalists",
+      "china"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "1b58f030",
+    "title": "煙幕",
+    "artist": "陳忻玥",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/cb/4c/a3cb4ce9-ebe1-9a31-17fb-0ce0a3118730/5056198968092_cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=P8uJ4gFjJGE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "female vocalists",
+      "china"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "91af0d13",
+    "title": "好想愛這個世界啊",
+    "artist": "華晨宇",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c8/e2/78/c8e2785b-bd55-0a8b-912f-6d13bc3b266e/4894894575135.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=WCjC_f1A5SQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "2020",
+      "chinese",
+      "china",
+      "c-pop",
+      "mandopop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "5741c1ce",
+    "title": "美好的事可不可以發生在我身上",
+    "artist": "華晨宇",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/db/0f/15db0f3e-f27b-c849-7a32-d0204ac57511/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=c2wew_7P2-E",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "029ef6d9",
+    "title": "煙火裡的塵埃",
+    "artist": "華晨宇",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/dc/74/1c/dc741c3c-6592-ea72-c79a-1a58a2a70fc4/4894894575142.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=yJfRHVmTiLs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "china",
+      "c-pop",
+      "mandopop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "e6fc934d",
+    "title": "我還年輕我還年輕",
+    "artist": "老王樂隊",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/70/b7/5d70b750-4de6-3f72-02be-1cc77db852b4/193017035315.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=oCQnAxrkTUc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "folk rock",
+      "taiwan",
+      "taiwanese",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "43e391f7",
+    "title": "下雨天",
+    "artist": "南拳媽媽",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6f/ed/b2/6fedb212-7b92-7520-97ce-fcedef49364a/COVER.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=uu0k4cQS7_8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "beautiful",
+      "c-pop",
+      "my love",
+      "chinese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "7d0b6775",
+    "title": "帶我走",
+    "artist": "楊丞琳",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/95/48/8c954827-09fd-17fb-8ec8-f6e959bab106/mzi.vpnvddqr.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=KOLDiXnQC7Q",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "asian",
+      "taiwanese",
+      "rainie yang",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "10f91f24",
+    "title": "匿名的好友",
+    "artist": "楊丞琳",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/bc/e0/e5/mzi.mzfgcpgj.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=s9hGDIpwfXw",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "pop",
+      "c-pop",
+      "female vocalists",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "40efcf25",
+    "title": "雨愛",
+    "artist": "楊丞琳",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/bc/e0/e5/mzi.mzfgcpgj.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=RUzvdTQGcJg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "taiwan",
+      "taiwanese",
+      "female vocalists",
+      "cpop"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "5a5652c8",
+    "title": "年輪說",
+    "artist": "楊丞琳",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/f9/24/5ef924cb-3a1d-84fb-7099-6a2628dae0d7/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=anurOHpo0aY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "mandopop",
+      "chinese",
+      "female vocalists",
+      "china",
+      "c-pop",
+      "taiwanese",
+      "taiwan"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "b1731df8",
+    "title": "聽見下雨的聲音",
+    "artist": "魏如勻",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "原聲帶"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/7e/50/667e50fc-c488-4223-0278-3d83ecc7f35a/OST.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=-M9MQgpN4Gk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "e689be61",
+    "title": "永不失聯的愛",
+    "artist": "周興哲",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e9/7f/5c/e97f5cd3-b170-62d8-5695-57054dcafe54/886446853208.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=WJK8486VjfU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "christmas"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "0761af9b",
+    "title": "我們的愛",
+    "artist": "FIR",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4a/b5/24/4ab52427-3444-0921-e6c0-2df286538324/mzi.cgqrtbol.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=88D2-J_pk7A",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "chinese",
+      "taiwan",
+      "fir",
+      "f i r",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "0beea494",
+    "title": "月牙灣",
+    "artist": "FIR",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f3/49/4d/f3494d84-091b-7acc-eb0a-79d364b1ef46/085365744752.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=sZXE20ScmPY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "taiwan",
+      "female vocalists",
+      "china",
+      "c-pop",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "f1d1ab90",
+    "title": "Lydia",
+    "artist": "FIR",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4a/b5/24/4ab52427-3444-0921-e6c0-2df286538324/mzi.cgqrtbol.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ZOHsd6Zk7DM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "c-pop",
+      "pop",
+      "cpop",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "2cc5cb3c",
+    "title": "千年之戀",
+    "artist": "FIR",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/86/21/52/8621528e-c6fd-0b9d-7491-65ccdcef44e0/mzi.fqfcpkid.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=5fTrPL5b4Lg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "chinese",
+      "taiwan",
+      "taiwanese",
+      "group",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "d2e3b7ff",
+    "title": "千年之戀",
+    "artist": "信樂團",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/72/54/77/725477b1-014e-1ab1-d3ad-ab29c9bb9cc5/iTunes.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=8fo5H8ADV58",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "rock",
+      "chinese",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "eb26441e",
+    "title": "踮起腳尖愛",
+    "artist": "洪珮瑜",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/01/28/f0/0128f014-48aa-31a7-8bf5-7dea1e47d81e/mzi.hptldmna.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=kZ_No8rsqv4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "1722c013",
+    "title": "路過人間",
+    "artist": "郁可唯",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ef/67/da/ef67dae4-5fce-c538-ca9d-ad38cdd4e9a1/yisa_cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=FMl7GEaYwAE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "c-pop",
+      "2019",
+      "mandarin",
+      "female vocalist"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "7761ce1d",
+    "title": "倒帶",
+    "artist": "蔡依林",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/e5/57/87/e55787b1-54d0-0c37-d72d-0f56c74f19e7/886443625020.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=cB7DIIG0ykk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "chinese",
+      "taiwanese",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "4e640f64",
+    "title": "我懷念的",
+    "artist": "孫燕姿",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行",
+      "抒情"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/39/8e/7d/398e7d64-1877-03ab-17cb-460943429bc0/825646246939.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=3Xj6QoLmoF0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "female vocalists",
+      "c-pop",
+      "ballad",
+      "mandarin",
+      "chinese",
+      "singapore"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "39ceb09a",
+    "title": "克卜勒",
+    "artist": "孫燕姿",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/81/dc/36/81dc3656-ae44-4641-7aa4-485e48fae68b/14UMGIM00262.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ppvqjPkQ0BY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "pop",
+      "singapore",
+      "c-pop",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "cec4dc7c",
+    "title": "天黑黑",
+    "artist": "孫燕姿",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "抒情",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/cb/70/0bcb70e1-c991-261e-eb64-be53ca569d0b/dj.kzpfbjxe.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=zi8z6RPYGV0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "pop",
+      "female vocalists",
+      "ballad",
+      "c-pop",
+      "singapore"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "a4d484eb",
+    "title": "你要的愛",
+    "artist": "戴佩妮",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2a/3a/50/2a3a50ae-2208-66c3-7860-359ec904826f/825646246380.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=oV5wT-ps9DI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "pop",
+      "emo",
+      "romantic",
+      "malaysia",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "2dceae83",
+    "title": "A.I.N.Y. 愛你",
+    "artist": "鄧紫棋",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/7c/a2/c27ca2bf-bde8-2d1d-d509-abc7b11c5d26/196873159003.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=-gaB9ov-Om0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "chinese",
+      "hong kong",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "a9ace487",
+    "title": "旅行的意義",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "不插電",
+      "獨立音樂",
+      "民謠",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c5/c5/b9/c5c5b9a5-7b08-1579-950e-6ad69d8f105a/2005_9-_1400.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=tv95k0zqnaA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "acoustic",
+      "taiwan pop",
+      "indie",
+      "folk",
+      "taiwan",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "52e94fd5",
+    "title": "魚",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "獨立音樂",
+      "民謠",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/70/06/077006a5-18c5-0e56-0e0c-ba052672b07a/4719760090010_new.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=lpsAT-Ntaaw",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "c-pop",
+      "indie",
+      "folk",
+      "taiwan",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "4a0aad8c",
+    "title": "太聰明",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "獨立音樂",
+      "民謠",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/a2/21/3ca22123-14d6-57f4-9e52-aa4573a05b07/mzm.clkcarof.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=33rdx577PxY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "indie",
+      "folk",
+      "taiwan",
+      "indie pop",
+      "chinese",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "83d1831c",
+    "title": "告訴我",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "獨立音樂",
+      "民謠",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/e0/0e/ae/e00eaefb-5737-4833-69c9-93be29dc1c6d/mzm.nshgqvxy.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=mJsT0i95cAY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "indie",
+      "folk",
+      "taiwan",
+      "indie pop",
+      "chinese",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "d5239b1a",
+    "title": "想和你看五月的晚霞",
+    "artist": "陳華",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/dc/27/8adc272e-97bc-e0c6-fa3d-5ba9a2d10602/4711232817897.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ljd9ISixsWo",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "taiwanese",
+      "mandopop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "24538d62",
+    "title": "你敢不敢",
+    "artist": "徐佳瑩",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "創作歌手",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/83/c3/fa/83c3fa1b-8143-672c-394e-2e47e2e2fffd/COVER_ALL-rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=HLibG1_lcTk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "pop",
+      "singer-songwriter",
+      "female vocalists",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "218c23e5",
+    "title": "Forever Young",
+    "artist": "艾怡良",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d7/fe/95/d7fe95c6-c028-923c-4f17-5fd7f29a68f0/18UMGIM82132.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=rFj6azCUYrU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "chinese",
+      "pop",
+      "taiwan",
+      "mandopop",
+      "female vocalists"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "04477237",
+    "title": "想見你想見你想見你",
+    "artist": "八三夭",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c9/95/65/c9956583-a1f8-f743-e890-259f78eef2c6/4710149675538.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=4iRupuNet3Q",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "china",
+      "male vocalists",
+      "c-pop",
+      "taiwan",
+      "all",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "366aca30",
+    "title": "浴室",
+    "artist": "deca joins",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "獨立搖滾",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/bb/e9/79bbe9ba-5bb3-f295-40ac-71855cd50d6d/887375512181.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=KWlP4gHOvXo",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "china",
+      "c-pop",
+      "male vocalists",
+      "mandarin",
+      "taiwanese",
+      "taiwan",
+      "indie rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "c0029148",
+    "title": "易燃易爆炸",
+    "artist": "陳粒",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/f2/69/e0f26937-29a2-9be0-f8d3-99dd7de0b78a/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=jiCldCcf2r0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "c-pop",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "61b0bb01",
+    "title": "小半",
+    "artist": "陳粒",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/f8/ab/aff8abed-e8f5-1c4b-67a7-860eceb15c59/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=awq0MvcNGqY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "c-pop",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "41cc479e",
+    "title": "走馬",
+    "artist": "陳粒",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/f2/69/e0f26937-29a2-9be0-f8d3-99dd7de0b78a/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=PYUHSWhoews",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "c-pop",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "adb4d96e",
+    "title": "奇妙能力歌",
+    "artist": "陳粒",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/f2/69/e0f26937-29a2-9be0-f8d3-99dd7de0b78a/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=p0GPJbdKhCw",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "bf29bd1b",
+    "title": "虛擬",
+    "artist": "陳粒",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/f8/ab/aff8abed-e8f5-1c4b-67a7-860eceb15c59/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=9SOazsnVVCk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "c-pop",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "696ea959",
+    "title": "絕對佔有相對自由",
+    "artist": "陳粒",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/f2/69/e0f26937-29a2-9be0-f8d3-99dd7de0b78a/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=NxN61sK-Y2Q",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "c-pop",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "6b9ec51b",
+    "title": "南山南",
+    "artist": "馬頔",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "民謠",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1f/38/2d1f389f-77d3-ab1b-d139-60982cea4937/25UMGIM42195.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=1cj1BApoYF0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "folk",
+      "indie",
+      "chinese",
+      "indie folk",
+      "mandarin"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "dc098beb",
+    "title": "水星記",
+    "artist": "郭鼎",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/55/95/4b5595a2-5d2c-38c7-8179-0a27e5ba58a1/00602488600859.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ENKFTmJxBaY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "f5cf89b9",
+    "title": "下雨的晚上",
+    "artist": "黃玠",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "民謠",
+      "獨立音樂",
+      "創作歌手"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/e1/57/09e1574d-5e6b-14f3-0f92-6992d4b333be/888003855915.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=aR8BSYCvbvo",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "folk",
+      "taiwan",
+      "indie",
+      "chinese",
+      "singer-songwriter"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "04664b7d",
+    "title": "低賤的人",
+    "artist": "顯然樂隊",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "搖滾",
+      "獨立音樂",
+      "另類音樂"
+    ],
+    "cover_url": "https://img.youtube.com/vi/lFpS1gcJRgc/hqdefault.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=lFpS1gcJRgc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "rock",
+      "indie",
+      "alternative",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "e04cb02f",
+    "title": "你的行李",
+    "artist": "甜約翰",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/48/2e/aa482eb1-6298-8104-be74-c0a884654e6d/4711508156378.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=DUsRlXm2F78",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "34c99bf8",
+    "title": "像天堂的懸崖",
+    "artist": "李佳薇",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/d7/36/c9/d736c95a-ba5c-181f-e110-6674e1f581cc/825646289776.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=DgK0iOwJCa8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "all",
+      "cpop",
+      "chinese",
+      "malaysian"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "e6b6a6ad",
+    "title": "小幸運",
+    "artist": "田馥甄",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/87/7f/69877fbc-cd2c-bb9b-2397-5f3ed14a04a8/Hebe_Little_Happiness_1400.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=GCgvpwLNvtY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "hebe",
+      "chinese",
+      "best of 2015",
+      "c-pop",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "447d5bfe",
+    "title": "你就不要想起我",
+    "artist": "田馥甄",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/12/31/75/123175fd-d416-da11-ea2f-39a5b113c3f8/dj.zyncqluo.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=GsKbnsUN2RE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "hebe",
+      "c-pop",
+      "chinese",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "aacdf485",
+    "title": "寂寞寂寞就好",
+    "artist": "田馥甄",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/eb/87/47eb8792-8fd0-8d82-4240-c6ccab124e0d/To_Hebe.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=DyFIzKYQQYE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "7c506b0c",
+    "title": "愛著愛著就永遠",
+    "artist": "田馥甄",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/12/31/75/123175fd-d416-da11-ea2f-39a5b113c3f8/dj.zyncqluo.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=fJWN7wtvaJ0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "female vocalists",
+      "c-pop",
+      "china",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "564b6738",
+    "title": "還是要幸福",
+    "artist": "田馥甄",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b3/83/9e/b3839eca-dfc5-9ed5-107d-50f09ea3d597/1400x1400.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=1CcQDuuhdXA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "hebe",
+      "hebe tien",
+      "c-pop",
+      "chinese",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "e84749ad",
+    "title": "如果有如果",
+    "artist": "鄧福如",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/6b/0b/b16b0b5d-cecc-cb9b-cb82-a575907c26b9/4715202207206.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=EEDKy3rhZaw",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "female vocalists",
+      "c-pop",
+      "asian"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "80189757",
+    "title": "第三人稱",
+    "artist": "hush!",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "另類音樂",
+      "獨立音樂",
+      "瞪鞋搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/29/f6/3029f63d-8228-42ca-a27d-160b61c82b8b/4717954163069.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=aErwuEJ_3z8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "all",
+      "70s",
+      "indie",
+      "shoegaze"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "31da2e4e",
+    "title": "唯一",
+    "artist": "告五人",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "獨立搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/2a/82/0c2a8255-9a53-e700-dd23-878a1825a6e2/1._1500.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=vxucCfcMFCk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "taiwan",
+      "chinese",
+      "indie rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "f16dcf76",
+    "title": "泡沫",
+    "artist": "鄧紫棋",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/81/e6/0881e6e7-a51c-1a5b-bdae-c379f67dce79/887158129650.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=z6PWyTYtjVI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "chinese",
+      "hong kong",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "77560219",
+    "title": "光年之外",
+    "artist": "鄧紫棋",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "原聲帶",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/23/65/4a/23654a78-6769-a2ec-bfd7-e032ea71c65a/191018640989.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=T4SimnaiktU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "chinese",
+      "hong kong",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "6f1ba9b7",
+    "title": "來自天堂的魔鬼",
+    "artist": "鄧紫棋",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/17/67/fa/1767fa19-6178-93c0-f4cb-748ee1a1fae6/mzm.peysejmo.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=FWtbGkpdoP4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "chinese",
+      "hong kong",
+      "female vocalists"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "c591c931",
+    "title": "多遠都要在一起",
+    "artist": "鄧紫棋",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/bb/c7/55bbc782-299e-7f24-bc4a-ae129e6d8030/mzm.rpqttxch.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=D9ksLn6hZ7Q",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "chinese",
+      "hong kong",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "bf03c43f",
+    "title": "再見",
+    "artist": "鄧紫棋",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/bb/c7/55bbc782-299e-7f24-bc4a-ae129e6d8030/mzm.rpqttxch.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Lhel0tzHE08",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "chinese",
+      "hong kong",
+      "female vocalists"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "71deb8e5",
+    "title": "紅豆",
+    "artist": "王菲",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "抒情",
+      "流行",
+      "粵語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/58/0e/51/580e517e-69a0-decc-96a4-b39fee54945c/Untitled.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=5wmfXve11rM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "ballad",
+      "mandopop",
+      "pop",
+      "chinese",
+      "female vocalists",
+      "cantonese",
+      "mandarin"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "3ddc6a80",
+    "title": "莉莉安",
+    "artist": "宋東野",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/a9/d7/f7a9d7be-7e4f-eafa-f5c1-bb769249e00b/25UMGIM42190.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Ka4XEvKNrrg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "1c3fd689",
+    "title": "不痛",
+    "artist": "張韶涵",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/b4/d8/8a/b4d88a79-9f8a-fa8e-3177-456b61538eac/dj.ctbgivgs.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=zXHqzoroAj4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "acb38742",
+    "title": "數到十",
+    "artist": "曾佩慈",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/c6/b7/f5c6b7b3-27e2-75e4-9306-6f040d2db0ce/4711280335114.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=1q-rNAzye8U",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "36c68145",
+    "title": "指望",
+    "artist": "郁可唯",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "抒情",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b9/14/2c/b9142c37-d58f-5981-a42c-c02b213ddf05/RD-1880.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=04VXfavbeDs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "ballad",
+      "chinese",
+      "c-pop",
+      "mandarin"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "796e8abc",
+    "title": "畫心",
+    "artist": "張靚穎",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/a3/b1/73a3b15b-ab03-2460-4117-de11f4052dc9/8720623923600.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=KXcdWoSMklM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "12",
+      "pop",
+      "chinese",
+      "c-pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "7487c7a6",
+    "title": "一樣的月光",
+    "artist": "徐佳瑩",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行",
+      "創作歌手"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/43/52/5e/43525e86-9c47-cb57-5ca5-a374aa7afa40/LaLa.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=TxXIfcRt1WQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "taiwanese",
+      "taiwan pop",
+      "taiwanese female vocal",
+      "taiwan",
+      "singer-songwriter"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "99994590",
+    "title": "失落沙洲",
+    "artist": "徐佳瑩",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "抒情",
+      "流行",
+      "創作歌手"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/43/52/5e/43525e86-9c47-cb57-5ca5-a374aa7afa40/LaLa.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Ie1KcGvBN_k",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "ballad",
+      "c-pop",
+      "female vocalists",
+      "taiwan",
+      "pop",
+      "singer-songwriter"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "6b75ab07",
+    "title": "言不由衷",
+    "artist": "徐佳瑩",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "創作歌手",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8a/60/e8/8a60e833-5516-7c16-2bdf-864627aa71e4/4713108163152.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=k8jAqe9QZ7I",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "taiwan",
+      "singer-songwriter",
+      "female vocalists",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "a4e52cc3",
+    "title": "到此為止",
+    "artist": "徐佳瑩",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "創作歌手",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8a/60/e8/8a60e833-5516-7c16-2bdf-864627aa71e4/4713108163152.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=T7IK_5XCRiU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "taiwan",
+      "singer-songwriter",
+      "female vocalists",
+      "taiwanese"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "27fc0414",
+    "title": "我愛他",
+    "artist": "丁噹",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "原聲帶"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/31/14/da/3114dad8-bffc-14c9-18fd-a836ef07d546/BD0032-_-Fu_Good.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=QKb30DgwZ7Y",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "ost",
+      "chinese",
+      "soundtrack",
+      "c-pop",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "b9f911f8",
+    "title": "至少還有你",
+    "artist": "林憶蓮",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f3/7f/38/f37f3817-a8f6-8471-65ec-d5fc58800ec1/825646246632.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=3qsbWeMqa9Y",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "pop",
+      "chinese female vocal",
+      "chankl78",
+      "hong kong",
+      "chinese pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "f9093f5c",
+    "title": "沒那麼簡單",
+    "artist": "黃小琥",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/4f/ec/274fec84-63ac-0c8e-050f-f3fee4c46b03/825646832101.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=rmPHuvQoh0g",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "taiwan",
+      "chinese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "fba0e421",
+    "title": "愛你",
+    "artist": "陳芳語",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bc/61/87/bc6187fe-4514-76bb-85ce-e9c23d7243d3/196589161284.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=KGrulNiJ6Uc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "female vocals",
+      "female vocalists",
+      "c-pop",
+      "asian",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "96be6756",
+    "title": "如果可以",
+    "artist": "韋禮安",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5b/63/0c/5b630c9d-3b66-d1fa-9c2e-c7ceeac165fb/886449697779.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=8MG--WuNW1Y",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "all",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "082eccc0",
+    "title": "是我不夠好",
+    "artist": "李毓芬",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/4e/f8/30/4ef8301f-6287-c99d-c732-d8a3372392b8/886445856606.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=BsvIwqyiaJw",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwanese",
+      "pop",
+      "female vocalists",
+      "asian",
+      "cpop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "f817c159",
+    "title": "微加幸福",
+    "artist": "郁可唯",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "抒情",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3d/da/cb/3ddacb4f-c8bc-5f00-0817-a81d7b4c7dd3/RD-1929.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=wgwIfD9Ihik",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "ballad",
+      "chinese",
+      "c-pop",
+      "mandarin"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "038d4f1e",
+    "title": "慢慢喜歡你",
+    "artist": "莫文蔚",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/31/a7/c031a72d-f7b0-55bd-d5c6-a7223b8adaa4/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=xLscpRjb8DI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "pop",
+      "hong kong",
+      "c-pop",
+      "2018"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "a3cfc611",
+    "title": "陰天",
+    "artist": "莫文蔚",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/81/cc/52/81cc5224-3ace-5e3c-468a-17b4b71da831/dj.aqolbuce.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=tYWufUugeUc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "1999",
+      "taiwan",
+      "age29",
+      "pop",
+      "hong kong"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "5b8498d1",
+    "title": "可惜不是你",
+    "artist": "梁靜茹",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ac/26/c6/ac26c690-047f-4058-bdb7-4383431b1693/dj.hlocweys.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=k_l7FVsqUyM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "ce19ff47",
+    "title": "會呼吸的痛",
+    "artist": "梁靜茹",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c4/6c/9f/c46c9ffa-dffd-37d9-8bd7-129b24f880ba/BD0009-_-_J_ADORE.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=vZ1fCcPUuPM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "female vocalists",
+      "pop",
+      "asian",
+      "malaysia",
+      "asian pop",
+      "c-pop"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "a6db804a",
+    "title": "慢冷",
+    "artist": "梁靜茹",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/0d/15/5a0d150d-124a-ed96-abaa-98f57e733938/19UMGIM39997.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=TpF0wNlopp8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "female vocalists",
+      "c-pop",
+      "malaysia",
+      "chinese",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "b9f3b5ad",
+    "title": "盛夏光年",
+    "artist": "五月天",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "抒情",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/4d/f0/0b4df092-7531-2d96-0c3f-1f330fd9388e/the_best_of_1999-2013.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=io3vAI8UXfA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "sad",
+      "summer",
+      "beautiful",
+      "ballad",
+      "i could listen to this all day",
+      "chinese",
+      "rock",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "e220a69c",
+    "title": "擱淺",
+    "artist": "周杰倫",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "抒情",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/c1/2d/29c12de6-54b4-f549-9d9f-07d8a04221ea/JAY.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=YJfHuATJYsQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "sad",
+      "ballad",
+      "chinese",
+      "c-pop",
+      "jay chou"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "ca7cc94d",
+    "title": "修練愛情",
+    "artist": "林俊傑",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/86/80/48/86804834-eb90-62a1-2170-cd96f9963cac/4711099729722.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=LWV-f6dMN3Q",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "c-pop",
+      "cpop",
+      "taiwan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "3d3f33a6",
+    "title": "誠實地想你",
+    "artist": "郭采潔",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/d4/c8/b6d4c865-e905-0ccc-3afe-bc049ec01726/mzi.jwevjxlj.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ASMmljnWK2E",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "pop",
+      "taiwan",
+      "chinese",
+      "female vocalists"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "c2e8fdee",
+    "title": "你在不在",
+    "artist": "郭采潔",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/f2/40/dc/mzi.qqnnydld.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=PYItMFDBHqI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "c-pop",
+      "pop",
+      "taiwan",
+      "chinese",
+      "female vocalists"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "fa0340c8",
+    "title": "孤獨的總和",
+    "artist": "吳汶芳",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/43/36/6b/43366b95-a7ea-c9f1-9766-6e692287b2b0/1500.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=90xQdZ4WmLA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "all",
+      "pop",
+      "female vocals",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "71c75e5e",
+    "title": "錦鯉抄",
+    "artist": "銀臨 & 雲の泣",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d6/7d/5dd67d3d-add0-7556-cdd7-25ff1a215582/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=iXkqbqzs1U4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "8ca6cca5",
+    "title": "chandelier",
+    "artist": "SIA",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "獨立音樂",
+      "馳放音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/00/bf/72/00bf72a2-3e50-e5e7-ae78-dc35bbf9bcda/886444578219.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=2vjPBrBU-TM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "best of 2014",
+      "australian",
+      "power ballad",
+      "female vocalists",
+      "indie",
+      "chillout"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "f62282e5",
+    "title": "Cupid",
+    "artist": "Fifty Fifty",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "韓語流行",
+      "流行舞曲",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/2e/aa/6b2eaa77-af21-4b0d-5ae0-2062cbf44e55/196872355437.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Qc7_zRjH808",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "k-pop",
+      "dance-pop",
+      "korean",
+      "pop",
+      "attrakt"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "c023ceb1",
+    "title": "Expectations",
+    "artist": "Minnie(i-dle)",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "韓語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/f8/8a/93f88a32-342c-b650-ef1c-ebc1c9f804c3/00198704643309_Cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=jrt4iWhofPA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "5ea14de0",
+    "title": "Until I found you",
+    "artist": "Stephen Sanchez",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "創作歌手",
+      "流行",
+      "抒情",
+      "民謠"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/d2/c5/64d2c511-67f4-ae09-5153-d39c3da413a3/21UMGIM75467.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=GxldQ9eX2wo",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "love",
+      "american",
+      "sweet",
+      "ballad",
+      "folk",
+      "singer-songwriter",
+      "indie pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "5d96b61f",
+    "title": "I love you 3000",
+    "artist": "Stephanie Poetri",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "靈魂樂",
+      "R&B"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/7d/46/a67d4670-0faf-5122-7dc1-2f4775343ed6/artwork.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=cPkE0IbDVs4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "indonesian",
+      "indie pop",
+      "soul",
+      "rnb"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "49643aea",
+    "title": "Shallow",
+    "artist": "Lady Gaga",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "原聲帶",
+      "流行",
+      "鄉村音樂",
+      "舞曲",
+      "電子"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/9f/ef/b19fef51-79de-a940-e8ab-9e4e07b04d96/18UMGIM53752.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=bo_efYhYU2A",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "soundtrack",
+      "country",
+      "dance",
+      "electronic"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "559993f5",
+    "title": "I'll Never Love Again",
+    "artist": "Lady Gaga",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "原聲帶",
+      "流行",
+      "舞曲",
+      "電子"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/98/11/b5981112-d355-a16c-f116-8121f62949fb/18UMGIM53753.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=52nfjRzIaj8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "great vocals",
+      "pop",
+      "dance",
+      "electronic"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "fd19b297",
+    "title": "Die with a smile",
+    "artist": "Lady Gaga",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "抒情",
+      "舞曲",
+      "電子"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=kPa7bsKwL-c",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "soft rock",
+      "bruno mars",
+      "ballad",
+      "pop",
+      "lady gaga",
+      "dance",
+      "electronic"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "abff8f43",
+    "title": "Vampire Hollie",
+    "artist": "ROSE(Blackpink)",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "https://img.youtube.com/vi/sE1o6zj0P7g/hqdefault.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=sE1o6zj0P7g",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "99c72dd0",
+    "title": "Number One Girl",
+    "artist": "ROSE(Blackpink)",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=pZ1NdE69VTs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "eb776514",
+    "title": "Hard to Love",
+    "artist": "ROSE(Blackpink)",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "韓語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/52/8e/5a/528e5a30-52b0-b68c-f184-635fcf15e6d7/22UM1IM01017.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=7Hr3p1BHC_E",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "9ba0281b",
+    "title": "Gone",
+    "artist": "ROSE(Blackpink)",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "韓語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/a9/23/c2a923ac-b382-e73b-91f4-013a8d5a0600/21UMGIM18155.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=K9_VFxzCuQ0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "45bc69b6",
+    "title": "Toxic till the end",
+    "artist": "ROSE(Blackpink)",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=eA0lHNZ1KCA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "54b0a739",
+    "title": "drivers license",
+    "artist": "Olivia Rodrigo",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "流行搖滾",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/ed/8c/02ed8cab-c089-2fdd-7ce6-ab334a9a4e19/21UMGIM26093.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ZmDBbnmKpqQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "batch-test",
+      "pop",
+      "bedroom pop",
+      "sad",
+      "pop rock",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "1dc9278d",
+    "title": "Vampire",
+    "artist": "Olivia Rodrigo",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "流行搖滾",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/9e/07/089e0799-b405-9e69-b648-e6a19df9879c/24UMGIM30485.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=RlPNh_PBZb4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop rock",
+      "pop",
+      "piano rock",
+      "guts",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "4995f87a",
+    "title": "Deja Vu",
+    "artist": "Olivia Rodrigo",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "流行搖滾",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/ed/8c/02ed8cab-c089-2fdd-7ce6-ab334a9a4e19/21UMGIM26093.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=cii6ruuycQA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "pop rock",
+      "psychedelic pop",
+      "indie pop",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "e0701774",
+    "title": "Legends never die",
+    "artist": "League of Legendsft. Against The Current",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "獨立搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/04/09/c00409fd-96b3-6819-be08-86e97d35ed85/00198704669651_Cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=r6zIGXun57U",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "03423def",
+    "title": "payphone",
+    "artist": "Maroon5",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "流行搖滾",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/23/69/f3/2369f317-a9c8-5c32-9a7a-cdd7b218ee39/21UMGIM89172.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=KRaWnd3LJfs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "maroon 5",
+      "male vocalists",
+      "pop rock",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "22b2bd78",
+    "title": "Back to december",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "鄉村音樂",
+      "流行",
+      "鄉村流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/23/57/d423579f-24f7-5c82-ed10-fbfd21ceef25/10UMDIM00487.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=QUwxKWT6m7U",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "country",
+      "pop",
+      "country pop",
+      "female vocalists",
+      "taylor swift"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "6498d9aa",
+    "title": "Cruel Summer",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "電子流行",
+      "合成器流行",
+      "鄉村音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=B8Q-nHfEsQY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "electropop",
+      "pop",
+      "synthpop",
+      "industrial pop",
+      "country",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "c5c7b117",
+    "title": "Enchanted",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "鄉村音樂",
+      "流行",
+      "鄉村流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/23/57/d423579f-24f7-5c82-ed10-fbfd21ceef25/10UMDIM00487.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=lh7gZYcjV44",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "country",
+      "pop",
+      "taylor swift",
+      "love",
+      "country pop",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "dd3c7f1d",
+    "title": "Wildest Dreams",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "夢幻流行",
+      "鄉村音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/4a/4a/894a4ab9-b0b0-9ea5-ca41-8da0b9b79453/14UMDIM03405.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=IdneKLhsWOQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "dream pop",
+      "love at first listen",
+      "max martin",
+      "country",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "b155a9ae",
+    "title": "Lavender Haze",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "合成器流行",
+      "夢幻流行",
+      "鄉村音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/b5/01/67b501d5-362e-797e-7dbd-942b9e273084/22UM1IM24801.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=h8DLofLM7No",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "synthpop",
+      "alt-pop",
+      "dream pop",
+      "country",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "925270e1",
+    "title": "Love Story",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "鄉村音樂",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/d0/1c/c3d01c88-73e7-187e-fd62-e1744de979a6/21UMGIM09915.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=8xg3vE8Ie_E",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "country",
+      "taylor swift",
+      "pop",
+      "love",
+      "romantic",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "abf6ef9d",
+    "title": "Style",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "合成器流行",
+      "鄉村音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/98/d8/a798d867-344d-2bf2-fbfe-d2d1412dcef8/14UMDIM03793.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=-CmadmM5cOk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "synthpop",
+      "taylor swift",
+      "love at first listen",
+      "country",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "d263778a",
+    "title": "Blank Space",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "鄉村音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/98/d8/a798d867-344d-2bf2-fbfe-d2d1412dcef8/14UMDIM03793.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=e-ORhEE9VVg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "love at first listen",
+      "2014",
+      "female vocalists",
+      "country"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "eae55f51",
+    "title": "Safe & Sound",
+    "artist": "Taylor Swift",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "原聲帶",
+      "不插電",
+      "鄉村音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/71/68/56/71685693-ccea-7640-209b-94a0f974c697/21UM1IM25046.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=RzhAS_GnJIc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "soundtrack",
+      "sweet",
+      "taylor swift",
+      "acoustic",
+      "female vocalists",
+      "pop",
+      "country"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "a1e8fe1f",
+    "title": "Good luck babe",
+    "artist": "Chappell Roan",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "合成器流行",
+      "電子流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=1RKqOmSkGgM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "indie pop",
+      "synthpop",
+      "queer",
+      "electropop",
+      "synth-pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "5672d2ad",
+    "title": "Lost Stars",
+    "artist": "Adam Levine",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "原聲帶",
+      "另類音樂",
+      "流行搖滾",
+      "另類搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/ab/07/24ab076d-9e33-b2ea-8cf7-5e7308320b00/00602537902187.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=cL4uhaQ58Rk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "soundtrack",
+      "pop",
+      "alternative",
+      "male vocalists",
+      "maroon 5",
+      "pop rock",
+      "alternative rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "5dcd3ce1",
+    "title": "City of stars",
+    "artist": "Ryan Gosling, Emma Stone",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "音樂劇",
+      "爵士",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/47/a3/bb47a36e-57b8-9260-f9a4-d09851145c45/00602557100556.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=GTWqwSNQCcg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "jazz",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "c666c1d3",
+    "title": "POV",
+    "artist": "Ariana Grande",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "R&B",
+      "靈魂樂",
+      "嘻哈"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/8e/f9/a88ef97a-74c3-bedf-0574-ea0b83b40a38/20UMGIM94965.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=fLFvbwrWLQY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "rnb",
+      "2020s",
+      "soul",
+      "hip-hop",
+      "pop",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "b3ee8c6d",
+    "title": "We can't be friends",
+    "artist": "Ariana Grande",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "R&B"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2e/88/88/2e8888ad-a0cf-eece-70a7-1ff81377a3ab/24UMGIM00198.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=KNtJGQkC-WI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "rnb",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "dcb967f0",
+    "title": "one last time",
+    "artist": "Ariana Grande",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "R&B"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a5/39/86/a5398609-ad90-50d3-57ad-0f87a4df5ac4/14UMGIM28138.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Wg92RrNhB8s",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "2014",
+      "sad",
+      "female vocalists",
+      "rnb"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "069d4081",
+    "title": "God is a woman",
+    "artist": "Ariana Grande",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "R&B"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/70/53/76/705376dc-d0dc-6945-7fb2-415038e3aafa/18UMGIM36925.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=kHLHSlExFis",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "sweetener",
+      "trap",
+      "gospel",
+      "rnb",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "664f9fb1",
+    "title": "When I was your man",
+    "artist": "Bruno Mars(火星人)",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/63/53/156353b8-d45b-a17d-f553-2d125aeb3cb3/075679957474.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=TxPRFZ80EXk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "ad1c8a20",
+    "title": "Talking to the Moon",
+    "artist": "Bruno Mars(火星人)",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=IBU0eAQaZOY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "bc63e9f2",
+    "title": "Just The Way You Are",
+    "artist": "Bruno Mars(火星人)",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=LjhCEhWiKXk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "34519046",
+    "title": "Grenade",
+    "artist": "Bruno Mars(火星人)",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=SR6iYWJxHqs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "f49a4d40",
+    "title": "Versace On The Floor",
+    "artist": "Bruno Mars(火星人)",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/1b/89/2d/1b892d31-17b2-61bf-a05f-98d6ace004d2/075679891778.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=hDw6qD-X-Hc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "ffcd21b4",
+    "title": "Birds of a feather",
+    "artist": "Bille Eilish",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "另類音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=V9PVRfjEBTI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "4403a7a1",
+    "title": "when the party's over",
+    "artist": "Bille Eilish",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "另類音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=pbMwTqkKSps",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "97d0de3f",
+    "title": "idontwannabeyouannymore",
+    "artist": "Bille Eilish",
+    "language": "英文",
+    "tags": [
+      "英文"
+    ],
+    "cover_url": "https://img.youtube.com/vi/-tn2S3kJlyU/hqdefault.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=-tn2S3kJlyU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "5a9ece25",
+    "title": "All of me",
+    "artist": "john legend",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "節奏藍調",
+      "R&B",
+      "流行",
+      "靈魂樂",
+      "新靈魂樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/71/b9/2271b906-85b3-06ee-e611-489b91df0b73/886444160742.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=450p7goxZqg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "rnb",
+      "pop",
+      "2014",
+      "love",
+      "soul",
+      "neo-soul"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "7b34fb8a",
+    "title": "best part",
+    "artist": "Daniel Caesar",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "節奏藍調",
+      "R&B",
+      "靈魂樂",
+      "新靈魂樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/40/34/274034b3-42d9-ba59-b22c-dc4f57672ee0/886446799513.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=hKgl5-lkT8U",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "rnb",
+      "soul",
+      "neo-soul"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "df764e77",
+    "title": "Paper Hearts",
+    "artist": "tori kelly",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "靈魂樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/53/4c/59534cc0-c3e7-089c-850f-1887a920a7b8/13UAAIM99885.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=NO8zDm437Ls",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "2013",
+      "2010s",
+      "soul",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "725215bf",
+    "title": "Fly me to the moon",
+    "artist": "Frank Sinatra",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "爵士",
+      "搖擺樂",
+      "輕音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/37/1a/3a371a7e-33fe-85db-0616-0c57ef26fb42/13UAEIM06265.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=JYuyWrkwpok",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "jazz",
+      "swing",
+      "oldies",
+      "easy listening",
+      "frank sinatra"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "5962babe",
+    "title": "Complicated",
+    "artist": "avril lavigne",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "流行搖滾",
+      "搖滾",
+      "流行龐克"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/2c/f3/322cf324-9ea1-3962-865a-f4f9bf83764d/888880191069.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=5NPBIwQyPWE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "pop rock",
+      "rock",
+      "female vocalists",
+      "avril lavigne",
+      "skate punk",
+      "pop punk"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "9c08bbfc",
+    "title": "Innocence",
+    "artist": "avril lavigne",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "流行搖滾",
+      "搖滾",
+      "流行龐克"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/f0/45/41f04530-b881-6fa6-4da1-6e2001b9fe07/888880378958.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=hFlJZKrG2Uw",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop rock",
+      "pop",
+      "avril lavigne",
+      "female vocalists",
+      "rock",
+      "skate punk",
+      "pop punk"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "daa89fc9",
+    "title": "When You're Gone",
+    "artist": "avril lavigne",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "搖滾",
+      "流行搖滾",
+      "流行龐克"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/f0/45/41f04530-b881-6fa6-4da1-6e2001b9fe07/888880378958.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=0G3_kG5FFfQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "rock",
+      "avril lavigne",
+      "pop rock",
+      "female vocalists",
+      "skate punk",
+      "pop punk"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "53955608",
+    "title": "Wish you were here",
+    "artist": "avril lavigne",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "流行搖滾",
+      "搖滾",
+      "流行龐克"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/ad/07/99ad07aa-4876-45f9-7c52-f15f67cdd790/886443313248.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=VT1-sitWRtY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "pop rock",
+      "rock",
+      "avril lavigne",
+      "female vocalists",
+      "skate punk",
+      "pop punk"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "1ed708a2",
+    "title": "Speechless",
+    "artist": "Naomi Scott",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "音樂劇",
+      "原聲帶",
+      "流行",
+      "R&B",
+      "流行搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/f1/5c/07f15c32-67d9-243f-0cc1-527cd3e6fce2/19UMGIM38402.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=mw5VIEIvuMI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "ost",
+      "pop",
+      "rnb",
+      "pop rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "bef49216",
+    "title": "When We Were Young",
+    "artist": "Adele",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "靈魂樂",
+      "抒情"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=DDWKuo3gXMQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "soul",
+      "ballad",
+      "pop",
+      "british",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "0b3291be",
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "靈魂樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/ca/25/ebca2596-cd1e-b295-91a3-771c868d0a79/191404113868.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=rYEDA3JcQqw",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "soul",
+      "pop",
+      "female vocalists",
+      "adele",
+      "british"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "454e2b9c",
+    "title": "Easy On Me",
+    "artist": "Adele",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "靈魂樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=U3ASj1L6_sY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "2021",
+      "pop",
+      "adele",
+      "2020s",
+      "soul",
+      "female vocalists",
+      "british"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "8ff33904",
+    "title": "I Drink Wine",
+    "artist": "Adele",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "靈魂樂",
+      "R&B"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=jDvYDzFOK9A",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "soul",
+      "pop",
+      "british",
+      "rnb",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "cbeacea0",
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "靈魂樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/ca/25/ebca2596-cd1e-b295-91a3-771c868d0a79/191404113868.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=hLQl3WQQoQ0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "soul",
+      "adele",
+      "piano",
+      "british",
+      "pop",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "37f34361",
+    "title": "From The Start",
+    "artist": "Laufey",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "爵士",
+      "爵士流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8b/8b/20/8b8b2083-c8a3-a1a6-1f9e-a4da5bf45d5d/197188679637.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=lSD_L-xic9o",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "bossa nova",
+      "jazz pop",
+      "jazz",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "d6971a42",
+    "title": "Viva La Vida",
+    "artist": "Coldplay",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "另類音樂",
+      "另類搖滾",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=dvgZkm1xWPE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "alternative rock",
+      "2008",
+      "alternative",
+      "rock",
+      "coldplay"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "bdf10dde",
+    "title": "yellow",
+    "artist": "Coldplay",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "另類音樂",
+      "另類搖滾",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=yKNxeF4KMsY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "alternative rock",
+      "rock",
+      "alternative",
+      "coldplay",
+      "britpop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "0d3df5bf",
+    "title": "Fix you",
+    "artist": "Coldplay",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "另類音樂",
+      "搖滾",
+      "另類搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/82/48/0c8248a8-4a5b-d30d-8056-f32d650d2fc9/190295978068.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=k4V3Mo61fJM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "alternative",
+      "rock",
+      "coldplay",
+      "britpop",
+      "alternative rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "ef934914",
+    "title": "Don't Look Back In Anger",
+    "artist": "Oasis",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "獨立搖滾",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ef/05/66/ef05663a-b741-caad-d177-0e632706dc1a/5051961036107.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=cmpRLQZkTb8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "britpop",
+      "rock",
+      "90s",
+      "british",
+      "oasis"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "1bb665b0",
+    "title": "Bleeding Love",
+    "artist": "Leona Lewis",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "靈魂樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/59/43/92/594392bc-39a2-bf7d-9401-cd36632423c0/dj.gosywhnl.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=7_weSk0BonM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "female vocalists",
+      "leona lewis",
+      "love",
+      "soul"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "44192045",
+    "title": "creep",
+    "artist": "Radiohead",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "另類音樂",
+      "另類搖滾",
+      "搖滾",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/7a/7c/287a7ca9-ed95-1a21-e3bb-4559a1a0ac0e/191404134351.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=XFkzRNyygfk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "alternative",
+      "alternative rock",
+      "rock",
+      "indie",
+      "radiohead"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "4f47974c",
+    "title": "Love Me Like You Do",
+    "artist": "Ellie Goulding",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "電子",
+      "創作歌手"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/df/09/7e/df097e10-36b1-a35c-bf5e-2ef138bd2ed7/15UMGIM68751.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=AJtDXIazrMo",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "love at first listen",
+      "2015",
+      "love",
+      "electronic",
+      "female vocalists",
+      "british",
+      "singer-songwriter"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "794137d4",
+    "title": "Titanium",
+    "artist": "David Guetta & Sia",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "舞曲",
+      "電子",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/99/b4/7b/99b47bd8-2b22-e1ef-2e60-c5147f27a861/dj.thrvmjqj.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=JRfuAukYTKg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "electronic",
+      "dance",
+      "pop",
+      "david guetta",
+      "house"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "3ccd0f83",
+    "title": "Stay",
+    "artist": "Rihanna",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "R&B",
+      "舞曲"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d3/72/50/d3725004-0117-e76d-47f3-00b185e9dd82/12UMGIM59888.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=JF8BRvqGCNs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "rnb",
+      "rihanna",
+      "dance"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "6dca2143",
+    "title": "Symphony",
+    "artist": "Clean Bandit",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "舞曲",
+      "EDM",
+      "電子",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3b/26/be/3b26bed0-2f02-0a84-b899-04d82fa27cbc/190295552596.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=aatr_2MstrI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "zara larsson",
+      "electronica",
+      "edm",
+      "clean bandit",
+      "electronic",
+      "indie",
+      "british"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "6b1b65ae",
+    "title": "Rather Be",
+    "artist": "Clean Bandit",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "舞曲",
+      "流行",
+      "電子",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/19/e0/1b/19e01b5f-0fd5-85f1-f347-461d4130309a/825646029594.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=m-M1AtrxztU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "dance",
+      "best of 2014",
+      "electronic",
+      "indie",
+      "british"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "31c8914b",
+    "title": "A Thousand Years",
+    "artist": "Christina Perri",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "原聲帶",
+      "流行",
+      "創作歌手"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/2e/83/f52e8357-9cf4-e644-c365-3c21839f85ac/mzi.staekbjw.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=rtOvBOTyX00",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "soundtrack",
+      "pop",
+      "female vocalists",
+      "love at first listen",
+      "breaking dawn",
+      "singer-songwriter"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "8aef9a42",
+    "title": "Close To You",
+    "artist": "The Carpenters",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "輕音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/38/12/26/381226ac-f282-4f80-11fa-df8f80cbdece/00602567847564.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=iFx-5PGLgb4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "70s",
+      "easy listening",
+      "oldies",
+      "female vocalists",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "8bee3274",
+    "title": "Try",
+    "artist": "Colbie Caillat",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "不插電"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5e/a4/d9/5ea4d9e9-e52b-2cae-5a29-613e4b14d18a/14UMGIM35879.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=GXoZLPSw8U8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "acoustic",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "a293da88",
+    "title": "Photograph",
+    "artist": "Ed Sheeran",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "不插電"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/36/f9/2d36f9a7-2c3e-ce0f-7fb6-036feecb221f/825646974450.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=nSDgHBxUbVQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "love at first listen",
+      "emotional",
+      "my song",
+      "best song of the world",
+      "acoustic",
+      "british"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "088fb3ee",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "抒情",
+      "不插電"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "ballad",
+      "love",
+      "british",
+      "acoustic"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "39e5f804",
+    "title": "Shape of you",
+    "artist": "Ed Sheeran",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "不插電"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "dancehall",
+      "2017",
+      "ed sheeran",
+      "acoustic",
+      "british"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "d47bfa8d",
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "靈魂樂",
+      "不插電"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/36/f9/2d36f9a7-2c3e-ce0f-7fb6-036feecb221f/825646974450.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=lp-EO5I60KA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "soul",
+      "love",
+      "lovesong",
+      "ed sheeran",
+      "pop",
+      "acoustic",
+      "british"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "b786c3d9",
+    "title": "Always Remember us this way",
+    "artist": "Lady Gaga",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "原聲帶",
+      "流行",
+      "舞曲",
+      "電子"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/9f/ef/b19fef51-79de-a940-e8ab-9e4e07b04d96/18UMGIM53752.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=5vheNbQlsyU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "love",
+      "best of 2018",
+      "pop",
+      "piano",
+      "dance",
+      "electronic"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "8816f41a",
+    "title": "Apologize",
+    "artist": "OneRepublic",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "另類音樂",
+      "搖滾",
+      "另類搖滾",
+      "流行搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/d6/f0/68d6f04e-f95e-d27c-c099-315eca5257bb/07UMGIM16721.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ZSM3w1v-A_Y",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "alternative",
+      "rock",
+      "alternative rock",
+      "pop",
+      "piano rock",
+      "pop rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "7b134716",
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "民謠",
+      "流行搖滾",
+      "搖滾",
+      "另類音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/46/a7/2546a71a-b2bb-b4c9-4c52-a4daa3ae23ca/13UMGIM15076.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=hT_nvWreIhg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "folk",
+      "pop rock",
+      "rock",
+      "love at first listen",
+      "kick",
+      "alternative"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "4be07036",
+    "title": "Young And Beautiful",
+    "artist": "Lana Del Rey",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "原聲帶",
+      "獨立音樂",
+      "另類音樂",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/e3/13/e3e31393-abf5-e9b1-edc4-20ede35d0c75/13UMGIM43701.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=o_1aF54DO60",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "cult",
+      "indie",
+      "alternative",
+      "female vocalists",
+      "lana del rey",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "aec50e5d",
+    "title": "Lay Me Down",
+    "artist": "Sam Smith",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "靈魂樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/80/74/b6/8074b6bc-387f-6cc9-5ede-92b76396ad5f/13UAEIM58958.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=HaMq2nn5ac0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "soul",
+      "pop",
+      "love",
+      "sad",
+      "british"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "61ceddb6",
+    "title": "FATE",
+    "artist": "I-DLE",
+    "language": "韓文",
+    "tags": [
+      "韓文",
+      "韓語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/da/6d/96da6de4-8824-f449-7a7a-243aaa9f3a75/cover_KM0019415_1.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ATK7gAaZTOM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "k-pop",
+      "hit",
+      "emotional",
+      "anthem of korea",
+      "korean",
+      "i-dle",
+      "cube entertainment",
+      "88rising"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "577cecef",
+    "title": "LOVE DIVE",
+    "artist": "IVE",
+    "language": "韓文",
+    "tags": [
+      "韓文",
+      "韓語流行",
+      "電子流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/67/f8/16/67f8164a-bfc2-f29b-e241-800426a968ef/cover_KM0015013_1.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Y8JFxS1HlDo",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "k-pop",
+      "electropop",
+      "ive",
+      "2022",
+      "korean",
+      "kpop",
+      "starship entertainment"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "f54026f7",
+    "title": "I AM",
+    "artist": "IVE",
+    "language": "韓文",
+    "tags": [
+      "韓文",
+      "韓語流行",
+      "電子流行",
+      "流行舞曲"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/2f/49/fe2f497c-2b68-b67d-2199-67a3b8169e36/cover_KM0017019_1.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=6ZUIwj3FgUY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "k-pop",
+      "electropop",
+      "2023",
+      "dance-pop",
+      "korean",
+      "kpop",
+      "starship entertainment"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "e6fe4eb0",
+    "title": "ELEVEN",
+    "artist": "IVE",
+    "language": "韓文",
+    "tags": [
+      "韓文",
+      "韓語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/63/4a/d3634a37-8dd2-8fc6-d138-895b3d237611/IVE_OnlineCover_fix.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=--FmExEAsM8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "k-pop",
+      "kpop",
+      "ive",
+      "loona",
+      "korean",
+      "starship entertainment"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "70aad10d",
+    "title": "After LIKE",
+    "artist": "IVE",
+    "language": "韓文",
+    "tags": [
+      "韓文",
+      "韓語流行",
+      "迪斯可"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f0/5f/11/f05f1119-8992-ba35-1e97-20213a637870/cover_KM0015998_1.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=fdzojloPlFA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "k-pop",
+      "disco",
+      "kpop",
+      "wsum 91.7 fm madison",
+      "pop court with manda m",
+      "korean",
+      "starship entertainment"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "24207404",
+    "title": "Ditto",
+    "artist": "New Jeans",
+    "language": "韓文",
+    "tags": [
+      "韓文",
+      "韓語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Km71Rr9K-Bw",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "garage",
+      "k-pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "85a3ede4",
+    "title": "SUPERNATURAL",
+    "artist": "New Jeans",
+    "language": "韓文",
+    "tags": [
+      "韓文",
+      "日語流行",
+      "韓語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/ce/d6/abced6f6-2b90-c230-eb4b-e146734a3a22/196922907821_Cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ZncbtRo7RXs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "garage",
+      "k-pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "b87cd439",
+    "title": "GODS",
+    "artist": "New Jeans",
+    "language": "韓文",
+    "tags": [
+      "韓文",
+      "韓語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/59/e0/3059e000-eb6f-6c08-4387-c1ee9d38d962/00198704670657_Cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=C3GouGa0noM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "garage",
+      "k-pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "9b1ce238",
+    "title": "perfect night",
+    "artist": "le serafim",
+    "language": "韓文",
+    "tags": [
+      "韓文",
+      "韓語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/cd/40/a0cd4013-89cf-0554-0aa5-1ac5a0bb3db1/196922680779_Cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=oKBwWQI-IoI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "6957da22",
+    "title": "My Sea",
+    "artist": "IU",
+    "language": "韓文",
+    "tags": [
+      "韓文",
+      "韓語流行",
+      "流行",
+      "舞曲",
+      "抒情",
+      "R&B"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/9f/83/359f83b3-1423-3153-1641-98e948b7fc65/cover_-_EDAM_5_LILAC.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=irCc23OWM8Q",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "dance",
+      "ballad",
+      "rnb",
+      "k-pop",
+      "korean",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-09"
+  },
+  {
+    "id": "0356563b",
+    "title": "Love wins all",
+    "artist": "IU",
+    "language": "韓文",
+    "tags": [
+      "韓文",
+      "韓語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e3/56/1e/e3561eb5-de12-790d-569b-53fa22e6b491/cover_KM0019422_1.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=JleoAppaxi0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "k-pop",
+      "key change",
+      "balu_owns_this_song",
+      "trauma cinematográfico",
+      "elle cried to this",
+      "korean",
+      "female vocalists"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-08-09"
   }
 ]
