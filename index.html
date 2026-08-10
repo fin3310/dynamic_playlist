@@ -14,10 +14,7 @@
     <link rel="stylesheet" href="style.css">
 
     <script>
-        tailwind.config = {
-            darkMode: 'class',
-        }
-        
+        tailwind.config = { darkMode: 'class' };
         if (localStorage.getItem('theme') === 'light') {
             document.documentElement.classList.remove('dark');
         } else {
@@ -53,7 +50,6 @@
                 
                 <!-- 膠囊工具列 -->
                 <div class="flex items-center p-1 bg-sky-100/80 dark:bg-slate-900/50 rounded-full border border-sky-200/80 dark:border-slate-700/50 backdrop-blur-sm shadow-sm w-full md:w-auto justify-between">
-                    
                     <button id="themeBtn" onclick="toggleTheme()" 
                             class="group flex items-center justify-center min-w-[2.75rem] h-10 md:hover:px-4 rounded-full bg-transparent hover:bg-white dark:hover:bg-slate-700 transition-all duration-300 text-sky-600 dark:text-slate-300 font-medium overflow-hidden">
                         <span class="shrink-0" id="themeIcon"></span> 
@@ -91,9 +87,7 @@
 
         <!-- 篩選控制區 -->
         <div class="mb-4 bg-sky-50/70 dark:bg-slate-800/30 p-5 rounded-3xl border border-sky-200/80 dark:border-slate-700/50 shadow-sm backdrop-blur-sm transition-colors duration-300">
-            <!-- 第一層：語系選擇 -->
             <div class="flex flex-col md:flex-row gap-3" id="langFilterContainer"></div>
-            <!-- 第二層：次標籤 -->
             <div class="pt-4 mt-3 border-t border-sky-200/60 dark:border-slate-700/50 hidden transition-colors" id="subTagFilterContainer"></div>
         </div>
 
@@ -187,9 +181,8 @@
         <div onclick="event.stopPropagation()" class="bg-white dark:bg-slate-800 border border-amber-100 dark:border-amber-900/50 p-6 rounded-3xl w-11/12 max-w-sm shadow-2xl transform scale-95 transition-all duration-300 cursor-auto" id="donateModalContent">
             <div class="text-center">
                 <div class="flex justify-center mb-4">
-                <!-- 🚀 src 留空，交給 assets.js 動態塞入 -->
-                <img id="donateIconImg" alt="Donate Icon" class="w-16 h-16 object-contain">
-            </div>
+                    <img id="donateIconImg" alt="Donate Icon" class="w-16 h-16 object-contain">
+                </div>
                 
                 <h2 class="text-xl font-bold text-slate-800 dark:text-slate-100 mb-3">已複製點歌資訊！</h2>
                 
@@ -197,7 +190,6 @@
                     <p id="donateCopiedText" class="text-sm font-medium text-amber-800 dark:text-amber-400 truncate"></p>
                 </div>
 
-                <!-- 🚀 已拿掉文字結尾的小蜜蜂 -->
                 <p class="text-sm text-slate-500 dark:text-slate-400 mb-6 leading-relaxed">
                     喜歡這首歌嗎？<br>歡迎前往抖內點歌，給涅露茉茉滿滿的支持喔！
                 </p>
@@ -219,7 +211,9 @@
     </div>
 
     <!-- 🚀 載入外部 JavaScript 邏輯檔 -->
-	<script src="assets.js" defer></script>
+    <script src="assets.js" defer></script>
+    <script src="ui.js" defer></script>
+    <script src="sync.js" defer></script>
     <script src="app.js" defer></script>
 </body>
 </html>
