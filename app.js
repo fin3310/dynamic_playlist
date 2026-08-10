@@ -80,12 +80,19 @@ function generateSongHtml(song) {
     const favSvgOutline = `<svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"/></svg>`;
 
     if (!useNormalMode) {
-        const compactCheckSvg = `<svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" /></svg>`;
+        // 🚀 定義手機版(純勾勾)與電腦版(勾勾+文字)的 SVG
+        const mobileCheckSvg = `<svg class="w-4 h-4 md:hidden" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" /></svg>`;
+        const pcCheckSvg = `<svg class="w-4 h-4 hidden md:inline-block mr-1" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" /></svg>`;
 
+        // 🚀 按鈕外觀：手機版較窄 (px-3)，電腦版恢復較寬 (md:px-4)
         const btnClass = isPlayed 
-            ? `px-3 py-1.5 bg-emerald-500 hover:bg-emerald-600 text-white font-medium rounded-full shadow-md transition-all active:scale-95 flex items-center justify-center` 
-            : `px-3.5 py-1.5 bg-sky-500 hover:bg-sky-600 text-white text-sm font-medium rounded-full shadow-md shadow-sky-200 dark:shadow-sky-900/50 transition-all active:scale-95 flex items-center justify-center`;
-        const btnText = isPlayed ? compactCheckSvg : "點";
+            ? `px-3 md:px-4 py-1.5 bg-emerald-500 hover:bg-emerald-600 text-white text-sm font-medium rounded-full shadow-md transition-all active:scale-95 flex items-center justify-center` 
+            : `px-3.5 md:px-4 py-1.5 bg-sky-500 hover:bg-sky-600 text-white text-sm font-medium rounded-full shadow-md shadow-sky-200 dark:shadow-sky-900/50 transition-all active:scale-95 flex items-center justify-center`;
+        
+        // 🚀 按鈕文字：透過 md:hidden (手機顯示) 與 hidden md:inline (電腦顯示) 來區分
+        const btnText = isPlayed 
+            ? `${mobileCheckSvg}${pcCheckSvg}<span class="hidden md:inline">已點播</span>` 
+            : `<span class="md:hidden">點</span><span class="hidden md:inline">點播</span>`;
         
         const undoBtnClass = isPlayed
             ? `p-1.5 bg-white hover:bg-slate-100 dark:bg-slate-700 dark:hover:bg-slate-600 text-slate-600 dark:text-slate-300 rounded-full transition-all active:scale-95`
@@ -105,12 +112,21 @@ function generateSongHtml(song) {
             ? "border-amber-400 dark:border-amber-500"
             : (isNew ? "border-sky-500 dark:border-sky-400" : "border-sky-400 dark:border-sky-500");
 
+        // 🚀 NEW 標籤：區分為手機版(浮動 md:hidden) 與 電腦版(內排 hidden md:flex)
+        const badgeMobile = isNew ? `<div class="md:hidden absolute -top-2.5 left-4 bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-[10px] font-bold px-2.5 py-0.5 rounded-full shadow-sm shadow-sky-500/30 flex items-center gap-1 border border-sky-200 dark:border-sky-500 tracking-wider z-10"><svg class="w-3 h-3 text-sky-100" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</div>` : '';
+        const badgePC = isNew ? `<span class="hidden md:flex bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-[10px] font-bold px-2 py-0.5 rounded-full shadow-sm shadow-sky-500/30 shrink-0 items-center gap-1 border border-sky-300 dark:border-sky-500 tracking-wider"><svg class="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</span>` : '';
+
         return `
             <div id="song-card-${song.id}" onclick="toggleExpand('${song.id}')" class="${cardBgClass} ${newCardBorder} rounded-2xl p-3 transition-colors flex items-center justify-between border shadow-sm group relative cursor-pointer backdrop-blur-sm" title="點擊展開詳細資訊">
-                ${badgeCompact}
+                <!-- 手機版浮動標籤 -->
+                ${badgeMobile}
+                
                 <div class="flex-1 min-w-0 pr-2 pl-3 border-l-4 ${leftBorderClass} rounded-l-sm flex flex-col justify-center">
-                    <div class="flex items-center mb-0.5">
+                    <!-- 電腦版恢復 gap-3 並排 -->
+                    <div class="flex items-center md:gap-3 mb-0.5">
                         <h3 class="text-base font-bold text-slate-800 dark:text-slate-100 truncate" title="${song.title}">${song.title}</h3>
+                        <!-- 電腦版並排標籤 -->
+                        ${badgePC}
                     </div>
                     <p class="text-sm text-slate-500 dark:text-slate-400 truncate">${song.artist}</p>
                 </div>
