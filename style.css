@@ -1,0 +1,31 @@
+.custom-scrollbar::-webkit-scrollbar { height: 6px; }
+.custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
+.custom-scrollbar::-webkit-scrollbar-thumb { background: #93c5fd; border-radius: 10px; }
+.dark .custom-scrollbar::-webkit-scrollbar-thumb { background: #334155; }
+.custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #60a5fa; }
+.dark .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #475569; }
+
+/* 🎨 亮色主題：立繪風格的稀疏、直立垂直菱格紋 */
+body {
+    background-color: #e0f2fe; 
+    background-image: url("data:image/svg+xml,%3Csvg width='80' height='110' viewBox='0 0 80 110' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23bae6fd' fill-opacity='0.25'%3E%3Cpath d='M40 0 L80 55 L40 110 L0 55 Z' /%3E%3C/g%3E%3C/svg%3E");
+    background-size: 80px 110px; 
+    transition: background-color 0.3s ease;
+    background-attachment: fixed;
+}
+/* 暗色主題：深海軍藍，搭配低對比度 (較深) 的暗色系菱格紋 */
+.dark body {
+    background-color: #0f172a; 
+    background-image: url("data:image/svg+xml,%3Csvg width='80' height='110' viewBox='0 0 80 110' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%231e293b' fill-opacity='0.3'%3E%3Cpath d='M40 0 L80 55 L40 110 L0 55 Z' /%3E%3C/g%3E%3C/svg%3E");
+    background-size: 80px 110px;
+    background-attachment: fixed;
+}
+
+@keyframes pulse-glow {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(14, 165, 233, 0.5); }
+    50% { box-shadow: 0 0 0 10px rgba(14, 165, 233, 0); }
+}
+.first-visit-glow {
+    animation: pulse-glow 2s infinite;
+    border-color: #0ea5e9 !important;
+}
