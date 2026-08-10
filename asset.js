@@ -5,6 +5,9 @@ const donateIconBase64 = `data:image/png;base64,R0lGODlhcABwAPf/AAAAAGV+nIMpI9Cd
 document.addEventListener('DOMContentLoaded', () => {
     const donateImg = document.getElementById('donateIconImg');
     if (donateImg) {
-        donateImg.src = donateIconBase64;
+        // 將圖片網址替換為上面的 Base64 代碼
+        donateImg.src = donateIconBase64.trim().replace(/\s/g, ''); // 順便幫您把多餘的空白/換行濾掉，確保圖片讀取正常
+    } else {
+        console.error("找不到 id 為 donateIconImg 的圖片元素");
     }
 });
