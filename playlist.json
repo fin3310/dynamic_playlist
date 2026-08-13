@@ -3590,8 +3590,8 @@
     "tags": [
       "中文",
       "華語流行",
-      "抒情",
-      "流行"
+      "流行",
+      "抒情"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/f9/49/3ef94944-d61a-b3dd-6a4a-d4d23e41ccbd/asset.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=NuiAOSii_sk",
@@ -3630,8 +3630,8 @@
     "tags": [
       "中文",
       "另類音樂",
-      "獨立音樂",
-      "華語流行"
+      "華語流行",
+      "獨立音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/a5/be/54a5be83-ee1f-5617-c086-8ebebb8ebaae/4711232865515.png/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=FNJG6MsKO0k",
@@ -3653,8 +3653,8 @@
     "language": "中文",
     "tags": [
       "中文",
-      "獨立音樂",
-      "華語流行"
+      "華語流行",
+      "獨立音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/eb/a5/90eba5b1-2955-ef22-2195-89bf8c28f4f2/191018294335.png/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=9MMIB61e6sM",
@@ -3676,8 +3676,8 @@
     "language": "中文",
     "tags": [
       "中文",
-      "獨立音樂",
-      "華語流行"
+      "華語流行",
+      "獨立音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/20/17/dc20170f-1358-6357-9f93-e344d2130ba9/4713249230706.png/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=zGrYK1VTIjs",
@@ -3699,8 +3699,8 @@
     "language": "中文",
     "tags": [
       "中文",
-      "獨立音樂",
-      "華語流行"
+      "華語流行",
+      "獨立音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/c5/d6/aec5d665-f424-5fa2-660f-26c9c8b712b5/3615939705659.png/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=5U9pk66hky4",
@@ -3723,8 +3723,8 @@
     "tags": [
       "中文",
       "搖滾",
-      "獨立音樂",
-      "華語流行"
+      "華語流行",
+      "獨立音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/83/3f/f2833fc5-8509-9b5d-40d6-e26e1cf13e7f/4713249234124.png/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=B3FchQ9ta0U",
@@ -4161,10 +4161,10 @@
     "language": "中文",
     "tags": [
       "中文",
-      "民謠",
-      "不插電",
       "流行",
-      "華語流行"
+      "華語流行",
+      "民謠",
+      "不插電"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6e/1b/84/6e1b84c8-1581-c1ff-e8a3-5c1b6a4f7eac/mzi.ckeidwej.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=BnhUZUeS9hY",
@@ -5006,20 +5006,16 @@
     "language": "中文",
     "tags": [
       "中文",
-      "華語流行",
-      "流行"
+      "搖滾"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/86/21/52/8621528e-c6fd-0b9d-7491-65ccdcef44e0/mzi.fqfcpkid.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=5fTrPL5b4Lg",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/72/54/77/725477b1-014e-1ab1-d3ad-ab29c9bb9cc5/iTunes.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=8fo5H8ADV58",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
-      "c-pop",
+      "rock",
       "chinese",
-      "taiwan",
-      "taiwanese",
-      "group",
-      "pop"
+      "taiwan"
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
@@ -5166,8 +5162,8 @@
     "tags": [
       "中文",
       "流行",
-      "抒情",
-      "華語流行"
+      "華語流行",
+      "抒情"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/cb/70/0bcb70e1-c991-261e-eb64-be53ca569d0b/dj.kzpfbjxe.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=zi8z6RPYGV0",
@@ -5237,10 +5233,10 @@
     "language": "中文",
     "tags": [
       "中文",
+      "搖滾",
       "不插電",
       "獨立音樂",
-      "民謠",
-      "搖滾"
+      "民謠"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c5/c5/b9/c5c5b9a5-7b08-1579-950e-6ad69d8f105a/2005_9-_1400.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=tv95k0zqnaA",
@@ -5265,9 +5261,9 @@
     "tags": [
       "中文",
       "華語流行",
+      "搖滾",
       "獨立音樂",
-      "民謠",
-      "搖滾"
+      "民謠"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/70/06/077006a5-18c5-0e56-0e0c-ba052672b07a/4719760090010_new.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=lpsAT-Ntaaw",
@@ -5291,9 +5287,9 @@
     "language": "中文",
     "tags": [
       "中文",
+      "搖滾",
       "獨立音樂",
-      "民謠",
-      "搖滾"
+      "民謠"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/a2/21/3ca22123-14d6-57f4-9e52-aa4573a05b07/mzm.clkcarof.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=33rdx577PxY",
@@ -5317,9 +5313,9 @@
     "language": "中文",
     "tags": [
       "中文",
+      "搖滾",
       "獨立音樂",
-      "民謠",
-      "搖滾"
+      "民謠"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/e0/0e/ae/e00eaefb-5737-4833-69c9-93be29dc1c6d/mzm.nshgqvxy.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=mJsT0i95cAY",
@@ -5633,9 +5629,9 @@
     "language": "中文",
     "tags": [
       "中文",
+      "創作歌手",
       "民謠",
-      "獨立音樂",
-      "創作歌手"
+      "獨立音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/e1/57/09e1574d-5e6b-14f3-0f92-6992d4b333be/888003855915.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=aR8BSYCvbvo",
@@ -5659,8 +5655,8 @@
     "tags": [
       "中文",
       "搖滾",
-      "獨立音樂",
-      "另類音樂"
+      "另類音樂",
+      "獨立音樂"
     ],
     "cover_url": "https://img.youtube.com/vi/lFpS1gcJRgc/hqdefault.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=lFpS1gcJRgc",
@@ -6010,8 +6006,8 @@
     "tags": [
       "中文",
       "華語流行",
-      "抒情",
       "流行",
+      "抒情",
       "粵語流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/58/0e/51/580e517e-69a0-decc-96a4-b39fee54945c/Untitled.jpg/300x300bb.jpg",
@@ -6086,8 +6082,8 @@
     "language": "中文",
     "tags": [
       "中文",
-      "抒情",
-      "華語流行"
+      "華語流行",
+      "抒情"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b9/14/2c/b9142c37-d58f-5981-a42c-c02b213ddf05/RD-1880.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=04VXfavbeDs",
@@ -6159,9 +6155,9 @@
     "tags": [
       "中文",
       "華語流行",
-      "抒情",
       "流行",
-      "創作歌手"
+      "創作歌手",
+      "抒情"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/43/52/5e/43525e86-9c47-cb57-5ca5-a374aa7afa40/LaLa.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=Ie1KcGvBN_k",
@@ -6375,8 +6371,8 @@
     "language": "中文",
     "tags": [
       "中文",
-      "抒情",
-      "華語流行"
+      "華語流行",
+      "抒情"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3d/da/cb/3ddacb4f-c8bc-5f00-0817-a81d7b4c7dd3/RD-1929.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=wgwIfD9Ihik",
@@ -6511,8 +6507,8 @@
     "language": "中文",
     "tags": [
       "中文",
-      "抒情",
-      "搖滾"
+      "搖滾",
+      "抒情"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/4d/f0/0b4df092-7531-2d96-0c3f-1f330fd9388e/the_best_of_1999-2013.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=io3vAI8UXfA",
@@ -6539,8 +6535,8 @@
     "tags": [
       "中文",
       "流行",
-      "抒情",
-      "華語流行"
+      "華語流行",
+      "抒情"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/c1/2d/29c12de6-54b4-f549-9d9f-07d8a04221ea/JAY.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=YJfHuATJYsQ",
@@ -6666,6 +6662,46 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "fa68c7b7",
+    "title": "我喜歡你",
+    "artist": "芒果醬",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/09/b2/c409b2ba-1b49-25c7-3084-2494b8635a3c/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=aDSf3QoK3uQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "female vocalists",
+      "mandarin",
+      "taiwan",
+      "mandopop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "53e88252",
+    "title": "戰神阿基里斯",
+    "artist": "芒果醬",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "另類音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/17/5d/8e175d33-88d6-07aa-e5df-773240841b58/193017133189_new2.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=2raPO16GHdI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-14"
+  },
+  {
     "id": "8ca6cca5",
     "title": "chandelier",
     "artist": "SIA",
@@ -6700,8 +6736,8 @@
     "tags": [
       "英文",
       "韓語流行",
-      "流行舞曲",
-      "流行"
+      "流行",
+      "流行舞曲"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/2e/aa/6b2eaa77-af21-4b0d-5ae0-2062cbf44e55/196872355437.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=Qc7_zRjH808",
@@ -6959,8 +6995,8 @@
     "tags": [
       "英文",
       "流行",
-      "流行搖滾",
-      "搖滾"
+      "搖滾",
+      "流行搖滾"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/ed/8c/02ed8cab-c089-2fdd-7ce6-ab334a9a4e19/21UMGIM26093.rgb.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=ZmDBbnmKpqQ",
@@ -6985,8 +7021,8 @@
     "tags": [
       "英文",
       "流行",
-      "流行搖滾",
-      "搖滾"
+      "搖滾",
+      "流行搖滾"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/9e/07/089e0799-b405-9e69-b648-e6a19df9879c/24UMGIM30485.rgb.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=RlPNh_PBZb4",
@@ -7010,8 +7046,8 @@
     "tags": [
       "英文",
       "流行",
-      "流行搖滾",
-      "搖滾"
+      "搖滾",
+      "流行搖滾"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/ed/8c/02ed8cab-c089-2fdd-7ce6-ab334a9a4e19/21UMGIM26093.rgb.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=cii6ruuycQA",
@@ -7052,8 +7088,8 @@
     "tags": [
       "英文",
       "流行",
-      "流行搖滾",
-      "搖滾"
+      "搖滾",
+      "流行搖滾"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/23/69/f3/2369f317-a9c8-5c32-9a7a-cdd7b218ee39/21UMGIM89172.rgb.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=KRaWnd3LJfs",
@@ -7076,8 +7112,8 @@
     "language": "英文",
     "tags": [
       "英文",
-      "鄉村音樂",
       "流行",
+      "鄉村音樂",
       "鄉村流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/23/57/d423579f-24f7-5c82-ed10-fbfd21ceef25/10UMDIM00487.rgb.jpg/300x300bb.jpg",
@@ -7128,8 +7164,8 @@
     "language": "英文",
     "tags": [
       "英文",
-      "鄉村音樂",
       "流行",
+      "鄉村音樂",
       "鄉村流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/23/57/d423579f-24f7-5c82-ed10-fbfd21ceef25/10UMDIM00487.rgb.jpg/300x300bb.jpg",
@@ -7207,8 +7243,8 @@
     "language": "英文",
     "tags": [
       "英文",
-      "鄉村音樂",
-      "流行"
+      "流行",
+      "鄉村音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/d0/1c/c3d01c88-73e7-187e-fd62-e1744de979a6/21UMGIM09915.rgb.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=8xg3vE8Ie_E",
@@ -7722,8 +7758,8 @@
     "tags": [
       "英文",
       "流行",
-      "流行搖滾",
       "搖滾",
+      "流行搖滾",
       "流行龐克"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/2c/f3/322cf324-9ea1-3962-865a-f4f9bf83764d/888880191069.jpg/300x300bb.jpg",
@@ -7750,8 +7786,8 @@
     "tags": [
       "英文",
       "流行",
-      "流行搖滾",
       "搖滾",
+      "流行搖滾",
       "流行龐克"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/f0/45/41f04530-b881-6fa6-4da1-6e2001b9fe07/888880378958.jpg/300x300bb.jpg",
@@ -7806,8 +7842,8 @@
     "tags": [
       "英文",
       "流行",
-      "流行搖滾",
       "搖滾",
+      "流行搖滾",
       "流行龐克"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/ad/07/99ad07aa-4876-45f9-7c52-f15f67cdd790/886443313248.jpg/300x300bb.jpg",
@@ -7985,8 +8021,8 @@
     "tags": [
       "英文",
       "爵士",
-      "爵士流行",
-      "流行"
+      "流行",
+      "爵士流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8b/8b/20/8b8b2083-c8a3-a1a6-1f9e-a4da5bf45d5d/197188679637.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=lSD_L-xic9o",
@@ -8009,8 +8045,8 @@
     "tags": [
       "英文",
       "另類音樂",
-      "另類搖滾",
-      "搖滾"
+      "搖滾",
+      "另類搖滾"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=dvgZkm1xWPE",
@@ -8034,8 +8070,8 @@
     "tags": [
       "英文",
       "另類音樂",
-      "另類搖滾",
-      "搖滾"
+      "搖滾",
+      "另類搖滾"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=yKNxeF4KMsY",
@@ -8132,8 +8168,8 @@
     "tags": [
       "英文",
       "另類音樂",
-      "另類搖滾",
       "搖滾",
+      "另類搖滾",
       "獨立音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/7a/7c/287a7ca9-ed95-1a21-e3bb-4559a1a0ac0e/191404134351.png/300x300bb.jpg",
@@ -8158,8 +8194,8 @@
     "tags": [
       "英文",
       "流行",
-      "電子",
-      "創作歌手"
+      "創作歌手",
+      "電子"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/df/09/7e/df097e10-36b1-a35c-bf5e-2ef138bd2ed7/15UMGIM68751.rgb.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=AJtDXIazrMo",
@@ -8185,9 +8221,9 @@
     "language": "英文",
     "tags": [
       "英文",
-      "舞曲",
+      "流行",
       "電子",
-      "流行"
+      "舞曲"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/99/b4/7b/99b47bd8-2b22-e1ef-2e60-c5147f27a861/dj.thrvmjqj.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=JRfuAukYTKg",
@@ -8234,7 +8270,6 @@
     "language": "英文",
     "tags": [
       "英文",
-      "舞曲",
       "EDM",
       "電子",
       "獨立音樂"
@@ -8262,8 +8297,8 @@
     "language": "英文",
     "tags": [
       "英文",
-      "舞曲",
       "流行",
+      "舞曲",
       "電子",
       "獨立音樂"
     ],
@@ -8520,10 +8555,10 @@
     "tags": [
       "英文",
       "流行",
-      "民謠",
-      "流行搖滾",
       "搖滾",
-      "另類音樂"
+      "另類音樂",
+      "民謠",
+      "流行搖滾"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/46/a7/2546a71a-b2bb-b4c9-4c52-a4daa3ae23ca/13UMGIM15076.rgb.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=hT_nvWreIhg",
@@ -8549,9 +8584,9 @@
     "tags": [
       "英文",
       "原聲帶",
-      "獨立音樂",
       "另類音樂",
-      "流行"
+      "流行",
+      "獨立音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/e3/13/e3e31393-abf5-e9b1-edc4-20ede35d0c75/13UMGIM43701.rgb.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=o_1aF54DO60",
@@ -8808,9 +8843,9 @@
       "韓文",
       "韓語流行",
       "流行",
+      "R&B",
       "舞曲",
-      "抒情",
-      "R&B"
+      "抒情"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/9f/83/359f83b3-1423-3153-1641-98e948b7fc65/cover_-_EDAM_5_LILAC.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=irCc23OWM8Q",
