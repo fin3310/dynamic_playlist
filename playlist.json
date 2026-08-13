@@ -3331,6 +3331,23 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "15bdff38",
+    "title": "プロポーズ",
+    "artist": "なとり",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/cf/2c/88cf2c4a-f2f7-5b98-4d30-c2e27ad227f7/4547366752885.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=XPLkkdMFmco",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
     "id": "31b1470e",
     "title": "我睡不著",
     "artist": "守夜人",
@@ -6698,6 +6715,53 @@
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-14"
+  },
+  {
+    "id": "e03ef213",
+    "title": "我愛你",
+    "artist": "盧廣仲",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "獨立音樂",
+      "創作歌手"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e2/92/95/e2929549-0322-8277-749a-204abab3e4f6/box3-3cover_1400x1400.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=bJ61ijAVT4w",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "taiwan",
+      "indie",
+      "singer-songwriter"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-14"
+  },
+  {
+    "id": "daa5ee41",
+    "title": "最寂寞的時候",
+    "artist": "盧廣仲",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "獨立音樂",
+      "創作歌手"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/00/2a/62/002a62dd-bf80-6df9-0e07-8e17207592b4/cover5B-01_1400x1400.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=vjybouULctM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "indie",
+      "taiwan pop",
+      "taiwan",
+      "singer-songwriter"
+    ],
     "is_practicing": false,
     "added_date": "2026-08-14"
   },
