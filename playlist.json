@@ -4273,6 +4273,30 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "ab1a5ca8",
+    "title": "艷火",
+    "artist": "張懸",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "民謠"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/86/1e/44/861e443d-36e4-cb28-2182-6c5784e87276/886443553392.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=427zOAJjXh8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "taiwanese",
+      "folk",
+      "chinese",
+      "indie pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-24"
+  },
+  {
     "id": "4b08dee6",
     "title": "你啊你啊",
     "artist": "魏如萱",
@@ -6726,8 +6750,8 @@
     "tags": [
       "中文",
       "流行",
-      "獨立音樂",
-      "創作歌手"
+      "創作歌手",
+      "獨立音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e2/92/95/e2929549-0322-8277-749a-204abab3e4f6/box3-3cover_1400x1400.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=bJ61ijAVT4w",
@@ -6749,8 +6773,8 @@
     "language": "中文",
     "tags": [
       "中文",
-      "獨立音樂",
-      "創作歌手"
+      "創作歌手",
+      "獨立音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/00/2a/62/002a62dd-bf80-6df9-0e07-8e17207592b4/cover5B-01_1400x1400.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=vjybouULctM",
@@ -6764,6 +6788,22 @@
     ],
     "is_practicing": false,
     "added_date": "2026-08-14"
+  },
+  {
+    "id": "46e2a3ad",
+    "title": "空心",
+    "artist": "光澤",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e9/8d/14/e98d147e-99d3-3342-461e-1009227034e1/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=IslhmC1Sw-I",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-24"
   },
   {
     "id": "8ca6cca5",
