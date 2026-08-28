@@ -8765,6 +8765,46 @@
     "added_date": "2026-08-08"
   },
   {
+    "id": "ba9e9b3f",
+    "title": "Flashlight",
+    "artist": "Jessie J",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/e4/35/1ae4354b-ff0d-b9d8-8bd4-d75c26e7dfc1/00602547290212.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=DzwkcbTQ7ZE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-29"
+  },
+  {
+    "id": "cf18e964",
+    "title": "Wrecking Bal",
+    "artist": "Miley Cyrus",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行",
+      "舞曲"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/e0/84/e3e08400-2d03-75f9-6b8b-a3345452aa98/886444197816.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=My2FRPA3Gf8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "female vocalists",
+      "dance",
+      "disney"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-08-29"
+  },
+  {
     "id": "61ceddb6",
     "title": "FATE",
     "artist": "I-DLE",
