@@ -7873,7 +7873,7 @@
   {
     "id": "5962babe",
     "title": "Complicated",
-    "artist": "avril lavigne",
+    "artist": "Avril Lavigne",
     "language": "英文",
     "tags": [
       "英文",
@@ -7901,7 +7901,7 @@
   {
     "id": "9c08bbfc",
     "title": "Innocence",
-    "artist": "avril lavigne",
+    "artist": "Avril Lavigne",
     "language": "英文",
     "tags": [
       "英文",
@@ -7929,7 +7929,7 @@
   {
     "id": "daa89fc9",
     "title": "When You're Gone",
-    "artist": "avril lavigne",
+    "artist": "Avril Lavigne",
     "language": "英文",
     "tags": [
       "英文",
@@ -7953,6 +7953,23 @@
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
+  },
+  {
+    "id": "81e8d8ca",
+    "title": "Let Me Go",
+    "artist": "Avril Lavigne",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/fa/53/6afa53eb-c09f-e4fc-9a69-06e84b72e04e/886444213653.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=AqajUg85Ax4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-08-29"
   },
   {
     "id": "53955608",
