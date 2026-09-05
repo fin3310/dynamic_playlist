@@ -1,1305 +1,5 @@
 [
   {
-    "id": "c12eb914",
-    "title": "モニタリング",
-    "artist": "DECO*27",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "Vocaloid"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/76/6c/39766c80-c1b8-6e9a-edea-3ee7423448d6/4511820-60460.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=kbNdx0yqbZE",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "j-pop",
-      "vocaloid",
-      "jpop",
-      "hatsune miku"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "16cf8a0d",
-    "title": "Vampire",
-    "artist": "DECO*27",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "Vocaloid",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/89/13/42/891342f3-9866-33b6-e0a8-96d92aad4881/096362_J.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=e1xCOsgWG0M",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "vocaloid",
-      "miku",
-      "japanese",
-      "j-pop"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "bb941ed4",
-    "title": "心做し",
-    "artist": "蝶々P",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "Vocaloid",
-      "Vocaloid P主"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4c/ee/d2/4ceed268-77e9-350e-7583-28392b233601/PCCG_01912.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=3SkNrZnoK5w",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "vocaloid",
-      "japanese",
-      "vocaloidp"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "7127d836",
-    "title": "ERROR",
-    "artist": "niki",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "R&B",
-      "流行",
-      "硬核",
-      "勸世音樂",
-      "鐵克諾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/a1/da/b5a1da2c-b4f4-993b-29bd-c9b5d4d8db08/4511820-95893.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=jvoW9lJdirk",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "hardcore",
-      "trance",
-      "techno",
-      "rnb",
-      "pop"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "e09368af",
-    "title": "愛して愛して愛して",
-    "artist": "初音ミク",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "Vocaloid",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/39/60/1f/39601f09-510b-b6d3-254e-c85dc1a79222/1.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=OAZ3xQVA5m4",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "vocaloid",
-      "j-pop",
-      "japanese",
-      "synthetic voice"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "0141c13c",
-    "title": "プロポーズ",
-    "artist": "內緒",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/cf/2c/88cf2c4a-f2f7-5b98-4d30-c2e27ad227f7/4547366752885.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=XPLkkdMFmco",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "45b68465",
-    "title": "とても素敵な六月でした",
-    "artist": "初音ミク",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "Vocaloid",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/ff/f9/9ffff931-5a6f-2660-1ab2-e412cbf5158d/4511820-60853.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=kAAt-qVxCjc",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "vocaloid",
-      "j-pop",
-      "japanese",
-      "synthetic voice"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "f361f7a4",
-    "title": "少女レイ",
-    "artist": "みきとP",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "Vocaloid",
-      "搖滾",
-      "Vocarock",
-      "Vocaloid P主"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/fb/3f/47fb3f10-b813-ab86-cdbe-4ad2538e34e0/QWCE_00654.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=JW3N-HvU0MA",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "vocaloid",
-      "rock",
-      "vocarock",
-      "vocaloidp"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "58b07115",
-    "title": "恋は戰爭",
-    "artist": "初音ミク",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "Vocaloid",
-      "日語流行",
-      "電子"
-    ],
-    "cover_url": "https://img.youtube.com/vi/jDop41Bxq2A/hqdefault.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=jDop41Bxq2A",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "vocaloid",
-      "j-pop",
-      "japanese",
-      "synthetic voice",
-      "electronic"
-    ],
-    "is_practicing": true,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "5589ce40",
-    "title": "恋愛裁判",
-    "artist": "初音ミク",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "Vocaloid"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/12/61/7f1261b0-de22-e103-012c-0563a654da69/825646170524.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=TXzfQ0cP1P0",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "vocaloid",
-      "j-pop",
-      "japanese",
-      "synthetic voice"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "d380ce03",
-    "title": "晴る",
-    "artist": "ヨルシカ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "動漫",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/e4/3d/9ee43dd8-818c-c085-899c-c27a1e3b82cc/23UM1IM53496.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=CkvWJNt77mU",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "anime",
-      "japanese",
-      "j-rock"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "7faac1c5",
-    "title": "言って。",
-    "artist": "ヨルシカ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/48/09/df4809c7-6386-d30f-b656-7cfcde722f28/PA00074565_0_155989_jacket.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=F64yFFnZfkI",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "japanese",
-      "j-rock",
-      "female vocalists"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "55315442",
-    "title": "忘れてください",
-    "artist": "ヨルシカ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/17/77/2d1777fe-9f3a-82db-d5a0-24b06f4a6a62/24UMGIM64777.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=J_DE2d1F9wU",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "japanese",
-      "j-rock",
-      "female vocalists"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "5754f2d7",
-    "title": "春泥棒",
-    "artist": "ヨルシカ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f4/d9/17/f4d917db-8c8c-1823-e9c3-3704d7e61881/20UMGIM22068.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=Sw1Flgub9s8",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "japanese",
-      "j-rock",
-      "female vocalists"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "3397150f",
-    "title": "斜陽",
-    "artist": "ヨルシカ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/14/10/c41410c0-e6fe-f5ff-a4e4-31daacc0da95/23UMGIM36213.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=bqigIHMComE",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "japanese",
-      "j-rock",
-      "female vocalists"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "1c846b12",
-    "title": "ただ君に晴れ",
-    "artist": "ヨルシカ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e3/e5/7a/e3e57a00-ed2d-69d6-bf00-347d7c37f3bd/PA00074572_0_90261_jacket.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=-VKIqrvVOpo",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "japanese",
-      "j-rock",
-      "female vocalists"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "d1644351",
-    "title": "だから僕は音楽を辞めた",
-    "artist": "ヨルシカ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "搖滾",
-      "日語流行",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/64/ab/ba/64abba45-d080-0e8a-c24b-313e597c63cb/PA00076158_0_91679_jacket.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=KTZ-y85Erus",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "rock",
-      "j-pop",
-      "j-rock"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "a529dd56",
-    "title": "花に亡霊",
-    "artist": "ヨルシカ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f4/d9/17/f4d917db-8c8c-1823-e9c3-3704d7e61881/20UMGIM22068.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=9lVPAWLWtWc",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "japanese",
-      "j-rock",
-      "female vocalists"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "6471fc4c",
-    "title": "雨とカプチーノ",
-    "artist": "ヨルシカ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8e/8e/19/8e8e1946-327d-7376-b75f-a49cb69b8686/19UMGIM62014.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=PWbRleMGagU",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "imported by drip.feed",
-      "j-pop",
-      "japanese",
-      "j-rock"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "f1434f36",
-    "title": "又三郎",
-    "artist": "ヨルシカ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "流行搖滾",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/9e/88/149e8844-dc4f-af90-062a-2a6903b00e2f/21UMGIM41371.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=siNFnlqtd8M",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "pop rock",
-      "j-pop",
-      "japanese",
-      "j-rock"
-    ],
-    "is_practicing": true,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "3cf9f29c",
-    "title": "憂、燦々",
-    "artist": "ヨルシカ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/54/eb/9a54ebc0-3881-0600-374e-1db9a3252932/24UMGIM89989.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=-FwuyzOZuS0",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "japanese",
-      "j-rock",
-      "female vocalists"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "ac956688",
-    "title": "若者のすべて",
-    "artist": "suis fromヨルシカ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/ec/6c/30ec6c28-cc9f-0fcb-f40d-f4a1216619d6/24UMGIM53280.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=Ax57J2xaZ_w",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "659a3553",
-    "title": "革命道中",
-    "artist": "AiNA",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/3a/cf/0d3acf31-2a58-aa41-f3f1-ea26926bbda6/ANTCD-A0000017039.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "8a1c71e8",
-    "title": "フォニイ Phony",
-    "artist": "可不",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/25/39/6a2539f1-882e-9822-3876-14ec354ca6e6/ANTCD-46511.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=9QLT1Aw_45s",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "224feb55",
-    "title": "Kill kiss",
-    "artist": "AVE MUJICA",
-    "language": "日文",
-    "tags": [
-      "日文"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/dd/e4/62dde4e9-701b-3331-9c78-f5449b6a96ae/198704270253_Cover.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=0PGfVrLeXUU",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": true,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "2bcdbfcb",
-    "title": "春日影",
-    "artist": "CRYCHIC",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/11/c8/5211c810-12bc-de41-bc16-df31e7559f99/198704461637_Cover.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=NJ1tne9u8YM",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "j-pop",
-      "j-rock",
-      "bandori",
-      "bangdream"
-    ],
-    "is_practicing": true,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "9305b404",
-    "title": "ビビデバ",
-    "artist": "星街彗星",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/da/19/4eda19dd-47fb-62ea-8e75-fb604ef8064d/4547366700749.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=8ZP5eqm4JqM",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "d0278b2c",
-    "title": "Stellar Stellar",
-    "artist": "星街彗星",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/94/11/16/9411169d-6c98-3134-3e99-1c9cb93c4b77/JKT.png/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=a51VH9BYzZA",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "b2a404b9",
-    "title": "星街の駅で",
-    "artist": "tuki.",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/89/03/66/890366f0-4a27-07c1-eb7c-6add36ac04de/jacket_SEXX00618B00Z_550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=EeSKlyhYp9w",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "j-pop",
-      "pop"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "2dd9bbea",
-    "title": "晚餐歌",
-    "artist": "tuki.",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "流行",
-      "創作歌手"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/03/c9/6703c973-c9da-1bd8-cc81-fe315b951231/4582649065306.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=oZpYEEcvu5I",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "j-pop",
-      "pop",
-      "singer-songwriter",
-      "japan"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "755bc6f8",
-    "title": "騙シ愛",
-    "artist": "tuki.",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/82/2e/8b822e33-ed0e-e16d-9b3f-535d838c0635/4547366738384.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=4_Lc458W1EY",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "j-pop",
-      "pop"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "391d7ce0",
-    "title": "愛の賞味期限",
-    "artist": "tuki.",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/85/41/7a854143-e744-5d89-8780-efc407016b01/4582649125727.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=nmeccuUXs4Q",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "j-pop",
-      "pop"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "0f682a0f",
-    "title": "ツキミソウ",
-    "artist": "NOVELBRIGHT",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "另類音樂",
-      "搖滾",
-      "另類搖滾",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/39/33/1a/39331a3d-a1e5-f1e8-904e-8be6438e13a3/20UM1IM05202.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=WAMxwRtNrPY",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "alternative",
-      "alternative rock",
-      "rock",
-      "j-rock"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "ad1eef0a",
-    "title": "水平線",
-    "artist": "Back Number",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "搖滾",
-      "日語搖滾",
-      "獨立音樂"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bd/d6/8f/bdd68f1b-8588-3e91-faab-ab9d7ca35c2f/21UMGIM28078.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=iqEr3P78fz8",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "rock",
-      "j-rock",
-      "j-pop",
-      "indie"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "e3f97d4a",
-    "title": "Christmas Song",
-    "artist": "Back Number",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "搖滾",
-      "日語搖滾",
-      "獨立音樂"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/29/ec/e8/29ece87b-ca51-50eb-30a5-6b3efdeb8767/00602577303920.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=7zBeQezaz4U",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "rock",
-      "j-rock",
-      "j-pop",
-      "indie"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "e43b5c76",
-    "title": "ハッピーエンド",
-    "artist": "Back Number",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "搖滾",
-      "日語搖滾",
-      "獨立音樂"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d9/55/96/d955961f-f9f7-4aa9-720f-36ddc0c46d0c/00602577303951.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=T8y_RsF4TSw",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "rock",
-      "j-pop",
-      "j-rock",
-      "indie"
-    ],
-    "is_practicing": true,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "719f19d4",
-    "title": "Ref:rain",
-    "artist": "Aimer",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/35/b6/ff/35b6ff2d-d8e4-5739-28d3-9a1191a5a856/4547366350791.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=mvkbCZfwWzA",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "imported by drip.feed",
-      "j-pop",
-      "female vocalists"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "e77df696",
-    "title": "六等星の夜",
-    "artist": "Aimer",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "動漫"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/ea/e8/6beae830-4aa8-2751-9f29-7ad4b0907470/4560429721932.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=33YRsrUmZ74",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "anime",
-      "ending",
-      "perfect",
-      "japanese",
-      "female vocalists"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "0367dcc5",
-    "title": "カタオモイ",
-    "artist": "Aimer",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/4a/84/464a843d-14cc-e5e2-a9d6-763eb558e104/4547366270358.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=kxs9Su_mbpU",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "jpop",
-      "imported by drip.feed",
-      "japanese",
-      "female vocalists"
-    ],
-    "is_practicing": true,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "1a7d88d1",
-    "title": "六等星",
-    "artist": "ざらめ",
-    "language": "日文",
-    "tags": [
-      "日文"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/f2/1d/76f21da6-fb7a-fd76-b055-5620643de53b/4547366694086.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=4U65GQ_JCZU",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "ecee4056",
-    "title": "夏霞",
-    "artist": "あがらよ Atarayo",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/6f/0c/e26f0c20-1f76-892f-ce9e-7e1d30bb6520/ANTCD-A0000004901.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=hcXcJAmzmAc",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "46c612a1",
-    "title": "「僕は...」",
-    "artist": "あがらよ Atarayo",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/c8/cd/69c8cdb2-06e8-ddec-5189-25ca7b8fbcda/ANTCD-A0000012214.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=8L5cQlXMpeY",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "1866b9bc",
-    "title": "8.8",
-    "artist": "あがらよ Atarayo",
-    "language": "日文",
-    "tags": [
-      "日文"
-    ],
-    "cover_url": "https://img.youtube.com/vi/OmuW_v5LoIU/hqdefault.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=OmuW_v5LoIU",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "78562729",
-    "title": "炎",
-    "artist": "LISA",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "動漫",
-      "原聲帶"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/ce/67/88ce6774-3358-e238-5244-1b0788adea50/4547366475562.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=4DxL6IKmXx4",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "japanese",
-      "anime",
-      "soundtrack",
-      "female vocalists"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "2e69cbba",
-    "title": "Shout Baby",
-    "artist": "綠黃色社會",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/ea/6a/56ea6a25-94f2-f05e-931e-b6eb9feb8c8f/jacket_ESXX02169B00Z_550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=bujzV3nc1Tg",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "aa280239",
-    "title": "花になって",
-    "artist": "綠黃色社會",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/cf/b0/1ecfb064-5b1a-049c-7f68-e2dbf9723e18/4547366652253.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=v-WcMQbXbKY",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "481c1a9c",
-    "title": "Mela!",
-    "artist": "綠黃色社會",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/f9/eb/0cf9eb76-63b7-820d-6756-7e693e114b45/jacket_ESCL05378B00Z_550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=aRDURmIYBZ4",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": true,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "1b633329",
-    "title": "絶絶絶絶対聖域",
-    "artist": "Ano",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/40/fe/8d40fe5e-b724-dd3b-3ddd-202189c492ff/TFDS-01013WW.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=TBm473lA5Bk",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "7a8aedf7",
-    "title": "多樣性",
-    "artist": "Ano",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/d2/d8/10d2d888-c62b-b560-21b9-9515c1379f8e/4547366774580.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=-lec--FlSJ4",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "5388b091",
-    "title": "神っぼいな",
-    "artist": "初音ミク",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/7a/5e/1b7a5e77-b0c4-6e32-f3ee-c09c70f8378e/jacket_SRCL09571B00Z_550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=EHBFKhLUVig",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "ef1942a0",
-    "title": "罪と罰",
-    "artist": "椎名林檎",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/17/d2/81/17d281fc-298d-f5c3-b69c-f557a423850d/00602567661245.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=dSXvVmwJxh4",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-rock",
-      "japanese",
-      "perfect",
-      "shiina ringo",
-      "j-pop"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "db1630b2",
-    "title": "丸ノ内サディスティック",
-    "artist": "椎名林檎",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bd/da/b4/bddab4d2-176e-6438-76dc-54bd4eac3914/18UMGIM22257.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=Sy_08-HcR3Y",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "b26478af",
-    "title": "本能",
-    "artist": "椎名林檎",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "搖滾",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f4/5c/1b/f45c1b6f-edad-9c4c-1393-5e1fea30f00c/00602567661207.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=ECxBHhMc7oI",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-rock",
-      "japanese",
-      "j-pop",
-      "rock"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "a4f381be",
-    "title": "ドライフラワー",
-    "artist": "優里",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "東方Project"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d2/23/07/d2230757-3f9c-fccd-3cc8-333f7be09716/4547366478655.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=yXZd7xVdpJ0",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "j-pop",
-      "touhou"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "ce7e14f2",
-    "title": "ベテルギウス",
-    "artist": "優里",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "東方Project"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f1/d5/61/f1d561dc-7fab-68fa-39ac-4440d7a27940/4547366533842.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=cbqvxDTLMps",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "touhou",
-      "japanese",
-      "j-pop",
-      "japan"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "9c571622",
-    "title": "メリーゴーランド",
-    "artist": "優里",
-    "language": "日文",
-    "tags": [
-      "日文"
-    ],
-    "cover_url": "https://img.youtube.com/vi/eWeSqrRk-gs/hqdefault.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=eWeSqrRk-gs",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "1082a0ab",
-    "title": "シャルル",
-    "artist": "バルーン",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/bd/1b/cabd1b6e-a99d-b8ea-28b3-76b1c640243f/4589686423939_cover.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=VUIEJu4ZSUo",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-rock",
-      "2017",
-      "japanese",
-      "jpop",
-      "jrock"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "cea0140e",
-    "title": "ギターと孤独と蒼い惑星",
-    "artist": "結束バンド",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "獨立搖滾",
-      "動漫",
-      "另類搖滾",
-      "日語搖滾",
-      "流行龐克"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/51/3b/00/513b003d-5583-4533-168b-f213c245b53f/4534530141828.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=B7BxrAAXl94",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "indie rock",
-      "alternative rock",
-      "j-rock",
-      "pop punk",
-      "math pop",
-      "anime"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "144cab43",
-    "title": "星座になれたら",
-    "artist": "結束バンド",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "獨立搖滾",
-      "動漫",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/51/3b/00/513b003d-5583-4533-168b-f213c245b53f/4534530141828.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=wSTbdqo-j74",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-rock",
-      "indie rock",
-      "anime"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "3f546f87",
-    "title": "あのバンド",
-    "artist": "結束バンド",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "獨立搖滾",
-      "動漫",
-      "日語搖滾",
-      "後硬核"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/51/3b/00/513b003d-5583-4533-168b-f213c245b53f/4534530141828.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=L2i0i9gWE00",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-rock",
-      "post-hardcore",
-      "post punk revival",
-      "math pop",
-      "indie rock",
-      "anime"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
     "id": "eccf0808",
     "title": "天ノ弱",
     "artist": "164 feat.GUMI",
@@ -1318,654 +18,25 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "2aec2515",
-    "title": "secret base ～君がくれたもの～",
-    "artist": "Zone",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/73/43/2673438e-cf37-a499-00a1-a14543fd2e7b/4534530129550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=fRQtDjiRtI8",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "japanese",
-      "female vocalists",
-      "jpop",
-      "girl groups"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "2ada3ff3",
-    "title": "おやすみ泣き声、さよなら歌姫",
-    "artist": "クリープハイプ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "搖滾",
-      "另類音樂",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/91/ce/2b91ceef-e06e-e19c-3f89-a2c908195d1d/VICL-64040.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=GpADSdd68UI",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "j-rock",
-      "rock",
-      "alternative"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "b9140b33",
-    "title": "完全感覚Dreamer",
-    "artist": "ONEOKROCK",
-    "language": "日文",
-    "tags": [
-      "日文"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/f4/a1/53f4a1a3-ae4f-2406-2e89-f49e8a3d1ec1/25UMGIM89645.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=xGbxsiBZGPI",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "7251a8f6",
-    "title": "Wherever you are",
-    "artist": "ONEOKROCK",
-    "language": "日文",
-    "tags": [
-      "日文"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/f4/a1/53f4a1a3-ae4f-2406-2e89-f49e8a3d1ec1/25UMGIM89645.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=qs4Q4cQxyU4",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "5e0d0614",
-    "title": "LIAR",
-    "artist": "ONEOKROCK",
-    "language": "日文",
-    "tags": [
-      "日文"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/f4/a1/53f4a1a3-ae4f-2406-2e89-f49e8a3d1ec1/25UMGIM89645.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=SAHvDE9FFAE",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "ce860818",
-    "title": "Cry Out",
-    "artist": "ONE OK ROCK",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "搖滾",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/56/fe/5056fe71-9dae-c4f9-b4c7-e9f7515859f7/25UMGIM89651.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=JWSRqWpWPzE",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-rock",
-      "cryyy outttttttttttt will you teeeeeeeeell me now",
-      "rock",
-      "japanese rock",
-      "japanese"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "9b5a393c",
-    "title": "The Beginning",
-    "artist": "ONE OK ROCK",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "搖滾",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/69/70/1d697006-121e-1774-d871-31fc0cf7abfa/25UMGIM89650.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=Hh9yZWeTmVM",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-rock",
-      "one ok rock",
-      "rock",
-      "japanese",
-      "japan"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "0e045707",
-    "title": "more than words",
-    "artist": "羊文學",
-    "language": "日文",
-    "tags": [
-      "日文"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/6b/19/ff6b1924-6db1-3151-a724-8d00c0f4c204/4547366642537.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=kGY6N9DL4Jw",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "4d804969",
-    "title": "あの夢をなぞって",
-    "artist": "YOASOBI",
+    "id": "e7cc0a08",
+    "title": "恋愛裁判",
+    "artist": "40㍍P",
     "language": "日文",
     "tags": [
       "日文",
       "日語流行",
-      "流行"
+      "Vocaloid"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/b2/7b/e2b27bda-dfcd-323d-da30-894f646f3ed1/194491839147.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=sAuEeM_6zpk",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/12/61/7f1261b0-de22-e103-012c-0563a654da69/825646170524.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=TXzfQ0cP1P0",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
-      "j-pop",
-      "yakousei",
-      "japanese",
-      "pop",
-      "preteen music"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "16758567",
-    "title": "怪物",
-    "artist": "YOASOBI",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "動漫",
-      "流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/ab/2c/9eab2c24-8289-1bd7-548d-e6b871fcf169/195497732630.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=dy90tA3TT1c",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "anime",
-      "japanese",
-      "weeb",
-      "pop"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "b2d56577",
-    "title": "IDOL",
-    "artist": "YOASOBI",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dc/2d/40/dc2d407b-2ca0-d41e-6ccb-0fd625abf8f0/197188911638.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=ZRtdQ81jPUQ",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "female vocalists",
-      "english version",
-      "j-pop in english",
-      "我推的孩子",
+      "vocaloid",
       "j-pop",
       "japanese",
-      "pop"
+      "synthetic voice"
     ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "3aaa49fa",
-    "title": "死ぬのがいいわ",
-    "artist": "藤井風",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/4e/5b/964e5b6e-4766-63ba-7e50-9f8a5bd0569e/20UMGIM17280.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=dawrQnvwMTY",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "trap",
-      "japanese",
-      "jpop",
-      "japan"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "7ab2b6ef",
-    "title": "花",
-    "artist": "藤井風",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/7c/f0/f47cf00a-68d0-74fa-82e1-b291addbb62a/23UM1IM12200.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=SfPkl7lol7g",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "jpop",
-      "japan",
-      "j-pop",
-      "pop"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "cc4e9e5a",
-    "title": "満ちてゆく",
-    "artist": "藤井風",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d0/f4/ad/d0f4ad92-2a6c-6a02-34c5-d45b93f767d9/24UMGIM15199.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=ptiK8U4WlSc",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "jpop",
-      "japan",
-      "j-pop",
-      "pop"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "40154120",
-    "title": "FIRST LOVE",
-    "artist": "宇多田光",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "演歌"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/77/67/00/77670013-e2ed-437a-dc30-e9cb74056cbe/00600406427052.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=o1sUaVJUeB0",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "japanese",
-      "female vocalists",
-      "jpop",
-      "utada hikaru",
-      "enka"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "7e6b874b",
-    "title": "悪魔の子",
-    "artist": "ヒグチアイ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "動漫",
-      "原聲帶",
-      "創作歌手",
-      "獨立音樂"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/34/aa/da34aa4e-963d-da81-973a-c4baf699c03d/PCSP_03907_A.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=WPl10ZrhCtk",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "anime",
-      "ost",
-      "japanese",
-      "indie",
-      "singer-songwriter"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "5b303716",
-    "title": "怪獣",
-    "artist": "サカナクション",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "搖滾",
-      "電子",
-      "日語搖滾",
-      "電子流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/35/c7/4435c703-3647-654b-16a7-ab74885f71da/VEATP-43484.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=a8dgNdJVluc",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "electronic",
-      "japanese",
-      "j-rock",
-      "rock",
-      "electropop"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "af353244",
-    "title": "聲嘶力竭",
-    "artist": "美波",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "搖滾",
-      "創作歌手",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f1/e8/43/f1e84380-5a5a-7f60-1a64-63b201c2d366/4547366588651.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=0YF8vecQWYs",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-rock",
-      "j-pop",
-      "minami",
-      "rock",
-      "japanese",
-      "singer-songwriter"
-    ],
-    "is_practicing": true,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "996d82e8",
-    "title": "LILAC",
-    "artist": "美波",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "搖滾",
-      "創作歌手",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/d6/b1/abd6b1ab-8ced-121a-21ea-5399bb37f536/5054197950636.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=GQ3V50XoLOM",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-rock",
-      "j-pop",
-      "minami",
-      "rock",
-      "japanese",
-      "singer-songwriter"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "4895b82c",
-    "title": "可愛くてごめん",
-    "artist": "早川沙織",
-    "language": "日文",
-    "tags": [
-      "日文"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/01/58/28/01582865-5af1-c416-d228-c9f1b1d54dde/4580074477572.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=K4xLi8IF1FM",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "0ec21f1e",
-    "title": "again",
-    "artist": "YUI",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "動漫",
-      "創作歌手"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/f7/0c/85f70c42-4175-dcb2-3227-c061dd2d78fb/jacket_SRCL07134B00Z_550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=S2IOrt-n2fc",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "anime",
-      "japanese",
-      "yui",
-      "full metal alchemist",
-      "female vocalists",
-      "singer-songwriter",
-      "actress"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "13778217",
-    "title": "All Alone with you",
-    "artist": "EGOIST",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "動漫",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b5/d6/9e/b5d69e8f-2678-a1c4-e4dc-0279c0231ad9/jacket_SRXX01032B00Z_550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=94k03l8yKIA",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "anime",
-      "psycho-pass",
-      "progressive metal",
-      "japanese",
-      "j-pop"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "6e8c9e50",
-    "title": "Fallen",
-    "artist": "EGOIST",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "動漫"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fa/99/41/fa9941da-4a19-8271-6793-73d275bb2489/jacket_SRCL08639B00Z_550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=0j5sUB3t5iQ",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "psycho-pass",
-      "japanese",
-      "j-pop",
-      "anime",
-      "progressive metal"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "98e2b987",
-    "title": "The Everlasting Guilty Crown",
-    "artist": "EGOIST",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "動漫",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bc/ce/eb/bcceeb53-99a0-9948-9201-1f25f1269f83/jacket_SVWC07834B00Z_550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=-p0IjnBhG10",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "anime",
-      "japanese",
-      "guilty crown",
-      "j-pop",
-      "progressive metal"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "d4f00703",
-    "title": "Departures 〜あなたにおくるアイの歌〜",
-    "artist": "EGOIST",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "動漫",
-      "日語流行",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/74/78/e3747893-87ad-d265-1e63-508c411d8c6c/jacket_SVWC07798B00Z_550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=LKqgY0VKZX4",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-rock",
-      "mistagged",
-      "anison",
-      "progressive metal",
-      "japanese",
-      "j-pop"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "ab36068b",
-    "title": "名前のない怪物",
-    "artist": "EGOIST",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "動漫",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/06/bb/c5/06bbc527-330c-c3e5-0a09-7a8291a699ae/jacket_SRCL08149B00Z_550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=qiX5DI--8bg",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "anime",
-      "japanese",
-      "psycho-pass",
-      "progressive metal",
-      "j-pop"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "7f2b795b",
-    "title": "マリーゴールド",
-    "artist": "愛謬AIMYON",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/3b/f6/3c3bf6e8-1947-347e-f6f0-c857ca4c026f/190295490089.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=0xSiBpUdW4E",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "b6af7d56",
-    "title": "愛を伝えたいだとか",
-    "artist": "愛謬AIMYON",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/7b/7c/d87b7cfd-c88c-1003-bc5d-883882043e33/190295747138.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=rlHTmo50zSI",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "8d628727",
-    "title": "君はロックを聴かない你不聽搖滾",
-    "artist": "愛謬AIMYON",
-    "language": "日文",
-    "tags": [
-      "日文"
-    ],
-    "cover_url": "https://img.youtube.com/vi/pGSZCTN_HdY/hqdefault.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=pGSZCTN_HdY",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
     "is_practicing": false,
     "added_date": "2026-07-01"
   },
@@ -2266,14 +337,15 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "33cb8328",
-    "title": "ELF",
+    "id": "583d0ea1",
+    "title": "エルフ",
     "artist": "Ado",
     "language": "日文",
     "tags": [
       "日文",
       "日語流行",
-      "流行"
+      "流行",
+      "唱見"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/60/a8/6060a8ff-20af-af89-c875-8c796800e7cc/24UM1IM43438.rgb.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=SbxR25brgoE",
@@ -2282,10 +354,12 @@
     "raw_lastfm_tags": [
       "j-pop",
       "japanese",
-      "pop"
+      "pop",
+      "female vocalists",
+      "utaite"
     ],
     "is_practicing": false,
-    "added_date": "2026-07-01"
+    "added_date": "2026-09-05"
   },
   {
     "id": "0af686a8",
@@ -2448,23 +522,6 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "d874d5ee",
-    "title": "桜日和とタイムマシン",
-    "artist": "Ado with初音ミク",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/1d/a2/0c1da2a4-1e6f-271b-5761-15a7c3373eec/24UM1IM03248.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=nIWZfhpnq6M",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
     "id": "12c83b9c",
     "title": "Value",
     "artist": "Ado",
@@ -2539,6 +596,849 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "d874d5ee",
+    "title": "桜日和とタイムマシン",
+    "artist": "Ado with初音ミク",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/1d/a2/0c1da2a4-1e6f-271b-5761-15a7c3373eec/24UM1IM03248.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=nIWZfhpnq6M",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "29bf199a",
+    "title": "星屑ビーナス",
+    "artist": "Aimer",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/ab/9b/abab9b3b-41cd-a0c0-29c0-6a1464501c0b/4547366306514.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=sMy1lK1L67g",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "japanese",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "79dbdaca",
+    "title": "星の消えた夜に",
+    "artist": "Aimer",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "爵士"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/3e/2b/c13e2b74-a875-b20f-d37f-5603eb0d2031/4547366543063.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ngrBbLTvjN4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "jazz",
+      "j-pop",
+      "jpop",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "719f19d4",
+    "title": "Ref:rain",
+    "artist": "Aimer",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/35/b6/ff/35b6ff2d-d8e4-5739-28d3-9a1191a5a856/4547366350791.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=mvkbCZfwWzA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "imported by drip.feed",
+      "j-pop",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "e77df696",
+    "title": "六等星の夜",
+    "artist": "Aimer",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "動漫"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/ea/e8/6beae830-4aa8-2751-9f29-7ad4b0907470/4560429721932.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=33YRsrUmZ74",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "anime",
+      "ending",
+      "perfect",
+      "japanese",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "0367dcc5",
+    "title": "カタオモイ",
+    "artist": "Aimer",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/4a/84/464a843d-14cc-e5e2-a9d6-763eb558e104/4547366270358.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=kxs9Su_mbpU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "jpop",
+      "imported by drip.feed",
+      "japanese",
+      "female vocalists"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "20ce2fa2",
+    "title": "革命道中",
+    "artist": "AiNA THE END",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/3a/cf/0d3acf31-2a58-aa41-f3f1-ea26926bbda6/ANTCD-A0000017039.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "1b633329",
+    "title": "絶絶絶絶対聖域",
+    "artist": "ano",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/40/fe/8d40fe5e-b724-dd3b-3ddd-202189c492ff/TFDS-01013WW.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=TBm473lA5Bk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "e3c53d82",
+    "title": "ちゅ、多様性。",
+    "artist": "ano",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "動漫",
+      "日語搖滾",
+      "夢幻流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/87/bf/d587bff1-ccd1-e62d-a0eb-217542b1f25b/PCSP_05845_A.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=-lec--FlSJ4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "anime",
+      "j-rock",
+      "dream pop",
+      "retro",
+      "japanese",
+      "rumic world"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-09-05"
+  },
+  {
+    "id": "224feb55",
+    "title": "Kill kiss",
+    "artist": "AVE MUJICA",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/dd/e4/62dde4e9-701b-3331-9c78-f5449b6a96ae/198704270253_Cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=0PGfVrLeXUU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": true,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "ad1eef0a",
+    "title": "水平線",
+    "artist": "back number",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "搖滾",
+      "日語搖滾",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bd/d6/8f/bdd68f1b-8588-3e91-faab-ab9d7ca35c2f/21UMGIM28078.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=iqEr3P78fz8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "rock",
+      "j-rock",
+      "j-pop",
+      "indie"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "8da53b04",
+    "title": "クリスマスソング",
+    "artist": "back number",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "搖滾",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/4c/e7/f64ce745-cb2a-c64c-2a18-6089665897ac/00602577303777.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=7zBeQezaz4U",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "2015",
+      "japanese",
+      "rock",
+      "j-rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-09-05"
+  },
+  {
+    "id": "e43b5c76",
+    "title": "ハッピーエンド",
+    "artist": "back number",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "搖滾",
+      "日語搖滾",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d9/55/96/d955961f-f9f7-4aa9-720f-36ddc0c46d0c/00602577303951.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=T8y_RsF4TSw",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "rock",
+      "j-pop",
+      "j-rock",
+      "indie"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "2bcdbfcb",
+    "title": "春日影",
+    "artist": "CRYCHIC",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/11/c8/5211c810-12bc-de41-bc16-df31e7559f99/198704461637_Cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=NJ1tne9u8YM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "j-pop",
+      "j-rock",
+      "bandori",
+      "bangdream"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "9b08a99d",
+    "title": "蜜月アン・ドゥ・トロワ",
+    "artist": "DATEKEN",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d2/2e/bf/d22ebf32-b5e6-a6a8-8676-c6312caafdd5/QWCE_00663_2.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=8-62aIc0nQ8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "c12eb914",
+    "title": "モニタリング",
+    "artist": "DECO*27",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "Vocaloid"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/76/6c/39766c80-c1b8-6e9a-edea-3ee7423448d6/4511820-60460.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=kbNdx0yqbZE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "j-pop",
+      "vocaloid",
+      "jpop",
+      "hatsune miku"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "16cf8a0d",
+    "title": "Vampire",
+    "artist": "DECO*27",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "Vocaloid",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/89/13/42/891342f3-9866-33b6-e0a8-96d92aad4881/096362_J.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=e1xCOsgWG0M",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "vocaloid",
+      "miku",
+      "japanese",
+      "j-pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "13778217",
+    "title": "All Alone with you",
+    "artist": "EGOIST",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "動漫",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b5/d6/9e/b5d69e8f-2678-a1c4-e4dc-0279c0231ad9/jacket_SRXX01032B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=94k03l8yKIA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "anime",
+      "psycho-pass",
+      "progressive metal",
+      "japanese",
+      "j-pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "6e8c9e50",
+    "title": "Fallen",
+    "artist": "EGOIST",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "動漫"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fa/99/41/fa9941da-4a19-8271-6793-73d275bb2489/jacket_SRCL08639B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=0j5sUB3t5iQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "psycho-pass",
+      "japanese",
+      "j-pop",
+      "anime",
+      "progressive metal"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "98e2b987",
+    "title": "The Everlasting Guilty Crown",
+    "artist": "EGOIST",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "動漫",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bc/ce/eb/bcceeb53-99a0-9948-9201-1f25f1269f83/jacket_SVWC07834B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=-p0IjnBhG10",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "anime",
+      "japanese",
+      "guilty crown",
+      "j-pop",
+      "progressive metal"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "d4f00703",
+    "title": "Departures 〜あなたにおくるアイの歌〜",
+    "artist": "EGOIST",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "動漫",
+      "日語流行",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/74/78/e3747893-87ad-d265-1e63-508c411d8c6c/jacket_SVWC07798B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=LKqgY0VKZX4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-rock",
+      "mistagged",
+      "anison",
+      "progressive metal",
+      "japanese",
+      "j-pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "ab36068b",
+    "title": "名前のない怪物",
+    "artist": "EGOIST",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "動漫",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/06/bb/c5/06bbc527-330c-c3e5-0a09-7a8291a699ae/jacket_SRCL08149B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=qiX5DI--8bg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "anime",
+      "japanese",
+      "psycho-pass",
+      "progressive metal",
+      "j-pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "ef0a610f",
+    "title": "シルエット",
+    "artist": "KANA-BOON",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "動漫",
+      "搖滾",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7b/30/aa/7b30aa0a-0b3f-bb03-4dce-70840e227444/jacket_KSCL02520B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=dlFA0Zq1k2A",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "anime",
+      "japanese",
+      "j-rock",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "acde0a02",
+    "title": "愛して愛して愛して",
+    "artist": "Kikuo",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "Vocaloid",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/39/60/1f/39601f09-510b-b6d3-254e-c85dc1a79222/1.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=OAZ3xQVA5m4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "vocaloid",
+      "j-pop",
+      "japanese",
+      "synthetic voice"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "6253b600",
+    "title": "白日",
+    "artist": "King Gnu",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "流行",
+      "日語搖滾",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/58/ed/0658ed8e-c987-1e86-9b9b-ad36dc14f83e/4547366711691.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ony539T074w",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "pop",
+      "2019",
+      "jpop",
+      "hakujitsu",
+      "j-rock",
+      "japanese",
+      "indie"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "78562729",
+    "title": "炎",
+    "artist": "LiSA",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "動漫",
+      "原聲帶"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/ce/67/88ce6774-3358-e238-5244-1b0788adea50/4547366475562.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=4DxL6IKmXx4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "japanese",
+      "anime",
+      "soundtrack",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "0f682a0f",
+    "title": "ツキミソウ",
+    "artist": "Novelbright",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "另類音樂",
+      "搖滾",
+      "另類搖滾",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/39/33/1a/39331a3d-a1e5-f1e8-904e-8be6438e13a3/20UM1IM05202.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=WAMxwRtNrPY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "alternative",
+      "alternative rock",
+      "rock",
+      "j-rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "59eb41c0",
+    "title": "walking with you",
+    "artist": "Novelbright",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "另類音樂",
+      "搖滾",
+      "另類搖滾",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/0a/ca/3a0aca57-45c1-7aca-1be1-9755d549ffb9/EPM-10001.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=OxzdMNTJXmg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "alternative",
+      "alternative rock",
+      "rock",
+      "j-rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "94ec5ea5",
+    "title": "雪の音",
+    "artist": "Novelbright",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "另類音樂",
+      "搖滾",
+      "另類搖滾",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/cf/67/6fcf67a5-c664-dc45-3a51-3aa1c95b555b/23UM1IM57606.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=aLgPe4Scnvs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "alternative",
+      "alternative rock",
+      "rock",
+      "j-rock"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "7127d836",
+    "title": "ERROR",
+    "artist": "niki",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "R&B",
+      "流行",
+      "硬核",
+      "勸世音樂",
+      "鐵克諾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/a1/da/b5a1da2c-b4f4-993b-29bd-c9b5d4d8db08/4511820-95893.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=jvoW9lJdirk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "hardcore",
+      "trance",
+      "techno",
+      "rnb",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "28966986",
+    "title": "Pretender",
+    "artist": "Official髭男dism",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9c/7d/88/9c7d883d-4477-bf68-f56f-a726030a63a2/PCCA_04822.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=TQ8WlA2GXbk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "japanese",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "30c70723",
+    "title": "完全感覚Dreamer",
+    "artist": "ONE OK ROCK",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/f4/a1/53f4a1a3-ae4f-2406-2e89-f49e8a3d1ec1/25UMGIM89645.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=xGbxsiBZGPI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "7fa00c52",
+    "title": "Wherever you are",
+    "artist": "ONE OK ROCK",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/f4/a1/53f4a1a3-ae4f-2406-2e89-f49e8a3d1ec1/25UMGIM89645.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=qs4Q4cQxyU4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "07639344",
+    "title": "LIAR",
+    "artist": "ONE OK ROCK",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/f4/a1/53f4a1a3-ae4f-2406-2e89-f49e8a3d1ec1/25UMGIM89645.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=SAHvDE9FFAE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "ce860818",
+    "title": "Cry Out",
+    "artist": "ONE OK ROCK",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "搖滾",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/56/fe/5056fe71-9dae-c4f9-b4c7-e9f7515859f7/25UMGIM89651.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=JWSRqWpWPzE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-rock",
+      "cryyy outttttttttttt will you teeeeeeeeell me now",
+      "rock",
+      "japanese rock",
+      "japanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "9b5a393c",
+    "title": "The Beginning",
+    "artist": "ONE OK ROCK",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "搖滾",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/69/70/1d697006-121e-1774-d871-31fc0cf7abfa/25UMGIM89650.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Hh9yZWeTmVM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-rock",
+      "one ok rock",
+      "rock",
+      "japanese",
+      "japan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "7aff53fa",
+    "title": "とても素敵な六月でした",
+    "artist": "Eight",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "Vocaloid",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/ff/f9/9ffff931-5a6f-2660-1ab2-e412cbf5158d/4511820-60853.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=kAAt-qVxCjc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "vocaloid",
+      "j-pop",
+      "japanese",
+      "synthetic voice"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
     "id": "97c48894",
     "title": "ゾクゾク",
     "artist": "Phamtom Sita",
@@ -2556,119 +1456,39 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "d66cfcb8",
-    "title": "TAIDADA",
-    "artist": "ZUTOMAYO",
+    "id": "10dd0da4",
+    "title": "Avid",
+    "artist": "SawanoHiroyuki[nZk]:mizuki",
     "language": "日文",
     "tags": [
       "日文",
       "日語流行",
-      "動漫",
-      "搖滾"
+      "動漫"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/86/f9/1e86f9db-204f-d5dc-04a9-c456df0b6a89/24UM1IM02203.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=IeyCdm9WwXM",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9d/67/e4/9d67e423-c7b0-ce3a-53c9-c2de4221813c/4547366508475.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=YGOX7Tj0dMY",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
+      "japanese",
       "j-pop",
       "anime",
-      "dandadan",
-      "japanese",
-      "rock"
+      "jpop"
     ],
     "is_practicing": false,
-    "added_date": "2026-07-01"
+    "added_date": "2026-09-05"
   },
   {
-    "id": "dee52291",
-    "title": "秒針を噛む",
-    "artist": "ZUTOMAYO",
+    "id": "ac956688",
+    "title": "若者のすべて",
+    "artist": "suis fromヨルシカ",
     "language": "日文",
     "tags": [
       "日文",
-      "日語流行",
-      "搖滾",
-      "日語搖滾"
+      "日語流行"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/38/2c/03/382c0375-11db-242e-4bf0-4e2e31380d74/00602567952343.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=GJI4Gv7NbmE",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "japan",
-      "j-rock",
-      "yakousei",
-      "imported by drip.feed",
-      "j-pop",
-      "rock"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "e19b4c3d",
-    "title": "正しくなれない",
-    "artist": "ZUTOMAYO",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fa/22/7e/fa227e7a-a1dd-5631-be96-e7e896daaa18/20UM1IM11050.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=258qUAI7rck",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "j-pop",
-      "new sound of japanese pop",
-      "japanese",
-      "rock"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "47203336",
-    "title": "勘冴えて悔しいわ",
-    "artist": "ZUTOMAYO",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "搖滾",
-      "放克搖滾",
-      "爵士流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f7/20/47/f72047ef-3944-2b5b-25b5-3979f5ac2aef/19UMGIM30912.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=4QePrv24TBU",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "dance-punk",
-      "funk rock",
-      "dance punk",
-      "jazz pop",
-      "yakousei",
-      "japanese",
-      "j-pop",
-      "rock"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "f47ebe4b",
-    "title": "ミカヅキ",
-    "artist": "酸欠少女sayuri",
-    "language": "日文",
-    "tags": [
-      "日文"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/8c/51/7a8c519d-4042-5d06-ad23-61e7fe154781/jacket_BVCL00795B00Z_550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=0q6c0AKDKU4",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/ec/6c/30ec6c28-cc9f-0fcb-f40d-f4a1216619d6/24UMGIM53280.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Ax57J2xaZ_w",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
@@ -2676,29 +1496,149 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "4df7a833",
-    "title": "kick back",
-    "artist": "米津玄師",
+    "id": "0bcd151f",
+    "title": "恋は戦争",
+    "artist": "supercell",
     "language": "日文",
     "tags": [
       "日文",
       "日語流行",
       "動漫",
       "另類搖滾",
-      "日語搖滾"
+      "搖滾",
+      "同人音樂"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4e/a8/75/4ea875d1-bdb6-9b83-185a-646391cbffbd/4547366589849.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=M2cckDmNLMI",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/09/a9/4d/09a94db1-101a-bebd-78c7-50b452e4a7aa/jacket_SRCL07081B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=jDop41Bxq2A",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
       "j-pop",
-      "alternative rock",
-      "anime",
-      "anison",
-      "chainsaw man",
       "japanese",
-      "j-rock"
+      "anime",
+      "alternative rock",
+      "rock",
+      "doujin"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-09-05"
+  },
+  {
+    "id": "05d654b2",
+    "title": "unravel",
+    "artist": "TK from 凛として時雨",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "動漫",
+      "另類音樂",
+      "獨立搖滾",
+      "日語搖滾",
+      "後硬核"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fc/56/26/fc562659-e258-c30e-8dea-2381545a7806/jacket_AICL02706B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Fve_lHIPa-I",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "anime",
+      "tokyo ghoul",
+      "japanese",
+      "j-rock",
+      "alternative",
+      "indie rock",
+      "post-hardcore"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "b2a404b9",
+    "title": "星街の駅で",
+    "artist": "tuki.",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/89/03/66/890366f0-4a27-07c1-eb7c-6add36ac04de/jacket_SEXX00618B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=EeSKlyhYp9w",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "j-pop",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "2dd9bbea",
+    "title": "晚餐歌",
+    "artist": "tuki.",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "流行",
+      "創作歌手"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/03/c9/6703c973-c9da-1bd8-cc81-fe315b951231/4582649065306.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=oZpYEEcvu5I",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "j-pop",
+      "pop",
+      "singer-songwriter",
+      "japan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "755bc6f8",
+    "title": "騙シ愛",
+    "artist": "tuki.",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/82/2e/8b822e33-ed0e-e16d-9b3f-535d838c0635/4547366738384.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=4_Lc458W1EY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "j-pop",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "391d7ce0",
+    "title": "愛の賞味期限",
+    "artist": "tuki.",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/85/41/7a854143-e744-5d89-8780-efc407016b01/4582649125727.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=nmeccuUXs4Q",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "j-pop",
+      "pop"
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
@@ -2767,129 +1707,228 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "10dd0da4",
-    "title": "AVID",
-    "artist": "SawanoHiroyuki[nZk]:mizuki",
+    "id": "4d804969",
+    "title": "あの夢をなぞって",
+    "artist": "YOASOBI",
     "language": "日文",
     "tags": [
       "日文",
       "日語流行",
-      "動漫"
+      "流行"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9d/67/e4/9d67e423-c7b0-ce3a-53c9-c2de4221813c/4547366508475.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=YGOX7Tj0dMY",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/b2/7b/e2b27bda-dfcd-323d-da30-894f646f3ed1/194491839147.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=sAuEeM_6zpk",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
+      "j-pop",
+      "yakousei",
       "japanese",
+      "pop",
+      "preteen music"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "16758567",
+    "title": "怪物",
+    "artist": "YOASOBI",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "動漫",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/ab/2c/9eab2c24-8289-1bd7-548d-e6b871fcf169/195497732630.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=dy90tA3TT1c",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
       "j-pop",
       "anime",
-      "jpop"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "05d654b2",
-    "title": "unravel",
-    "artist": "TK from 凛として時雨",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "動漫",
-      "另類音樂",
-      "獨立搖滾",
-      "日語搖滾",
-      "後硬核"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fc/56/26/fc562659-e258-c30e-8dea-2381545a7806/jacket_AICL02706B00Z_550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=Fve_lHIPa-I",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "anime",
-      "tokyo ghoul",
       "japanese",
-      "j-rock",
-      "alternative",
-      "indie rock",
-      "post-hardcore"
+      "weeb",
+      "pop"
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
   },
   {
-    "id": "7b42f202",
-    "title": "God knows…",
-    "artist": "平野凌",
-    "language": "日文",
-    "tags": [
-      "日文"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/22/66/ea22667a-8f09-d36d-ec80-b8672f003071/4540774402687.png/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=lY5OU01KV3Y",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "f53f0096",
-    "title": "JANE DOE",
-    "artist": "米津玄師/宇多田光",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/91/aa/7391aabc-81d8-2bcb-3b0f-8e24bc855745/4547366775211.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "6253b600",
-    "title": "白日",
-    "artist": "King Gnu",
+    "id": "a492d438",
+    "title": "アイドル",
+    "artist": "YOASOBI",
     "language": "日文",
     "tags": [
       "日文",
       "日語流行",
       "流行",
-      "日語搖滾",
-      "獨立音樂"
+      "動漫"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/58/ed/0658ed8e-c987-1e86-9b9b-ad36dc14f83e/4547366711691.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=ony539T074w",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ZRtdQ81jPUQ",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
       "j-pop",
-      "pop",
-      "2019",
-      "jpop",
-      "hakujitsu",
-      "j-rock",
       "japanese",
-      "indie"
+      "pop",
+      "anime"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-09-05"
+  },
+  {
+    "id": "0ec21f1e",
+    "title": "again",
+    "artist": "YUI",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "動漫",
+      "創作歌手"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/f7/0c/85f70c42-4175-dcb2-3227-c061dd2d78fb/jacket_SRCL07134B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=S2IOrt-n2fc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "anime",
+      "japanese",
+      "yui",
+      "full metal alchemist",
+      "female vocalists",
+      "singer-songwriter",
+      "actress"
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
   },
   {
-    "id": "41b27245",
-    "title": "蜜月アン・ドゥ・トロワ",
-    "artist": "DATEKEN feat. 下田麻美",
+    "id": "2aec2515",
+    "title": "secret base ～君がくれたもの～",
+    "artist": "ZONE",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/73/43/2673438e-cf37-a499-00a1-a14543fd2e7b/4534530129550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=fRQtDjiRtI8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "japanese",
+      "female vocalists",
+      "jpop",
+      "girl groups"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "398a92e8",
+    "title": "マリーゴールド",
+    "artist": "あいみょん",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/3b/f6/3c3bf6e8-1947-347e-f6f0-c857ca4c026f/190295490089.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=0xSiBpUdW4E",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "5f715701",
+    "title": "愛を伝えたいだとか",
+    "artist": "あいみょん",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/7b/7c/d87b7cfd-c88c-1003-bc5d-883882043e33/190295747138.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=rlHTmo50zSI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "4aaf4033",
+    "title": "君はロックを聴かない",
+    "artist": "あいみょん",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/16/43/fe/1643fec0-3f43-9bcb-83d4-04639f044a7b/190295759162.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ARwVe1MYAUA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "japanese",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-09-05"
+  },
+  {
+    "id": "69dc93f0",
+    "title": "夏霞",
+    "artist": "あたらよ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/6f/0c/e26f0c20-1f76-892f-ce9e-7e1d30bb6520/ANTCD-A0000004901.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=hcXcJAmzmAc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "06b58bd7",
+    "title": "「僕は...」",
+    "artist": "あたらよ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/c8/cd/69c8cdb2-06e8-ddec-5189-25ca7b8fbcda/ANTCD-A0000012214.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=8L5cQlXMpeY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "c53cdde7",
+    "title": "8.8",
+    "artist": "あたらよ",
     "language": "日文",
     "tags": [
       "日文"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d2/2e/bf/d22ebf32-b5e6-a6a8-8676-c6312caafdd5/QWCE_00663_2.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=8-62aIc0nQ8",
+    "cover_url": "https://img.youtube.com/vi/OmuW_v5LoIU/hqdefault.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=OmuW_v5LoIU",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
@@ -2897,81 +1936,143 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "ab58647b",
-    "title": "私じゃなかったんだね。",
-    "artist": "りりあ。riria.",
+    "id": "78046320",
+    "title": "ダーリンダンス",
+    "artist": "かいりきベア",
     "language": "日文",
     "tags": [
       "日文",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/14/17/b51417b0-ecb3-413b-42e7-2637019dac93/4988061914336.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=sMSBAQ0tnBY",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": true,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "9dae63ed",
-    "title": "ダーリンダンス darling dance",
-    "artist": "初音ミク",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行"
+      "日語流行",
+      "Vocaloid",
+      "Vocaloid P主"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8b/4c/5b8b4cbe-1212-bc65-bbac-cc58761a88ce/859757385133_cover.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=Rkrm5foi188",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
+    "raw_lastfm_tags": [
+      "vocaloid",
+      "japanese",
+      "vocaloidp"
+    ],
     "is_practicing": true,
+    "added_date": "2026-09-05"
+  },
+  {
+    "id": "1a7d88d1",
+    "title": "六等星",
+    "artist": "ざらめ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/f2/1d/76f21da6-fb7a-fd76-b055-5620643de53b/4547366694086.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=4U65GQ_JCZU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
     "added_date": "2026-07-01"
   },
   {
-    "id": "6240167a",
-    "title": "ダーリン",
-    "artist": "須田景凪",
+    "id": "6f82ed14",
+    "title": "TAIDADA",
+    "artist": "Zutomayoずっと真夜中でいいのに。",
     "language": "日文",
     "tags": [
       "日文",
       "日語流行",
-      "Vocaloid"
+      "動漫",
+      "搖滾"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/de/8a/00/de8a00e8-425b-a1fa-db63-7befefe4fdce/5054197504655.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=gwAuvX9i8yQ",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/86/f9/1e86f9db-204f-d5dc-04a9-c456df0b6a89/24UM1IM02203.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=IeyCdm9WwXM",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
       "j-pop",
-      "japan",
-      "jpm",
-      "j-pop vocaloid"
+      "anime",
+      "dandadan",
+      "japanese",
+      "rock"
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
   },
   {
-    "id": "ef0a610f",
-    "title": "シルエット",
-    "artist": "Kana-Boon",
+    "id": "40bd7906",
+    "title": "秒針を噛む",
+    "artist": "Zutomayoずっと真夜中でいいのに。",
     "language": "日文",
     "tags": [
       "日文",
-      "動漫",
+      "日語流行",
       "搖滾",
       "日語搖滾"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7b/30/aa/7b30aa0a-0b3f-bb03-4dce-70840e227444/jacket_KSCL02520B00Z_550.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=dlFA0Zq1k2A",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/38/2c/03/382c0375-11db-242e-4bf0-4e2e31380d74/00602567952343.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=GJI4Gv7NbmE",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
-      "anime",
       "japanese",
+      "japan",
       "j-rock",
+      "yakousei",
+      "imported by drip.feed",
+      "j-pop",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "8fc19027",
+    "title": "正しくなれない",
+    "artist": "Zutomayoずっと真夜中でいいのに。",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fa/22/7e/fa227e7a-a1dd-5631-be96-e7e896daaa18/20UM1IM11050.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=258qUAI7rck",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "new sound of japanese pop",
+      "japanese",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "0c4bea81",
+    "title": "勘冴えて悔しいわ",
+    "artist": "Zutomayoずっと真夜中でいいのに。",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "搖滾",
+      "放克搖滾",
+      "爵士流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f7/20/47/f72047ef-3944-2b5b-25b5-3979f5ac2aef/19UMGIM30912.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=4QePrv24TBU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "dance-punk",
+      "funk rock",
+      "dance punk",
+      "jazz pop",
+      "yakousei",
+      "japanese",
+      "j-pop",
       "rock"
     ],
     "is_practicing": false,
@@ -3028,68 +2129,456 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "29bf199a",
-    "title": "星屑ビーナス",
-    "artist": "Aimer",
+    "id": "15bdff38",
+    "title": "プロポーズ",
+    "artist": "なとり",
     "language": "日文",
     "tags": [
       "日文",
       "日語流行"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/ab/9b/abab9b3b-41cd-a0c0-29c0-6a1464501c0b/4547366306514.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=sMy1lK1L67g",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/cf/2c/88cf2c4a-f2f7-5b98-4d30-c2e27ad227f7/4547366752885.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=XPLkkdMFmco",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "3c06a8f1",
+    "title": "小夜子",
+    "artist": "みきとP",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "Vocaloid"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/33/c3/f533c341-433a-b4e1-2c61-18cd3c9e15a2/cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=3Li-FfypZYE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "j-pop",
+      "female vocalists",
+      "vocaloid"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "f361f7a4",
+    "title": "少女レイ",
+    "artist": "みきとP",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "Vocaloid",
+      "搖滾",
+      "Vocarock",
+      "Vocaloid P主"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/fb/3f/47fb3f10-b813-ab86-cdbe-4ad2538e34e0/QWCE_00654.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=JW3N-HvU0MA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "vocaloid",
+      "rock",
+      "vocarock",
+      "vocaloidp"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "ab58647b",
+    "title": "私じゃなかったんだね。",
+    "artist": "りりあ。riria.",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/14/17/b51417b0-ecb3-413b-42e7-2637019dac93/4988061914336.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=sMSBAQ0tnBY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": true,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "c9eabfd4",
+    "title": "命に嫌われている。",
+    "artist": "カンザキイオリ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "唱見",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/ea/01/69ea0111-4f99-c5ce-be05-1f4875694e73/PCSP_03352.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=eq8r1ZTma08",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "utaite",
+      "japanese",
+      "j-rock",
+      "niconico"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "2ada3ff3",
+    "title": "おやすみ泣き声、さよなら歌姫",
+    "artist": "クリープハイプ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "搖滾",
+      "另類音樂",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/91/ce/2b91ceef-e06e-e19c-3f89-a2c908195d1d/VICL-64040.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=GpADSdd68UI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "j-rock",
+      "rock",
+      "alternative"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "5b303716",
+    "title": "怪獣",
+    "artist": "サカナクション",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "搖滾",
+      "電子",
+      "日語搖滾",
+      "電子流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/35/c7/4435c703-3647-654b-16a7-ab74885f71da/VEATP-43484.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=a8dgNdJVluc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "electronic",
+      "japanese",
+      "j-rock",
+      "rock",
+      "electropop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "7e6b874b",
+    "title": "悪魔の子",
+    "artist": "ヒグチアイ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "動漫",
+      "原聲帶",
+      "創作歌手",
+      "獨立音樂"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/34/aa/da34aa4e-963d-da81-973a-c4baf699c03d/PCSP_03907_A.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=WPl10ZrhCtk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "anime",
+      "ost",
+      "japanese",
+      "indie",
+      "singer-songwriter"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "90062913",
+    "title": "神っぼいな",
+    "artist": "ピノキオピー",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/7a/5e/1b7a5e77-b0c4-6e32-f3ee-c09c70f8378e/jacket_SRCL09571B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=EHBFKhLUVig",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "d380ce03",
+    "title": "晴る",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "動漫",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/e4/3d/9ee43dd8-818c-c085-899c-c27a1e3b82cc/23UM1IM53496.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=CkvWJNt77mU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "anime",
+      "japanese",
+      "j-rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "7faac1c5",
+    "title": "言って。",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/48/09/df4809c7-6386-d30f-b656-7cfcde722f28/PA00074565_0_155989_jacket.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=F64yFFnZfkI",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
       "j-pop",
       "japanese",
+      "j-rock",
       "female vocalists"
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
   },
   {
-    "id": "79dbdaca",
-    "title": "星の消えた夜に",
-    "artist": "Aimer",
+    "id": "55315442",
+    "title": "忘れてください",
+    "artist": "ヨルシカ",
     "language": "日文",
     "tags": [
       "日文",
       "日語流行",
-      "爵士"
+      "日語搖滾"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/3e/2b/c13e2b74-a875-b20f-d37f-5603eb0d2031/4547366543063.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=ngrBbLTvjN4",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/17/77/2d1777fe-9f3a-82db-d5a0-24b06f4a6a62/24UMGIM64777.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=J_DE2d1F9wU",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
-      "japanese",
-      "jazz",
       "j-pop",
-      "jpop",
+      "japanese",
+      "j-rock",
       "female vocalists"
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
   },
   {
-    "id": "28966986",
-    "title": "Pretender",
-    "artist": "Official髭男dism",
+    "id": "5754f2d7",
+    "title": "春泥棒",
+    "artist": "ヨルシカ",
     "language": "日文",
     "tags": [
       "日文",
       "日語流行",
-      "搖滾"
+      "日語搖滾"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9c/7d/88/9c7d883d-4477-bf68-f56f-a726030a63a2/PCCA_04822.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=TQ8WlA2GXbk",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f4/d9/17/f4d917db-8c8c-1823-e9c3-3704d7e61881/20UMGIM22068.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Sw1Flgub9s8",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
       "j-pop",
       "japanese",
-      "rock"
+      "j-rock",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "3397150f",
+    "title": "斜陽",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/14/10/c41410c0-e6fe-f5ff-a4e4-31daacc0da95/23UMGIM36213.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=bqigIHMComE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "japanese",
+      "j-rock",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "1c846b12",
+    "title": "ただ君に晴れ",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e3/e5/7a/e3e57a00-ed2d-69d6-bf00-347d7c37f3bd/PA00074572_0_90261_jacket.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=-VKIqrvVOpo",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "japanese",
+      "j-rock",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "d1644351",
+    "title": "だから僕は音楽を辞めた",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "搖滾",
+      "日語流行",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/64/ab/ba/64abba45-d080-0e8a-c24b-313e597c63cb/PA00076158_0_91679_jacket.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=KTZ-y85Erus",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "rock",
+      "j-pop",
+      "j-rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "a529dd56",
+    "title": "花に亡霊",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f4/d9/17/f4d917db-8c8c-1823-e9c3-3704d7e61881/20UMGIM22068.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=9lVPAWLWtWc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "japanese",
+      "j-rock",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "6471fc4c",
+    "title": "雨とカプチーノ",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8e/8e/19/8e8e1946-327d-7376-b75f-a49cb69b8686/19UMGIM62014.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=PWbRleMGagU",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "imported by drip.feed",
+      "j-pop",
+      "japanese",
+      "j-rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "f1434f36",
+    "title": "又三郎",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "流行搖滾",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/9e/88/149e8844-dc4f-af90-062a-2a6903b00e2f/21UMGIM41371.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=siNFnlqtd8M",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop rock",
+      "j-pop",
+      "japanese",
+      "j-rock"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "3cf9f29c",
+    "title": "憂、燦々",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/54/eb/9a54ebc0-3881-0600-374e-1db9a3252932/24UMGIM89989.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=-FwuyzOZuS0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "japanese",
+      "j-rock",
+      "female vocalists"
     ],
     "is_practicing": false,
     "added_date": "2026-07-01"
@@ -3116,168 +2605,20 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "56c47db4",
-    "title": "百花繚乱",
-    "artist": "幾田 りら",
+    "id": "1481b752",
+    "title": "プロポーズ",
+    "artist": "内緒のピアス",
     "language": "日文",
     "tags": [
       "日文",
       "日語流行"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/97/0c/9f970c92-fdcb-dcca-6f91-17d0d71c87b6/199066336168.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=3Fz17pPuI4k",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/cf/2c/88cf2c4a-f2f7-5b98-4d30-c2e27ad227f7/4547366752885.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=XPLkkdMFmco",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "59eb41c0",
-    "title": "walking with you",
-    "artist": "Novelbright",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "另類音樂",
-      "搖滾",
-      "另類搖滾",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/0a/ca/3a0aca57-45c1-7aca-1be1-9755d549ffb9/EPM-10001.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=OxzdMNTJXmg",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "alternative",
-      "alternative rock",
-      "rock",
-      "j-rock"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "94ec5ea5",
-    "title": "雪の音",
-    "artist": "Novelbright",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "另類音樂",
-      "搖滾",
-      "另類搖滾",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/cf/67/6fcf67a5-c664-dc45-3a51-3aa1c95b555b/23UM1IM57606.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=aLgPe4Scnvs",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "alternative",
-      "alternative rock",
-      "rock",
-      "j-rock"
-    ],
-    "is_practicing": true,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "fb173448",
-    "title": "少女A",
-    "artist": "椎名もた",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "獨立搖滾",
-      "Vocaloid",
-      "後硬核",
-      "電子"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b2/0d/42/b20d425e-5f3f-ee18-390b-7d472bc5632f/4571374919909_cover.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=AqI97zHMoQw",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "indie rock",
-      "post-hardcore",
-      "vocaloid",
-      "shimokita-kei",
-      "electronic",
-      "japanese"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "d6faf24e",
-    "title": "小夜子",
-    "artist": "鹿乃",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "日語流行",
-      "Vocaloid"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/33/c3/f533c341-433a-b4e1-2c61-18cd3c9e15a2/cover.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=3Li-FfypZYE",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "japanese",
-      "j-pop",
-      "female vocalists",
-      "vocaloid"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "08edb4c5",
-    "title": "This Game",
-    "artist": "鈴木このみ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "動漫",
-      "日語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8a/bb/88/8abb88f7-a639-7bdf-b52c-278d99de86ea/NGNL-OP_CD.png/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=kJ04dMmimn8",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "anime",
-      "japanese",
-      "j-pop",
-      "no game no life"
-    ],
-    "is_practicing": false,
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "bd978d1e",
-    "title": "命に嫌われている。",
-    "artist": "まふまふ",
-    "language": "日文",
-    "tags": [
-      "日文",
-      "唱見",
-      "日語搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/ea/01/69ea0111-4f99-c5ce-be05-1f4875694e73/PCSP_03352.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=eq8r1ZTma08",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "utaite",
-      "japanese",
-      "j-rock",
-      "niconico"
-    ],
-    "is_practicing": true,
     "added_date": "2026-07-01"
   },
   {
@@ -3309,8 +2650,139 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "34225823",
-    "title": "真夜中のドア",
+    "id": "8a1c71e8",
+    "title": "フォニイ Phony",
+    "artist": "可不",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/25/39/6a2539f1-882e-9822-3876-14ec354ca6e6/ANTCD-46511.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=9QLT1Aw_45s",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "fcaec916",
+    "title": "God knows…",
+    "artist": "平野綾",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/22/66/ea22667a-8f09-d36d-ec80-b8672f003071/4540774402687.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=lY5OU01KV3Y",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "4895b82c",
+    "title": "可愛くてごめん",
+    "artist": "早川沙織",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/01/58/28/01582865-5af1-c416-d228-c9f1b1d54dde/4580074477572.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=K4xLi8IF1FM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "b3b4e267",
+    "title": "more than words",
+    "artist": "羊文学",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/6b/19/ff6b1924-6db1-3151-a724-8d00c0f4c204/4547366642537.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=kGY6N9DL4Jw",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "40154120",
+    "title": "First Love",
+    "artist": "宇多田光",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "演歌"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/77/67/00/77670013-e2ed-437a-dc30-e9cb74056cbe/00600406427052.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=o1sUaVJUeB0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "japanese",
+      "female vocalists",
+      "jpop",
+      "utada hikaru",
+      "enka"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-09-05"
+  },
+  {
+    "id": "e81ebe05",
+    "title": "KICKBACK",
+    "artist": "米津玄師",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "日語搖滾",
+      "搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4e/a8/75/4ea875d1-bdb6-9b83-185a-646391cbffbd/4547366589849.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=M2cckDmNLMI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "japanese",
+      "j-rock",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-09-05"
+  },
+  {
+    "id": "c8459121",
+    "title": "JANE DOE",
+    "artist": "米津玄師, 宇多田光",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/91/aa/7391aabc-81d8-2bcb-3b0f-8e24bc855745/4547366775211.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "9eb6bb5e",
+    "title": "真夜中のドア〜stay with me",
     "artist": "松原みき",
     "language": "日文",
     "tags": [
@@ -3323,27 +2795,578 @@
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [
-      "city pop",
       "j-pop",
-      "female vocalists"
+      "female vocalists",
+      "japanese",
+      "city pop",
+      "japanese city pop"
     ],
     "is_practicing": false,
-    "added_date": "2026-07-01"
+    "added_date": "2026-09-05"
   },
   {
-    "id": "15bdff38",
-    "title": "プロポーズ",
-    "artist": "なとり",
+    "id": "7ff6e747",
+    "title": "カワキヲアメク",
+    "artist": "美波",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "動漫",
+      "日語搖滾",
+      "搖滾",
+      "創作歌手"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/d6/b1/abd6b1ab-8ced-121a-21ea-5399bb37f536/5054197950636.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=0YF8vecQWYs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "japanese",
+      "anime",
+      "imported by drip.feed",
+      "j-rock",
+      "rock",
+      "singer-songwriter"
+    ],
+    "is_practicing": true,
+    "added_date": "2026-09-05"
+  },
+  {
+    "id": "41059761",
+    "title": "ライラック",
+    "artist": "美波",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "日語搖滾",
+      "搖滾",
+      "創作歌手"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/d6/b1/abd6b1ab-8ced-121a-21ea-5399bb37f536/5054197950636.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=GQ3V50XoLOM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "japanese",
+      "j-rock",
+      "rock",
+      "singer-songwriter"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-09-05"
+  },
+  {
+    "id": "9305b404",
+    "title": "ビビデバ",
+    "artist": "星街彗星",
     "language": "日文",
     "tags": [
       "日文",
       "日語流行"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/cf/2c/88cf2c4a-f2f7-5b98-4d30-c2e27ad227f7/4547366752885.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=XPLkkdMFmco",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/da/19/4eda19dd-47fb-62ea-8e75-fb604ef8064d/4547366700749.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=8ZP5eqm4JqM",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "d0278b2c",
+    "title": "Stellar stellar",
+    "artist": "星街彗星",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/94/11/16/9411169d-6c98-3134-3e99-1c9cb93c4b77/JKT.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=a51VH9BYzZA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-09-05"
+  },
+  {
+    "id": "6240167a",
+    "title": "ダーリン",
+    "artist": "須田景凪",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "Vocaloid"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/de/8a/00/de8a00e8-425b-a1fa-db63-7befefe4fdce/5054197504655.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=gwAuvX9i8yQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-pop",
+      "japan",
+      "jpm",
+      "j-pop vocaloid"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "cb556e27",
+    "title": "シャルル",
+    "artist": "須田景凪",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/bd/1b/cabd1b6e-a99d-b8ea-28b3-76b1c640243f/4589686423939_cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=VUIEJu4ZSUo",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-rock",
+      "2017",
+      "japanese",
+      "jpop",
+      "jrock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "56c47db4",
+    "title": "百花繚乱",
+    "artist": "幾田 りら",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/97/0c/9f970c92-fdcb-dcca-6f91-17d0d71c87b6/199066336168.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=3Fz17pPuI4k",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "cea0140e",
+    "title": "ギターと孤独と蒼い惑星",
+    "artist": "結束バンド",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "獨立搖滾",
+      "動漫",
+      "另類搖滾",
+      "日語搖滾",
+      "流行龐克"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/51/3b/00/513b003d-5583-4533-168b-f213c245b53f/4534530141828.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=B7BxrAAXl94",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "indie rock",
+      "alternative rock",
+      "j-rock",
+      "pop punk",
+      "math pop",
+      "anime"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "144cab43",
+    "title": "星座になれたら",
+    "artist": "結束バンド",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "獨立搖滾",
+      "動漫",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/51/3b/00/513b003d-5583-4533-168b-f213c245b53f/4534530141828.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=wSTbdqo-j74",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-rock",
+      "indie rock",
+      "anime"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "3f546f87",
+    "title": "あのバンド",
+    "artist": "結束バンド",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "獨立搖滾",
+      "動漫",
+      "日語搖滾",
+      "後硬核"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/51/3b/00/513b003d-5583-4533-168b-f213c245b53f/4534530141828.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=L2i0i9gWE00",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-rock",
+      "post-hardcore",
+      "post punk revival",
+      "math pop",
+      "indie rock",
+      "anime"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "fb173448",
+    "title": "少女A",
+    "artist": "椎名もた",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "獨立搖滾",
+      "Vocaloid",
+      "後硬核",
+      "電子"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b2/0d/42/b20d425e-5f3f-ee18-390b-7d472bc5632f/4571374919909_cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=AqI97zHMoQw",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "indie rock",
+      "post-hardcore",
+      "vocaloid",
+      "shimokita-kei",
+      "electronic",
+      "japanese"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "ef1942a0",
+    "title": "罪と罰",
+    "artist": "椎名林檎",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/17/d2/81/17d281fc-298d-f5c3-b69c-f557a423850d/00602567661245.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=dSXvVmwJxh4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-rock",
+      "japanese",
+      "perfect",
+      "shiina ringo",
+      "j-pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "db1630b2",
+    "title": "丸ノ内サディスティック",
+    "artist": "椎名林檎",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bd/da/b4/bddab4d2-176e-6438-76dc-54bd4eac3914/18UMGIM22257.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Sy_08-HcR3Y",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "b26478af",
+    "title": "本能",
+    "artist": "椎名林檎",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "搖滾",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f4/5c/1b/f45c1b6f-edad-9c4c-1393-5e1fea30f00c/00602567661207.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ECxBHhMc7oI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "j-rock",
+      "japanese",
+      "j-pop",
+      "rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "08edb4c5",
+    "title": "This Game",
+    "artist": "鈴木このみ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "動漫",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8a/bb/88/8abb88f7-a639-7bdf-b52c-278d99de86ea/NGNL-OP_CD.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=kJ04dMmimn8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "anime",
+      "japanese",
+      "j-pop",
+      "no game no life"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "bb941ed4",
+    "title": "心做し",
+    "artist": "蝶々P",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "Vocaloid",
+      "Vocaloid P主"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4c/ee/d2/4ceed268-77e9-350e-7583-28392b233601/PCCG_01912.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=3SkNrZnoK5w",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "vocaloid",
+      "japanese",
+      "vocaloidp"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "28bb9766",
+    "title": "ミカヅキ",
+    "artist": "酸欠少女さユり",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/8c/51/7a8c519d-4042-5d06-ad23-61e7fe154781/jacket_BVCL00795B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=0q6c0AKDKU4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "3454afb7",
+    "title": "Shout Baby",
+    "artist": "緑黄色社会",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/ea/6a/56ea6a25-94f2-f05e-931e-b6eb9feb8c8f/jacket_ESXX02169B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=bujzV3nc1Tg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "d13968ce",
+    "title": "花になって",
+    "artist": "緑黄色社会",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/cf/b0/1ecfb064-5b1a-049c-7f68-e2dbf9723e18/4547366652253.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=v-WcMQbXbKY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "3d43dc8b",
+    "title": "Mela!",
+    "artist": "緑黄色社会",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/f9/eb/0cf9eb76-63b7-820d-6756-7e693e114b45/jacket_ESCL05378B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=aRDURmIYBZ4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": true,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "a4f381be",
+    "title": "ドライフラワー",
+    "artist": "優里",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "東方Project"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d2/23/07/d2230757-3f9c-fccd-3cc8-333f7be09716/4547366478655.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=yXZd7xVdpJ0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "j-pop",
+      "touhou"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "ce7e14f2",
+    "title": "ベテルギウス",
+    "artist": "優里",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "東方Project"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f1/d5/61/f1d561dc-7fab-68fa-39ac-4440d7a27940/4547366533842.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=cbqvxDTLMps",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "touhou",
+      "japanese",
+      "j-pop",
+      "japan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "9c571622",
+    "title": "メリーゴーランド",
+    "artist": "優里",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://img.youtube.com/vi/eWeSqrRk-gs/hqdefault.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=eWeSqrRk-gs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "3aaa49fa",
+    "title": "死ぬのがいいわ",
+    "artist": "藤井風",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/4e/5b/964e5b6e-4766-63ba-7e50-9f8a5bd0569e/20UMGIM17280.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=dawrQnvwMTY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "trap",
+      "japanese",
+      "jpop",
+      "japan"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "7ab2b6ef",
+    "title": "花",
+    "artist": "藤井風",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/7c/f0/f47cf00a-68d0-74fa-82e1-b291addbb62a/23UM1IM12200.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=SfPkl7lol7g",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "jpop",
+      "japan",
+      "j-pop",
+      "pop"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "cc4e9e5a",
+    "title": "満ちてゆく",
+    "artist": "藤井風",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d0/f4/ad/d0f4ad92-2a6c-6a02-34c5-d45b93f767d9/24UMGIM15199.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ptiK8U4WlSc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "jpop",
+      "japan",
+      "j-pop",
+      "pop"
+    ],
     "is_practicing": false,
     "added_date": "2026-07-01"
   },
