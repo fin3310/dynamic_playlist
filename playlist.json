@@ -3371,6 +3371,49 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "24848407",
+    "title": "晴れの日に",
+    "artist": "汐れいら",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/91/48/a99148f9-875b-c25e-bc75-1bc6a6374c9a/4547366759327.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=VuKSlOT__9s",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-09-05"
+  },
+  {
+    "id": "97672043",
+    "title": "逆様",
+    "artist": "ポルカドットスティングレイ",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "搖滾",
+      "日語流行",
+      "獨立搖滾",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/81/b3/b081b35a-3f4e-8f88-ead0-d5ef591a577c/26UMGIM19854.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=NYFHZXz-7Xo",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "rock",
+      "j-pop",
+      "indie rock",
+      "j-rock"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-09-05"
+  },
+  {
     "id": "31b1470e",
     "title": "我睡不著",
     "artist": "守夜人",
