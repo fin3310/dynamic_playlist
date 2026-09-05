@@ -3421,10 +3421,10 @@
     "tags": [
       "日文",
       "日語流行",
-      "日語搖滾",
       "流行",
-      "流行搖滾",
-      "爵士"
+      "爵士",
+      "日語搖滾",
+      "流行搖滾"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/64/97/a7/6497a79f-450a-7adf-bc70-1891c100ac08/jacket_AIXX00265B00Z_550.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=DJJ7kXF8t6c",
@@ -3441,6 +3441,29 @@
       "jazz"
     ],
     "is_practicing": true,
+    "added_date": "2026-09-05"
+  },
+  {
+    "id": "0ba0f1c8",
+    "title": "HOT LIMIT",
+    "artist": "T.M.Revolution",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行",
+      "日語搖滾"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a7/80/a7/a780a7a8-a1a0-ba3b-a77d-5c1e50f92217/jacket_ESCL03187B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=vBmU5v2EyxM",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "japanese",
+      "j-pop",
+      "t.m.revolution",
+      "j-rock"
+    ],
+    "is_practicing": false,
     "added_date": "2026-09-05"
   },
   {
