@@ -1504,8 +1504,8 @@
       "日文",
       "日語流行",
       "動漫",
-      "另類搖滾",
       "搖滾",
+      "另類搖滾",
       "同人音樂"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/09/a9/4d/09a94db1-101a-bebd-78c7-50b452e4a7aa/jacket_SRCL07081B00Z_550.jpg/300x300bb.jpg",
@@ -2747,8 +2747,8 @@
     "tags": [
       "日文",
       "日語流行",
-      "日語搖滾",
-      "搖滾"
+      "搖滾",
+      "日語搖滾"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4e/a8/75/4ea875d1-bdb6-9b83-185a-646391cbffbd/4547366589849.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=M2cckDmNLMI",
@@ -2813,9 +2813,9 @@
       "日文",
       "日語流行",
       "動漫",
-      "日語搖滾",
       "搖滾",
-      "創作歌手"
+      "創作歌手",
+      "日語搖滾"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/d6/b1/abd6b1ab-8ced-121a-21ea-5399bb37f536/5054197950636.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=0YF8vecQWYs",
@@ -2841,9 +2841,9 @@
     "tags": [
       "日文",
       "日語流行",
-      "日語搖滾",
       "搖滾",
-      "創作歌手"
+      "創作歌手",
+      "日語搖滾"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/d6/b1/abd6b1ab-8ced-121a-21ea-5399bb37f536/5054197950636.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=GQ3V50XoLOM",
@@ -2860,9 +2860,9 @@
     "added_date": "2026-09-05"
   },
   {
-    "id": "9305b404",
+    "id": "3cb78944",
     "title": "ビビデバ",
-    "artist": "星街彗星",
+    "artist": "星街すいせい",
     "language": "日文",
     "tags": [
       "日文",
@@ -2877,9 +2877,9 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "d0278b2c",
+    "id": "6fdc2a4c",
     "title": "Stellar stellar",
-    "artist": "星街彗星",
+    "artist": "星街すいせい",
     "language": "日文",
     "tags": [
       "日文",
@@ -3173,9 +3173,9 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "28bb9766",
+    "id": "9f9ae73e",
     "title": "ミカヅキ",
-    "artist": "酸欠少女さユり",
+    "artist": "さユり/酸欠少女",
     "language": "日文",
     "tags": [
       "日文"
