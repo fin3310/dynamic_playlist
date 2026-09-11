@@ -6855,9 +6855,9 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "71c75e5e",
+    "id": "18313130",
     "title": "錦鯉抄",
-    "artist": "銀臨 & 雲の泣",
+    "artist": "雲の泣/銀臨",
     "language": "中文",
     "tags": [
       "中文"
@@ -6956,6 +6956,31 @@
     ],
     "is_practicing": false,
     "added_date": "2026-08-14"
+  },
+  {
+    "id": "2b931a88",
+    "title": "太陽與地球",
+    "artist": "盧廣仲",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "獨立音樂",
+      "創作歌手",
+      "民謠"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/85/8f/ee858f39-7c88-5390-4061-6f2de8c43279/4711508138732.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=i5YRIjxyJP8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "indie",
+      "singer-songwriter",
+      "indie pop",
+      "folk"
+    ],
+    "is_practicing": false,
+    "added_date": "2026-09-12"
   },
   {
     "id": "46e2a3ad",
