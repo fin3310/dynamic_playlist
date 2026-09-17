@@ -6964,8 +6964,8 @@
     "language": "中文",
     "tags": [
       "中文",
-      "獨立音樂",
       "創作歌手",
+      "獨立音樂",
       "民謠"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/85/8f/ee858f39-7c88-5390-4061-6f2de8c43279/4711508138732.jpg/300x300bb.jpg",
@@ -8151,7 +8151,7 @@
   {
     "id": "53955608",
     "title": "Wish you were here",
-    "artist": "avril lavigne",
+    "artist": "Avril Lavigne",
     "language": "英文",
     "tags": [
       "英文",
@@ -8959,27 +8959,21 @@
     "added_date": "2026-08-29"
   },
   {
-    "id": "cf18e964",
-    "title": "Wrecking Bal",
+    "id": "5e5f78c7",
+    "title": "Wrecking Ball",
     "artist": "Miley Cyrus",
     "language": "英文",
     "tags": [
       "英文",
-      "流行",
-      "舞曲"
+      "流行"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/e0/84/e3e08400-2d03-75f9-6b8b-a3345452aa98/886444197816.jpg/300x300bb.jpg",
     "youtube_url": "https://www.youtube.com/watch?v=My2FRPA3Gf8",
     "note": "",
     "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "pop",
-      "female vocalists",
-      "dance",
-      "disney"
-    ],
+    "raw_lastfm_tags": [],
     "is_practicing": false,
-    "added_date": "2026-08-29"
+    "added_date": "2026-09-17"
   },
   {
     "id": "cb5daa50",
