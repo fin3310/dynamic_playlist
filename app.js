@@ -69,29 +69,10 @@ function generateSongHtml(song) {
     const useNormalMode = !isCompactMode || isExpanded;
 
     const isNew = isNewSong(song.added_date);
+    const newCardBorder = isNew ? "ring-2 ring-sky-400/60 dark:ring-sky-500/60 shadow-md shadow-sky-500/10 dark:shadow-sky-900/40" : "";
     
     // 🚀 演唱次數讀取 (預設 0)
     const playCount = (song.play_count !== undefined && song.play_count !== null) ? song.play_count : 0;
-
-    // ==========================================================
-    // 🔬 【推論驗證 LOG】(鐵律第 6 條：證明 newCardBorder 未定義與 play_count 狀態)
-    // ==========================================================
-    if (!window.__inference_logged) {
-        window.__inference_logged = true;
-        console.log("============================================================");
-        console.log("🔬 【推論驗證 LOG】(鐵律第 6 條)");
-        console.log("   測試歌曲:", song.title);
-        console.log("   isNewSong 狀態:", isNew);
-        console.log("   play_count 讀取值:", playCount);
-        console.log("   newCardBorder 宣告狀態 (typeof):", typeof newCardBorder);
-        try {
-            let testAccess = newCardBorder;
-        } catch (err) {
-            console.log("   直接存取 newCardBorder 捕獲異常:", err.name + " - " + err.message);
-        }
-        console.log("============================================================");
-    }
-    // ==========================================================
 
     const undoSvg = `<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>`;
     const favSvgSolid = `<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>`;
