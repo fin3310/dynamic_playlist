@@ -2601,6 +2601,22 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "ea8dc1c2",
+    "title": "あぶく",
+    "artist": "ヨルシカ",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/89/90/6689908a-4489-a37b-13cc-cc578edd2329/26UMGIM33736.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=OHAjc-ayhus",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-09-21"
+  },
+  {
     "id": "06f7e72e",
     "title": "ただ声一つ",
     "artist": "ロクデナシ",
@@ -3457,7 +3473,7 @@
       "pop rock",
       "jazz"
     ],
-    "is_practicing": true,
+    "is_practicing": false,
     "added_date": "2026-09-05"
   },
   {
@@ -3498,6 +3514,23 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "added_date": "2026-09-19"
+  },
+  {
+    "id": "9abdcaca",
+    "title": "螺旋",
+    "artist": "9Lana",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/e3/45/57e3458e-e2b6-734e-259f-a6e000668f30/4547366836509.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=xsBQtngzcSs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "added_date": "2026-09-21"
   },
   {
     "id": "31b1470e",
