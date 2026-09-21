@@ -69,11 +69,9 @@ function generateSongHtml(song) {
     const useNormalMode = !isCompactMode || isExpanded;
 
     const isNew = isNewSong(song.added_date);
-
-    const badgeCompact = isNew ? `<div class="absolute -top-2.5 left-4 bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-[10px] font-bold px-2.5 py-0.5 rounded-full shadow-sm shadow-sky-500/30 flex items-center gap-1 border border-sky-200 dark:border-sky-500 tracking-wider z-10"><svg class="w-3 h-3 text-sky-100" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</div>` : '';
-    const badgeGrid = isNew ? `<div class="absolute top-0 left-0 bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-xs font-bold px-3.5 py-1.5 rounded-br-2xl rounded-tl-3xl z-20 shadow-md shadow-sky-500/30 flex items-center gap-1 border-b border-r border-sky-300/50 dark:border-sky-500/50 tracking-wider"><svg class="w-3.5 h-3.5 text-sky-200" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</div>` : '';
     
-    const newCardBorder = isNew ? "ring-2 ring-sky-400/60 dark:ring-sky-500/60 shadow-md shadow-sky-500/10 dark:shadow-sky-900/40" : "";
+    // 🚀 演唱次數讀取 (預設 0)
+    const playCount = (song.play_count !== undefined && song.play_count !== null) ? song.play_count : 0;
 
     const undoSvg = `<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>`;
     const favSvgSolid = `<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>`;
@@ -128,11 +126,15 @@ function generateSongHtml(song) {
                         <!-- 電腦版並排標籤 -->
                         ${badgePC}
                     </div>
-                    <p class="text-sm text-slate-500 dark:text-slate-400 truncate">${song.artist}</p>
+                    <!-- 🚀 方案一：次數小標籤 (緊湊模式) -->
+                    <div class="flex items-center gap-1.5 min-w-0">
+                        <p class="text-sm text-slate-500 dark:text-slate-400 truncate">${song.artist}</p>
+                        <span class="shrink-0 text-xs text-slate-400 dark:text-slate-500 font-normal whitespace-nowrap">• 🎤 <span class="hidden md:inline">唱過 </span>${playCount} 次</span>
+                    </div>
                 </div>
                 <div class="flex items-center gap-2 shrink-0 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity">
                     <button onclick="event.stopPropagation(); toggleFav('${song.id}')" class="p-2 rounded-full transition-colors active:scale-95 ${favBtnClass}" title="加入/移除歌單">${isFav ? favSvgSolid : favSvgOutline}</button>
-                    ${song.youtube_url ? `<a href="${song.youtube_url}" target="_blank" onclick="event.stopPropagation()" class="p-2 rounded-full bg-white/80 dark:bg-slate-900/50 text-slate-500 dark:text-slate-400 hover:bg-red-500 hover:text-white dark:hover:bg-red-500 dark:hover:text-white transition-colors" title="試聽"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg></a>` : ''}
+                    ${song.youtube_url ? `<a href="${song.youtube_url}" target="_blank" onclick="event.stopPropagation()" class="p-2 rounded-full bg-white/80 dark:bg-slate-900/50 text-slate-500 dark:text-slate-400 hover:bg-red-500 hover:text-white dark:hover:bg-red-500 dark:hover:text-white transition-colors" title="試聽"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg></a>` : ''}
                     <button onclick="event.stopPropagation(); unplaySong('${song.id}')" class="${undoBtnClass}" title="取消紀錄">${undoSvg}</button>
                     <button onclick="event.stopPropagation(); handlePlay('${song.id}', '${titleEsc}', '${artistEsc}')" class="${btnClass}">${btnText}</button>
                 </div>
@@ -169,12 +171,16 @@ function generateSongHtml(song) {
                     <div class="flex items-center w-full mb-1">
                         <h3 class="text-lg font-bold text-slate-800 dark:text-slate-100 truncate" title="${song.title}">${song.title}</h3>
                     </div>
-                    <p class="text-sm text-slate-500 dark:text-slate-400 mb-2 line-clamp-1">${song.artist}</p>
+                    <!-- 🚀 方案一：次數小標籤 (大圖/展開模式) -->
+                    <div class="flex items-center justify-between text-sm text-slate-500 dark:text-slate-400 mb-2 gap-2">
+                        <p class="truncate min-w-0" title="${song.artist}">${song.artist}</p>
+                        <span class="shrink-0 text-xs text-slate-400 dark:text-slate-500 font-normal whitespace-nowrap">🎤 唱過 ${playCount} 次</span>
+                    </div>
                     ${noteHtml}
                     <div class="mt-auto pt-5 flex gap-2">
                         <button onclick="event.stopPropagation(); unplaySong('${song.id}')" class="${undoBtnClass}" title="取消紀錄">${undoSvg}</button>
                         <button onclick="event.stopPropagation(); handlePlay('${song.id}', '${titleEsc}', '${artistEsc}')" class="${btnClass}">${btnText}</button>
-                        ${song.youtube_url ? `<a href="${song.youtube_url}" target="_blank" onclick="event.stopPropagation()" class="px-4 py-2 bg-white dark:bg-slate-700 hover:bg-red-500 dark:hover:bg-red-500 hover:text-white dark:hover:text-white text-slate-600 dark:text-slate-300 font-medium rounded-xl border border-sky-200 dark:border-slate-600 hover:border-red-500 dark:hover:border-red-500 transition-colors flex justify-center items-center" title="YouTube 試聽"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg></a>` : ''}
+                        ${song.youtube_url ? `<a href="${song.youtube_url}" target="_blank" onclick="event.stopPropagation()" class="px-4 py-2 bg-white dark:bg-slate-700 hover:bg-red-500 dark:hover:bg-red-500 hover:text-white dark:hover:text-white text-slate-600 dark:text-slate-300 font-medium rounded-xl border border-sky-200 dark:border-slate-600 hover:border-red-500 dark:hover:border-red-500 transition-colors flex justify-center items-center" title="YouTube 試聽"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg></a>` : ''}
                     </div>
                 </div>
             </div>`;
