@@ -132,6 +132,26 @@ function generateSongHtml(song) {
                 </div>
             </div>`;
     } else {
+        // ==========================================================
+        // 🔬 【推論驗證 LOG】(鐵律第 6 條：驗證 badgeGrid 未宣告問題)
+        // ==========================================================
+        if (!window.__badgeGrid_inference_logged) {
+            window.__badgeGrid_inference_logged = true;
+            console.log("============================================================");
+            console.log("🔬 【推論驗證 LOG】(鐵律第 6 條)");
+            console.log("   目前處於大圖/展開模式 (useNormalMode = true)");
+            console.log("   螢幕寬度:", window.innerWidth);
+            console.log("   isCompactMode 狀態:", isCompactMode);
+            console.log("   badgeGrid 宣告狀態 (typeof):", typeof badgeGrid);
+            try {
+                let testAccess = badgeGrid;
+            } catch (err) {
+                console.log("   直接存取 badgeGrid 捕獲異常:", err.name + " - " + err.message);
+            }
+            console.log("============================================================");
+        }
+        // ==========================================================
+
         const btnClass = isPlayed 
             ? `flex-1 py-2.5 bg-emerald-500 hover:bg-emerald-600 text-white font-medium rounded-xl shadow-md transition-all active:scale-95 flex justify-center items-center` 
             : `flex-1 py-2.5 bg-sky-500 hover:bg-sky-600 text-white font-medium rounded-xl shadow-md shadow-sky-200 dark:shadow-sky-900/50 transition-all active:scale-95 flex justify-center items-center`;
