@@ -72,8 +72,14 @@ function generateSongHtml(song) {
     const newCardBorder = isNew ? "ring-2 ring-sky-400/60 dark:ring-sky-500/60 shadow-md shadow-sky-500/10 dark:shadow-sky-900/40" : "";
     const badgeGrid = isNew ? `<div class="absolute top-0 left-0 bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-xs font-bold px-3.5 py-1.5 rounded-br-2xl rounded-tl-3xl z-20 shadow-md shadow-sky-500/30 flex items-center gap-1 border-b border-r border-sky-300/50 dark:border-sky-500/50 tracking-wider"><svg class="w-3.5 h-3.5 text-sky-200" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</div>` : '';
     
-    // 🚀 演唱次數讀取 (預設 0)
+    // 🚀 演唱次數讀取 (次數大於 0 才顯示，0 次則不顯示)
     const playCount = (song.play_count !== undefined && song.play_count !== null) ? song.play_count : 0;
+    const playCountCompact = playCount > 0 
+        ? `<span class="shrink-0 text-xs text-slate-400 dark:text-slate-500 font-normal whitespace-nowrap">• 🎤 <span class="hidden md:inline">唱過 </span>${playCount} 次</span>` 
+        : '';
+    const playCountGrid = playCount > 0 
+        ? `<span class="shrink-0 text-xs text-slate-400 dark:text-slate-500 font-normal whitespace-nowrap">🎤 唱過 ${playCount} 次</span>` 
+        : '';
 
     const undoSvg = `<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>`;
     const favSvgSolid = `<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>`;
@@ -110,7 +116,7 @@ function generateSongHtml(song) {
             : (isNew ? "border-sky-500 dark:border-sky-400" : "border-sky-400 dark:border-sky-500");
 
         const badgeMobile = isNew ? `<div class="md:hidden absolute -top-2.5 left-4 bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-[10px] font-bold px-2.5 py-0.5 rounded-full shadow-sm shadow-sky-500/30 flex items-center gap-1 border border-sky-200 dark:border-sky-500 tracking-wider z-10"><svg class="w-3 h-3 text-sky-100" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</div>` : '';
-        const badgePC = isNew ? `<span class="hidden md:flex bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-[10px] font-bold px-2 py-0.5 rounded-full shadow-sm shadow-sky-500/30 shrink-0 items-center gap-1 border border-sky-300 dark:border-sky-500 tracking-wider"><svg class="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</span>` : '';
+        const badgePC = isNew ? `<span class="hidden md:flex bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-[10px] font-bold px-2 py-0.5 rounded-full shadow-sm shadow-sky-500/30 shrink-0 items-center gap-1 border border-sky-300 dark:border-sky-500 tracking-wider"><svg class="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</div>` : '';
 
         return `
             <div id="song-card-${song.id}" onclick="toggleExpand('${song.id}')" class="${cardBgClass} ${newCardBorder} rounded-2xl p-3 transition-colors flex items-center justify-between border shadow-sm group relative cursor-pointer backdrop-blur-sm" title="點擊展開詳細資訊">
@@ -122,7 +128,7 @@ function generateSongHtml(song) {
                     </div>
                     <div class="flex items-center gap-1.5 min-w-0">
                         <p class="text-sm text-slate-500 dark:text-slate-400 truncate">${song.artist}</p>
-                        <span class="shrink-0 text-xs text-slate-400 dark:text-slate-500 font-normal whitespace-nowrap">• 🎤 <span class="hidden md:inline">唱過 </span>${playCount} 次</span>
+                        ${playCountCompact}
                     </div>
                 </div>
                 <div class="flex items-center gap-2 shrink-0 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity">
@@ -166,7 +172,7 @@ function generateSongHtml(song) {
                     </div>
                     <div class="flex items-center justify-between text-sm text-slate-500 dark:text-slate-400 mb-2 gap-2">
                         <p class="truncate min-w-0" title="${song.artist}">${song.artist}</p>
-                        <span class="shrink-0 text-xs text-slate-400 dark:text-slate-500 font-normal whitespace-nowrap">🎤 唱過 ${playCount} 次</span>
+                        ${playCountGrid}
                     </div>
                     ${noteHtml}
                     <div class="mt-auto pt-5 flex gap-2">
@@ -354,7 +360,7 @@ function renderFilters() {
                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"></path></svg>
                 進階分類標籤 <span class="bg-sky-200 dark:bg-slate-600 text-sky-800 dark:text-sky-200 py-0.5 px-2 rounded-full text-xs ml-1">${sortedSubTags.length}</span>
             </span>
-            <svg class="w-5 h-5 transform transition-transform ${isSubTagsExpanded ? 'rotate-180' : ''}" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path></svg>
+            <svg class="w-5 h-5 transform transition-transform ${isSubTagsExpanded ? 'rotate-180' : ''}" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
         `;
         toggleBtn.onclick = () => {
             isSubTagsExpanded = !isSubTagsExpanded;
