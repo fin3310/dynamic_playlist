@@ -70,6 +70,7 @@ function generateSongHtml(song) {
 
     const isNew = isNewSong(song.added_date);
     const newCardBorder = isNew ? "ring-2 ring-sky-400/60 dark:ring-sky-500/60 shadow-md shadow-sky-500/10 dark:shadow-sky-900/40" : "";
+    const badgeGrid = isNew ? `<div class="absolute top-0 left-0 bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-xs font-bold px-3.5 py-1.5 rounded-br-2xl rounded-tl-3xl z-20 shadow-md shadow-sky-500/30 flex items-center gap-1 border-b border-r border-sky-300/50 dark:border-sky-500/50 tracking-wider"><svg class="w-3.5 h-3.5 text-sky-200" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</div>` : '';
     
     // 🚀 演唱次數讀取 (預設 0)
     const playCount = (song.play_count !== undefined && song.play_count !== null) ? song.play_count : 0;
@@ -109,7 +110,7 @@ function generateSongHtml(song) {
             : (isNew ? "border-sky-500 dark:border-sky-400" : "border-sky-400 dark:border-sky-500");
 
         const badgeMobile = isNew ? `<div class="md:hidden absolute -top-2.5 left-4 bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-[10px] font-bold px-2.5 py-0.5 rounded-full shadow-sm shadow-sky-500/30 flex items-center gap-1 border border-sky-200 dark:border-sky-500 tracking-wider z-10"><svg class="w-3 h-3 text-sky-100" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</div>` : '';
-        const badgePC = isNew ? `<span class="hidden md:flex bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-[10px] font-bold px-2 py-0.5 rounded-full shadow-sm shadow-sky-500/30 shrink-0 items-center gap-1 border border-sky-300 dark:border-sky-500 tracking-wider"><svg class="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</div>` : '';
+        const badgePC = isNew ? `<span class="hidden md:flex bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-[10px] font-bold px-2 py-0.5 rounded-full shadow-sm shadow-sky-500/30 shrink-0 items-center gap-1 border border-sky-300 dark:border-sky-500 tracking-wider"><svg class="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</span>` : '';
 
         return `
             <div id="song-card-${song.id}" onclick="toggleExpand('${song.id}')" class="${cardBgClass} ${newCardBorder} rounded-2xl p-3 transition-colors flex items-center justify-between border shadow-sm group relative cursor-pointer backdrop-blur-sm" title="點擊展開詳細資訊">
@@ -132,26 +133,6 @@ function generateSongHtml(song) {
                 </div>
             </div>`;
     } else {
-        // ==========================================================
-        // 🔬 【推論驗證 LOG】(鐵律第 6 條：驗證 badgeGrid 未宣告問題)
-        // ==========================================================
-        if (!window.__badgeGrid_inference_logged) {
-            window.__badgeGrid_inference_logged = true;
-            console.log("============================================================");
-            console.log("🔬 【推論驗證 LOG】(鐵律第 6 條)");
-            console.log("   目前處於大圖/展開模式 (useNormalMode = true)");
-            console.log("   螢幕寬度:", window.innerWidth);
-            console.log("   isCompactMode 狀態:", isCompactMode);
-            console.log("   badgeGrid 宣告狀態 (typeof):", typeof badgeGrid);
-            try {
-                let testAccess = badgeGrid;
-            } catch (err) {
-                console.log("   直接存取 badgeGrid 捕獲異常:", err.name + " - " + err.message);
-            }
-            console.log("============================================================");
-        }
-        // ==========================================================
-
         const btnClass = isPlayed 
             ? `flex-1 py-2.5 bg-emerald-500 hover:bg-emerald-600 text-white font-medium rounded-xl shadow-md transition-all active:scale-95 flex justify-center items-center` 
             : `flex-1 py-2.5 bg-sky-500 hover:bg-sky-600 text-white font-medium rounded-xl shadow-md shadow-sky-200 dark:shadow-sky-900/50 transition-all active:scale-95 flex justify-center items-center`;
