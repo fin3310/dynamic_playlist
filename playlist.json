@@ -4211,22 +4211,21 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "112b7464",
-    "title": "指向你的線索",
+    "id": "2a9bfef3",
+    "title": "指向你的線索(伴奏還沒做好",
     "artist": "Vast &Hazy",
     "language": "中文",
     "tags": [
-      "中文",
-      "另類音樂"
+      "中文"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fb/7a/92/fb7a92d9-14b2-3362-8842-83deaa24cb9c/4713108188858.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=RUOYaJgwzL8",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/ef/bb/aaefbb14-2f15-e0ec-0b0f-b35fa2815455/674361385252.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=VcJa7beYEyo",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
-    "added_date": "2026-09-09"
+    "added_date": "2026-10-08"
   },
   {
     "id": "8df33a1e",
@@ -4244,6 +4243,23 @@
     "is_practicing": false,
     "play_count": 3,
     "added_date": "2026-09-09"
+  },
+  {
+    "id": "4d2ba044",
+    "title": "無差別傷害",
+    "artist": "Vast &Hazy",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e2/ec/7f/e2ec7f70-945d-8dbd-a63e-455f1e3864a4/4710255654571.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=sAhXkIqo82A",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 0,
+    "added_date": "2026-10-08"
   },
   {
     "id": "08a3793d",
