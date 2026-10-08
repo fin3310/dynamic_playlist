@@ -841,6 +841,24 @@
     "added_date": "2026-09-05"
   },
   {
+    "id": "45527a37",
+    "title": "カブトムシ",
+    "artist": "aiko",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bb/b1/26/bbb12681-ba77-f107-2a16-c684f685b464/dj.jqehhfti.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=wp2U40KI63A",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 0,
+    "added_date": "2026-10-08"
+  },
+  {
     "id": "224feb55",
     "title": "Kill kiss",
     "artist": "AVE MUJICA",
@@ -1518,9 +1536,9 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "97c48894",
+    "id": "f726543e",
     "title": "ゾクゾク",
-    "artist": "Phamtom Sita",
+    "artist": "Phamtom Sita 怪忌蝶",
     "language": "日文",
     "tags": [
       "日文",
@@ -2056,9 +2074,9 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "78046320",
+    "id": "95cf177f",
     "title": "ダーリンダンス",
-    "artist": "かいりきベア",
+    "artist": "かいりきベア feat.初音ミク",
     "language": "日文",
     "tags": [
       "日文",
