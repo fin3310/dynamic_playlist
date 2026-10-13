@@ -72,13 +72,42 @@ function generateSongHtml(song) {
     const newCardBorder = isNew ? "ring-2 ring-sky-400/60 dark:ring-sky-500/60 shadow-md shadow-sky-500/10 dark:shadow-sky-900/40" : "";
     const badgeGrid = isNew ? `<div class="absolute top-0 left-0 bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-xs font-bold px-3.5 py-1.5 rounded-br-2xl rounded-tl-3xl z-20 shadow-md shadow-sky-500/30 flex items-center gap-1 border-b border-r border-sky-300/50 dark:border-sky-500/50 tracking-wider"><svg class="w-3.5 h-3.5 text-sky-200" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</div>` : '';
     
-    // 🚀 演唱次數讀取 (次數大於 0 才顯示，0 次則不顯示)
+    // 🚀 演唱次數與【歷史紀錄懸浮氣泡 Tooltip】渲染邏輯
     const playCount = (song.play_count !== undefined && song.play_count !== null) ? song.play_count : 0;
+    
+    let historyTooltipHtml = '';
+    if (song.play_history && song.play_history.length > 0) {
+        historyTooltipHtml = `
+            <div class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max max-w-[220px] z-50 invisible opacity-0 group-hover/count:visible group-hover/count:opacity-100 transition-all duration-200 pointer-events-none">
+                <div class="bg-slate-800 dark:bg-slate-900 border border-slate-700 shadow-xl shadow-slate-900/20 rounded-xl p-2 text-xs flex flex-col gap-1.5 relative pointer-events-auto max-h-48 overflow-y-auto custom-scrollbar">
+                    <div class="absolute -bottom-1.5 left-1/2 transform -translate-x-1/2 w-3 h-3 bg-slate-800 dark:bg-slate-900 border-b border-r border-slate-700 rotate-45 pointer-events-none"></div>
+                    ${song.play_history.map(h => {
+                        const dateHtml = `<span class="text-slate-200 font-medium tracking-wide">📅 ${h.date}</span>`;
+                        if (h.url) {
+                            return `<a href="${h.url}" target="_blank" onclick="event.stopPropagation()" class="flex items-center justify-between gap-3 hover:text-sky-400 transition-colors bg-slate-700/40 hover:bg-slate-700/80 rounded-lg px-2.5 py-1.5 border border-transparent hover:border-sky-500/30 group/link">
+                                        ${dateHtml}
+                                        <svg class="w-3.5 h-3.5 text-rose-500 group-hover/link:text-sky-400 transition-colors shrink-0" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg>
+                                    </a>`;
+                        }
+                        return `<div class="flex items-center gap-1.5 bg-slate-700/30 rounded-lg px-2.5 py-1.5 text-slate-400">${dateHtml}</div>`;
+                    }).join('')}
+                </div>
+            </div>`;
+    }
+
+    // 將 count 標籤外層包上 group/count，以觸發專屬懸浮氣泡
     const playCountCompact = playCount > 0 
-        ? `<span class="shrink-0 text-xs text-slate-400 dark:text-slate-500 font-normal whitespace-nowrap">• 🎤 <span class="hidden md:inline">唱過 </span>${playCount} 次</span>` 
+        ? `<div class="relative group/count shrink-0 flex items-center">
+               <span class="text-xs text-slate-400 dark:text-slate-500 font-medium whitespace-nowrap cursor-help py-1 px-1.5 -mx-1.5 hover:text-sky-500 dark:hover:text-sky-400 transition-colors">• 🎤 <span class="hidden md:inline">唱過 </span>${playCount} 次</span>
+               ${historyTooltipHtml}
+           </div>` 
         : '';
+        
     const playCountGrid = playCount > 0 
-        ? `<span class="shrink-0 text-xs text-slate-400 dark:text-slate-500 font-normal whitespace-nowrap">🎤 唱過 ${playCount} 次</span>` 
+        ? `<div class="relative group/count shrink-0 flex items-center">
+               <span class="text-xs text-slate-400 dark:text-slate-500 font-medium whitespace-nowrap cursor-help py-1 px-1.5 -mx-1.5 hover:text-sky-500 dark:hover:text-sky-400 transition-colors">🎤 唱過 ${playCount} 次</span>
+               ${historyTooltipHtml}
+           </div>` 
         : '';
 
     const undoSvg = `<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>`;
@@ -116,8 +145,6 @@ function generateSongHtml(song) {
             : (isNew ? "border-sky-500 dark:border-sky-400" : "border-sky-400 dark:border-sky-500");
 
         const badgeMobile = isNew ? `<div class="md:hidden absolute -top-2.5 left-4 bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-[10px] font-bold px-2.5 py-0.5 rounded-full shadow-sm shadow-sky-500/30 flex items-center gap-1 border border-sky-200 dark:border-sky-500 tracking-wider z-10"><svg class="w-3 h-3 text-sky-100" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</div>` : '';
-        
-        // 🚀 這裡的 </div> 被修正回 </span> 了！
         const badgePC = isNew ? `<span class="hidden md:flex bg-gradient-to-r from-sky-500 to-blue-600 dark:from-sky-600 dark:to-blue-700 text-white text-[10px] font-bold px-2 py-0.5 rounded-full shadow-sm shadow-sky-500/30 shrink-0 items-center gap-1 border border-sky-300 dark:border-sky-500 tracking-wider"><svg class="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>NEW</span>` : '';
 
         return `
