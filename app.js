@@ -97,15 +97,15 @@ function generateSongHtml(song) {
 
     // 將 count 標籤外層包上 group/count，以觸發專屬懸浮氣泡
     const playCountCompact = playCount > 0 
-        ? `<div class="relative group/count shrink-0 flex items-center">
-               <span class="text-xs text-slate-400 dark:text-slate-500 font-medium whitespace-nowrap cursor-help py-1 px-1.5 -mx-1.5 hover:text-sky-500 dark:hover:text-sky-400 transition-colors">• 🎤 <span class="hidden md:inline">唱過 </span>${playCount} 次</span>
+        ? `<div class="relative group/count shrink-0 flex items-center" onclick="event.stopPropagation()">
+               <span tabindex="0" class="text-xs text-slate-400 dark:text-slate-500 font-medium whitespace-nowrap cursor-pointer py-1 px-1.5 -mx-1.5 hover:text-sky-500 dark:hover:text-sky-400 transition-colors outline-none">• 🎤 <span class="hidden md:inline">唱過 </span>${playCount} 次</span>
                ${historyTooltipHtml}
            </div>` 
         : '';
         
     const playCountGrid = playCount > 0 
-        ? `<div class="relative group/count shrink-0 flex items-center">
-               <span class="text-xs text-slate-400 dark:text-slate-500 font-medium whitespace-nowrap cursor-help py-1 px-1.5 -mx-1.5 hover:text-sky-500 dark:hover:text-sky-400 transition-colors">🎤 唱過 ${playCount} 次</span>
+        ? `<div class="relative group/count shrink-0 flex items-center" onclick="event.stopPropagation()">
+               <span tabindex="0" class="text-xs text-slate-400 dark:text-slate-500 font-medium whitespace-nowrap cursor-pointer py-1 px-1.5 -mx-1.5 hover:text-sky-500 dark:hover:text-sky-400 transition-colors outline-none">🎤 唱過 ${playCount} 次</span>
                ${historyTooltipHtml}
            </div>` 
         : '';
