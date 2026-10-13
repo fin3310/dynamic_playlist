@@ -80,22 +80,22 @@ function generateSongHtml(song) {
         historyTooltipHtml = `
             <div class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max max-w-[220px] z-50 invisible opacity-0 group-hover/count:visible group-hover/count:opacity-100 transition-all duration-200 pointer-events-none">
                 
-                <!-- 內容捲動區塊 (加上 relative z-10 蓋住箭頭上半部) -->
-                <div class="bg-slate-800 dark:bg-slate-900 border border-slate-700 shadow-xl shadow-slate-900/20 rounded-xl p-2 text-xs flex flex-col gap-1.5 relative z-10 pointer-events-auto max-h-48 overflow-y-auto custom-scrollbar">
+                <!-- 內容捲動區塊 (亮/暗色主題適應) -->
+                <div class="bg-white dark:bg-slate-800 border border-sky-200 dark:border-slate-700 shadow-xl shadow-sky-900/10 dark:shadow-slate-900/40 rounded-xl p-2 text-xs flex flex-col gap-1.5 relative z-10 pointer-events-auto max-h-48 overflow-y-auto custom-scrollbar">
                     ${song.play_history.map(h => {
-                        const dateHtml = `<span class="text-slate-200 font-medium tracking-wide">📅 ${h.date}</span>`;
+                        const dateHtml = `<span class="text-slate-700 dark:text-slate-200 font-medium tracking-wide">📅 ${h.date}</span>`;
                         if (h.url) {
-                            return `<a href="${h.url}" target="_blank" onclick="event.stopPropagation()" class="flex items-center justify-between gap-3 hover:text-sky-400 transition-colors bg-slate-700/40 hover:bg-slate-700/80 rounded-lg px-2.5 py-1.5 border border-transparent hover:border-sky-500/30 group/link">
+                            return `<a href="${h.url}" target="_blank" onclick="event.stopPropagation()" class="flex items-center justify-between gap-3 transition-colors bg-sky-50 dark:bg-slate-700/40 hover:bg-sky-100 dark:hover:bg-slate-700/80 rounded-lg px-2.5 py-1.5 border border-transparent hover:border-sky-300 dark:hover:border-sky-500/30 group/link">
                                         ${dateHtml}
-                                        <svg class="w-3.5 h-3.5 text-rose-500 group-hover/link:text-sky-400 transition-colors shrink-0" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg>
+                                        <svg class="w-3.5 h-3.5 text-rose-500 group-hover/link:text-sky-600 dark:group-hover/link:text-sky-400 transition-colors shrink-0" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg>
                                     </a>`;
                         }
-                        return `<div class="flex items-center gap-1.5 bg-slate-700/30 rounded-lg px-2.5 py-1.5 text-slate-400">${dateHtml}</div>`;
+                        return `<div class="flex items-center gap-1.5 bg-slate-50 dark:bg-slate-700/30 rounded-lg px-2.5 py-1.5">${dateHtml}</div>`;
                     }).join('')}
                 </div>
                 
-                <!-- 獨立的箭頭裝飾 (移出捲動區塊，並設定 z-0 墊在底部) -->
-                <div class="absolute -bottom-1.5 left-1/2 transform -translate-x-1/2 w-3 h-3 bg-slate-800 dark:bg-slate-900 border-b border-r border-slate-700 rotate-45 pointer-events-none z-0"></div>
+                <!-- 獨立的箭頭裝飾 (亮/暗色主題適應) -->
+                <div class="absolute -bottom-1.5 left-1/2 transform -translate-x-1/2 w-3 h-3 bg-white dark:bg-slate-800 border-b border-r border-sky-200 dark:border-slate-700 rotate-45 pointer-events-none z-0"></div>
                 
             </div>`;
     }
