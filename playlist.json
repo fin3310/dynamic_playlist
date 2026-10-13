@@ -16,6 +16,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=EgfBJZbrDNc&t=4467s"
+      },
+      {
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=EgfBJZbrDNc&t=5128s"
+      },
+      {
+        "date": "2026-03-05",
+        "url": "https://www.youtube.com/watch?v=RIEKwv25fJ0&t=10001s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -40,6 +54,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -66,6 +81,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=3JYxuT3_Myo&t=7127s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -92,6 +113,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -116,6 +138,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=vjU0I24v-JI&t=4931s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -142,6 +170,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-13",
+        "url": "https://youtu.be/Je2XJD31mUI"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -168,6 +202,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-11",
+        "url": "https://www.youtube.com/watch?v=O1xLcY7wkwU&t=6137s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -194,6 +234,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-01",
+        "url": "https://www.youtube.com/watch?v=vDUEdYN4ucc&t=8841s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -220,6 +266,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=1_qT3hdCtZk&t=1465s"
+      },
+      {
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=3JYxuT3_Myo&t=5645s"
+      },
+      {
+        "date": "2026-03-05",
+        "url": "https://www.youtube.com/watch?v=RIEKwv25fJ0&t=8789s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -246,6 +306,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -274,6 +335,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -298,6 +360,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=ftgoYsoqeGk&t=10885s"
+      },
+      {
+        "date": "2026-03-01",
+        "url": "https://www.youtube.com/watch?v=vDUEdYN4ucc&t=11234s"
+      },
+      {
+        "date": "2026-02-25",
+        "url": "https://www.youtube.com/watch?v=i-tSrvxbZM4&t=3157s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -322,6 +398,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=lo-ZFEi_oQs&t=3703s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -348,6 +430,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -374,6 +457,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=N9_pwviY8wM&t=11054s"
+      }
+    ],
     "added_date": "2026-09-05"
   },
   {
@@ -398,6 +487,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -424,6 +514,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -442,6 +533,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -465,6 +557,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -491,6 +584,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=6818s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-03-03",
+        "url": "https://www.youtube.com/watch?v=w_LT_8mrU9Y&t=4335s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -515,6 +618,20 @@
     ],
     "is_practicing": false,
     "play_count": 4,
+    "play_history": [
+      {
+        "date": "2026-05-28",
+        "url": ""
+      },
+      {
+        "date": "2026-03-05",
+        "url": "https://www.youtube.com/watch?v=RIEKwv25fJ0&t=11583s"
+      },
+      {
+        "date": "2026-02-25",
+        "url": "https://www.youtube.com/watch?v=i-tSrvxbZM4&t=7401s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -541,6 +658,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -566,6 +684,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-11",
+        "url": "https://www.youtube.com/watch?v=O1xLcY7wkwU&t=5166s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -592,6 +716,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -618,6 +743,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -636,6 +762,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -658,6 +785,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=4393s"
+      },
+      {
+        "date": "2026-05-14",
+        "url": ""
+      },
+      {
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=spXrRh_IRn0&t=3045s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -683,6 +824,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=vjU0I24v-JI&t=2066s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -706,6 +853,32 @@
     ],
     "is_practicing": false,
     "play_count": 6,
+    "play_history": [
+      {
+        "date": "2026-09-03",
+        "url": "https://www.youtube.com/watch?v=0GqZr2iPkYc&t=6345s"
+      },
+      {
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=S_aKRs68_LY&t=2734s"
+      },
+      {
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=qU0oZnn4dYY&t=5198s"
+      },
+      {
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=vjU0I24v-JI&t=672s"
+      },
+      {
+        "date": "2026-06-11",
+        "url": ""
+      },
+      {
+        "date": "2026-02-25",
+        "url": "https://www.youtube.com/watch?v=i-tSrvxbZM4&t=2418s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -723,6 +896,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-10-08"
   },
   {
@@ -749,6 +923,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=FjaI4TYJkYE&t=7587s"
+      },
+      {
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=PlfNa0qAXt0&t=7657s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -773,6 +957,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -791,6 +976,20 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=1_qT3hdCtZk&t=6189s"
+      },
+      {
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=zgjjHqReTT0&t=9925s"
+      },
+      {
+        "date": "2026-03-11",
+        "url": "https://www.youtube.com/watch?v=O1xLcY7wkwU&t=2941s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -809,6 +1008,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -838,6 +1038,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=cqlGDZGR2Ck&t=1477s"
+      }
+    ],
     "added_date": "2026-09-05"
   },
   {
@@ -856,6 +1062,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-10-08"
   },
   {
@@ -873,6 +1080,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -900,6 +1108,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -925,6 +1134,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-09-05"
   },
   {
@@ -952,6 +1162,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -977,6 +1188,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -994,6 +1206,16 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=P96POtTzEw0&t=5536s"
+      },
+      {
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=d7slJLI7rBw&t=2164s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1019,6 +1241,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=MGlj5rowpqM&t=3910s"
+      },
+      {
+        "date": "2026-08-27",
+        "url": "https://www.youtube.com/watch?v=FUhBtxwoUeQ&t=4170s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1043,6 +1275,12 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [
+      {
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=6MFm4kB2iDk&t=2947s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1068,6 +1306,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=d7slJLI7rBw&t=2626s"
+      },
+      {
+        "date": "2026-05-28",
+        "url": ""
+      },
+      {
+        "date": "2026-02-25",
+        "url": "https://www.youtube.com/watch?v=i-tSrvxbZM4&t=4055s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1093,6 +1345,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -1118,6 +1371,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -1145,6 +1399,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-12",
+        "url": "https://www.youtube.com/watch?v=_M7thfCrjLk&t=6771s"
+      },
+      {
+        "date": "2026-03-05",
+        "url": "https://www.youtube.com/watch?v=RIEKwv25fJ0&t=1723s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1170,6 +1434,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-02-25",
+        "url": "https://www.youtube.com/watch?v=i-tSrvxbZM4&t=4913s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1195,6 +1465,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=spXrRh_IRn0&t=2495s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1219,6 +1495,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=N9_pwviY8wM&t=12831s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1249,6 +1531,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=3JYxuT3_Myo&t=2346s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1275,6 +1563,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=lo-ZFEi_oQs&t=7161s"
+      },
+      {
+        "date": "2026-02-25",
+        "url": "https://www.youtube.com/watch?v=i-tSrvxbZM4&t=6983s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1303,6 +1601,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -1330,6 +1629,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -1357,6 +1657,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -1385,6 +1686,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=d7slJLI7rBw&t=6069s"
+      },
+      {
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=vjU0I24v-JI&t=1330s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1408,6 +1719,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=3JYxuT3_Myo&t=4145s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1425,6 +1742,16 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=MGlj5rowpqM&t=5368s"
+      },
+      {
+        "date": "2026-05-14",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1442,6 +1769,24 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 4,
+    "play_history": [
+      {
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=MGlj5rowpqM&t=4884s"
+      },
+      {
+        "date": "2026-08-20",
+        "url": "https://www.youtube.com/watch?v=XsSUDGgu8Rw&t=5003s"
+      },
+      {
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=3942s"
+      },
+      {
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=spXrRh_IRn0&t=5594s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1459,6 +1804,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -1484,6 +1830,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -1509,6 +1856,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=MGlj5rowpqM&t=4458s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1533,6 +1886,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -1551,6 +1905,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -1575,6 +1930,24 @@
     ],
     "is_practicing": false,
     "play_count": 4,
+    "play_history": [
+      {
+        "date": "2026-10-13",
+        "url": ""
+      },
+      {
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=S_aKRs68_LY&t=1626s"
+      },
+      {
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=vjU0I24v-JI&t=3489s"
+      },
+      {
+        "date": "2026-02-25",
+        "url": "https://www.youtube.com/watch?v=i-tSrvxbZM4&t=8472s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-09-05"
   },
   {
@@ -1593,6 +1966,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -1622,6 +1996,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-09-05"
   },
   {
@@ -1652,6 +2027,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-08-31",
+        "url": "https://www.youtube.com/watch?v=XcTb_p68MtY&t=7643s"
+      },
+      {
+        "date": "2026-05-28",
+        "url": ""
+      },
+      {
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=N9_pwviY8wM&t=13201s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1675,6 +2064,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-08-27",
+        "url": "https://www.youtube.com/watch?v=FUhBtxwoUeQ&t=1262s"
+      },
+      {
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=OP2ZoV1Poe8&t=8156s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1701,6 +2100,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=P96POtTzEw0&t=4989s"
+      },
+      {
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=EgfBJZbrDNc&t=2858s"
+      },
+      {
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=cqlGDZGR2Ck&t=9238s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1724,6 +2137,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -1747,6 +2161,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -1769,6 +2184,28 @@
     ],
     "is_practicing": false,
     "play_count": 5,
+    "play_history": [
+      {
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=97d0FBk7k9I&t=1930s"
+      },
+      {
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=vjU0I24v-JI&t=4088s"
+      },
+      {
+        "date": "2026-06-04",
+        "url": ""
+      },
+      {
+        "date": "2026-05-03",
+        "url": "https://www.youtube.com/watch?v=Rp3mDIGX8X8&t=144s"
+      },
+      {
+        "date": "2026-02-23",
+        "url": "https://www.youtube.com/watch?v=8epxd9ny9nI&t=866s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1791,6 +2228,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=1_qT3hdCtZk&t=2650s"
+      },
+      {
+        "date": "2026-06-04",
+        "url": ""
+      },
+      {
+        "date": "2026-03-05",
+        "url": "https://www.youtube.com/watch?v=RIEKwv25fJ0&t=10703s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1813,6 +2264,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-08-16",
+        "url": "https://www.youtube.com/watch?v=3KQnbfTOOy4&t=4956s"
+      },
+      {
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=spXrRh_IRn0&t=4637s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1831,6 +2292,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=MGlj5rowpqM&t=1805s"
+      }
+    ],
     "added_date": "2026-09-18"
   },
   {
@@ -1856,6 +2323,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=MGlj5rowpqM&t=2075s"
+      },
+      {
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=3JYxuT3_Myo&t=798s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1882,6 +2359,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -1907,6 +2385,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=zgjjHqReTT0&t=1635s"
+      }
+    ],
     "added_date": "2026-09-05"
   },
   {
@@ -1936,6 +2420,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -1960,6 +2445,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=qU0oZnn4dYY&t=3930s"
+      },
+      {
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=spXrRh_IRn0&t=1629s"
+      },
+      {
+        "date": "2026-02-25",
+        "url": "https://www.youtube.com/watch?v=i-tSrvxbZM4&t=6324s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1978,6 +2477,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-05-28",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -1996,6 +2501,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=MGlj5rowpqM&t=5852s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2018,6 +2529,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-09-05"
   },
   {
@@ -2036,6 +2548,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=w4FpLdsHcZ8&t=7833s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2054,6 +2572,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -2071,6 +2590,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=w4FpLdsHcZ8&t=8164s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2095,6 +2620,12 @@
     ],
     "is_practicing": true,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-01",
+        "url": "https://www.youtube.com/watch?v=vDUEdYN4ucc&t=8248s"
+      }
+    ],
     "added_date": "2026-09-05"
   },
   {
@@ -2112,6 +2643,28 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 5,
+    "play_history": [
+      {
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=10210s"
+      },
+      {
+        "date": "2026-06-04",
+        "url": ""
+      },
+      {
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=N9_pwviY8wM&t=7820s"
+      },
+      {
+        "date": "2026-03-05",
+        "url": "https://www.youtube.com/watch?v=RIEKwv25fJ0&t=9260s"
+      },
+      {
+        "date": "2026-03-01",
+        "url": "https://www.youtube.com/watch?v=vDUEdYN4ucc&t=4729s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2138,6 +2691,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=zgjjHqReTT0&t=9229s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2166,6 +2725,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-05-14",
+        "url": ""
+      },
+      {
+        "date": "2026-03-03",
+        "url": "https://www.youtube.com/watch?v=w_LT_8mrU9Y&t=2798s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2190,6 +2759,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -2220,6 +2790,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -2246,6 +2817,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=5137s"
+      },
+      {
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=zgjjHqReTT0&t=1848s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2272,6 +2853,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-08",
+        "url": "https://www.youtube.com/watch?v=bjjWERIvnJM&t=6061s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2290,6 +2877,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=d7slJLI7rBw&t=1687s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2314,6 +2907,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=d7slJLI7rBw&t=1914s"
+      },
+      {
+        "date": "2026-06-04",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2340,6 +2943,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=w4FpLdsHcZ8&t=9331s"
+      },
+      {
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=715s"
+      },
+      {
+        "date": "2026-03-05",
+        "url": "https://www.youtube.com/watch?v=RIEKwv25fJ0&t=5430s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2358,6 +2975,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -2382,6 +3000,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -2407,6 +3026,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-05-14",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2434,6 +3059,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-07-23",
+        "url": "https://www.youtube.com/watch?v=HbUJONObXzA&t=1290s"
+      },
+      {
+        "date": "2026-07-23",
+        "url": "https://www.youtube.com/watch?v=HbUJONObXzA&t=1582s"
+      },
+      {
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=spXrRh_IRn0&t=1166s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2462,6 +3101,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -2480,6 +3120,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -2505,6 +3146,36 @@
     ],
     "is_practicing": false,
     "play_count": 7,
+    "play_history": [
+      {
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=w4FpLdsHcZ8&t=3307s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-07-19",
+        "url": "https://www.youtube.com/watch?v=Bsx2uv69OcQ&t=2558s"
+      },
+      {
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=PlfNa0qAXt0&t=2384s"
+      },
+      {
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=zgjjHqReTT0&t=2679s"
+      },
+      {
+        "date": "2026-03-06",
+        "url": "https://www.youtube.com/watch?v=3ms2ziqSaME&t=5239s"
+      },
+      {
+        "date": "2026-03-01",
+        "url": "https://www.youtube.com/watch?v=vDUEdYN4ucc&t=2972s"
+      },
+      {
+        "date": "2026-02-23",
+        "url": "https://www.youtube.com/watch?v=8epxd9ny9nI&t=473s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2529,6 +3200,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-08-27",
+        "url": "https://www.youtube.com/watch?v=FUhBtxwoUeQ&t=2618s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2553,6 +3230,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-08-31",
+        "url": "https://www.youtube.com/watch?v=XcTb_p68MtY&t=8394s"
+      },
+      {
+        "date": "2026-05-28",
+        "url": ""
+      },
+      {
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=OP2ZoV1Poe8&t=2637s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2577,6 +3268,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=97d0FBk7k9I&t=1403s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2601,6 +3298,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=FjaI4TYJkYE&t=1110s"
+      },
+      {
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=cqlGDZGR2Ck&t=2227s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2625,6 +3332,28 @@
     ],
     "is_practicing": false,
     "play_count": 5,
+    "play_history": [
+      {
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=97d0FBk7k9I&t=1607s"
+      },
+      {
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=w4FpLdsHcZ8&t=7326s"
+      },
+      {
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=vjU0I24v-JI&t=6128s"
+      },
+      {
+        "date": "2026-05-03",
+        "url": "https://www.youtube.com/watch?v=Rp3mDIGX8X8&t=1211s"
+      },
+      {
+        "date": "2026-03-01",
+        "url": "https://www.youtube.com/watch?v=vDUEdYN4ucc&t=2664s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2650,6 +3379,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -2674,6 +3404,28 @@
     ],
     "is_practicing": false,
     "play_count": 5,
+    "play_history": [
+      {
+        "date": "2026-07-19",
+        "url": "https://www.youtube.com/watch?v=Bsx2uv69OcQ&t=1981s"
+      },
+      {
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=EgfBJZbrDNc&t=8645s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-05-03",
+        "url": "https://www.youtube.com/watch?v=Rp3mDIGX8X8&t=501s"
+      },
+      {
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=lo-ZFEi_oQs&t=992s"
+      },
+      {
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=OP2ZoV1Poe8&t=2252s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2698,6 +3450,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-08-06",
+        "url": "https://www.youtube.com/watch?v=z8Dg3099o2c&t=1175s"
+      },
+      {
+        "date": "2026-06-11",
+        "url": ""
+      },
+      {
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=lduytAuOoqY&t=5655s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2723,6 +3489,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -2747,6 +3514,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-05-28",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2764,6 +3537,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=e6t3wuAvrWo&t=9973s"
+      }
+    ],
     "added_date": "2026-09-21"
   },
   {
@@ -2786,6 +3565,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-10-13",
+        "url": ""
+      },
+      {
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=3JYxuT3_Myo&t=3272s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2804,6 +3593,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=lduytAuOoqY&t=9868s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2833,6 +3628,12 @@
     ],
     "is_practicing": true,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-12",
+        "url": "https://www.youtube.com/watch?v=_M7thfCrjLk&t=6333s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2851,6 +3652,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -2868,6 +3670,16 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=e6t3wuAvrWo&t=4403s"
+      },
+      {
+        "date": "2026-02-25",
+        "url": "https://www.youtube.com/watch?v=i-tSrvxbZM4&t=1437s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2885,6 +3697,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=PlfNa0qAXt0&t=8465s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2902,6 +3720,16 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=11985s"
+      },
+      {
+        "date": "2026-03-05",
+        "url": "https://www.youtube.com/watch?v=RIEKwv25fJ0&t=6119s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2928,6 +3756,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=1_qT3hdCtZk&t=9144s"
+      },
+      {
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=spXrRh_IRn0&t=7069s"
+      }
+    ],
     "added_date": "2026-09-05"
   },
   {
@@ -2953,6 +3791,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-19",
+        "url": "https://www.youtube.com/watch?v=Bsx2uv69OcQ&t=5219s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=zgjjHqReTT0&t=8303s"
+      }
+    ],
     "added_date": "2026-09-05"
   },
   {
@@ -2971,6 +3819,28 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 5,
+    "play_history": [
+      {
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=10691s"
+      },
+      {
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=EgfBJZbrDNc&t=9150s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=lo-ZFEi_oQs&t=9562s"
+      },
+      {
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=ftgoYsoqeGk&t=2460s"
+      },
+      {
+        "date": "2026-03-05",
+        "url": "https://www.youtube.com/watch?v=RIEKwv25fJ0&t=6553s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -2996,6 +3866,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=d7slJLI7rBw&t=1211s"
+      }
+    ],
     "added_date": "2026-09-05"
   },
   {
@@ -3026,6 +3902,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-09-05"
   },
   {
@@ -3053,6 +3930,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=97d0FBk7k9I&t=3771s"
+      }
+    ],
     "added_date": "2026-09-05"
   },
   {
@@ -3071,6 +3954,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=ftgoYsoqeGk&t=2217s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3089,6 +3978,16 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-10-08",
+        "url": "https://www.youtube.com/watch?v=bjjWERIvnJM&t=2482s"
+      },
+      {
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=lduytAuOoqY&t=6960s"
+      }
+    ],
     "added_date": "2026-09-05"
   },
   {
@@ -3113,6 +4012,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=ftgoYsoqeGk&t=3970s"
+      },
+      {
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=lduytAuOoqY&t=8299s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3138,6 +4047,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=3JYxuT3_Myo&t=6435s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3156,6 +4071,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=zgjjHqReTT0&t=6992s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3185,6 +4106,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=lduytAuOoqY&t=7377s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3209,6 +4136,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=3JYxuT3_Myo&t=1816s"
+      },
+      {
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=lduytAuOoqY&t=7610s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3237,6 +4174,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=lduytAuOoqY&t=7880s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3265,6 +4208,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=e6t3wuAvrWo&t=3906s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3290,6 +4239,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=ftgoYsoqeGk&t=10307s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3308,6 +4263,24 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 4,
+    "play_history": [
+      {
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=MGlj5rowpqM&t=6455s"
+      },
+      {
+        "date": "2026-07-30",
+        "url": "https://www.youtube.com/watch?v=-Cx_2wVwpzM&t=4531s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=Td7QEtpME5A&t=7150s"
+      },
+      {
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=spXrRh_IRn0&t=4233s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3333,6 +4306,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=MGlj5rowpqM&t=6181s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3357,6 +4336,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=e6t3wuAvrWo&t=5870s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3380,6 +4365,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-10-08",
+        "url": "https://www.youtube.com/watch?v=bjjWERIvnJM&t=1575s"
+      },
+      {
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=PlfNa0qAXt0&t=7227s"
+      },
+      {
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=OP2ZoV1Poe8&t=6973s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3397,6 +4396,16 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-03",
+        "url": "https://www.youtube.com/watch?v=0GqZr2iPkYc&t=5749s"
+      },
+      {
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=N9_pwviY8wM&t=6342s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3415,6 +4424,16 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-05-28",
+        "url": ""
+      },
+      {
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=cqlGDZGR2Ck&t=6782s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3433,6 +4452,20 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-07-19",
+        "url": "https://www.youtube.com/watch?v=Bsx2uv69OcQ&t=4648s"
+      },
+      {
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=zgjjHqReTT0&t=5754s"
+      },
+      {
+        "date": "2026-02-23",
+        "url": "https://www.youtube.com/watch?v=8epxd9ny9nI&t=3075s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3451,6 +4484,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -3474,6 +4508,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-08-20",
+        "url": "https://www.youtube.com/watch?v=XsSUDGgu8Rw&t=2297s"
+      },
+      {
+        "date": "2026-03-01",
+        "url": "https://www.youtube.com/watch?v=vDUEdYN4ucc&t=9807s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3498,6 +4542,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=1362s"
+      },
+      {
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=ftgoYsoqeGk&t=3241s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3515,6 +4569,20 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=8322s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=lo-ZFEi_oQs&t=5031s"
+      },
+      {
+        "date": "2026-03-05",
+        "url": "https://www.youtube.com/watch?v=RIEKwv25fJ0&t=3428s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3538,6 +4606,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-05-14",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3563,6 +4637,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-14",
+        "url": "https://www.youtube.com/watch?v=0TNkxIEIctQ&t=3799s"
+      },
+      {
+        "date": "2026-09-14",
+        "url": "https://www.youtube.com/watch?v=0TNkxIEIctQ&t=4063s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3588,6 +4672,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-14",
+        "url": "https://www.youtube.com/watch?v=0TNkxIEIctQ&t=1487s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3606,6 +4696,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-09-05"
   },
   {
@@ -3633,6 +4724,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-09-05"
   },
   {
@@ -3664,6 +4756,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-09-05"
   },
   {
@@ -3688,6 +4781,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=w4FpLdsHcZ8&t=2355s"
+      }
+    ],
     "added_date": "2026-09-05"
   },
   {
@@ -3705,6 +4804,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=e6t3wuAvrWo&t=3457s"
+      }
+    ],
     "added_date": "2026-09-19"
   },
   {
@@ -3723,6 +4828,16 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=MGlj5rowpqM&t=2955s"
+      },
+      {
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=e6t3wuAvrWo&t=7122s"
+      }
+    ],
     "added_date": "2026-09-21"
   },
   {
@@ -3745,6 +4860,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=5848s"
+      },
+      {
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=OP2ZoV1Poe8&t=5965s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3763,6 +4888,16 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-08-27",
+        "url": "https://www.youtube.com/watch?v=FUhBtxwoUeQ&t=5701s"
+      },
+      {
+        "date": "2026-03-05",
+        "url": "https://www.youtube.com/watch?v=RIEKwv25fJ0&t=2612s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3787,6 +4922,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -3811,6 +4947,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-06-11",
+        "url": ""
+      },
+      {
+        "date": "2026-03-06",
+        "url": "https://www.youtube.com/watch?v=3ms2ziqSaME&t=4316s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3835,6 +4981,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-08-26",
+        "url": "https://www.youtube.com/watch?v=v7blCGksANI&t=2749s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3860,6 +5012,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -3885,6 +5038,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=1_qT3hdCtZk&t=7563s"
+      },
+      {
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=Td7QEtpME5A&t=8760s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3910,6 +5073,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=97d0FBk7k9I&t=5719s"
+      },
+      {
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=cqlGDZGR2Ck&t=3848s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3935,6 +5108,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-03-03",
+        "url": "https://www.youtube.com/watch?v=w_LT_8mrU9Y&t=1694s"
+      },
+      {
+        "date": "2026-03-03",
+        "url": "https://www.youtube.com/watch?v=w_LT_8mrU9Y&t=2261s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3960,6 +5143,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-03",
+        "url": "https://www.youtube.com/watch?v=0GqZr2iPkYc&t=3521s"
+      },
+      {
+        "date": "2026-06-04",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -3986,6 +5179,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-30",
+        "url": "https://www.youtube.com/watch?v=-Cx_2wVwpzM&t=5863s"
+      },
+      {
+        "date": "2026-05-28",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4011,6 +5214,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-30",
+        "url": "https://www.youtube.com/watch?v=-Cx_2wVwpzM&t=5354s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4028,6 +5237,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": true,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-03",
+        "url": "https://www.youtube.com/watch?v=0GqZr2iPkYc&t=1463s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4053,6 +5268,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=Td7QEtpME5A&t=12455s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4077,6 +5298,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4101,6 +5323,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-05-14",
+        "url": ""
+      },
+      {
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=OP2ZoV1Poe8&t=4794s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4125,6 +5357,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4150,6 +5383,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4174,6 +5408,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=PlfNa0qAXt0&t=3212s"
+      },
+      {
+        "date": "2026-05-14",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4191,6 +5435,16 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-14",
+        "url": "https://www.youtube.com/watch?v=0TNkxIEIctQ&t=3096s"
+      },
+      {
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=EgfBJZbrDNc&t=3412s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4208,6 +5462,40 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 9,
+    "play_history": [
+      {
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=97d0FBk7k9I&t=6729s"
+      },
+      {
+        "date": "2026-08-28",
+        "url": ""
+      },
+      {
+        "date": "2026-08-26",
+        "url": "https://www.youtube.com/watch?v=v7blCGksANI&t=7606s"
+      },
+      {
+        "date": "2026-08-26",
+        "url": "https://www.youtube.com/watch?v=v7blCGksANI&t=10257s"
+      },
+      {
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=qU0oZnn4dYY&t=8457s"
+      },
+      {
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=vjU0I24v-JI&t=6532s"
+      },
+      {
+        "date": "2026-03-03",
+        "url": "https://www.youtube.com/watch?v=w_LT_8mrU9Y&t=6798s"
+      },
+      {
+        "date": "2026-02-23",
+        "url": "https://www.youtube.com/watch?v=8epxd9ny9nI&t=4011s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4226,6 +5514,24 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 4,
+    "play_history": [
+      {
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=8623s"
+      },
+      {
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=qU0oZnn4dYY&t=8002s"
+      },
+      {
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=OP2ZoV1Poe8&t=5331s"
+      },
+      {
+        "date": "2026-03-11",
+        "url": "https://www.youtube.com/watch?v=O1xLcY7wkwU&t=4303s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4243,6 +5549,28 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 5,
+    "play_history": [
+      {
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=qU0oZnn4dYY&t=6763s"
+      },
+      {
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=qU0oZnn4dYY&t=7301s"
+      },
+      {
+        "date": "2026-05-14",
+        "url": ""
+      },
+      {
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=ftgoYsoqeGk&t=7646s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-03-11",
+        "url": "https://www.youtube.com/watch?v=O1xLcY7wkwU&t=4692s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4260,6 +5588,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-10-08"
   },
   {
@@ -4277,6 +5606,20 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=P96POtTzEw0&t=4697s"
+      },
+      {
+        "date": "2026-09-03",
+        "url": "https://www.youtube.com/watch?v=0GqZr2iPkYc&t=1918s"
+      },
+      {
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=S_aKRs68_LY&t=4544s"
+      }
+    ],
     "added_date": "2026-09-09"
   },
   {
@@ -4294,6 +5637,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-10-08"
   },
   {
@@ -4311,6 +5655,20 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=1_qT3hdCtZk&t=8678s"
+      },
+      {
+        "date": "2026-05-14",
+        "url": ""
+      },
+      {
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=ftgoYsoqeGk&t=9314s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4328,6 +5686,16 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=ftgoYsoqeGk&t=8187s"
+      },
+      {
+        "date": "2026-03-11",
+        "url": "https://www.youtube.com/watch?v=O1xLcY7wkwU&t=6846s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4356,6 +5724,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-05-03",
+        "url": "https://www.youtube.com/watch?v=Rp3mDIGX8X8&t=807s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4384,6 +5758,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4410,6 +5785,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=S_aKRs68_LY&t=5299s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4436,6 +5817,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4462,6 +5844,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4486,6 +5869,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-06-04",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4509,6 +5898,52 @@
     ],
     "is_practicing": false,
     "play_count": 14,
+    "play_history": [
+      {
+        "date": "2026-08-28",
+        "url": ""
+      },
+      {
+        "date": "2026-08-26",
+        "url": "https://www.youtube.com/watch?v=v7blCGksANI&t=4186s"
+      },
+      {
+        "date": "2026-08-26",
+        "url": "https://www.youtube.com/watch?v=v7blCGksANI&t=5217s"
+      },
+      {
+        "date": "2026-08-26",
+        "url": "https://www.youtube.com/watch?v=v7blCGksANI&t=5848s"
+      },
+      {
+        "date": "2026-08-26",
+        "url": "https://www.youtube.com/watch?v=v7blCGksANI&t=8440s"
+      },
+      {
+        "date": "2026-08-26",
+        "url": "https://www.youtube.com/watch?v=v7blCGksANI&t=9264s"
+      },
+      {
+        "date": "2026-08-26",
+        "url": "https://www.youtube.com/watch?v=v7blCGksANI&t=9955s"
+      },
+      {
+        "date": "2026-08-26",
+        "url": "https://www.youtube.com/watch?v=v7blCGksANI&t=10788s"
+      },
+      {
+        "date": "2026-08-06",
+        "url": "https://www.youtube.com/watch?v=z8Dg3099o2c&t=3229s"
+      },
+      {
+        "date": "2026-07-23",
+        "url": "https://www.youtube.com/watch?v=HbUJONObXzA&t=2071s"
+      },
+      {
+        "date": "2026-07-12",
+        "url": "https://www.youtube.com/watch?v=_M7thfCrjLk&t=4628s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4535,6 +5970,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-06-04",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4560,6 +6001,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4583,6 +6025,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=w4FpLdsHcZ8&t=8656s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-06-11",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4608,6 +6060,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4635,6 +6088,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=9539s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4665,6 +6124,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-08-31",
+        "url": "https://www.youtube.com/watch?v=XcTb_p68MtY&t=8701s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4690,6 +6155,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=d7slJLI7rBw&t=4099s"
+      },
+      {
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=Td7QEtpME5A&t=1935s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4715,6 +6190,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4740,6 +6216,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4765,6 +6242,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-08-24"
   },
   {
@@ -4782,6 +6260,16 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=S_aKRs68_LY&t=6466s"
+      },
+      {
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=Td7QEtpME5A&t=1233s"
+      }
+    ],
     "added_date": "2026-08-24"
   },
   {
@@ -4807,6 +6295,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=1_qT3hdCtZk&t=4024s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4832,6 +6326,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=12405s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -4857,6 +6357,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4882,6 +6383,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4907,6 +6409,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4932,6 +6435,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4957,6 +6461,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -4982,6 +6487,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5010,6 +6516,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5035,6 +6542,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-08",
+        "url": "https://www.youtube.com/watch?v=bjjWERIvnJM&t=5250s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5064,6 +6577,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5089,6 +6603,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5113,6 +6628,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5138,6 +6654,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5155,6 +6672,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5172,6 +6690,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=lo-ZFEi_oQs&t=6442s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5189,6 +6713,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5210,6 +6735,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5231,6 +6757,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-14",
+        "url": "https://www.youtube.com/watch?v=0TNkxIEIctQ&t=6435s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5255,6 +6787,24 @@
     ],
     "is_practicing": false,
     "play_count": 4,
+    "play_history": [
+      {
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=EgfBJZbrDNc&t=7349s"
+      },
+      {
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=EgfBJZbrDNc&t=7788s"
+      },
+      {
+        "date": "2026-05-14",
+        "url": ""
+      },
+      {
+        "date": "2026-03-11",
+        "url": "https://www.youtube.com/watch?v=O1xLcY7wkwU&t=1426s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5272,6 +6822,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5295,6 +6846,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5319,6 +6871,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5344,6 +6897,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-03",
+        "url": "https://www.youtube.com/watch?v=0GqZr2iPkYc&t=577s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5368,6 +6927,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5393,6 +6953,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=9904s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5417,6 +6983,12 @@
     ],
     "is_practicing": true,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-06-04",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5443,6 +7015,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5461,6 +7034,16 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=PlfNa0qAXt0&t=1275s"
+      },
+      {
+        "date": "2026-06-11",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5482,6 +7065,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-03",
+        "url": "https://www.youtube.com/watch?v=w_LT_8mrU9Y&t=5336s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5508,6 +7097,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-08-20",
+        "url": "https://www.youtube.com/watch?v=XsSUDGgu8Rw&t=3910s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5534,6 +7129,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=P96POtTzEw0&t=2333s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5559,6 +7160,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=97d0FBk7k9I&t=2358s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5581,6 +7188,16 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-08-20",
+        "url": "https://www.youtube.com/watch?v=XsSUDGgu8Rw&t=4617s"
+      },
+      {
+        "date": "2026-05-14",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5603,6 +7220,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-05-14",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5620,6 +7243,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=1_qT3hdCtZk&t=3340s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5644,6 +7273,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=PlfNa0qAXt0&t=2042s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=N9_pwviY8wM&t=11361s"
+      },
+      {
+        "date": "2026-03-03",
+        "url": "https://www.youtube.com/watch?v=w_LT_8mrU9Y&t=3561s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5668,6 +7311,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5696,6 +7340,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5721,6 +7366,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5748,6 +7394,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=S_aKRs68_LY&t=1334s"
+      },
+      {
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=Td7QEtpME5A&t=13110s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5773,6 +7429,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-08-31",
+        "url": "https://www.youtube.com/watch?v=XcTb_p68MtY&t=3411s"
+      },
+      {
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=EgfBJZbrDNc&t=5537s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5796,6 +7462,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5824,6 +7491,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=FjaI4TYJkYE&t=1452s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=7520s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5852,6 +7529,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=qU0oZnn4dYY&t=10009s"
+      },
+      {
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=8124s"
+      },
+      {
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=3JYxuT3_Myo&t=3552s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5879,6 +7570,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=FjaI4TYJkYE&t=1835s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5906,6 +7603,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=FjaI4TYJkYE&t=3312s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5928,6 +7631,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -5954,6 +7658,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=1_qT3hdCtZk&t=7181s"
+      },
+      {
+        "date": "2026-06-21",
+        "url": "https://www.youtube.com/watch?v=1hYEY1beCf4&t=7738s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -5980,6 +7694,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6007,6 +7722,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6035,6 +7751,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6058,6 +7775,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=ElAiO2v6vzQ&t=4931s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6081,6 +7804,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=S_aKRs68_LY&t=7578s"
+      },
+      {
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=ElAiO2v6vzQ&t=8538s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6104,6 +7837,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6121,6 +7855,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-03",
+        "url": "https://www.youtube.com/watch?v=w_LT_8mrU9Y&t=7773s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6144,6 +7884,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6167,6 +7908,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6192,6 +7934,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-14",
+        "url": "https://www.youtube.com/watch?v=0TNkxIEIctQ&t=617s"
+      },
+      {
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=PlfNa0qAXt0&t=5951s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6209,6 +7961,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6235,6 +7988,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-06-11",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6260,6 +8019,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-05-14",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6277,6 +8042,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-05-14",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6300,6 +8071,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=N9_pwviY8wM&t=13888s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6326,6 +8103,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=S_aKRs68_LY&t=3348s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6349,6 +8132,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6366,6 +8150,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6390,6 +8175,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6414,6 +8200,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6437,6 +8224,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6462,6 +8250,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6486,6 +8275,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6509,6 +8299,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6533,6 +8324,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-05-14",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6556,6 +8353,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6579,6 +8377,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6602,6 +8401,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6632,6 +8432,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6649,6 +8450,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6666,6 +8468,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6683,6 +8486,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-08-06",
+        "url": "https://www.youtube.com/watch?v=z8Dg3099o2c&t=780s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6707,6 +8516,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6731,6 +8541,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-10-08",
+        "url": "https://www.youtube.com/watch?v=bjjWERIvnJM&t=5688s"
+      },
+      {
+        "date": "2026-06-11",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6758,6 +8578,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=P96POtTzEw0&t=4332s"
+      },
+      {
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=6111s"
+      },
+      {
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=2516s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6787,6 +8621,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6813,6 +8648,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-05-28",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6839,6 +8680,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6865,6 +8707,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-30",
+        "url": "https://www.youtube.com/watch?v=-Cx_2wVwpzM&t=6145s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6890,6 +8738,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=FjaI4TYJkYE&t=6051s"
+      },
+      {
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=EgfBJZbrDNc&t=3752s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6912,6 +8770,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6937,6 +8796,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=d7slJLI7rBw&t=5242s"
+      },
+      {
+        "date": "2026-03-06",
+        "url": "https://www.youtube.com/watch?v=3ms2ziqSaME&t=4691s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -6959,6 +8828,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -6984,6 +8854,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7008,6 +8879,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7033,6 +8905,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7058,6 +8931,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7075,6 +8949,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7101,6 +8976,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7126,6 +9002,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7154,6 +9031,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=w4FpLdsHcZ8&t=3025s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7181,6 +9064,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7204,6 +9088,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7229,6 +9114,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7254,6 +9140,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7277,6 +9164,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7294,6 +9182,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-23",
+        "url": "https://www.youtube.com/watch?v=HbUJONObXzA&t=3849s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7318,6 +9212,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=1_qT3hdCtZk&t=4669s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7336,6 +9236,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-08-14"
   },
   {
@@ -7361,6 +9262,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-08-27",
+        "url": "https://www.youtube.com/watch?v=FUhBtxwoUeQ&t=3571s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=d7slJLI7rBw&t=4448s"
+      }
+    ],
     "added_date": "2026-08-14"
   },
   {
@@ -7385,6 +9296,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-08-14"
   },
   {
@@ -7411,6 +9323,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-09-12"
   },
   {
@@ -7428,6 +9341,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-08-20",
+        "url": "https://www.youtube.com/watch?v=XsSUDGgu8Rw&t=6812s"
+      }
+    ],
     "added_date": "2026-08-24"
   },
   {
@@ -7456,6 +9375,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7482,6 +9402,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-06-21",
+        "url": "https://www.youtube.com/watch?v=1hYEY1beCf4&t=4540s"
+      },
+      {
+        "date": "2026-05-14",
+        "url": ""
+      },
+      {
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=cqlGDZGR2Ck&t=3318s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7500,6 +9434,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7530,6 +9465,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-08-06",
+        "url": "https://www.youtube.com/watch?v=z8Dg3099o2c&t=4575s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7555,6 +9496,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=qU0oZnn4dYY&t=3033s"
+      },
+      {
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=cqlGDZGR2Ck&t=7554s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7583,6 +9534,36 @@
     ],
     "is_practicing": false,
     "play_count": 7,
+    "play_history": [
+      {
+        "date": "2026-08-06",
+        "url": "https://www.youtube.com/watch?v=z8Dg3099o2c&t=3795s"
+      },
+      {
+        "date": "2026-07-19",
+        "url": "https://www.youtube.com/watch?v=Bsx2uv69OcQ&t=5661s"
+      },
+      {
+        "date": "2026-06-21",
+        "url": "https://www.youtube.com/watch?v=1hYEY1beCf4&t=5918s"
+      },
+      {
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=6MFm4kB2iDk&t=5361s"
+      },
+      {
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=N9_pwviY8wM&t=3636s"
+      },
+      {
+        "date": "2026-03-05",
+        "url": "https://www.youtube.com/watch?v=RIEKwv25fJ0&t=2998s"
+      },
+      {
+        "date": "2026-02-23",
+        "url": "https://www.youtube.com/watch?v=8epxd9ny9nI&t=3649s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7609,6 +9590,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7638,6 +9620,20 @@
     ],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=8009s"
+      },
+      {
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=ElAiO2v6vzQ&t=4035s"
+      },
+      {
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=ftgoYsoqeGk&t=4456s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7655,6 +9651,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7673,6 +9670,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=6MFm4kB2iDk&t=3697s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7691,6 +9694,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7709,6 +9713,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7727,6 +9732,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=cqlGDZGR2Ck&t=10058s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7754,6 +9765,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7780,6 +9792,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=6MFm4kB2iDk&t=2947s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7806,6 +9824,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=OP2ZoV1Poe8&t=6488s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7824,6 +9848,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7850,6 +9875,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-23",
+        "url": "https://www.youtube.com/watch?v=HbUJONObXzA&t=6814s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7876,6 +9907,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7904,6 +9936,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=w4FpLdsHcZ8&t=7014s"
+      },
+      {
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=ElAiO2v6vzQ&t=1717s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7931,6 +9973,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=97d0FBk7k9I&t=6253s"
+      },
+      {
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=6MFm4kB2iDk&t=2138s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -7958,6 +10010,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -7986,6 +10039,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8012,6 +10066,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=Td7QEtpME5A&t=4154s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8039,6 +10099,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8064,6 +10125,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8093,6 +10155,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=lo-ZFEi_oQs&t=8407s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8120,6 +10188,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8150,6 +10219,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=8663s"
+      },
+      {
+        "date": "2026-03-06",
+        "url": "https://www.youtube.com/watch?v=3ms2ziqSaME&t=7470s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8173,6 +10252,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=lo-ZFEi_oQs&t=5948s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8201,6 +10286,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8224,6 +10310,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8249,6 +10336,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=6MFm4kB2iDk&t=4812s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8275,6 +10368,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8293,6 +10387,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=6MFm4kB2iDk&t=6288s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8311,6 +10411,20 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=P96POtTzEw0&t=2880s"
+      },
+      {
+        "date": "2026-08-16",
+        "url": "https://www.youtube.com/watch?v=3KQnbfTOOy4&t=6135s"
+      },
+      {
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=Td7QEtpME5A&t=4578s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8329,6 +10443,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-13",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8347,6 +10467,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-08-08"
   },
   {
@@ -8365,6 +10486,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-08-08"
   },
   {
@@ -8383,6 +10505,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8401,6 +10524,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8418,6 +10542,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=OP2ZoV1Poe8&t=3291s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8447,6 +10577,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=6MFm4kB2iDk&t=5810s"
+      },
+      {
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=Td7QEtpME5A&t=811s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8472,6 +10612,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=97d0FBk7k9I&t=5028s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8497,6 +10643,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8523,6 +10670,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=P96POtTzEw0&t=5308s"
+      },
+      {
+        "date": "2026-03-03",
+        "url": "https://www.youtube.com/watch?v=w_LT_8mrU9Y&t=6069s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8552,6 +10709,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=spXrRh_IRn0&t=7566s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8581,6 +10744,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=1_qT3hdCtZk&t=8373s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8610,6 +10779,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=ftgoYsoqeGk&t=4744s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8628,6 +10803,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-03",
+        "url": "https://www.youtube.com/watch?v=0GqZr2iPkYc&t=4285s"
+      }
+    ],
     "added_date": "2026-08-29"
   },
   {
@@ -8657,6 +10838,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8684,6 +10866,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=ftgoYsoqeGk&t=6463s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8710,6 +10898,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8735,6 +10924,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=6MFm4kB2iDk&t=952s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8762,6 +10957,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8788,6 +10984,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8814,6 +11011,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=spXrRh_IRn0&t=7987s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8839,6 +11042,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-30",
+        "url": "https://www.youtube.com/watch?v=-Cx_2wVwpzM&t=7511s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8865,6 +11074,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8891,6 +11101,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8917,6 +11128,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-19",
+        "url": "https://www.youtube.com/watch?v=Bsx2uv69OcQ&t=3360s"
+      },
+      {
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=spXrRh_IRn0&t=6057s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -8942,6 +11163,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8967,6 +11189,7 @@
     ],
     "is_practicing": true,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -8994,6 +11217,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=Td7QEtpME5A&t=5259s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=spXrRh_IRn0&t=6649s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -9023,6 +11256,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=lo-ZFEi_oQs&t=4607s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -9049,6 +11288,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=d7slJLI7rBw&t=3257s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -9074,6 +11319,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -9102,6 +11348,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -9130,6 +11377,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-08-08"
   },
   {
@@ -9157,6 +11405,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=9268s"
+      },
+      {
+        "date": "2026-04-09",
+        "url": "https://www.youtube.com/watch?v=lo-ZFEi_oQs&t=2568s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -9182,6 +11440,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=6MFm4kB2iDk&t=1585s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -9205,6 +11469,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-23",
+        "url": "https://www.youtube.com/watch?v=HbUJONObXzA&t=5769s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -9232,6 +11502,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=qU0oZnn4dYY&t=2135s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -9258,6 +11534,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -9284,6 +11561,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-03",
+        "url": "https://www.youtube.com/watch?v=0GqZr2iPkYc&t=4979s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -9312,6 +11595,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -9340,6 +11624,16 @@
     ],
     "is_practicing": false,
     "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=9000s"
+      },
+      {
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=qU0oZnn4dYY&t=1374s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -9369,6 +11663,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-08-08"
   },
   {
@@ -9399,6 +11694,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-03",
+        "url": "https://www.youtube.com/watch?v=0GqZr2iPkYc&t=3977s"
+      }
+    ],
     "added_date": "2026-08-08"
   },
   {
@@ -9427,6 +11728,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-08-08"
   },
   {
@@ -9452,6 +11754,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-30",
+        "url": "https://www.youtube.com/watch?v=-Cx_2wVwpzM&t=4982s"
+      }
+    ],
     "added_date": "2026-08-08"
   },
   {
@@ -9470,6 +11778,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-08-29"
   },
   {
@@ -9488,6 +11797,7 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-09-17"
   },
   {
@@ -9506,6 +11816,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-08-16",
+        "url": "https://www.youtube.com/watch?v=3KQnbfTOOy4&t=2834s"
+      }
+    ],
     "added_date": "2026-08-29"
   },
   {
@@ -9533,6 +11849,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-02-23",
+        "url": "https://www.youtube.com/watch?v=8epxd9ny9nI&t=3372s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -9560,6 +11882,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -9588,6 +11911,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -9613,6 +11937,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -9640,6 +11965,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -9661,6 +11987,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-30",
+        "url": "https://www.youtube.com/watch?v=-Cx_2wVwpzM&t=6933s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -9683,6 +12015,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-14",
+        "url": "https://www.youtube.com/watch?v=0TNkxIEIctQ&t=5306s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -9704,6 +12042,7 @@
     ],
     "is_practicing": false,
     "play_count": 0,
+    "play_history": [],
     "added_date": "2026-07-01"
   },
   {
@@ -9722,6 +12061,12 @@
     "raw_lastfm_tags": [],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=cqlGDZGR2Ck&t=4132s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -9752,6 +12097,12 @@
     ],
     "is_practicing": false,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-07-23",
+        "url": "https://www.youtube.com/watch?v=HbUJONObXzA&t=7170s"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
@@ -9778,6 +12129,12 @@
     ],
     "is_practicing": true,
     "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-14",
+        "url": "https://www.youtube.com/watch?v=0TNkxIEIctQ&t=6271s"
+      }
+    ],
     "added_date": "2026-07-01"
   }
 ]
