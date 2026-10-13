@@ -74,13 +74,14 @@ function generateSongHtml(song) {
     
     // 🚀 演唱次數與【歷史紀錄懸浮氣泡 Tooltip】渲染邏輯
     const playCount = (song.play_count !== undefined && song.play_count !== null) ? song.play_count : 0;
-    
+
     let historyTooltipHtml = '';
     if (song.play_history && song.play_history.length > 0) {
         historyTooltipHtml = `
             <div class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max max-w-[220px] z-50 invisible opacity-0 group-hover/count:visible group-hover/count:opacity-100 transition-all duration-200 pointer-events-none">
-                <div class="bg-slate-800 dark:bg-slate-900 border border-slate-700 shadow-xl shadow-slate-900/20 rounded-xl p-2 text-xs flex flex-col gap-1.5 relative pointer-events-auto max-h-48 overflow-y-auto custom-scrollbar">
-                    <div class="absolute -bottom-1.5 left-1/2 transform -translate-x-1/2 w-3 h-3 bg-slate-800 dark:bg-slate-900 border-b border-r border-slate-700 rotate-45 pointer-events-none"></div>
+                
+                <!-- 內容捲動區塊 (加上 relative z-10 蓋住箭頭上半部) -->
+                <div class="bg-slate-800 dark:bg-slate-900 border border-slate-700 shadow-xl shadow-slate-900/20 rounded-xl p-2 text-xs flex flex-col gap-1.5 relative z-10 pointer-events-auto max-h-48 overflow-y-auto custom-scrollbar">
                     ${song.play_history.map(h => {
                         const dateHtml = `<span class="text-slate-200 font-medium tracking-wide">📅 ${h.date}</span>`;
                         if (h.url) {
@@ -92,6 +93,10 @@ function generateSongHtml(song) {
                         return `<div class="flex items-center gap-1.5 bg-slate-700/30 rounded-lg px-2.5 py-1.5 text-slate-400">${dateHtml}</div>`;
                     }).join('')}
                 </div>
+                
+                <!-- 獨立的箭頭裝飾 (移出捲動區塊，並設定 z-0 墊在底部) -->
+                <div class="absolute -bottom-1.5 left-1/2 transform -translate-x-1/2 w-3 h-3 bg-slate-800 dark:bg-slate-900 border-b border-r border-slate-700 rotate-45 pointer-events-none z-0"></div>
+                
             </div>`;
     }
 
