@@ -4839,17 +4839,8 @@
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "play_count": 2,
-    "play_history": [
-      {
-        "date": "2026-10-01",
-        "url": "https://www.youtube.com/watch?v=MGlj5rowpqM&t=2955s"
-      },
-      {
-        "date": "2026-09-21",
-        "url": "https://www.youtube.com/watch?v=e6t3wuAvrWo&t=7122s"
-      }
-    ],
+    "play_count": 0,
+    "play_history": [],
     "added_date": "2026-09-21"
   },
   {
