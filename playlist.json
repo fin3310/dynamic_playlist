@@ -617,8 +617,12 @@
       "pop"
     ],
     "is_practicing": false,
-    "play_count": 4,
+    "play_count": 5,
     "play_history": [
+      {
+        "date": "2026-10-15",
+        "url": "https://youtu.be/-eiRYhoKLT8"
+      },
       {
         "date": "2026-05-28",
         "url": ""
