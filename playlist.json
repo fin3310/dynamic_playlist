@@ -987,8 +987,12 @@
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "play_count": 3,
+    "play_count": 4,
     "play_history": [
+      {
+        "date": "2026-10-18",
+        "url": ""
+      },
       {
         "date": "2026-07-16",
         "url": "https://www.youtube.com/watch?v=1_qT3hdCtZk&t=6189s"
