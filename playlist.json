@@ -2020,8 +2020,13 @@
       "doujin"
     ],
     "is_practicing": true,
-    "play_count": 0,
-    "play_history": [],
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-20",
+        "url": ""
+      }
+    ],
     "added_date": "2026-09-05"
   },
   {
