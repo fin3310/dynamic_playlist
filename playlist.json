@@ -1601,6 +1601,29 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "8f7f3849",
+    "title": "crossing field",
+    "artist": "LiSA",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bc/b1/d0/bcb1d0bc-8736-61ac-cb16-51c623c2b0bc/jacket_SVWC07875B00Z_550.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=KId6eunoiWk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-18",
+        "url": "https://www.youtube.com/watch?v=QQYgvW-Wu_w&t=2556s"
+      }
+    ],
+    "added_date": "2026-10-20"
+  },
+  {
     "id": "0f682a0f",
     "title": "ツキミソウ",
     "artist": "Novelbright",
@@ -4890,6 +4913,60 @@
     "play_count": 0,
     "play_history": [],
     "added_date": "2026-09-21"
+  },
+  {
+    "id": "ae478582",
+    "title": "鳥の詩 /",
+    "artist": "Lia",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/e4/69/aa/e469aafe-5d04-469f-7bd3-cb7853b28dbb/4933032002475_cover.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=-pGcUV6pVIc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-10-20"
+  },
+  {
+    "id": "519514a5",
+    "title": "only my railgun  8  fripSide",
+    "artist": "fripSide",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/60/52/38605250-190a-edeb-5439-2710686db617/5021732653086.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=cFqaN3vgxLc",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-10-20"
+  },
+  {
+    "id": "0f824186",
+    "title": "残酷な天使のテーゼ / 高橋洋子",
+    "artist": "高橋洋子",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/c7/68/d7/mzi.anmgzqdl.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=o6wtDPVkKqI",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-10-20"
   },
   {
     "id": "31b1470e",
