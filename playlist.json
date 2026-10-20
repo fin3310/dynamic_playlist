@@ -2024,7 +2024,7 @@
     "play_history": [
       {
         "date": "2026-10-20",
-        "url": ""
+        "url": "https://www.youtube.com/watch?v=UfsrQPuclEw&t=4178s"
       }
     ],
     "added_date": "2026-09-05"
@@ -2396,7 +2396,7 @@
     "play_history": [
       {
         "date": "2026-10-20",
-        "url": "https://youtu.be/UfsrQPuclEw"
+        "url": "https://www.youtube.com/watch?v=UfsrQPuclEw&t=3184s"
       }
     ],
     "added_date": "2026-07-01"
@@ -4383,11 +4383,15 @@
       "no game no life"
     ],
     "is_practicing": false,
-    "play_count": 2,
+    "play_count": 3,
     "play_history": [
       {
         "date": "2026-10-20",
-        "url": ""
+        "url": "https://www.youtube.com/watch?v=UfsrQPuclEw&t=3574s"
+      },
+      {
+        "date": "2026-10-20",
+        "url": "https://www.youtube.com/watch?v=UfsrQPuclEw&t=11942s"
       },
       {
         "date": "2026-09-21",
