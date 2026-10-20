@@ -4915,44 +4915,54 @@
     "added_date": "2026-09-21"
   },
   {
-    "id": "ae478582",
-    "title": "鳥の詩 /",
+    "id": "38d7aba5",
+    "title": "鳥の詩",
     "artist": "Lia",
     "language": "日文",
     "tags": [
       "日文"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/e4/69/aa/e469aafe-5d04-469f-7bd3-cb7853b28dbb/4933032002475_cover.png/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=-pGcUV6pVIc",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/71/12/b87112ac-c9c8-0485-e001-cd0e20659f1d/4571640919862_cover.png/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=7mZlRSAUSsU",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-18",
+        "url": "https://www.youtube.com/watch?v=QQYgvW-Wu_w&t=965s"
+      }
+    ],
     "added_date": "2026-10-20"
   },
   {
-    "id": "519514a5",
-    "title": "only my railgun  8  fripSide",
+    "id": "c50d7de2",
+    "title": "only my railgun",
     "artist": "fripSide",
     "language": "日文",
     "tags": [
       "日文"
     ],
     "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/60/52/38605250-190a-edeb-5439-2710686db617/5021732653086.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=cFqaN3vgxLc",
+    "youtube_url": "https://www.youtube.com/watch?v=ZhIxg6_Femo",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-18",
+        "url": "https://www.youtube.com/watch?v=QQYgvW-Wu_w&t=2061s"
+      }
+    ],
     "added_date": "2026-10-20"
   },
   {
-    "id": "0f824186",
-    "title": "残酷な天使のテーゼ / 高橋洋子",
+    "id": "b8e9f63f",
+    "title": "残酷な天使のテーゼ",
     "artist": "高橋洋子",
     "language": "日文",
     "tags": [
@@ -4964,8 +4974,13 @@
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-18",
+        "url": "https://www.youtube.com/watch?v=QQYgvW-Wu_w&t=5181s"
+      }
+    ],
     "added_date": "2026-10-20"
   },
   {
