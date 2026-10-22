@@ -3018,8 +3018,12 @@
       "vocaloidp"
     ],
     "is_practicing": false,
-    "play_count": 3,
+    "play_count": 4,
     "play_history": [
+      {
+        "date": "2026-10-22",
+        "url": ""
+      },
       {
         "date": "2026-09-06",
         "url": "https://www.youtube.com/watch?v=w4FpLdsHcZ8&t=9331s"
