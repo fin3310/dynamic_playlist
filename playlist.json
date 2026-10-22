@@ -1794,8 +1794,12 @@
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "play_count": 2,
+    "play_count": 3,
     "play_history": [
+      {
+        "date": "2026-10-22",
+        "url": ""
+      },
       {
         "date": "2026-10-01",
         "url": "https://www.youtube.com/watch?v=MGlj5rowpqM&t=5368s"
@@ -10905,8 +10909,12 @@
       "pop punk"
     ],
     "is_practicing": false,
-    "play_count": 1,
+    "play_count": 2,
     "play_history": [
+      {
+        "date": "2026-10-22",
+        "url": ""
+      },
       {
         "date": "2026-03-26",
         "url": "https://www.youtube.com/watch?v=spXrRh_IRn0&t=7566s"
