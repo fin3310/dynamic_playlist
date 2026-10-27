@@ -7342,7 +7342,7 @@
     "play_history": [
       {
         "date": "2026-10-27",
-        "url": "https://youtu.be/An6IhJX2d1A"
+        "url": "https://www.youtube.com/watch?v=An6IhJX2d1A&t=1742s"
       },
       {
         "date": "2026-09-24",
@@ -7783,8 +7783,12 @@
       "rock"
     ],
     "is_practicing": false,
-    "play_count": 1,
+    "play_count": 2,
     "play_history": [
+      {
+        "date": "2026-10-27",
+        "url": ""
+      },
       {
         "date": "2026-09-10",
         "url": "https://www.youtube.com/watch?v=FjaI4TYJkYE&t=1835s&pp=0gcJCTEAlc8ueATH"
