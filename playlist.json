@@ -9572,6 +9572,87 @@
     "added_date": "2026-08-24"
   },
   {
+    "id": "83623f29",
+    "title": "紅色高跟鞋",
+    "artist": "蔡健雅",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f3/f4/c9/f3f4c9cc-1af9-8595-0834-63c719b4cb92/asset.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ATblV50Odx8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=An6IhJX2d1A&t=3423s"
+      }
+    ],
+    "added_date": "2026-10-30"
+  },
+  {
+    "id": "9cb8bf03",
+    "title": "失語者",
+    "artist": "蔡健雅",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/23/b5/9723b512-41fc-47a8-1b1d-c2c51d763184/4711720281469.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=gh2jwV46a5I",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=An6IhJX2d1A&t=2564s"
+      }
+    ],
+    "added_date": "2026-10-30"
+  },
+  {
+    "id": "5a63a348",
+    "title": "Letting Go",
+    "artist": "蔡健雅",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5d/6d/51/5d6d5168-5b14-da04-d7d4-4ce6e34ac177/4000x4000.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=slCsk20UUVo",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 4,
+    "play_history": [
+      {
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=An6IhJX2d1A&t=7971s"
+      },
+      {
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=MGlj5rowpqM&t=3567s"
+      },
+      {
+        "date": "2026-08-27",
+        "url": "https://www.youtube.com/watch?v=FUhBtxwoUeQ&t=6318s"
+      },
+      {
+        "date": "2026-07-26",
+        "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=6410s"
+      }
+    ],
+    "added_date": "2026-10-30"
+  },
+  {
     "id": "8ca6cca5",
     "title": "chandelier",
     "artist": "SIA",
