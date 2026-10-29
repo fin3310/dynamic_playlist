@@ -8573,7 +8573,7 @@
       "hong kong",
       "female vocalists"
     ],
-    "is_practicing": true,
+    "is_practicing": false,
     "play_count": 0,
     "play_history": [],
     "added_date": "2026-07-01"
@@ -9151,7 +9151,7 @@
       "pop",
       "hong kong"
     ],
-    "is_practicing": false,
+    "is_practicing": true,
     "play_count": 0,
     "play_history": [],
     "added_date": "2026-07-01"
@@ -9650,6 +9650,24 @@
         "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=6410s"
       }
     ],
+    "added_date": "2026-10-30"
+  },
+  {
+    "id": "3739b1eb",
+    "title": "少一點天份",
+    "artist": "孫盛希",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/0f/bb/070fbbe9-37ae-bd98-8acf-46247f5ab37c/555.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=mgBm0Loisg4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
     "added_date": "2026-10-30"
   },
   {
