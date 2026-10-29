@@ -6206,6 +6206,24 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "3739b1eb",
+    "title": "少一點天份",
+    "artist": "孫盛希",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/0f/bb/070fbbe9-37ae-bd98-8acf-46247f5ab37c/555.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=mgBm0Loisg4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-10-30"
+  },
+  {
     "id": "3ca2f970",
     "title": "夏夜晚風",
     "artist": "伍佰",
@@ -8130,9 +8148,9 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "6b9ec51b",
+    "id": "38cb0fa8",
     "title": "南山南",
-    "artist": "馬頔",
+    "artist": "張磊",
     "language": "中文",
     "tags": [
       "中文",
@@ -8246,9 +8264,9 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "e04cb02f",
+    "id": "713db432",
     "title": "你的行李",
-    "artist": "甜約翰",
+    "artist": "謝震廷",
     "language": "中文",
     "tags": [
       "中文"
@@ -8424,6 +8442,29 @@
     "play_count": 0,
     "play_history": [],
     "added_date": "2026-07-01"
+  },
+  {
+    "id": "418ec9cc",
+    "title": "魔鬼中的天使",
+    "artist": "田馥甄",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b3/83/9e/b3839eca-dfc5-9ed5-107d-50f09ea3d597/1400x1400.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=na_xv5iFt2Y",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=ElAiO2v6vzQ&t=6557s"
+      }
+    ],
+    "added_date": "2026-10-30"
   },
   {
     "id": "e84749ad",
@@ -9650,24 +9691,6 @@
         "url": "https://www.youtube.com/watch?v=SZknLTkQBcE&t=6410s"
       }
     ],
-    "added_date": "2026-10-30"
-  },
-  {
-    "id": "3739b1eb",
-    "title": "少一點天份",
-    "artist": "孫盛希",
-    "language": "中文",
-    "tags": [
-      "中文"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/0f/bb/070fbbe9-37ae-bd98-8acf-46247f5ab37c/555.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=mgBm0Loisg4",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
     "added_date": "2026-10-30"
   },
   {
