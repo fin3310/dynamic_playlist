@@ -1523,8 +1523,12 @@
       "synthetic voice"
     ],
     "is_practicing": false,
-    "play_count": 1,
+    "play_count": 2,
     "play_history": [
+      {
+        "date": "2026-10-30",
+        "url": ""
+      },
       {
         "date": "2026-03-23",
         "url": "https://www.youtube.com/watch?v=N9_pwviY8wM&t=12831s"
