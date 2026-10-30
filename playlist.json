@@ -8615,8 +8615,13 @@
       "female vocalists"
     ],
     "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-30",
+        "url": "https://youtu.be/O42DAOeJ3jU"
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
