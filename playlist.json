@@ -10829,8 +10829,12 @@
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "play_count": 1,
+    "play_count": 2,
     "play_history": [
+      {
+        "date": "2026-11-05",
+        "url": ""
+      },
       {
         "date": "2026-10-13",
         "url": "https://www.youtube.com/watch?v=Je2XJD31mUI&t=12522s"
