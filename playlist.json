@@ -4990,8 +4990,12 @@
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "play_count": 1,
+    "play_count": 2,
     "play_history": [
+      {
+        "date": "2026-11-05",
+        "url": ""
+      },
       {
         "date": "2026-10-18",
         "url": "https://www.youtube.com/watch?v=QQYgvW-Wu_w&t=965s"
