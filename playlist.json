@@ -9976,8 +9976,13 @@
       "electronic"
     ],
     "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-11-05",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
