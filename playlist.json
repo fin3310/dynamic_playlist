@@ -2540,8 +2540,12 @@
       "girl groups"
     ],
     "is_practicing": false,
-    "play_count": 3,
+    "play_count": 4,
     "play_history": [
+      {
+        "date": "2026-11-11",
+        "url": ""
+      },
       {
         "date": "2026-06-30",
         "url": "https://www.youtube.com/watch?v=qU0oZnn4dYY&t=3930s"
@@ -3304,8 +3308,12 @@
       "female vocalists"
     ],
     "is_practicing": false,
-    "play_count": 1,
+    "play_count": 2,
     "play_history": [
+      {
+        "date": "2026-11-11",
+        "url": ""
+      },
       {
         "date": "2026-08-27",
         "url": "https://www.youtube.com/watch?v=FUhBtxwoUeQ&t=2618s"
