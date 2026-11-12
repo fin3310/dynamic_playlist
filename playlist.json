@@ -9024,8 +9024,12 @@
       "female vocalists"
     ],
     "is_practicing": false,
-    "play_count": 1,
+    "play_count": 2,
     "play_history": [
+      {
+        "date": "2026-11-12",
+        "url": ""
+      },
       {
         "date": "2026-07-30",
         "url": "https://www.youtube.com/watch?v=-Cx_2wVwpzM&t=6145s"
@@ -9681,8 +9685,12 @@
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "play_count": 1,
+    "play_count": 2,
     "play_history": [
+      {
+        "date": "2026-11-12",
+        "url": ""
+      },
       {
         "date": "2026-10-27",
         "url": "https://www.youtube.com/watch?v=An6IhJX2d1A&t=3423s"
