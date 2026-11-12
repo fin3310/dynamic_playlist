@@ -1833,8 +1833,12 @@
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "play_count": 4,
+    "play_count": 5,
     "play_history": [
+      {
+        "date": "2026-11-12",
+        "url": ""
+      },
       {
         "date": "2026-10-01",
         "url": "https://www.youtube.com/watch?v=MGlj5rowpqM&t=4884s"
@@ -5865,8 +5869,13 @@
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-11-12",
+        "url": ""
+      }
+    ],
     "added_date": "2026-10-08"
   },
   {
@@ -8447,8 +8456,13 @@
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-11-12",
+        "url": ""
+      }
+    ],
     "added_date": "2026-07-01"
   },
   {
