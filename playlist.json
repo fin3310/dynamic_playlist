@@ -9789,22 +9789,27 @@
     "added_date": "2026-10-30"
   },
   {
-    "id": "16812cda",
-    "title": "你朝我的方向走來",
-    "artist": "馬念先 & 9m88",
+    "id": "91f7511b",
+    "title": "你給我聽好",
+    "artist": "陳奕迅",
     "language": "中文",
     "tags": [
       "中文"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1e/56/73/1e56735f-3000-2697-d58c-b08e341768d5/190295472351.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=7L06_HW_HcA",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b3/03/0f/b3030fa1-1000-4def-27d3-987b0ed2c69a/00602488972895.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=T9V45IhnMRU",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
-    "added_date": "2026-11-14"
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=QyVsnZPEaV8&t=8702s"
+      }
+    ],
+    "added_date": "2026-11-17"
   },
   {
     "id": "8ca6cca5",
@@ -11060,37 +11065,6 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "7b34fb8a",
-    "title": "best part",
-    "artist": "Daniel Caesar",
-    "language": "英文",
-    "tags": [
-      "英文",
-      "節奏藍調",
-      "R&B",
-      "靈魂樂",
-      "新靈魂樂"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/40/34/274034b3-42d9-ba59-b22c-dc4f57672ee0/886446799513.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=hKgl5-lkT8U",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "rnb",
-      "soul",
-      "neo-soul"
-    ],
-    "is_practicing": false,
-    "play_count": 1,
-    "play_history": [
-      {
-        "date": "2026-09-17",
-        "url": "https://www.youtube.com/watch?v=97d0FBk7k9I&t=5028s"
-      }
-    ],
-    "added_date": "2026-07-01"
-  },
-  {
     "id": "df764e77",
     "title": "Paper Hearts",
     "artist": "tori kelly",
@@ -12302,6 +12276,30 @@
       }
     ],
     "added_date": "2026-08-29"
+  },
+  {
+    "id": "7b34fb8a",
+    "title": "Best Part",
+    "artist": "Daniel Caesar",
+    "language": "英文",
+    "tags": [
+      "英文",
+      "節奏藍調"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/40/34/274034b3-42d9-ba59-b22c-dc4f57672ee0/886446799513.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=vBy7FaapGRo",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=97d0FBk7k9I&t=5028s"
+      }
+    ],
+    "added_date": "2026-11-17"
   },
   {
     "id": "61ceddb6",
