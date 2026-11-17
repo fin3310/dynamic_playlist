@@ -11183,8 +11183,12 @@
       "frank sinatra"
     ],
     "is_practicing": false,
-    "play_count": 2,
+    "play_count": 3,
     "play_history": [
+      {
+        "date": "2026-11-17",
+        "url": ""
+      },
       {
         "date": "2026-09-24",
         "url": "https://www.youtube.com/watch?v=P96POtTzEw0&t=5308s"
