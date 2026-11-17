@@ -4566,6 +4566,24 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "52f12b6d",
+    "title": "花の塔",
+    "artist": "さユり/酸欠少女",
+    "language": "日文",
+    "tags": [
+      "日文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c9/c0/14/c9c014de-4689-087a-35b5-f481e34ea5be/4547366570861.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Rwzy6Qt8gq8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-11-17"
+  },
+  {
     "id": "3454afb7",
     "title": "Shout Baby",
     "artist": "緑黄色社会",
@@ -4815,6 +4833,30 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "dde96a4c",
+    "title": "きらり",
+    "artist": "藤井風",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d6/75/4f/d6754fcb-b2e8-db66-b51f-8b142ac75132/21UMGIM23568.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=TcLLpZBWsck",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=-eiRYhoKLT8&t=4529s"
+      }
+    ],
+    "added_date": "2026-11-17"
+  },
+  {
     "id": "cc4e9e5a",
     "title": "満ちてゆく",
     "artist": "藤井風",
@@ -4844,6 +4886,30 @@
       }
     ],
     "added_date": "2026-07-01"
+  },
+  {
+    "id": "26edcf32",
+    "title": "青春病",
+    "artist": "藤井風",
+    "language": "日文",
+    "tags": [
+      "日文",
+      "日語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/0c/f4/f80cf451-3ac7-9c78-0888-bc68937c0084/20UMGIM80054.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=kQvT37OzkP8",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-11-05",
+        "url": "https://www.youtube.com/watch?v=zwiGDluHEPg&t=5584s"
+      }
+    ],
+    "added_date": "2026-11-17"
   },
   {
     "id": "24848407",
@@ -12617,5 +12683,23 @@
       }
     ],
     "added_date": "2026-07-01"
+  },
+  {
+    "id": "6ff1bc49",
+    "title": "Drip",
+    "artist": "BabyMonster",
+    "language": "韓文",
+    "tags": [
+      "韓文"
+    ],
+    "cover_url": "https://img.youtube.com/vi/Zp-Jhuhq0bQ/hqdefault.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Zp-Jhuhq0bQ",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": true,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-11-17"
   }
 ]
