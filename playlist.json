@@ -7919,6 +7919,29 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "cac9df7d",
+    "title": "太陽",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/70/06/077006a5-18c5-0e56-0e0c-ba052672b07a/4719760090010_new.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=fRcqZqi56Ws",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=PlfNa0qAXt0&t=6670s"
+      }
+    ],
+    "added_date": "2026-11-18"
+  },
+  {
     "id": "4a0aad8c",
     "title": "太聰明",
     "artist": "陳綺貞",
@@ -9103,6 +9126,24 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "061c8888",
+    "title": "灰色",
+    "artist": "徐佳瑩",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8a/60/e8/8a60e833-5516-7c16-2bdf-864627aa71e4/4713108163152.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=xtSdgGHqnls",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": true,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-11-18"
+  },
+  {
     "id": "27fc0414",
     "title": "我愛他",
     "artist": "丁噹",
@@ -9888,6 +9929,24 @@
       }
     ],
     "added_date": "2026-11-17"
+  },
+  {
+    "id": "e8697dcb",
+    "title": "最後一頁",
+    "artist": "江語晨",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/39/2b/75/392b75a3-fff3-a005-9528-5d78b24ee158/asset.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=LimKBhBzhjk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-11-18"
   },
   {
     "id": "8ca6cca5",
