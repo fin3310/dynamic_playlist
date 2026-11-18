@@ -7617,48 +7617,6 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "1722c013",
-    "title": "路過人間",
-    "artist": "郁可唯",
-    "language": "中文",
-    "tags": [
-      "中文",
-      "華語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ef/67/da/ef67dae4-5fce-c538-ca9d-ad38cdd4e9a1/yisa_cover.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=FMl7GEaYwAE",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "chinese",
-      "c-pop",
-      "2019",
-      "mandarin",
-      "female vocalist"
-    ],
-    "is_practicing": false,
-    "play_count": 4,
-    "play_history": [
-      {
-        "date": "2026-11-17",
-        "url": "https://www.youtube.com/watch?v=07z8zO6hVPU&t=6470s"
-      },
-      {
-        "date": "2026-06-18",
-        "url": "https://www.youtube.com/watch?v=PlfNa0qAXt0&t=2042s&pp=0gcJCTEAlc8ueATH"
-      },
-      {
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=N9_pwviY8wM&t=11361s"
-      },
-      {
-        "date": "2026-03-03",
-        "url": "https://www.youtube.com/watch?v=w_LT_8mrU9Y&t=3561s"
-      }
-    ],
-    "added_date": "2026-07-01"
-  },
-  {
     "id": "7761ce1d",
     "title": "倒帶",
     "artist": "蔡依林",
@@ -8932,31 +8890,6 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "36c68145",
-    "title": "指望",
-    "artist": "郁可唯",
-    "language": "中文",
-    "tags": [
-      "中文",
-      "華語流行",
-      "抒情"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b9/14/2c/b9142c37-d58f-5981-a42c-c02b213ddf05/RD-1880.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=04VXfavbeDs",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "ballad",
-      "chinese",
-      "c-pop",
-      "mandarin"
-    ],
-    "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
-    "added_date": "2026-07-01"
-  },
-  {
     "id": "796e8abc",
     "title": "畫心",
     "artist": "張靚穎",
@@ -9326,6 +9259,31 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "36c68145",
+    "title": "指望",
+    "artist": "郁可唯",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "抒情"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b9/14/2c/b9142c37-d58f-5981-a42c-c02b213ddf05/RD-1880.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=04VXfavbeDs",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "ballad",
+      "chinese",
+      "c-pop",
+      "mandarin"
+    ],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-07-01"
+  },
+  {
     "id": "f817c159",
     "title": "微加幸福",
     "artist": "郁可唯",
@@ -9351,6 +9309,48 @@
       {
         "date": "2026-11-12",
         "url": "https://www.youtube.com/watch?v=7nQ_2mlxkzI&t=5752s"
+      }
+    ],
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "1722c013",
+    "title": "路過人間",
+    "artist": "郁可唯",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ef/67/da/ef67dae4-5fce-c538-ca9d-ad38cdd4e9a1/yisa_cover.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=FMl7GEaYwAE",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "c-pop",
+      "2019",
+      "mandarin",
+      "female vocalist"
+    ],
+    "is_practicing": false,
+    "play_count": 4,
+    "play_history": [
+      {
+        "date": "2026-11-17",
+        "url": "https://www.youtube.com/watch?v=07z8zO6hVPU&t=6470s"
+      },
+      {
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=PlfNa0qAXt0&t=2042s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=N9_pwviY8wM&t=11361s"
+      },
+      {
+        "date": "2026-03-03",
+        "url": "https://www.youtube.com/watch?v=w_LT_8mrU9Y&t=3561s"
       }
     ],
     "added_date": "2026-07-01"
