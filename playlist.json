@@ -12766,7 +12766,7 @@
   {
     "id": "6ff1bc49",
     "title": "Drip",
-    "artist": "BabyMonster",
+    "artist": "BABYMONSTER",
     "language": "韓文",
     "tags": [
       "韓文"
@@ -12776,9 +12776,45 @@
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
-    "is_practicing": true,
+    "is_practicing": false,
     "play_count": 0,
     "play_history": [],
     "added_date": "2026-11-17"
+  },
+  {
+    "id": "ec27ddb6",
+    "title": "FIRESTARTER",
+    "artist": "K/DA",
+    "language": "韓文",
+    "tags": [
+      "韓文"
+    ],
+    "cover_url": "https://img.youtube.com/vi/Mmw-PpWhKFg/hqdefault.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Mmw-PpWhKFg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-11-18"
+  },
+  {
+    "id": "6e1ce270",
+    "title": "POPSTAR",
+    "artist": "K/DA",
+    "language": "韓文",
+    "tags": [
+      "韓文"
+    ],
+    "cover_url": "https://img.youtube.com/vi/UOxkGD8qRB4/hqdefault.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=UOxkGD8qRB4",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-11-18"
   }
 ]
