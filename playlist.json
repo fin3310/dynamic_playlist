@@ -7671,6 +7671,24 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "94ec7512",
+    "title": "半句再見",
+    "artist": "孫燕姿",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/95/e7/86/95e78666-a9d7-c3cc-87cf-0a46d6d8c6aa/00602567574132.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=A78Hknx4lsA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-11-18"
+  },
+  {
     "id": "39ceb09a",
     "title": "克卜勒",
     "artist": "孫燕姿",
@@ -9946,6 +9964,29 @@
     "is_practicing": false,
     "play_count": 0,
     "play_history": [],
+    "added_date": "2026-11-18"
+  },
+  {
+    "id": "796141cf",
+    "title": "我知道",
+    "artist": "By2",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/6a/22/0d/6a220d22-3ec0-3d2a-73c7-a0a2c5b30dd3/fengmian.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=GhMktBrHk9I",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-08-31",
+        "url": "https://www.youtube.com/watch?v=XcTb_p68MtY&t=6881s"
+      }
+    ],
     "added_date": "2026-11-18"
   },
   {
