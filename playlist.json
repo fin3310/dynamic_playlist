@@ -3456,8 +3456,12 @@
       "female vocalists"
     ],
     "is_practicing": false,
-    "play_count": 5,
+    "play_count": 6,
     "play_history": [
+      {
+        "date": "2026-11-19",
+        "url": ""
+      },
       {
         "date": "2026-09-17",
         "url": "https://www.youtube.com/watch?v=97d0FBk7k9I&t=1607s"
