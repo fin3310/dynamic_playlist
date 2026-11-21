@@ -5893,22 +5893,28 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "2a9bfef3",
-    "title": "指向你的線索(伴奏還沒做好",
+    "id": "112b7464",
+    "title": "指向你的線索",
     "artist": "Vast &Hazy",
     "language": "中文",
     "tags": [
-      "中文"
+      "中文",
+      "另類音樂"
     ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/ef/bb/aaefbb14-2f15-e0ec-0b0f-b35fa2815455/674361385252.png/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=VcJa7beYEyo",
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fb/7a/92/fb7a92d9-14b2-3362-8842-83deaa24cb9c/4713108188858.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=RUOYaJgwzL8",
     "note": "",
     "has_checked_lastfm": true,
     "raw_lastfm_tags": [],
     "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
-    "added_date": "2026-10-08"
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=-eiRYhoKLT8&t=3369s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
+    "added_date": "2026-11-21"
   },
   {
     "id": "8df33a1e",
@@ -5963,6 +5969,35 @@
       }
     ],
     "added_date": "2026-10-08"
+  },
+  {
+    "id": "366aca30",
+    "title": "浴室",
+    "artist": "deca joins",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "獨立搖滾",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/bb/e9/79bbe9ba-5bb3-f295-40ac-71855cd50d6d/887375512181.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=KWlP4gHOvXo",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "china",
+      "c-pop",
+      "male vocalists",
+      "mandarin",
+      "taiwanese",
+      "taiwan",
+      "indie rock"
+    ],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-07-01"
   },
   {
     "id": "08a3793d",
@@ -7831,183 +7866,6 @@
     "added_date": "2026-07-01"
   },
   {
-    "id": "a9ace487",
-    "title": "旅行的意義",
-    "artist": "陳綺貞",
-    "language": "中文",
-    "tags": [
-      "中文",
-      "搖滾",
-      "不插電",
-      "獨立音樂",
-      "民謠"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c5/c5/b9/c5c5b9a5-7b08-1579-950e-6ad69d8f105a/2005_9-_1400.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=tv95k0zqnaA",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "acoustic",
-      "taiwan pop",
-      "indie",
-      "folk",
-      "taiwan",
-      "rock"
-    ],
-    "is_practicing": false,
-    "play_count": 2,
-    "play_history": [
-      {
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=FjaI4TYJkYE&t=1452s&pp=0gcJCTEAlc8ueATH"
-      },
-      {
-        "date": "2026-06-25",
-        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=7520s"
-      }
-    ],
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "52e94fd5",
-    "title": "魚",
-    "artist": "陳綺貞",
-    "language": "中文",
-    "tags": [
-      "中文",
-      "華語流行",
-      "搖滾",
-      "獨立音樂",
-      "民謠"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/70/06/077006a5-18c5-0e56-0e0c-ba052672b07a/4719760090010_new.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=lpsAT-Ntaaw",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "chinese",
-      "c-pop",
-      "indie",
-      "folk",
-      "taiwan",
-      "rock"
-    ],
-    "is_practicing": false,
-    "play_count": 3,
-    "play_history": [
-      {
-        "date": "2026-06-30",
-        "url": "https://www.youtube.com/watch?v=qU0oZnn4dYY&t=10009s"
-      },
-      {
-        "date": "2026-06-25",
-        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=8124s"
-      },
-      {
-        "date": "2026-05-07",
-        "url": "https://www.youtube.com/watch?v=3JYxuT3_Myo&t=3552s"
-      }
-    ],
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "cac9df7d",
-    "title": "太陽",
-    "artist": "陳綺貞",
-    "language": "中文",
-    "tags": [
-      "中文"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/70/06/077006a5-18c5-0e56-0e0c-ba052672b07a/4719760090010_new.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=fRcqZqi56Ws",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "play_count": 2,
-    "play_history": [
-      {
-        "date": "2026-11-19",
-        "url": "https://www.youtube.com/watch?v=ZRdh_Urb1RA&t=1890s"
-      },
-      {
-        "date": "2026-06-18",
-        "url": "https://www.youtube.com/watch?v=PlfNa0qAXt0&t=6670s"
-      }
-    ],
-    "added_date": "2026-11-18"
-  },
-  {
-    "id": "4a0aad8c",
-    "title": "太聰明",
-    "artist": "陳綺貞",
-    "language": "中文",
-    "tags": [
-      "中文",
-      "搖滾",
-      "獨立音樂",
-      "民謠"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/a2/21/3ca22123-14d6-57f4-9e52-aa4573a05b07/mzm.clkcarof.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=33rdx577PxY",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "indie",
-      "folk",
-      "taiwan",
-      "indie pop",
-      "chinese",
-      "rock"
-    ],
-    "is_practicing": false,
-    "play_count": 2,
-    "play_history": [
-      {
-        "date": "2026-10-27",
-        "url": "https://www.youtube.com/watch?v=An6IhJX2d1A&t=12901s"
-      },
-      {
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=FjaI4TYJkYE&t=1835s&pp=0gcJCTEAlc8ueATH"
-      }
-    ],
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "83d1831c",
-    "title": "告訴我",
-    "artist": "陳綺貞",
-    "language": "中文",
-    "tags": [
-      "中文",
-      "搖滾",
-      "獨立音樂",
-      "民謠"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/e0/0e/ae/e00eaefb-5737-4833-69c9-93be29dc1c6d/mzm.nshgqvxy.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=mJsT0i95cAY",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "indie",
-      "folk",
-      "taiwan",
-      "indie pop",
-      "chinese",
-      "rock"
-    ],
-    "is_practicing": false,
-    "play_count": 1,
-    "play_history": [
-      {
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=FjaI4TYJkYE&t=3312s"
-      }
-    ],
-    "added_date": "2026-07-01"
-  },
-  {
     "id": "d5239b1a",
     "title": "想和你看五月的晚霞",
     "artist": "陳華",
@@ -8024,126 +7882,6 @@
       "taiwan",
       "taiwanese",
       "mandopop"
-    ],
-    "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "24538d62",
-    "title": "你敢不敢",
-    "artist": "徐佳瑩",
-    "language": "中文",
-    "tags": [
-      "中文",
-      "流行",
-      "創作歌手",
-      "華語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/83/c3/fa/83c3fa1b-8143-672c-394e-2e47e2e2fffd/COVER_ALL-rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=HLibG1_lcTk",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "taiwan",
-      "pop",
-      "singer-songwriter",
-      "female vocalists",
-      "taiwanese"
-    ],
-    "is_practicing": false,
-    "play_count": 2,
-    "play_history": [
-      {
-        "date": "2026-07-16",
-        "url": "https://www.youtube.com/watch?v=1_qT3hdCtZk&t=7181s"
-      },
-      {
-        "date": "2026-06-21",
-        "url": "https://www.youtube.com/watch?v=1hYEY1beCf4&t=7738s"
-      }
-    ],
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "218c23e5",
-    "title": "Forever Young",
-    "artist": "艾怡良",
-    "language": "中文",
-    "tags": [
-      "中文",
-      "華語流行",
-      "流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d7/fe/95/d7fe95c6-c028-923c-4f17-5fd7f29a68f0/18UMGIM82132.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=rFj6azCUYrU",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "taiwanese",
-      "chinese",
-      "pop",
-      "taiwan",
-      "mandopop",
-      "female vocalists"
-    ],
-    "is_practicing": true,
-    "play_count": 0,
-    "play_history": [],
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "04477237",
-    "title": "想見你想見你想見你",
-    "artist": "八三夭",
-    "language": "中文",
-    "tags": [
-      "中文",
-      "華語流行",
-      "搖滾"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c9/95/65/c9956583-a1f8-f743-e890-259f78eef2c6/4710149675538.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=4iRupuNet3Q",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "chinese",
-      "china",
-      "male vocalists",
-      "c-pop",
-      "taiwan",
-      "all",
-      "rock"
-    ],
-    "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "366aca30",
-    "title": "浴室",
-    "artist": "deca joins",
-    "language": "中文",
-    "tags": [
-      "中文",
-      "獨立搖滾",
-      "華語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/bb/e9/79bbe9ba-5bb3-f295-40ac-71855cd50d6d/887375512181.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=KWlP4gHOvXo",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "chinese",
-      "china",
-      "c-pop",
-      "male vocalists",
-      "mandarin",
-      "taiwanese",
-      "taiwan",
-      "indie rock"
     ],
     "is_practicing": false,
     "play_count": 0,
@@ -8312,6 +8050,183 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "52e94fd5",
+    "title": "魚",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "華語流行",
+      "搖滾",
+      "獨立音樂",
+      "民謠"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/70/06/077006a5-18c5-0e56-0e0c-ba052672b07a/4719760090010_new.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=lpsAT-Ntaaw",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "c-pop",
+      "indie",
+      "folk",
+      "taiwan",
+      "rock"
+    ],
+    "is_practicing": false,
+    "play_count": 3,
+    "play_history": [
+      {
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=qU0oZnn4dYY&t=10009s"
+      },
+      {
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=8124s"
+      },
+      {
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=3JYxuT3_Myo&t=3552s"
+      }
+    ],
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "cac9df7d",
+    "title": "太陽",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/70/06/077006a5-18c5-0e56-0e0c-ba052672b07a/4719760090010_new.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=fRcqZqi56Ws",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-11-19",
+        "url": "https://www.youtube.com/watch?v=ZRdh_Urb1RA&t=1890s"
+      },
+      {
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=PlfNa0qAXt0&t=6670s"
+      }
+    ],
+    "added_date": "2026-11-18"
+  },
+  {
+    "id": "4a0aad8c",
+    "title": "太聰明",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "搖滾",
+      "獨立音樂",
+      "民謠"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/a2/21/3ca22123-14d6-57f4-9e52-aa4573a05b07/mzm.clkcarof.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=33rdx577PxY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "indie",
+      "folk",
+      "taiwan",
+      "indie pop",
+      "chinese",
+      "rock"
+    ],
+    "is_practicing": false,
+    "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=An6IhJX2d1A&t=12901s"
+      },
+      {
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=FjaI4TYJkYE&t=1835s&pp=0gcJCTEAlc8ueATH"
+      }
+    ],
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "83d1831c",
+    "title": "告訴我",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "搖滾",
+      "獨立音樂",
+      "民謠"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/e0/0e/ae/e00eaefb-5737-4833-69c9-93be29dc1c6d/mzm.nshgqvxy.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=mJsT0i95cAY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "indie",
+      "folk",
+      "taiwan",
+      "indie pop",
+      "chinese",
+      "rock"
+    ],
+    "is_practicing": false,
+    "play_count": 1,
+    "play_history": [
+      {
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=FjaI4TYJkYE&t=3312s"
+      }
+    ],
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "a9ace487",
+    "title": "旅行的意義",
+    "artist": "陳綺貞",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "搖滾",
+      "不插電",
+      "獨立音樂",
+      "民謠"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c5/c5/b9/c5c5b9a5-7b08-1579-950e-6ad69d8f105a/2005_9-_1400.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=tv95k0zqnaA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "acoustic",
+      "taiwan pop",
+      "indie",
+      "folk",
+      "taiwan",
+      "rock"
+    ],
+    "is_practicing": false,
+    "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=FjaI4TYJkYE&t=1452s&pp=0gcJCTEAlc8ueATH"
+      },
+      {
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=7520s"
+      }
+    ],
+    "added_date": "2026-07-01"
+  },
+  {
     "id": "38cb0fa8",
     "title": "南山南",
     "artist": "張磊",
@@ -8449,6 +8364,24 @@
       }
     ],
     "added_date": "2026-07-01"
+  },
+  {
+    "id": "41e4a294",
+    "title": "濕了分寸",
+    "artist": "謝震廷",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/47/27/49/47274990-5e23-87d1-5855-c2c49744b566/4894894738233.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=J3Xbj2sz9Qg",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-11-21"
   },
   {
     "id": "34c99bf8",
@@ -9011,6 +8944,42 @@
       {
         "date": "2026-06-25",
         "url": "https://www.youtube.com/watch?v=wO_BJx8yVlI&t=2516s"
+      }
+    ],
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "24538d62",
+    "title": "你敢不敢",
+    "artist": "徐佳瑩",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "創作歌手",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/83/c3/fa/83c3fa1b-8143-672c-394e-2e47e2e2fffd/COVER_ALL-rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=HLibG1_lcTk",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "taiwan",
+      "pop",
+      "singer-songwriter",
+      "female vocalists",
+      "taiwanese"
+    ],
+    "is_practicing": false,
+    "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=1_qT3hdCtZk&t=7181s"
+      },
+      {
+        "date": "2026-06-21",
+        "url": "https://www.youtube.com/watch?v=1hYEY1beCf4&t=7738s"
       }
     ],
     "added_date": "2026-07-01"
