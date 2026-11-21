@@ -6177,6 +6177,116 @@
     "added_date": "2026-07-01"
   },
   {
+    "id": "4e640f64",
+    "title": "我懷念的",
+    "artist": "孫燕姿",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行",
+      "抒情"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/39/8e/7d/398e7d64-1877-03ab-17cb-460943429bc0/825646246939.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=3Xj6QoLmoF0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "pop",
+      "female vocalists",
+      "c-pop",
+      "ballad",
+      "mandarin",
+      "chinese",
+      "singapore"
+    ],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "94ec7512",
+    "title": "半句再見",
+    "artist": "孫燕姿",
+    "language": "中文",
+    "tags": [
+      "中文"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/95/e7/86/95e78666-a9d7-c3cc-87cf-0a46d6d8c6aa/00602567574132.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=A78Hknx4lsA",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-11-18"
+  },
+  {
+    "id": "39ceb09a",
+    "title": "克卜勒",
+    "artist": "孫燕姿",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/81/dc/36/81dc3656-ae44-4641-7aa4-485e48fae68b/14UMGIM00262.rgb.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ppvqjPkQ0BY",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "pop",
+      "singapore",
+      "c-pop",
+      "female vocalists"
+    ],
+    "is_practicing": false,
+    "play_count": 0,
+    "play_history": [],
+    "added_date": "2026-07-01"
+  },
+  {
+    "id": "cec4dc7c",
+    "title": "天黑黑",
+    "artist": "孫燕姿",
+    "language": "中文",
+    "tags": [
+      "中文",
+      "流行",
+      "華語流行",
+      "抒情"
+    ],
+    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/cb/70/0bcb70e1-c991-261e-eb64-be53ca569d0b/dj.kzpfbjxe.jpg/300x300bb.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=zi8z6RPYGV0",
+    "note": "",
+    "has_checked_lastfm": true,
+    "raw_lastfm_tags": [
+      "chinese",
+      "pop",
+      "female vocalists",
+      "ballad",
+      "c-pop",
+      "singapore"
+    ],
+    "is_practicing": false,
+    "play_count": 2,
+    "play_history": [
+      {
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=S_aKRs68_LY&t=1334s"
+      },
+      {
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=Td7QEtpME5A&t=13110s"
+      }
+    ],
+    "added_date": "2026-07-01"
+  },
+  {
     "id": "efa70a0d",
     "title": "潛伏期",
     "artist": "孫盛希",
@@ -7655,116 +7765,6 @@
     "is_practicing": false,
     "play_count": 0,
     "play_history": [],
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "4e640f64",
-    "title": "我懷念的",
-    "artist": "孫燕姿",
-    "language": "中文",
-    "tags": [
-      "中文",
-      "流行",
-      "華語流行",
-      "抒情"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/39/8e/7d/398e7d64-1877-03ab-17cb-460943429bc0/825646246939.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=3Xj6QoLmoF0",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "pop",
-      "female vocalists",
-      "c-pop",
-      "ballad",
-      "mandarin",
-      "chinese",
-      "singapore"
-    ],
-    "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "94ec7512",
-    "title": "半句再見",
-    "artist": "孫燕姿",
-    "language": "中文",
-    "tags": [
-      "中文"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/95/e7/86/95e78666-a9d7-c3cc-87cf-0a46d6d8c6aa/00602567574132.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=A78Hknx4lsA",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [],
-    "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
-    "added_date": "2026-11-18"
-  },
-  {
-    "id": "39ceb09a",
-    "title": "克卜勒",
-    "artist": "孫燕姿",
-    "language": "中文",
-    "tags": [
-      "中文",
-      "流行",
-      "華語流行"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/81/dc/36/81dc3656-ae44-4641-7aa4-485e48fae68b/14UMGIM00262.rgb.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=ppvqjPkQ0BY",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "chinese",
-      "pop",
-      "singapore",
-      "c-pop",
-      "female vocalists"
-    ],
-    "is_practicing": false,
-    "play_count": 0,
-    "play_history": [],
-    "added_date": "2026-07-01"
-  },
-  {
-    "id": "cec4dc7c",
-    "title": "天黑黑",
-    "artist": "孫燕姿",
-    "language": "中文",
-    "tags": [
-      "中文",
-      "流行",
-      "華語流行",
-      "抒情"
-    ],
-    "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/cb/70/0bcb70e1-c991-261e-eb64-be53ca569d0b/dj.kzpfbjxe.jpg/300x300bb.jpg",
-    "youtube_url": "https://www.youtube.com/watch?v=zi8z6RPYGV0",
-    "note": "",
-    "has_checked_lastfm": true,
-    "raw_lastfm_tags": [
-      "chinese",
-      "pop",
-      "female vocalists",
-      "ballad",
-      "c-pop",
-      "singapore"
-    ],
-    "is_practicing": false,
-    "play_count": 2,
-    "play_history": [
-      {
-        "date": "2026-07-13",
-        "url": "https://www.youtube.com/watch?v=S_aKRs68_LY&t=1334s"
-      },
-      {
-        "date": "2026-04-22",
-        "url": "https://www.youtube.com/watch?v=Td7QEtpME5A&t=13110s"
-      }
-    ],
     "added_date": "2026-07-01"
   },
   {
